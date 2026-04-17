@@ -3,20 +3,9 @@
   "documentName": "Trattato De la arte di ballare et danzare di Domenico da Piacenza",
   "iiifManifest": "/domenico/domenico/iiif/manifest.json",
   "transcriptionTypes": {
-    "_01r-1v_trans_nue":"_01r-1v_trans_nue",
-    "_02r-04r_trans_nue":"_02r-04r_trans_nue",
-    "_04v_trans_nue":"_04v_trans_nue",
-    "_05r-07r_trans_nue":"_05r-07r_trans_nue",
-    "_07v-8v-Belrig_trans_nue":"_07v-8v-Belrig_trans_nue",
-    "_09v-10r_Lionze_trans_nue":"_09v-10r_Lionze_trans_nue",
-    "_10v-11v_Ingra_Gilo_trans_nue":"_10v-11v_Ingra_Gilo_trans_nue",
-    "_12r-12v_Pizo_trans_nue":"_12r-12v_Pizo_trans_nue",
-    "_13r-15r_Verce_Preso_trans_nue":"_13r-15r_Verce_Preso_trans_nue",
-    "_15-v_Belfi_trans_nue":"_15-v_Belfi_trans_nue",
-    "_16v-17r_Anell_Marches_trans_nue":"_16v-17r_Anell_Marches_trans_nue",
-    "_17v-18v_Iupit_trans_nue":"_17v-18v_Iupit_trans_nue",
-    "_19r-20v_fiaguilmen1_2_trans_nue":"_19r-20v_fiaguilmen1_2_trans_nue",
-    "_21r-28r_trans_nue":"_21r-28r_trans_nue"
+    "Transcription":"transcription_01",
+    "Resource-1":"resource-1",
+    "_04v_trans_nue":"_04v_trans_nue"
   },
   "viewerUrl": "/domenico"
 }
