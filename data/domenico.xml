@@ -2034,7 +2034,7 @@
 		</surface>
 	</sourceDoc>
 	<text xml:id="resource-1">
-		<body>
+		<body><div>
 			<p>De arte saltandi &amp; choreas ducendi.</p>
 			<p>De la arte di ballare et danzare[1].</p>
 			<p/>
@@ -3732,7 +3732,7 @@
 			<p/>
 			<p/>
 			<p/>
-		</body>
+		</div></body>
 	</text>
 	<sourceDoc xml:id="_04v_trans_nue">
 		<surface>
