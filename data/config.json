@@ -3,7 +3,8 @@
   "documentName": "Trattato De la arte di ballare et danzare di Domenico da Piacenza",
   "iiifManifest": "/domenico/domenico/iiif/manifest.json",
   "transcriptionTypes": {
-    "Transcription":"transcription_01"
+    "Transcription":"transcription_01",
+    "trans_02_f_1":"trans_02_f.1"
   },
   "viewerUrl": "/domenico"
 }
