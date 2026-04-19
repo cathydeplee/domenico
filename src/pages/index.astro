@@ -1,20 +1,184 @@
 ---
 import config from "../../data/config.json";
 import EditionCrafter from "@cu-mkp/editioncrafter";
-import Navbar from "../components/Navbar.astro";
 import { getUrl } from "../util/path";
 ---
 
 <html>
-  <link rel="icon" type="image/x-icon" href=`${getUrl('ec_logo.svg')}` />
-  <title>EditionCrafter</title>
+  <head>
+    <link rel="icon" type="image/x-icon" href=`${getUrl('ec_logo.svg')}` />
+    <title>De la source à la danse</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Martel:wght@200;300;400;600;700;800;900&display=swap" rel="stylesheet">
+  </head>
   <body>
-    <Navbar />
+    <!-- Top Nav Bar -->
+    <div class="top-nav">
+      <div class="top-nav-container">
+        <a class="nav-logo" href="https://editioncrafter.org">
+          <img src=`${getUrl('ec_logo.svg')}` alt="EditionCrafter" width="134" height="74" loading="lazy" decoding="async">
+          <p class="nav-logo-text font-serif">Edition Crafter</p>
+        </a>
+        <div class="nav-links">
+          <a href="https://github.com/cathydeplee/domenico" style="text-decoration: none;">
+            <button class="github-button">
+              View on GitHub &rarr;
+            </button>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Header Box -->
+    <div class="bg-neutral">
+      <div class="header-container">
+        <div>
+          <h1 class="font-serif project-title">De la source à la danse</h1>
+          <h2 class="project-subtitle">Domenico da Piacenza's dance treatise edition and reenactment project</h2>
+        </div>
+      </div>
+    </div>
+
+    <!-- Project Description Box -->
+    <div class="bg-white">
+      <div class="description-container">
+        <p class="leading-loose font-light project-desc-text">
+          Ce projet propose une édition numérique ouverte et vivante du premier traité de danse occidental (Bnf ms. ital 972, c. 1455) dû à Domenico da Piacenza ainsi que sa traduction française. Ce travail actuellement in progress offrira, dans sa phase finale, la possibilité de lire facilement et de visualiser, grâce à des vidéo, cette source majeure de la danse dite savante. Il est le fruit de plusieurs années de recherche collective soutenu par l'université Côte d'Azur.
+        </p>
+      </div>
+    </div>
+
     <EditionCrafter {...config} client:only="react" />
   </body>
 </html>
 <style>
   body {
     margin: 0;
+    font-family: "DM Sans", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    color: #1a202c;
+  }
+  .bg-neutral {
+    background-color: rgb(249, 244, 239);
+    width: 100%;
+  }
+  .bg-white {
+    background-color: #ffffff;
+    width: 100%;
+  }
+  .font-serif {
+    font-family: "Martel", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  }
+  .font-light {
+    font-weight: 300;
+  }
+  .leading-loose {
+    line-height: 2;
+  }
+
+  /* Top Nav Styling */
+  .top-nav {
+    width: 100%;
+    background-color: #ffffff;
+  }
+  .top-nav-container {
+    padding: 2rem 1.5rem;
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  @media (min-width: 768px) {
+    .top-nav-container { padding: 2rem 4rem; }
+  }
+  @media (min-width: 1280px) {
+    .top-nav-container { padding: 2rem 6rem; }
+  }
+  .nav-logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1.5rem;
+    text-decoration: none;
+    color: inherit;
+  }
+  .nav-logo-text {
+    font-size: 1.5rem;
+    max-width: 7rem;
+    margin: 0;
+  }
+  .nav-links {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    align-items: center;
+  }
+  .github-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 9999px;
+    padding: 0.75rem 1.5rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    background-color: #1a202c;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .github-button:hover {
+    background-color: #4a5568;
+  }
+
+  /* Header Box Styling */
+  .header-container {
+    padding: 0 1.5rem;
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    gap: 4rem;
+    align-items: center;
+  }
+  @media (min-width: 768px) {
+    .header-container { padding: 0 4rem; }
+  }
+  @media (min-width: 1280px) {
+    .header-container { padding: 0 6rem; }
+  }
+  .project-title {
+    font-size: 3rem;
+    padding: 4rem 0 0.5rem 0;
+    margin: 0;
+    font-weight: normal;
+  }
+  .project-subtitle {
+    font-size: 2rem;
+    font-weight: 400;
+    margin: 0 0 4rem 0;
+    color: #4a5568;
+  }
+
+  /* Description Box Styling */
+  .description-container {
+    padding: 3rem 1.5rem;
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+  @media (min-width: 768px) {
+    .description-container { padding: 3rem 4rem; }
+  }
+  @media (min-width: 1280px) {
+    .description-container { padding: 3rem 6rem; }
+  }
+  .project-desc-text {
+    margin: 0;
+    font-size: 1rem;
   }
 </style>
