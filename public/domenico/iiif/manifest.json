@@ -302,7 +302,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cathydeplee.github.io/domenico/domenico/tei/transcription_01/f006.xml",
+								"id": "https://cathydeplee.github.io/domenico/domenico/tei/trans_02_f.1/f006.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -312,6 +312,32 @@
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
 							"id": "https://cathydeplee.github.io/domenico/domenico/iiif/canvas/f006/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://cathydeplee.github.io/domenico/domenico/tei/transcription_01/f006.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://cathydeplee.github.io/domenico/domenico/iiif/canvas/f006"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://cathydeplee.github.io/domenico/domenico/iiif/canvas/f006/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://cathydeplee.github.io/domenico/domenico/html/trans_02_f.1/f006.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://cathydeplee.github.io/domenico/domenico/iiif/canvas/f006"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://cathydeplee.github.io/domenico/domenico/iiif/canvas/f006/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
@@ -376,7 +402,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cathydeplee.github.io/domenico/domenico/tei/transcription_01/f007.xml",
+								"id": "https://cathydeplee.github.io/domenico/domenico/tei/trans_02_f.1/f007.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -386,6 +412,32 @@
 						{
 							"@context": "https://www.w3.org/ns/anno.jsonld",
 							"id": "https://cathydeplee.github.io/domenico/domenico/iiif/canvas/f007/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://cathydeplee.github.io/domenico/domenico/tei/transcription_01/f007.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://cathydeplee.github.io/domenico/domenico/iiif/canvas/f007"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://cathydeplee.github.io/domenico/domenico/iiif/canvas/f007/annotationPage/1/annotation/2",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://cathydeplee.github.io/domenico/domenico/html/trans_02_f.1/f007.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://cathydeplee.github.io/domenico/domenico/iiif/canvas/f007"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://cathydeplee.github.io/domenico/domenico/iiif/canvas/f007/annotationPage/1/annotation/3",
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
