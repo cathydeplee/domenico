@@ -13,3 +13,8 @@ See [INSTALL.md](INSTALL.md) for installation instructions.
 ## Credits
 
 EditionCrafter was developed by the [Making and Knowing Project](https://www.makingandknowing.org/) at the Center for Science and Society at Columbia University and [Performant Software Solutions LLC](https://www.performantsoftware.com). Funded by Grant SES-2218218 from the National Science Foundation.
+
+## License
+
+* **Software/Code**: The EditionCrafter software and source code in this repository are licensed under the **MIT License**.
+* **Texts, Translations, and TEI data**: The manuscript texts, translations, TEI XML files, and any associated research data are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). Attribution should be credited to Cathy De Plée.
