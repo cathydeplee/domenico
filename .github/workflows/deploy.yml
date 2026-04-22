@@ -20,6 +20,10 @@ jobs:
     steps:
       - name: Checkout your repository using git
         uses: actions/checkout@v6
+      - name: Install editioncrafter-cli
+        run: npm install -g @cu-mkp/editioncrafter-cli@latest
+      - name: Generate editioncrafter files
+        run: editioncrafter process -i data/domenico.xml -o public -u https://cathydeplee.github.io/domenico
       - name: Install, build, and upload your site
         uses: withastro/action@v6
         with:
