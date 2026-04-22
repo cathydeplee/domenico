@@ -1,6 +1,6 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="trans_02_f.1"><body><div><p><pb facs="#f007"/>
 				</p>
-				<p>questa arte zentille havere in sé buntade per<note>Ms: p(er) add. sublinéaire de main gothique à l'encre plus foncée; première et dernière lettre de natura retouchées de même. </note> natura e molte<note>Procopio: "molto"</note> per azidenzia<note>correction sur effacement illisible. Smith: "erzadergia"; Casazza: "eczidenzia"</note></p>
+				<p>questa arte zentille havere in sé buntade per<note target="#note_f2_01" xml:id="note_f2_01">Ms: p(er) add. sublinéaire de main gothique à l'encre plus foncée; première et dernière lettre de natura retouchées de même.</note> natura e molte<note target="#note_f2_02" xml:id="note_f2_02">Procopio: "molto"</note> per azidenzia<note target="#note_f2_03" xml:id="note_f2_03">correction sur effacement illisible. Smith: "erzadergia"; Casazza: "eczidenzia"</note></p>
 				<p>in sua operatione.</p>
 				<p/>
 				<p>2. [N]ota che niuna creatura creata che habia in sé de natura man-</p>
@@ -9,7 +9,7 @@
 				<p>questo che operandose seria frust[r]a. Adomque li bisogna prosperità</p>
 				<p>de fortuna che è beleza, imperò dice el proverbio : chi Idio fece</p>
 				<p>bello non fece tutto povero. Adomque bisogna che la natura</p>
-				<p>habia adoptado* e scolpido lo operante* de questo mestiero* da li</p>
+				<p>habia adoptado* e scolpido lo operante de questo mestiero* da li</p>
 				<p>pedi fino a lo capo, digando però questa belleza non satisfare la</p>
 				<p>virtù de questa zentile arte.</p>
 				<p/>
@@ -28,10 +28,13 @@
 				<p>tade che pari una gondola che da dui rimi spinta sia per quelle</p>
 				<p>undicelle quando el mare fa quieta segondo sua natura,</p>
 				<p>alçando le dicte undicelle cum tardeza e asbasan-</p>
-				<p>dosse cum presteza, sempre operando el fondamento</p>
+				<p>dosse cum <ref target="#note01test">presteza</ref>, sempre operando el fondamento</p>
 				<p>de la causa, cioè mexura, la qualle è tardeza</p>
 				<p>ricoperada cum presteza.</p>
-				<p/>
+				<p>
+					<note xml:id="note01test">test1</note>
+					<note xml:id="note02">test02</note>
+				</p>
 			</div>
 		</body>
 	</text>

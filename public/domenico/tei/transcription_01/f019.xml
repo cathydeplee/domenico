@@ -1,6 +1,7 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" facs="#f019">
-			<line>Belreguardo im ballo, cioè uno homo e una dona.</line>
-			<line>[I]mprima fano tempi XI de saltarello et afermase façando</line>
+			<line rend="indent"/>
+			<line rend="indent">Belreguardo im ballo, cioè uno homo e una dona.</line>
+			<line rend="indent">[I]mprima fano tempi XI de saltarello et afermase façando</line>
 			<line>dupei quatro de bassadanza inseme, comenzando al pede sinistro</line>
 			<line>e fazando fine al drito, e poi fano dupii tri suso el pede sinistro</line>
 			<line>finiando suso dicto pede, e poi sempii dui comenzando cum lo pede</line>
