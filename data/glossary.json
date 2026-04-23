@@ -1,0 +1,71 @@
+{
+   "title": "",
+   "citation": "",
+   "entries": {
+      "Belriguardo": {
+         "headWord": "Belriguardo",
+         "alternateSpellings": "",
+         "meanings": [
+            {
+               "partOfSpeech": "",
+               "meaning": "nom d'une composition musicale et de deux balli de Domenico, en référence à l'une des demeures de plaisance, éponyme, des Este, dans la campagne ferraraise, où Lionel mourut en 1450, et qui connut des rénovations importantes dans les années 1440.",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "cambiamento": {
+         "headWord": "cambiamento",
+         "alternateSpellings": "scambiamento,cambiamenti,scambiamenti",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "changement (de pied): un des trois mouvements accidentels relevés par Domenico qui se fait sur ¼ de temps (à raison de maximum un par temps) et donne de la variété aux mouvements naturels. Il consiste à changer rapidement d'apui, à la fin ou au début d'un double ou d'un simple, pour repartir du même pied. Le cambiamento n’est à employer que dans la mesure bassadanza probablement en raison de son rythme lent. \nNéanmoins, bien que non nommés comme tels, d'autres combinaisons de mouvements révèlent des pratiques de changements de pieds danse le manuscrit.",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "canto": {
+         "headWord": "canto",
+         "alternateSpellings": "",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "côté: utilisé pour signifier de quel côté un danseur effectue un mouvement soit par rapport à lui même (ex: tourner sur le côté droit) soit par rapport aux autres (passer sur le côté droit de x.). Syn.: lato",
+               "references": ""
+            },
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "chant, air, musique",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "dopio": {
+         "headWord": "dopio",
+         "alternateSpellings": "doppio,dopi,doppi,dopedo",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "double: un des neuf mouvements naturels définis par Domenico. Consiste en l'enchainement de deux simples sur le même pied (=redoublement d'un simple) avec donc un changement d'appui entre les deux, ce qui fait trois pas, le second étant plus court (en temps et en espace). En général il est précisé de quel pied commence le doppio (un doppio sul/cum/commenzando con lo pede sinistro/dretto). Peut se faire sur toutes les mesures. \nIl prend une unité de temps. Syn: parfois on parle de \"tempo di bassadanza\" pour signifier le mouvement (et nom le temps) du double sur la mesure de bassadanza.",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "tempo di bassadanza",
+         "seeAlso": ""
+      }
+   }
+}

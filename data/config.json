@@ -6,5 +6,6 @@
     "transcription_01":"Transcription",
     "trans_02_f.1":"trans_02_f.1"
   },
-  "viewerUrl": "/domenico"
+  "viewerUrl": "/domenico",
+  "glossaryURL": "https://cathydeplee.github.io/domenico/glossary.json"
 }

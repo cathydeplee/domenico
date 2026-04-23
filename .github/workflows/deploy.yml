@@ -24,6 +24,8 @@ jobs:
         run: npm install -g @cu-mkp/editioncrafter-cli@latest
       - name: Generate editioncrafter files
         run: editioncrafter process -i data/domenico.xml -o public -u https://cathydeplee.github.io/domenico
+      - name: Copy glossary file to public directory
+        run: cp data/glossary.json public/glossary.json
       - name: Install, build, and upload your site
         uses: withastro/action@v6
         with:
