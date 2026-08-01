@@ -356,7 +356,7 @@
 			<line>fondamento de questo si è mexura, la quale mexura <del>è</del> tutte preste-</line>
 			<line>ze e tardeze segondo muxica. Oltra di questo è neccessario havere</line>
 			<line>una grande e perfonda memoria, la quale è texorera de tutti li</line>
-			<line>motti corporali naturali e accidentali <unclear>che</unclear> apertene a tutti li operanti</line>
+			<line>motti corporali naturali e accidentali <add place="overleaf">che</add> apertene a tutti li operanti</line>
 			<line>segondo la forma de la compositione de le danze. Et nota che oltra</line>
 			<line>a tutte queste cosse è bisogno havere una grandissima e zentile azi-</line>
 			<line>litade e mainera corporea. E nota che questa agilitade e mainera</line>
@@ -2075,7 +2075,7 @@
 				<p>questa arte zentille havere in sé buntade <add place="above">per</add><note target="#note_f2_01" xml:id="note_f2_01">Ms: p(er) add. sublinéaire de main gothique à l'encre plus foncée; première et dernière lettre de natura retouchées de même.</note> natura e molte<note target="#note_f2_02" xml:id="note_f2_02">Procopio: "molto"</note> per azidenzia<note target="#note_f2_03" xml:id="note_f2_03">correction de main gothique sur effacement illisible. Smith: "erzadergia"; Casazza: "eczidenzia"</note></p>
 				<p>in sua operatione.</p>
 				<p/>
-				<p>2<note xml:id="note_f01v_a">Numéro de paragraphe original en marge de gauche</note>. <supplied>N</supplied>ota<note xml:id="note_26a145b309864ce886cd7a684cbd51b8">Ajout du N à l'initiale (initiale d'attente ommise ici); Ms. Au-dessus du <hi rend="italic">O</hi>, première moitié d'un autre <hi rend="italic">O</hi>, le copiste ayant probablement oublié le saut de ligne.</note> che niuna creatura creata che habia in sé de natura man-</p>
+				<p>2.<note xml:id="note_f01v_a">Numéro de paragraphe original en marge de gauche</note> <supplied>N</supplied>ota<note xml:id="note_26a145b309864ce886cd7a684cbd51b8">Ajout du N à l'initiale (initiale d'attente ommise ici); Ms. Au-dessus du O première moitié d'un autre O, le copiste ayant probablement oublié le saut de ligne.</note> che niuna creatura creata che habia in sé de natura man-</p>
 				<p>camento, de questo motto zentille capace sia, digando lui che</p>
 				<p>zopi, gobi, guerci de tutti li ministerii aprensivi sono, salvo <ref target="note_d80b305461dc463cbb8c998c2a6877d3"><supplied>che</supplied></ref><note xml:id="note_d80b305461dc463cbb8c998c2a6877d3">Ms. che effacé à tort (mais lisible) ; rétabli par par Procopio.</note> de</p>
 				<p>questo che operandose seria frusta. Adomque li bisogna prosperità</p>
@@ -2085,18 +2085,18 @@
 				<p>pedi fino a lo capo, digando però questa belleza non satisfare la</p>
 				<p>virtù de questa zentile arte.</p>
 				<p/>
-				<p>3. [N]ota per Dio e non esser ingnorante de lo intelecto da Dio datto,</p>
+				<p>3. <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_f01v_b">Ajout éditorial du N. Initiale d'attente ommise ici. </note> per Dio e non esser ingnorante de lo intelecto da Dio datto,</p>
 				<p>che oltra sii adoptado per natura de beleza, vogliando ti imparare</p>
 				<p>e cavare el constructo de questo zentille mestiero, lui dice che el</p>
-				<p>fondamento de questo si è mexura, la quale mexura <supplied reason="deleted">è</supplied><note>Supprimé (mais lisible) sans doute à tort, la même construction se retrouve à la fin de ce même paragraphe.</note> tutte preste-</p>
+				<p>fondamento de questo si è mexura, la quale mexura <supplied reason="deleted">è</supplied><note xml:id="note_f01v_c">Supprimé (mais lisible) sans doute à tort, la même construction se retrouve à la fin de ce même paragraphe. Omis par Procopio. </note> tutte preste-</p>
 				<p>ze e tardeze segondo muxica. Oltra di questo è neccessario havere</p>
 				<p>una grande e perfonda memoria, la quale è texorera de tutti li</p>
-				<p>motti corporali naturali* e accidentali* che<note>Ms. Corr. par surcharge (de main gothique et d'une encre plus foncée) du <hi rend="italic">et</hi> en <hi rend="italic">che</hi> dans une forme erronée (hc pour ch) avec un tilde. La conjonction et étant aussi correcte. La correction vise soit à éviter l'ambiguité syntaxique de deux conjonctions trop rapprochées, soit de rattacher le verbe à texorera plutôt qu'à memoria. (Tr. Procopio: <hi rend="italic">hec</hi>)</note> apertene a tutti li operanti</p>
+				<p>motti corporali naturali e accidentali <corr>che</corr><note xml:id="note_f01v_d">Ms. Corr. par surcharge (de main gothique et d'une encre plus foncée) du <hi rend="italic">et</hi> en <hi rend="italic">che</hi> dans une forme erronée (hc pour ch) avec un tilde. La conjonction et étant aussi correcte. La correction vise soit à éviter l'ambiguité syntaxique de deux conjonctions trop rapprochées, soit de rattacher le verbe à texore plutôt qu'à memoria</note> apertene a tutti li operanti</p>
 				<p>segondo la forma de la compositione de le danze. Et nota che oltra</p>
 				<p>a tutte queste cosse è bisogno havere una grandissima e zentile azi-</p>
-				<p>litade e mainera* corporea. E nota che questa agilitade e mainera</p>
+				<p>litade e mainera corporea. E nota che questa agilitade e mainera</p>
 				<p>per niuno modo vole esser adoperata per li estremi, ma tenire el mezo</p>
-				<p>del tuo movimento* che non sia ni tropo ni poco, ma cum tanta suavi-</p>
+				<p>del tuo movimento che non sia ni tropo ni poco, <add place="above"><ref>ma</ref></add><note xml:id="note_f01v_19">Ms. ma add. interl. de main gothique, encre plus foncée. Le mot n’est pas indispensable à la syntaxe.</note> cum tanta suavi-</p>
 				<p>tade che pari una gondola che da dui rimi spinta sia per quelle</p>
 				<p>undicelle quando el mare fa quieta segondo sua natura,</p>
 				<p>
@@ -2104,7 +2104,7 @@
 				</p>
 				<p>dosse cum presteza, sempre operando el fondamento</p>
 				<p>de la causa, cioè mexura, la qualle è tardeza</p>
-				<p>ricoperada cum presteza<note xml:id="note_dfbc12887a8d4217873e08f290d4c9a6"/>.</p>
+				<p>ricoperada cum presteza<note xml:id="note_dfbc12887a8d4217873e08f290d4c9a6">Dans cette dernière phrase on remarque un espacement progressif des mots et l'allongement des dernières lettres qui laisse penser à une imitation par l'écriture de l'image véhiculée par le texte</note>.</p>
 				<p/>
 			</div>
 			<div>
