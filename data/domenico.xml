@@ -394,7 +394,7 @@
 			<line>cum l’altro porzendose aiuto fa<add place="below">ç</add>ando fine a le dançe secondo lo esser suo.</line>
 			<line/>
 			<line/>
-			<line><add place="margin left">7</add>. <add place="margin left">o</add>R nocta che voiando provare che questo misterio è virtude per</line>
+			<line><add place="margin left">7</add><add place="margin">°</add> <add place="margin left">o</add>R nocta che voiando provare che questo misterio è virtude per</line>
 			<line>acidentia, el savio Aristotele dice in lo X° che in tutte le cosse è</line>
 			<line>alcuna buntade naturalmente, e intel dilecto è alcuno bene</line>
 			<line>adomque fuçando li extremi e malitia donque, è questa virtù; façando</line>
@@ -2127,33 +2127,35 @@
 				<p>cioè operando mexura, memoria, mainera cum mexura de</p>
 				<p>terreno e d’aiare.</p>
 				<p/>
-				<p>6  Apresso<note xml:id="note_f2r_a">Initiale d'attente "a" en marge de gauche.</note> è neccessario a ti<note xml:id="note_f2r_b">Ms. Suivi de galante gratté systématiquement dans le ms sauf au f.2v par négligence</note>, operando questa causa,</p>
+				<p><add place="margin">6</add><note xml:id="note_f2r_c">numéro 6 placé en marge, sans le petit o abrégé en exposant</note>  Apresso<note xml:id="note_f2r_a">Initiale d'attente "a" en marge de gauche.</note> è neccessario a ti<note xml:id="note_f2r_b">Ms. Suivi de galante gratté systématiquement dans le ms sauf au f.2v par négligence</note>, operando questa causa,</p>
 				<p>che segondo motto, sii buono per ti e per altri, cioè che concordantia de terreno<note xml:id="note_f2r_8">Ms. terre abrégé par tilde, ensuite complété par no débordant en marge, d’une encre plus foncée.</note></p>
 				<p>ge sia, che sempre ve retroviati segondo lo esser composito, cioè l’uno</p>
 				<p>cum l’altro porzendose aiuto façando<note xml:id="note_f2r6_9">Ms. cédille ajoutée d’une encre plus foncée.</note> fine a le dançe secondo lo esser suo.</p>
 				<p/>
-				<p>7° Or<note>O initiale d'attente en marge de gauche</note> nota<note>Ms. nocta</note> che voiando provare che questo misterio è virtude* per</p>
-				<p>acidentia*, el savio Aristot<expan>e</expan>le dice in lo X° che in tutte le cosse è</p>
+				<p><add place="margin">7°</add> Or<note xml:id="note_f2r7_a">O initiale d'attente en marge de gauche</note> nota<note xml:id="note_f2r7_11">Ms. nocta</note> che voiando provare che questo misterio è virtude per</p>
+				<p>acidentia, el savio Aristot<expan>e</expan>le dice in lo X° che in tutte le cosse è</p>
 				<p>alcuna buntade* naturalmente, e intel dilecto è alcuno bene</p>
 				<p>adomque fuçando li extremi e malitia donque, è questa virtù; façando</p>
-				<p>ricordo che Aristot[e]le in lo 2° lauda l’eutrapelia<note>Ms. lautrope(l)ia avec l en add. interlinéaire. Smith, Bianchi : la utropeia. Wilson: lautropelia.</note>* laquale del mezo</p>
+				<p>ricordo che Aristot[e]le in lo 2° lauda l’eutrapelia<note xml:id="note_f2r7_13">Ms. lautrope(l)ia avec l en add. interlinéaire. Smith, Bianchi : la utropeia. Wilson: lautropelia.</note> laquale del mezo</p>
 				<p>tene la virtù fuçando li estremi de lo forstiero campestre e</p>
-				<p>di quello che è giugolatore e <sic>ministro</sic><note>Possiblement <hi rend="italic">menestrello </hi>(ou une forme ancienne du terme)</note>; operando questo dilecto</p>
+				<p>di quello che è giugolatore e <sic>ministro</sic><note xml:id="note_f2r7_12">Possiblement "menestrello" (ou une forme ancienne du terme)</note>; operando questo dilecto</p>
+				<p/>
 			</div>
 			<div>
 				<p>
 					<pb facs="#f009"/>
 				</p>
 				<p>per fugire tristeza e molesta<note>Procopio: molestia</note>, domque è virtù. Ma non sapiamo noi che</p>
-				<p>la mexura è parte de prudentia et è ne le arte liberale*? No sa-</p>
+				<p>la mexura è parte de prudentia et è ne le arte liberale? No sa-</p>
 				<p>piamo che la memoria è madre de la prudentia la quale se aquista</p>
 				<p>per lunga experientia? No sapiamo che questa virtù è parte de armo-</p>
 				<p>nia e de muxicha ? Ricordando el savio Aristo<expan cert="high">t</expan><supplied><expan cert="high">e</expan></supplied><expan cert="high">le</expan> nel primo che</p>
 				<p>a li principi e monarchi è licito havere suoi piaciri conveniveli</p>
 				<p>e condecenti. Concludando la operatione del motto, operandolo</p>
 				<p>a bono fine, esser çentile, pelegrino e nobele, havuto rispecto</p>
-				<p>che de molte parte è adoptato; e <add place="overleaf"><del>per</del></add><note>Ms. p(er) abrégé, en partie gratté, récrit en add. interlinéaire, plus petit mais d’apparence gothique et d’une encre plus foncée</note>la mediocritade da te</p>
+				<p>che de molte parte è adoptato; e <add place="overleaf"><del>per</del></add><note xml:id="note_f2r7_14">Ms. p(er) abrégé, en partie gratté, récrit en add. interlinéaire, plus petit mais d’apparence gothique et d’une encre plus foncée</note>la mediocritade da te</p>
 				<p>galante<note>Seul endroit du ms où le terme n'a pas été effacé, sans doute par négligence.</note> sia conducta questa virtù singulare.</p>
+				<p/>
 				<p/>
 				<p>8. Or<note>Initiale d'attente en marge de gauche</note> nota che per satisfare a ti<note>Suivi de galante effacé, comme dans le reste du ms, sauf</note> lo esser de questo moto,</p>
 				<p>lui dice che dodice motti* sono in l'operare de questa arte*, de li</p>
