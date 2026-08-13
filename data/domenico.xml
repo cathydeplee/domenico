@@ -540,43 +540,43 @@
 			<line/>
 		</surface>
 		<surface facs="#f013">
-			<line>Ca - po</line>
+			<line>Ca <q>-</q> po</line>
 			<line/>
 			<line>Io sono bassadança de le me - sure regina, e merito de portare</line>
-			<line>corona. Et in l'operare de mi - poche genti hano ragione. E chi</line>
-			<line>in dançare o in sonare ben - di me s'adopra, força che da li cieli</line>
+			<line>corona; et in l'operare de mi - poche genti hano ragione; e chi</line>
+			<line>in dançare <del>l</del>o in sonare ben - di me s'adopra, força che da li cieli</line>
 			<line>sia data l'opra.</line>
 			<line/>
 			<line/>
-			<line>Sex - to</line>
+			<line>Sex<q> -</q> to</line>
 			<line>Io son misura quadernaria per nome chiamata, e se gli</line>
 			<line>sonatori mi fano ragione lor retroverano che per compartitione</line>
-			<line>uno sexto callo da la mia re gina. E s'el sonatore bono bene</line>
-			<line>di me se voglia regere de la bas sadança e del saltarello tengo il mezo.</line>
+			<line>uno sexto callo da la mia re - gina; e s'el sonatore bono bene</line>
+			<line>di me se voglia regere de la bas - sadança e del saltarello tengo il mezo.</line>
 			<line/>
 			<line/>
-			<line>Ter - ço</line>
+			<line>Ter <q>-</q> ço</line>
 			<line>Io sono saltarello chiamato - passo brabante che dui sexti callo</line>
-			<line>da la bassadanza e se gli sona - tori prudenti mi vogliono com</line>
-			<line>partire retroverano che tengo - il meço de la misura quaderna</line>
+			<line>da la bassadanza e se gli sona - tori prudenti mi vogliono com-</line>
+			<line>partire retroverano che tengo - il meço de la misura quaderna-</line>
 			<line>ria e della piva.</line>
 			<line/>
 			<line/>
-			<line>Me - zo</line>
+			<line>Me<q> -</q> zo</line>
 			<line>Io sono piva per nome chia - mata e de le misure son</line>
 			<line>la piu trista perche da gli - villani sono adoperata, e per mia</line>
 			<line>presteça tanto me faccio inan - çi che tengo el meço de la bassadança</line>
 			<line/>
 			<line/>
-			<line>Ter - ço</line>
+			<line>Ter <q>- </q>ço</line>
 			<line>Salta - rello</line>
 			<line/>
 			<line/>
-			<line>Sex - to</line>
+			<line>Sex <q>-</q> to</line>
 			<line>Quader - naria</line>
 			<line/>
 			<line/>
-			<line>Ca - po</line>
+			<line>Ca <q>-</q> po</line>
 			<line>Bassa - dança</line>
 			<line/>
 		</surface>
@@ -2251,7 +2251,7 @@
 				<p>quadernaria, la quale è de minore imperfecto, è lo contrario, che</p>
 				<p>tu principii el suo tempo in lo pieno e compisilo in lo vuodo; e</p>
 				<p>provetello. Nota, ti sonatore, quando comenci a sonare una</p>
-				<p>mesura de bassedanza, sempre comenza el sovrano più tosto che<note xml:id="note_f3v11_17">Ms. "che" répété au début du feuillet suivant</note></p>
+				<p>mesura de bassedanza, sempre comenza el sovrano più tosto che<note xml:id="note_f3v11_17">Ms. "che" répété au début du feuillet suivant, supprimé ici.</note></p>
 				<p/>
 				<p/>
 			</div>
@@ -2269,8 +2269,8 @@
 				<p>più larga como è dicto disopra, li poi mettere le botte del tenore</p>
 				<p>como te pare e piace, purché tengi mexura. E tu dançadore, nota</p>
 				<p>che quando voi comenzare una bassadanza sempre fai uno movimen-</p>
-				<p>to*in suso in lo tuo esser, inanti che lo passo façi la prompta del pede.</p>
-				<p>Quello movimento si è ’l vuodo e lo passo cum la prompta* de lo</p>
+				<p>to in suso in lo tuo esser, inanti che lo passo façi la prompta del pede.</p>
+				<p>Quello movimento si è ’l vuodo e lo passo cum la prompta de lo</p>
 				<p>pede si è lo pieno. E in la quadernaria è lo contrario, che tu</p>
 				<p>recomenci cum lo passo promptando lo tuo pede, e questo è lo pieno,</p>
 				<p>l'altro passo che siegue è lo vuodo. Questa è la differentia del</p>
@@ -2280,7 +2280,7 @@
 				<p>el suo tempo in lo vuodo como la bassadanza. E de mazore</p>
 				<p>perfecto, ma li è differentia de distantia, como è dicto disopra, è</p>
 				<p>più strecto uno terzo da la bassadanza, e da la quadernaria uno se-</p>
-				<p>sto. E nota che la piva, ch'è de menore<del> im</del>perfecto<note xml:id="note_f4r21">Ms. perfecto corr. sur imperfecto par exponctuation du préfixe.</note>, <corr evidence="conjecture">ha</corr><note xml:id="note_f4r22">Ms. "è" : probable erreur, le verbe avoir correspond mieux à la construction grammaticale de la phrase</note> el suo nasci-</p>
+				<p>sto. E nota che la piva, ch'è de menore<del> im</del>perfecto<note xml:id="note_f4r21">"im" souligné en pointillé pour signaler une erreur (avec hésitation?). Il est dit plus haut en effet que la piva est mineure parfaite</note>, <corr evidence="conjecture">ha</corr><note xml:id="note_f4r22">Ms. "è" : probable erreur, le verbe avoir correspond mieux à la construction grammaticale de la phrase</note> el suo nasci-</p>
 				<p>mento de la quadernaria, perché se comenza el suo motto del tempo</p>
 				<p>in lo pieno como la quadernaria; ma li è differentia de distan-</p>
 				<p>tia, che questa mexura dicta piva cala uno terzo da la quadernaria</p>
@@ -2295,43 +2295,46 @@
 				<p>
 					<pb facs="#f013"/>
 				</p>
-				<p>Ca po</p>
+				<p>
+					<ref target="note_8bf792fe93dc41fe87c147722ae1b82e">Capo</ref>
+					<note xml:id="note_8bf792fe93dc41fe87c147722ae1b82e">Début de séquence d'une 2e main (B), qui couvre l'entièreté du feuillet. Le tableau /charte de ce feuillet est repris avec des variantes et sans la règle transversales dans les ms M, S, NY. Dans V, il est (par la même main qu'ici?) substentiellement tranformé. La présente transcription ne respecte pas la mise en page, ni les couleurs pour raisons techniques. Les pieds de mouche initiant chaque paragraphe ne sont pas reproduits non plus. Les coupures dans les § opérés par la règle verticale dans l'original sont remplacés dans la transcription diplomatique par des tirets (-). </note>
+				</p>
 				<p/>
-				<p>Io[2] sono bassadança de le me sure regina, e merito de portare</p>
+				<p>Io sono bassadança de le me sure regina, e merito de portare</p>
 				<p>corona. Et in l'operare de mi poche genti hano ragione. E chi</p>
-				<p>in dançare o[3] in sonare ben di me s'adopra, força che da li cieli</p>
+				<p>in dançare <corr><ref target="note_9e4f557f3d2d4e4d8c619d2da69116e1">o</ref></corr><note xml:id="note_9e4f557f3d2d4e4d8c619d2da69116e1">"o" précédé d'un "l" biffé.</note> in sonare ben di me s'adopra, força che da li cieli</p>
 				<p>sia data l'opra.</p>
 				<p/>
 				<p/>
-				<p>Sex to</p>
+				<p>Sexto</p>
 				<p>Io son misura quadernaria per nome chiamata, e se gli</p>
 				<p>sonatori mi fano ragione lor retroverano che per compartitione</p>
 				<p>uno sexto callo da la mia re gina. E s'el sonatore bono bene</p>
 				<p>di me se voglia regere de la bas sadança e del saltarello tengo il mezo.</p>
 				<p/>
 				<p/>
-				<p>Ter ço</p>
+				<p>Terço</p>
 				<p>Io sono saltarello chiamato passo brabante che dui sexti callo</p>
 				<p>da la bassadanza e se gli sona tori prudenti mi vogliono com</p>
 				<p>partire retroverano che tengo il meço de la misura quaderna</p>
 				<p>ria e della piva.</p>
 				<p/>
 				<p/>
-				<p>Me zo</p>
+				<p>Mezo</p>
 				<p>Io sono piva per nome chiamata e de le misure son</p>
 				<p>la piu trista perche da gli villani sono adoperata, e per mia</p>
 				<p>presteça tanto me faccio inan çi che tengo el meço de la bassadança</p>
 				<p/>
 				<p/>
-				<p>Ter ço</p>
+				<p>Terço</p>
 				<p>Salta rello</p>
 				<p/>
 				<p/>
-				<p>Sex to</p>
+				<p>Sexto</p>
 				<p>Quader naria</p>
 				<p/>
 				<p/>
-				<p>Ca po</p>
+				<p>Capo</p>
 				<p>Bassa dança</p>
 				<p/>
 				<p/>
