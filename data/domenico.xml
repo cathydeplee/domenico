@@ -581,7 +581,7 @@
 			<line/>
 		</surface>
 		<surface facs="#f014">
-			<line>12°. [N]ota e intendi, a fine che de ingnorantia non me increpi. Ad-</line>
+			<line><add place="margin">12°</add>       Ota e intendi, a fine che de ingnorantia non me increpi. Ad-</line>
 			<line>visandote che questa a lo intendere è subtilissima, vogliando lui che</line>
 			<line>tu sapi e revolvi tutte le mexure a tuo modo, cum ragione, per natura on</line>
 			<line>per accidentia. Nota per natura dare el suo ordine a ciascaduna</line>
@@ -607,10 +607,10 @@
 			<line>intelecto se pono operare como è dicto qui disopra.</line>
 			<line/>
 			<line/>
-			<line>13. [N]Ota che la bassadanza, la quale è de mazor imperfecto dico</line>
+			<line><add place="margin">13</add>    Ota che la bassadanza, la quale è de mazor <add place="inspace">im</add>perfecto dico</line>
 			<line>se pò danzare per modi cinque, de li cinque dui hanno suo ordine</line>
 			<line>per motto de compartitione de tempo, li altri tri per acidentia</line>
-			<line>lo intelecto pò spartirli e danzarli. Ma più difficille sono</line>
+			<line>lo intelecto <seg>li</seg> pò spartirli e danzarli. Ma più difficille sono</line>
 			<line>quisti altri tri motti che li dicti dui imperò che li bisogna</line>
 			<line/>
 		</surface>
@@ -2297,7 +2297,7 @@
 				</p>
 				<p>
 					<ref target="note_8bf792fe93dc41fe87c147722ae1b82e">Capo</ref>
-					<note xml:id="note_8bf792fe93dc41fe87c147722ae1b82e">Début de séquence d'une 2e main (B), qui couvre l'entièreté du feuillet. Le tableau /charte de ce feuillet est repris avec des variantes et sans la règle transversales dans les ms M, S, NY. Dans V, il est (par la même main qu'ici?) substentiellement tranformé. La présente transcription ne respecte pas la mise en page, ni les couleurs pour raisons techniques. Les pieds de mouche initiant chaque paragraphe ne sont pas reproduits non plus. Les coupures dans les § opérés par la règle verticale dans l'original sont remplacés dans la transcription diplomatique par des tirets (-). </note>
+					<note xml:id="note_8bf792fe93dc41fe87c147722ae1b82e">Début de séquence d'une 2e main (B), qui couvre l'entièreté du feuillet. Le tableau /charte de ce feuillet est repris avec des variantes et sans la règle transversale (avec par conséquent une compréhension des termes parfois très étranges) dans les ms M, S, NY. Dans V, il est (par la même main qu'ici?) substentiellement tranformé par Cornozzano qui place la piva en haut. La présente transcription ne respecte pas la mise en page, ni les couleurs pour raisons techniques. Les pieds de mouche initiant chaque paragraphe ne sont pas reproduits non plus. Les coupures dans les § opérés par la règle verticale dans l'original sont remplacés dans la transcription diplomatique par des tirets (-). </note>
 				</p>
 				<p/>
 				<p>Io sono bassadança de le me sure regina, e merito de portare</p>
@@ -2309,21 +2309,21 @@
 				<p>Sexto</p>
 				<p>Io son misura quadernaria per nome chiamata, e se gli</p>
 				<p>sonatori mi fano ragione lor retroverano che per compartitione</p>
-				<p>uno sexto callo da la mia re gina. E s'el sonatore bono bene</p>
-				<p>di me se voglia regere de la bas sadança e del saltarello tengo il mezo.</p>
+				<p>uno sexto callo da la mia regina. E s'el sonatore bono bene</p>
+				<p>di me se voglia regere de la bassadança e del saltarello tengo il mezo.</p>
 				<p/>
 				<p/>
 				<p>Terço</p>
 				<p>Io sono saltarello chiamato passo brabante che dui sexti callo</p>
-				<p>da la bassadanza e se gli sona tori prudenti mi vogliono com</p>
-				<p>partire retroverano che tengo il meço de la misura quaderna</p>
+				<p>da la bassadanza e se gli sonatori prudenti mi vogliono com-</p>
+				<p>partire retroverano che tengo il meço de la misura quaderna-</p>
 				<p>ria e della piva.</p>
 				<p/>
 				<p/>
 				<p>Mezo</p>
 				<p>Io sono piva per nome chiamata e de le misure son</p>
 				<p>la piu trista perche da gli villani sono adoperata, e per mia</p>
-				<p>presteça tanto me faccio inan çi che tengo el meço de la bassadança</p>
+				<p>presteça tanto me faccio inançi che tengo el meço de la bassadança</p>
 				<p/>
 				<p/>
 				<p>Terço</p>
