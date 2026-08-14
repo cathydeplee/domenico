@@ -639,7 +639,7 @@
 			<line>uadernario, perché dico serae alquanto largo et a te parerà presto</line>
 			<line>perché uno tempo de bassadanza ha solo uno dopio naturalmente, e</line>
 			<line>questo ha uno dopio e uno frapamento, imperò te pare più</line>
-			<line>veloce, ma vogli te mostri serà largo : va’ e fa’ uno dopio de</line>
+			<line>veloce, ma vogli te mostri serà largo : va e fa uno dopio de</line>
 			<line>bassadanza e fa’li uno e dui frapamenti, vederai ch’el motto q-</line>
 			<line>uadernario serà alquanto largo; advisandote che lo frapamento</line>
 			<line>de la quadernaria, ponendolo in su la mexura de la bassedanza,</line>
@@ -651,21 +651,21 @@
 		<surface facs="#f016">
 			<line>motto difficile è che tu poi danzare in dui modi el motto del sal-</line>
 			<line>tarello su la bassadanza. El primo si è che tu poi mettere uno tempo</line>
-			<line>de saltarello in uno de bassedanza, ma lo saltarello serà largo, perché</line>
+			<line>de saltarello <del>fer</del> in uno de bassedanza, ma lo saltarello serà largo, perché</line>
 			<line>dico disopra in lo capitolo XI° esser più strecto el saltarello uno terzo</line>
 			<line>de la bassadanza, imperò ponendo uno tempo del saltarello in</line>
 			<line>uno de bassadanza serà largo; et è difficile a farlo ma è de mazore</line>
 			<line>intelecto. Lo segondo modo, che poi danzare lo saltarello su la bassad-</line>
-			<line>anza: tu poi mettere dui tempi del saltarello in uno de bassadanza, ma</line>
-			<line>seranno prestissimi, ponendoli dui tempi, perché dico qui desopra la piva</line>
+			<line>anza: tu poi mettere dui tempi del saltarello in uno de bassadanza, <q rend="sic">m-</q></line>
+			<line>a <q rend="sic">siamo</q> prestissimi, ponendoli dui tempi, perché dico qui desopra la piva</line>
 			<line>esser la mitade de bassadanza e lo saltarello è piu largo de la piva</line>
 			<line>uno sesto, adomque ponendoli dui tempi de saltarello in uno de</line>
 			<line>bassadanza seranno prestissimi; ma è de zentile intelecto a saperlo</line>
-			<line>fare, et hai el quinto modo el quale se pò danzare in su la bassadanza.</line>
+			<line>fare; et hai el quinto modo el quale se pò danzare in su la bassadanza.</line>
 			<line>Adomque resta tractare per quanti motti se pò danzare su la quadernaria.</line>
 			<line/>
 			<line/>
-			<line>14°. [N]ota che la quadernaria dico se pò danzare per modi quatro</line>
+			<line><add place="margin">14°</add>  Ota che la quadernaria dico se pò danzare per modi quatro</line>
 			<line>Lo primo modo ha suo ordine danzando ti uno dopio e uno</line>
 			<line>frapamento drieto a lo dopio in uno tempo de quadernaria,</line>
 			<line>el segondo modo tu poi danzare bassadanza su la quadernaria,</line>
@@ -675,10 +675,10 @@
 			<line>dansando tu bassadanza su la quadernaria seria la bassadanza</line>
 			<line>alquanto presta, e però non ha suo ordine de motto; ma perché</line>
 			<line>se muda prolatione è bello a qui el sa fare, ma non è biava</line>
-			<line>da bagoni. El modo terzo: posse danzare saltarello, cioè mettere</line>
-			<line>uno tempo per motto de saltarello in uno tempo de quadernaria</line>
-			<line>ma serà lo saltarello alquanto largo perché lo</line>
-			<line>saltarello in lo capitolo XI° dico esser più strecto de la quadernaria</line>
+			<line>da bagoni. El modo terzo: posse danzare saltarello, cioè <q rend="remplissage">y</q></line>
+			<line>mettere uno tempo per motto de saltarello in uno tempo de quadernaria</line>
+			<line>ma sera lo saltarello alquanto largo perche lo</line>
+			<line>saltarello in lo capitolo XI° dico esser più strecto de la quaderna<add place="inline">r</add>ia</line>
 			<line>uno sesto, sì che non haria suo ordine; ricordandote ch’el moto</line>
 			<line>del saltarello è uno dopio cum uno salteto, e quello de la</line>
 			<line/>
@@ -2370,7 +2370,7 @@
 				<p/>
 				<p/>
 				<p><add place="margin"><ref target="note_91aab76b085a48e0944b6e7fba1b7f0f">13</ref></add><note xml:id="note_91aab76b085a48e0944b6e7fba1b7f0f">Numéro de paragraphe en marge de gauche. Petit ° ommis.</note> <ref target="note_06b7a82eb4cc43139bd80987129a9fe5"><supplied>N</supplied>ota</ref><note xml:id="note_06b7a82eb4cc43139bd80987129a9fe5">Double "o" par erreur. Initiale d'attente "N" ommise mais espace laissé.</note> che la bassadanza, la quale è de mazor <add place="inspace"><ref target="note_69ee881c4d2544e7acdc120df4f2117f">im</ref></add><ref target="note_69ee881c4d2544e7acdc120df4f2117f">perfecto</ref><note xml:id="note_69ee881c4d2544e7acdc120df4f2117f">"Im" abrégé inséré après coup. Id paragraphe 10</note> dico</p>
-				<p>se pò danzare per modi* cinque. De li cinque dui hanno suo ordine*</p>
+				<p>se pò danzare per modi cinque. De li cinque dui hanno suo ordine*</p>
 				<p>per motto de compartitione de tempo, li altri tri per acidentia</p>
 				<p>lo intelecto <ref target="note_7a9b9e0e2b224ba396213ef6cc5b6a66"><sic>li</sic></ref><note xml:id="note_7a9b9e0e2b224ba396213ef6cc5b6a66">"li" probablement superflu</note>pò spartirli e danzarli. Ma più difficille sono</p>
 				<p>quisti altri tri motti che li dicti dui, imperò che li bisogna</p>
@@ -2385,8 +2385,8 @@
 				<p>de motto si è lo suo esser, cioè che la bassadanza è de mazor imperfecto</p>
 				<p>questo non se pò negare; lo segondo ordine per motto si è la mexura</p>
 				<p>de menor perfecto, la quale è la piva. E nota, como dico disopra in lo</p>
-				<p>capitolo <corr evidence="internal">XI°</corr><note>Ms. XII°, par erreur. </note>, che la mexura de la piva cala sesti tri da la bassadanza</p>
-				<p>per mitade<ref target="note_ef1004768d4c4f67a3d234bbbf6e38ed">. </ref><note xml:id="note_ef1004768d4c4f67a3d234bbbf6e38ed">Suivi de "mettandoti" (superflu) souligné en pointillé pour indiquer l'erreur de copie (confusion de ligne).</note> Se tu spartirai la mexura de la bassadanza</p>
+				<p>capitolo <corr evidence="internal">XI°</corr><note xml:id="note_f5v_a">Correction de XII°, dans le ms (erreur). </note>, che la mexura de la piva cala sesti tri da la bassadanza</p>
+				<p>per mitade<ref target="note_ef1004768d4c4f67a3d234bbbf6e38ed">. </ref><note xml:id="note_ef1004768d4c4f67a3d234bbbf6e38ed">Suppression de "mettandoti" (superflu) souligné en pointillé dans le Ms. pour indiquer l'erreur de copie (confusion de ligne).</note> Se tu spartirai la mexura de la bassadanza</p>
 				<p>per mitade, mettando ti dui tempi de piva in uno de bassadanza,</p>
 				<p>tu ritroverai el tuo ordine per motto, e sì tel provo : che uno tempo de</p>
 				<p>piva si è uno dopio; metti adonque dui de quilli dopii in uno de</p>
@@ -2396,16 +2396,16 @@
 				<p>suo ordine. El primo, chiamato motto quadernario, posse danzare</p>
 				<p>su la bassadanza, el quale motto quadernario ge consiste in suo</p>
 				<p>compimento uno dopio cum uno frapamento in uno tempo.</p>
-				<p>E ti galante poi mettere questo motto in uno tempo de bassadanza,</p>
+				<p>E ti <sic>galante</sic><note xml:id="note_f5v_d">"galante" laissé ici (par négligence?), contrairement aux § plus hauts</note> poi mettere questo motto in uno tempo de bassadanza,</p>
 				<p>ma serà alquanto un poco largo : como dico disopra in lo capitollo</p>
-				<p>XI°, esser più strecta uno sexto la quadernaria de la bassadanza. <corr evidence="internal">Ma</corr><note>Correction de coupure de mot peu conforme</note></p>
+				<p>XI°, esser più strecta uno sexto la quadernaria de la bassadanza. <corr evidence="internal">Ma</corr><note xml:id="note_f5v_b">Correction de coupure de mot peu conforme</note></p>
 				<p>per cavare fuora tutte le dubitatione, nota che questo motto</p>
 				<p><corr evidence="internal">quadernario</corr><note>Correction de coupure de mot peu conforme</note>, perché dico serae alquanto largo et a te parerà presto</p>
 				<p>perché uno tempo de bassadanza ha solo uno dopio naturalmente, e</p>
 				<p>questo ha uno dopio e uno frapamento, imperò te pare più</p>
-				<p>veloce. Ma vogli[o] te mostri serà largo : va’ e fa’ uno dopio de</p>
+				<p>veloce. Ma vogli<supplied cert="conjecture">o</supplied> te mostri serà largo : va e fa uno dopio de</p>
 				<p>bassadanza e fa’li uno e dui frapamenti, vederai ch’el motto</p>
-				<p><corr evidence="internal">quadernario</corr><note>Correction de coupure de mot peu conforme</note> serà alquanto largo; advisandote che lo frapamento</p>
+				<p><corr evidence="internal">quadernario</corr><note xml:id="note_f5v_c">Correction de coupure de mot peu conforme</note> serà alquanto largo; advisandote che lo frapamento</p>
 				<p>de la quadernaria, ponendolo in su la mexura de la bassedanza,</p>
 				<p>se fa in su el pieno, e quello de la bassedanza, cioè lo frapa-</p>
 				<p>mento, se fa nel vuodo, e questa differentia è da l’uno</p>
@@ -2419,11 +2419,11 @@
 				<p>tarello su la bassadanza. El primo si è che tu poi mettere uno tempo</p>
 				<p>de saltarello in uno de bassedanza, ma lo saltarello serà largo, perché</p>
 				<p>dico disopra in lo capitolo XI° esser più strecto el saltarello uno terzo</p>
-				<p>de la bassadanza, imperò ponendo uno tempo del saltarello[7] in</p>
+				<p>de la bassadanza, imperò ponendo uno tempo del <ref target="note_2756bfd658174ba387febc2ce4c34393">saltarello</ref><note xml:id="note_2756bfd658174ba387febc2ce4c34393">Suivi de "fer" biffé dans le ms (erreur), supprimé ici. </note> in</p>
 				<p>uno de bassadanza serà largo; et è difficile a farlo ma è de mazore</p>
 				<p>intelecto. Lo segondo modo, che poi danzare lo saltarello su la bassad-</p>
-				<p>anza: tu poi mettere dui tempi del saltarello in uno de bassadanza, ma</p>
-				<p>seranno[8] prestissimi, ponendoli dui tempi, perché dico qui desopra la piva</p>
+				<p>anza: tu poi mettere dui tempi del saltarello in uno de bassadanza, <corr evidence="internal">ma</corr><note>Correction de coupure de mot peu conforme</note></p>
+				<p><corr evidence="conjecture">seranno</corr><note xml:id="note_f6r_b">Ms. "siamo" avec un point sous le dernier jambage du "m" signalant une erreur. Correction conjecturelle ici.</note> prestissimi, ponendoli dui tempi, perché dico qui desopra la piva</p>
 				<p>esser la mitade de bassadanza e lo saltarello è piu largo de la piva</p>
 				<p>uno sesto, adomque ponendoli dui tempi de saltarello in uno de</p>
 				<p>bassadanza seranno prestissimi; ma è de zentile intelecto a saperlo</p>
@@ -2431,7 +2431,7 @@
 				<p>Adomque resta tractare per quanti motti se pò danzare su la quadernaria.</p>
 				<p/>
 				<p/>
-				<p>14°. [N]ota[9] che la quadernaria dico se pò danzare per modi quatro</p>
+				<p><add place="margin">14°</add> <ref target="note_ccd560777fb74e81a9f754f2c59b532a"><supplied cert="high" reason="editorial">N</supplied>ota</ref><note xml:id="note_ccd560777fb74e81a9f754f2c59b532a">Initiale d'attente "N" ommise. Ajoutée ici</note> che la quadernaria dico se pò danzare per modi quatro</p>
 				<p>Lo primo modo ha suo ordine danzando ti uno dopio e uno</p>
 				<p>frapamento drieto a lo dopio in uno tempo de quadernaria</p>
 				<p>El segondo modo: tu poi danzare bassadanza su la quadernaria,</p>
@@ -2439,12 +2439,12 @@
 				<p>Ma la bassadanza non harà suo ordine, perché in lo capitolo XI° dico</p>
 				<p>la bassadanza esser più larga de la quadernaria uno sesto, adomque</p>
 				<p>dansando tu bassadanza su la quadernaria seria la bassadanza</p>
-				<p>alquanto presta, e però non ha suo ordine de motto; ma perché</p>
+				<p>alquanto presta, e pero non ha suo ordine de motto; ma perché</p>
 				<p>se muda prolatione è bello a qui el sa fare, ma non è biava</p>
-				<p>da Bagoni*. El modo terzo: posse danzare saltarello, cioè mettere</p>
-				<p>uno tempo per motto de saltarello in uno tempo de quadernaria</p>
+				<p>da bagoni. El modo terzo: posse danzare saltarello, cioè<note xml:id="note_f6r_a">suivi d'un signe de remplissage de ligne "y"</note></p>
+				<p>mettere uno tempo per motto de saltarello in uno tempo de quadernaria</p>
 				<p>ma serà lo saltarello alquanto largo perché lo</p>
-				<p>saltarello in lo capitolo XI° dico esser più strecto de la quadernaria</p>
+				<p>saltarello in lo capitolo XI° dico esser più strecto de la <ref target="note_901be0942819447b96d714d5034c8d07">quadernaria</ref><note xml:id="note_901be0942819447b96d714d5034c8d07">"r" ajouté au dessus de la ligne. </note></p>
 				<p>uno sesto, sì che non haria suo ordine; ricordandote ch’el moto</p>
 				<p>del saltarello è uno dopio cum uno salteto, e quello de la</p>
 			</div>
