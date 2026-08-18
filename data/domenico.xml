@@ -325,7 +325,7 @@
 			<line>oto azele e pelegrino opera<del>n</del>do cum grande subtilitade e fatica che sia</line>
 			<line>venerea e de perditione de tempo, l’operante argumenta in lo 2° del heticha <add place="margin"><q rend="note_d_autorite">} in 2° delhetica</q></add></line>
 			<line>contra di questo, dicendo lui che tutte le cosse se corompono e guastase se</line>
-			<line>le sono conducte e menate in<unclear>divi</unclear>se cioè per le operatione extreme,</line>
+			<line>le sono conducte e menate in<unclear cert="low">divi</unclear>se cioè per le operatione extreme,</line>
 			<line>e la mezanitade conserva. E bene ch’el savio Aristotele tractasse del motto<add place="margin"><q>} Aristotele</q></add></line>
 			<line>alquanto in lo X° del heticha, in altre parte non poté mai cum sua subtilitade</line>
 			<line>saper cavare el subtille del subtille de questo motto corporalle mosso da</line>
@@ -837,7 +837,7 @@
 			<line>rimane de drieto ne la fine, e volendola rifare el compagno va</line>
 			<line>denanti | fine a questa danza.</line>
 			<line/>
-			<line>                      Lionzello in canto</line>
+			<line>Lionzello in canto</line>
 			<line/>
 			<line/>
 			<line/>
@@ -848,8 +848,8 @@
 			<line/>
 			<line/>
 			<line/>
-			<line>          Lionzello vechio a ballo, è in uno homo cum la dona</line>
-			<line>   Mprima fano tutti dui a mano tempi sei de saltarello, co-</line>
+			<line>Lionzello vechio a ballo, è in uno homo cum la dona</line>
+			<line>Mprima fano tutti dui a mano tempi sei de saltarello, co-</line>
 			<line>menzando cum lo pè sinistro in mexura quadernaria e afermase;</line>
 			<line>poi lo homo fa uno movimento e la dona li responde cum uno altro</line>
 			<line>et l’homo poi passa denanti a la dona cum uno tempo de saltarello largo</line>
@@ -877,7 +877,7 @@
 		</surface>
 		<surface facs="#f023">
 			<line>Lionzello novo sul mede<add place="above">s</add>mo canto vechio, e va humini dui cum una dona</line>
-			<line>         in mezo.</line>
+			<line>in mezo.</line>
 			<line><add place="margin">i</add>Mprima dicti dui homini cum la dona in mezo fano tempi</line>
 			<line>dui de saltarello in mexura quadernaria e afermase li homini; poi</line>
 			<line>la dona se parte de mezo loro cum uno dopio sul pè sinistro e afer-</line>
@@ -2055,7 +2055,7 @@
 				<p>ctare <add place="margin">del moto corporeo</add> cum grande reverentia, impetra a Quello che sempre per sua sancta</p>
 				<p>humanitade s’è dignato de soccorere el dicto operante e tractante de</p>
 				<p>questa materia a bon fine. E pur volendo molti opponere a questo m-</p>
-				<p>oto azele e pelegrino <corr evidence="internal"><ref target="note_c49cc2d15a0545f9b7dd7df8e7f3d17c">operado</ref></corr><note xml:id="note_c49cc2d15a0545f9b7dd7df8e7f3d17c">Ms: "n" gratté entre "a" et "d", à comprendre par conséquent comme un participe passé (operato) plus plausible syntaxiquement qu'un gérondif.</note> cum grande subtilitade e fatica che sia</p>
+				<p>oto azele e pelegrino opera<corr evidence="internal">do</corr><note xml:id="note_c49cc2d15a0545f9b7dd7df8e7f3d17c">Ms: "n" gratté entre "a" et "d", à comprendre par conséquent comme un participe passé (operato) plus plausible syntaxiquement qu'un gérondif.</note> cum grande subtilitade e fatica che sia</p>
 				<p>venerea e de perditione de tempo, l’operante argumenta <ref>in lo 2° de l’Heticha</ref><note target="#note_f1_04" xml:id="note_f1_04">Ms. manchette de référence en marge de droite. Pour l'Ethique à Nicomaque de Aristote</note></p>
 				<p>contra di questo, dicendo lui che tutte le cosse se corompono e guasta[n]se se</p>
 				<p>le sono conducte e menate indivise<note target="#note_f1_05" xml:id="note_f1_05">Ms. tilde ondulé de forme inhabituelle sur le 2e "i". Première hypothèse, retenue ici: abréviation inhabituelle pour "indivisamente". Autre hypothèse : abbréviation hâtive pour "in diverse vie" cf : Procopio: "in diverse" (...); Neville: "ind(i)verse" (p.112 n.60)</note>, cioè per le operatione extreme,</p>
@@ -2075,7 +2075,7 @@
 				<p>questa arte zentille havere in sé buntade <add place="above">per</add><note target="#note_f2_01" xml:id="note_f2_01">Ms: p(er) add. sublinéaire de main gothique à l'encre plus foncée; première et dernière lettre de natura retouchées de même.</note> natura e molte<note target="#note_f2_02" xml:id="note_f2_02">Procopio: "molto"</note> per azidenzia<note target="#note_f2_03" xml:id="note_f2_03">correction de main gothique sur effacement illisible. Smith: "erzadergia"; Casazza: "eczidenzia"</note></p>
 				<p>in sua operatione.</p>
 				<p/>
-				<p>2.<note xml:id="note_f01v_a">Numéro de paragraphe original en marge de gauche</note> <supplied>N</supplied>ota<note xml:id="note_26a145b309864ce886cd7a684cbd51b8">Ajout du N à l'initiale (initiale d'attente ommise ici); Ms. Au-dessus du O première moitié d'un autre O, le copiste ayant probablement oublié le saut de ligne.</note> che niuna creatura creata che habia in sé de natura man-</p>
+				<p>2.<note xml:id="note_f01v_a">Numéro de paragraphe original en marge de gauche</note> <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_26a145b309864ce886cd7a684cbd51b8">Ajout du N à l'initiale (initiale d'attente ommise ici); Ms. Au-dessus du O première moitié d'un autre O, le copiste ayant probablement oublié le saut de ligne.</note> che niuna creatura creata che habia in sé de natura man-</p>
 				<p>camento, de questo motto zentille capace sia, digando lui che</p>
 				<p>zopi, gobi, guerci de tutti li ministerii aprensivi sono, salvo <ref target="note_d80b305461dc463cbb8c998c2a6877d3"><supplied>che</supplied></ref><note xml:id="note_d80b305461dc463cbb8c998c2a6877d3">Ms. che effacé à tort (mais lisible) ; rétabli par par Procopio.</note> de</p>
 				<p>questo che operandose seria frusta. Adomque li bisogna prosperità</p>
