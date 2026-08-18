@@ -2,6 +2,13 @@
 import config from "../../data/config.json";
 import EditionCrafter from "@cu-mkp/editioncrafter";
 import { getUrl } from "../util/path";
+
+const dynamicConfig = {
+  ...config,
+  iiifManifest: getUrl('domenico/iiif/manifest.json'),
+  glossaryURL: getUrl('glossary.json'),
+  viewerUrl: getUrl(''),
+};
 ---
 
 <html>
@@ -49,9 +56,10 @@ import { getUrl } from "../util/path";
       </div>
     </div>
 
-    <EditionCrafter {...config} client:only="react" />
+    <EditionCrafter {...dynamicConfig} client:only="react" />
   </body>
 </html>
+
 <style>
   body {
     margin: 0;
