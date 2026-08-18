@@ -4,3 +4,11 @@ tei-del[rend*="strikethrough"],
 tei-del[data-tei-rend*="strikethrough"] {
   text-decoration: line-through;
 }
+
+tei-line[rend*="indent"],
+tei-line[data-tei-rend*="indent"],
+tei-p[rend*="indent"],
+tei-p[data-tei-rend*="indent"] {
+  padding-left: 2em;
+}
+
