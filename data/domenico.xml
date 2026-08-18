@@ -876,7 +876,7 @@
 			<line/>
 		</surface>
 		<surface facs="#f023">
-			<line>Lionzello novo sul mede<add place="above">s</add>mo canto vechio, e va [in] humini dui cum una dona</line>
+			<line>Lionzello novo sul mede<add place="above">s</add>mo canto vechio, e va humini dui cum una dona</line>
 			<line>         in mezo.</line>
 			<line><add place="margin">i</add>Mprima dicti dui homini cum la dona in mezo fano tempi</line>
 			<line>dui de saltarello in mexura quadernaria e afermase li homini; poi</line>
@@ -915,7 +915,7 @@
 			<line>volta sul pè drito, riguardandose a volto a volto, fazando represe</line>
 			<line>due, comenzando col pè sinistro, continentie due, e riverentia una</line>
 			<line>suso el sinistro afermandose dicti dui homini.</line>
-			<line>//Or nota che la dona se muove e va incontra li homini cum uno</line>
+			<line><add place="margin">//</add>Or nota che la dona se muove e va incontra li homini cum uno</line>
 			<line>dopio sul pè sinistro e afermase; poi li homini vano incontra</line>
 			<line>la dona cum uno dopio sul pè sinistro, e afermanse, e la dona</line>
 			<line>vene incontra li homini cum uno dopio sul pè drito, e afermase.</line>
@@ -2046,7 +2046,7 @@
 				<head>De arte saltandi &amp; choreas ducendi.</head>
 				<head>De la arte di ballare et danzare.<note xml:id="note_f1_01">Titre bilingue ajouté probablement au XVIe s. par le possesseur du ms. ou un bibliothécaire.</note></head>
 				<p/>
-				<p><supplied reason="editorial">SEMPRE</supplied><note xml:id="note_f1_02">Ajout de l'éditeur: sur base de la lettre d'attente en marge "s", de l'espace laissé avant le premier mot écrit en capitale propisce à recevoir env.4 ou 5 caractères en capitale, et de la syntaxe qui fait supposet un adverbe.</note> RENGRATIANDO</p>
+				<p><supplied cert="middle" reason="editorial">SEMPRE</supplied><note xml:id="note_f1_02">Ajout de l'éditeur: sur base de la lettre d'attente en marge "s", de l'espace laissé avant le premier mot écrit en capitale propisce à recevoir env.4 ou 5 caractères en capitale, et de la syntaxe qui fait supposet un adverbe.</note> RENGRATIANDO</p>
 				<p>el grande e triumfante Idio de li intelecti che per</p>
 				<p>gratia da lui sono imfusi, et a lui solo dato li</p>
 				<p>sia honore et gloria de tutte le operatione<note>Ms: i(n) en fin de ligne redondant avec le début du mot suivant</note></p>
@@ -2055,7 +2055,7 @@
 				<p>ctare <add place="margin">del moto corporeo</add> cum grande reverentia, impetra a Quello che sempre per sua sancta</p>
 				<p>humanitade s’è dignato de soccorere el dicto operante e tractante de</p>
 				<p>questa materia a bon fine. E pur volendo molti opponere a questo m-</p>
-				<p>oto azele e pelegrino <corr><ref target="note_c49cc2d15a0545f9b7dd7df8e7f3d17c">operado</ref></corr><note xml:id="note_c49cc2d15a0545f9b7dd7df8e7f3d17c">Ms: "n" gratté entre "a" et "d", à comprendre par conséquent comme un participe passé (operato) plus plausible syntaxiquement qu'un gérondif.</note> cum grande subtilitade e fatica che sia</p>
+				<p>oto azele e pelegrino <corr evidence="internal"><ref target="note_c49cc2d15a0545f9b7dd7df8e7f3d17c">operado</ref></corr><note xml:id="note_c49cc2d15a0545f9b7dd7df8e7f3d17c">Ms: "n" gratté entre "a" et "d", à comprendre par conséquent comme un participe passé (operato) plus plausible syntaxiquement qu'un gérondif.</note> cum grande subtilitade e fatica che sia</p>
 				<p>venerea e de perditione de tempo, l’operante argumenta <ref>in lo 2° de l’Heticha</ref><note target="#note_f1_04" xml:id="note_f1_04">Ms. manchette de référence en marge de droite. Pour l'Ethique à Nicomaque de Aristote</note></p>
 				<p>contra di questo, dicendo lui che tutte le cosse se corompono e guasta[n]se se</p>
 				<p>le sono conducte e menate indivise<note target="#note_f1_05" xml:id="note_f1_05">Ms. tilde ondulé de forme inhabituelle sur le 2e "i". Première hypothèse, retenue ici: abréviation inhabituelle pour "indivisamente". Autre hypothèse : abbréviation hâtive pour "in diverse vie" cf : Procopio: "in diverse" (...); Neville: "ind(i)verse" (p.112 n.60)</note>, cioè per le operatione extreme,</p>
@@ -2063,7 +2063,7 @@
 				<p>alquanto in lo X° de l’Heticha, in altre parte non poté mai cum sua subtilitade</p>
 				<p>saper cavare el subtille del subtille de questo motto corporalle mosso da</p>
 				<p>luoco a luoco cum mexura, memoria, agilitade e mainera; mexura de</p>
-				<p>terreno, porzando aiuto, spirando el corpo per fantaxmate <note target="#note_fiiiii" xml:id="note_fiiiii">Le choix de la ponctuation fait ici suppose l'enumération de termes, séparés par des verigules, comme autant de caractéristiques du mouvement corporel tel que conçu par le maître et que les paragraphes suivant expliqueront un à un. Le point virgule devant "mexura de terreno" (en écho au ": M" du ms.) indique une rupture dans l'énumération dont le sens est à chercher (voir Traduction)</note>, dicendo lui e</p>
+				<p>terreno, porzando aiuto, spirando el corpo per fantaxmate<note target="#note_fiiiii" xml:id="note_fiiiii">Le choix de la ponctuation fait ici suppose l'enumération de termes, séparés par des verigules, comme autant de caractéristiques du mouvement corporel tel que conçu par le maître et que les paragraphes suivant expliqueront un à un. Le point virgule devant "mexura de terreno" (en écho au ": M" du ms.) indique une rupture dans l'énumération dont le sens est à chercher (voir Traduction)</note>, dicendo lui e</p>
 				<p>opponendo per argumenti boni e veri essere questa arte e demostratione zentille</p>
 				<p>de tanto intelecto e fatica quanto ritrovare se possa. E nota ti<note xml:id="note_f01r_11">Ms: suivi de "galante" effacé mais lisible, présent et effacé aussi aux fol. 2v, 5v, 7r. Le mot n'est conservé par négligence qu'au f.2v l.10.</note> che</p>
 				<p>vogliando operare questo motto per modo che tu nol condugi per li extremi, dico</p>
@@ -2610,13 +2610,13 @@
 				<p>rimane de drieto ne la fine, e volendola rifare, el compagno va</p>
 				<p>denanti<note xml:id="note_f8v_d">Ms. suivi d'un trait vertical indiquant la fin de la description, remplacé par un point ici.</note>. Fine a questa danza.</p>
 				<p/>
-				<p>                   Lionzello in canto</p>
+				<p>Lionzello in canto</p>
 			</div>
 			<div>
 				<p>
 					<pb facs="#f022"/>
 				</p>
-				<p>          Lionzello vechio a ballo, è in uno homo cum la dona</p>
+				<p>Lionzello vechio a ballo, è in uno homo cum la dona</p>
 				<p><supplied>I</supplied>mprima<note>Ommission de l'initiale d'attente "I" dans le ms, ajoutée ici</note> fano tutti dui a mano tempi sei de saltarello co-</p>
 				<p>menzando cum lo pè sinistro in mexura quadernaria e afermase;</p>
 				<p>poi lo homo fa uno movimento e la dona li responde cum uno altro,</p>
@@ -2625,7 +2625,7 @@
 				<p>mano drita, dagando una mezavolta e affermase; poi la dona ge</p>
 				<p>risponde cum quello medemo tempo di saltarello et mezavolta</p>
 				<p>ritrovandose equale a la man drita del suo homo; et è tutto questo</p>
-				<p>soprascripto <supplied cert="middle">in</supplied><note xml:id="note_f9r_a">Ajout de "in" (ommis à la copie dans le ms?) pour raison syntaxique </note> mexura quadernaria e quest’altra parte seguente.</p>
+				<p>soprascripto <supplied cert="middle">in</supplied><note xml:id="note_f9r_a">Ajout de "in" (ommis à la copie dans le ms?) pour raison syntaxique</note> mexura quadernaria e quest’altra parte seguente.</p>
 				<p><ref target="note_19f3615028434efa8a4b8070793868d4">//</ref><note xml:id="note_19f3615028434efa8a4b8070793868d4">La fonction et la signification des deux traits obliques en marge qui ponctuent les description de plusieurs danses (qui pourraient être une manière de distinguer des séquences chorégraphiques), n'est pas complètement claire et leur présence non systématique</note>Nota che l’homo se parte da la dona fazando passi quatro sempii in-</p>
 				<p>anti e uno dopio comenzando com lo pè sinistro, e affermase, poi</p>
 				<p>la dona el siegue facendo li simili passi et <sic>dupii</sic><note xml:id="note_f9r_b">En l'occurence un seul doppio</note>, e afermase.</p>
@@ -2647,8 +2647,8 @@
 					<pb facs="#f023"/>
 				</p>
 				<p>Lionzello novo sul medesmo<note xml:id="note_f9r_c">Ms. "s" addition supralinéaire d'une encre plus foncée</note> canto vechio, e va humini dui cum una dona</p>
-				<p>      in mezo.</p>
-				<p>      Imprima<note>Initiale d'attente "I" en marge</note> dicti dui homini cum la dona in mezo fano tempi</p>
+				<p>in mezo.</p>
+				<p>Imprima<note>Initiale d'attente "I" en marge</note> dicti dui homini cum la dona in mezo fano tempi</p>
 				<p>dui de saltarello in mexura quadernaria e afermase li homini; poi</p>
 				<p>la dona se parte de mezo loro cum uno dopio sul pè sinistro, e afer-</p>
 				<p>mase; li dicti dui homini siegueno poi la dona cum<note xml:id="note_f9r_d">Ms. cun</note> uno dopio</p>
@@ -2674,9 +2674,9 @@
 				<p>dicti dui homini et dona cum quilli medesmi<note xml:id="note_f9re">Ms: "s" addition supralinéaire d'une encre plus foncée</note> dicti dupii e posada, e</p>
 				<p>ritrovandose la dona in mezo de li homini guardando al contrario loro.</p>
 				<p>//Nota che la dona se parte da li homeni a roverso di loro fazando uno</p>
-				<p>dopio sul pè sinistro e afermase. Li dicti dui homini vano inanti cum</p>
+				<p>dopio sul pè sinistro e afermase, li dicti dui homini vano inanti cum</p>
 				<p>uno dopio sul pè sinistro et afermanse. La dona va pur a la sua via</p>
-				<p>cum uno dopio sul pè drito e afermase. Poi li dicti dui homini</p>
+				<p>cum uno dopio sul pè drito e afermase, poi li dicti dui homini</p>
 			</div>
 			<div>
 				<p>
@@ -2692,12 +2692,12 @@
 				<p>la dona cum uno dopio sul pè sinistro e afermanse, e la dona</p>
 				<p>vene incontra li homini cum uno dopio sul pè drito, e afermase.</p>
 				<p>Li homini vano incontra a la dona cum uno dopio sul pè dri-</p>
-				<p>to dagando una mezavolta suso dicto pè e <ref target="note_ea12dc3703a046ee9485fbdee3140735">trovandose</ref><note xml:id="note_ea12dc3703a046ee9485fbdee3140735">"r" addition supralinéaire de la même main </note> havere la</p>
+				<p>to dagando una mezavolta suso dicto pè e <ref target="note_ea12dc3703a046ee9485fbdee3140735">trovandose</ref><note xml:id="note_ea12dc3703a046ee9485fbdee3140735">"r" addition supralinéaire de la même main</note> havere la</p>
 				<p>dona equale in mezo loro, fazando tutti inseme una riverentia</p>
 				<p>sul pè sinistro; poi la dona si fa uno movimento de mezo tempo</p>
 				<p>e li homini ge respondeno cum uno altro et è fine.</p>
 				<p/>
-				<p>                 La ingrata in canto.</p>
+				<p>La ingrata in canto.</p>
 				<p/>
 				<p/>
 				<p/>
