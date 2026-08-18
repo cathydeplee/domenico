@@ -1,0 +1,6 @@
+/* Custom styles for TEI elements in EditionCrafter */
+
+tei-del[rend*="strikethrough"],
+tei-del[data-tei-rend*="strikethrough"] {
+  text-decoration: line-through;
+}
