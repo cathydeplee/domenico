@@ -80,4 +80,36 @@ tei-unclear {
   font-style: italic;
 }
 
+/* Marginal additions (generic margin, defaults to left) */
+tei-add[place~="margin"],
+tei-add[data-tei-place~="margin"] {
+  display: inline-block;
+  float: left;
+  clear: left;
+  margin-left: -6em;
+  width: 5em;
+  font-size: 0.8em;
+  color: #718096;
+  text-align: right;
+}
+
+/* Left-margin additions */
+tei-add[place="margin left"],
+tei-add[data-tei-place="margin left"] {
+  float: left;
+  clear: left;
+  margin-left: -6em;
+  margin-right: 0;
+  text-align: right;
+}
+
+/* Right-margin additions (explicit) */
+tei-add[place="margin right"],
+tei-add[data-tei-place="margin right"] {
+  float: right;
+  clear: right;
+  margin-right: 10em;
+  margin-left: 0;
+  text-align: left;
+}
 
