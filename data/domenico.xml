@@ -983,14 +983,21 @@
 			<line>fazando tempi dui de piva; e nota che li dicti homini e dona</line>
 			<line>se ritrovano ne le poste loro como erano nel principio de la danza</line>
 			<line>fazando uno movimento et è fine.</line>
-			<line/>
-			<line>La Giloxia in canto.</line>
-			<line/>
-			<line/>
-			<line/>
-			<line/>
-			<line>Giloxia a balo e va in siei zoè homeni tri e done tre.</line>
-			<line>Mprima se pigliano homo uno et una dona per man tuti siei</line>
+			<line rend="indent">            La Giloxia in canto.</line>
+			<line>
+				<lb/>
+			</line>
+			<line>
+				<lb/>
+			</line>
+			<line>
+				<lb/>
+			</line>
+			<line>
+				<lb/>
+			</line>
+			<line rend="indent">      Giloxia a balo e va in siei zoè homeni tri e done tre.</line>
+			<line rend="indent">   Mprima se pigliano homo uno et una dona per man tuti siei</line>
 			<line>in thiope tre. E fano tienpi siei de saltarelo largi in mexura qua-</line>
 			<line>dernaria chomenzando dal pè sinistro, e afermanse, intendandosse</line>
 			<line>che vagino l’una thi<add place="above">o</add>pa driedo a l’altra e largi per spathio de pasi tri.</line>
@@ -1056,7 +1063,7 @@
 			<line>nanti via, cioè l’homo a la dona sua, e la dona a lo suo homo</line>
 			<line><add place="margin">//</add>Or nota che tutti quatro li homini fano una riverentia cum lo pè</line>
 			<line>drito indrieto d’un tempo de bassadanza tocando la man drita dicti</line>
-			<line>homini a la sua dona; e movese li homini fazando tempi XIIII de</line>
+			<line>homini a la sua dona; e movese li homini fazando tempi <q rend="sic">XIIII</q> de</line>
 			<line>bassadanza cioè, una represa sul pè drito cum la dona sua a mano</line>
 			<line>lasandola poi e fazando passi sempii dui e dupii XI comenzando</line>
 			<line/>
@@ -2720,10 +2727,10 @@
 				<p>se moveno fazando tempi quatro di saltarello in sua mexura co-</p>
 				<p>menzando col pè sinistro, intendandose che li homini vadano al contr-</p>
 				<p>ario de la dona cioè loro <ref target="note_bd0f189614ca46a08fba548d88d80180">inanti e la dona indrieto</ref><note xml:id="note_bd0f189614ca46a08fba548d88d80180">Inanti et indrieto sont à comprendre par rapport au sens de la danse. Il n’en est pas de même dans Pg et Pa, où la dame est dite aller al inanti et les hommes font de même, ce qui sous-entend que l’inanti est ici à comprendre par rapport à chaque danseur</note>.</p>
-				<p><ref target="note_8a821a318af64b8c93a2b7ed4933b672">//</ref><note xml:id="note_8a821a318af64b8c93a2b7ed4933b672">voir notes précédentes danses sur ces signes</note>Apresso nota che se hanno a fare tempi XVI de bassadanza, cioè li</p>
+				<p><add place="margin"><ref target="note_8a821a318af64b8c93a2b7ed4933b672">//</ref></add><note xml:id="note_8a821a318af64b8c93a2b7ed4933b672">voir notes précédentes danses sur ces signes</note>Apresso nota che se hanno a fare tempi XVI de bassadanza, cioè li</p>
 				<p>dicti homini e dona seperadi l’uno da l’altro danno una mezavolta sul lado</p>
 				<p>drito cum due ripres, guardandosse nel volto l’uno l’altro.</p>
-				<p>//Or nota che dicti dui homini e dona se parteno in uno instante, cioè</p>
+				<p><add place="margin">//</add>Or nota che dicti dui homini e dona se parteno in uno instante, cioè</p>
 				<p>li homini a paro a paro, e veneno contra la dona e la dona contra</p>
 				<p>di loro cum passi dui sempii et uno dopio comenzando como lo pè</p>
 				<p>sinistro, e dagando una volta tonda de bassadanza ne le loro poste donde</p>
@@ -2735,7 +2742,7 @@
 				<p>ge passa per mezo et in fine de dicti dopii se ritrovano esser largi dicti</p>
 				<p>homini da la dona, e dano una mezavolta suso el lato drito cum due represe,</p>
 				<p>e cossì fa la dona.</p>
-				<p>//Nota che se fano tempi XV in mexura quadernaria, cioè dicti</p>
+				<p><add place="margin">//</add>Nota che se fano tempi XV in mexura quadernaria, cioè dicti</p>
 				<p>dui homini e dona se veneno a lo incontro fazando pasi dui e represe</p>
 				<p>due comenzando cum lo pè sinistro, e quisti dicti dui passi sempii et</p>
 				<p>represe se fano volte tre, homini e dona a l’incontro l’uno de l’altro.</p>
@@ -2755,15 +2762,21 @@
 				<p>fazando tempi dui de piva; nota che li dicti homini e dona</p>
 				<p>se ritrovano ne le poste loro como erano nel principio de la danza,</p>
 				<p>fazando uno movimento, et è fine.</p>
-				<p/>
-				<p/>
-				<p>(C)<note xml:id="note_f11r_a">Intervention d'une 3e main (C), qui sera interrompue au milieu de la danse (reprise de A)</note> La Giloxia in canto</p>
-				<p/>
-				<p/>
-				<p/>
-				<p/>
-				<p>Giloxia a balo e va in siei zoè homeni tri e done tre.</p>
-				<p>Imprima<note xml:id="note_f11r_b">Initiale d'attente "i" ommise, ajoutée ici</note> se pigliano homo uno et una dona per man tuti siei</p>
+				<p rend="indent">            (C)<note xml:id="note_f11r_a">Intervention d'une 3e main (C), qui sera interrompue au milieu de la danse (reprise de A)</note> La Giloxia in canto</p>
+				<p>
+					<lb/>
+				</p>
+				<p>
+					<lb/>
+				</p>
+				<p>
+					<lb/>
+				</p>
+				<p>
+					<lb/>
+				</p>
+				<p rend="indent">        Giloxia a balo e va in siei zoè homeni tri e done tre.</p>
+				<p rend="indent">     Imprima<note xml:id="note_f11r_b">Initiale d'attente "i" ommise, ajoutée ici</note> se pigliano homo uno et una dona per man tuti siei</p>
 				<p>in thiope tre e fano tienpi siei de saltarelo largi in mexura qua-</p>
 				<p>dernaria chomenzando dal pè sinistro, e afermanse; intendandosse</p>
 				<p>che vagino l’una thiopa<note xml:id="note_f11r_c">Ms. "o" addition supralinéaire</note> driedo a l’altra e largi per spathio de pasi tri.</p>
@@ -2784,12 +2797,12 @@
 				<p>el pè sinistro in mexura quadernaria, ritrovandose el dito homo apre-</p>
 				<p>so la dona de driedo, e tochandogie la man drita cun una river-</p>
 				<p>enthia, e afermasse.</p>
-				<p>//Ora nota che lo homo che havea per man la dita dona de driedo fa</p>
+				<p><add place="margin">//</add>Ora nota che lo homo che havea per man la dita dona de driedo fa</p>
 				<p>tenpo uno de saltarelo in mexura quadernaria chomençando cun lo (A)<note xml:id="note_f11v_a">reprise par la 1e main (A)</note></p>
 				<p>pè drito et andagando <add place="margin">equale a la dona de mezo a la man sua stanca.</add></p>
 				<p><add place="margin">L’homo che se ritrova apresso la dona de drieto va</add><note xml:id="note_f11v_b">add. marg. de la même main A se corrigeant, avec signe de renvoi.</note> drieto a le spale de la dona de drieto, ritrovan-</p>
 				<p>dose esserge equale a la mane sua stanca (C)<note xml:id="note_f11v_d">nouvelle petite tentative de la main C qui ne durera que 4 mots</note> cun lo saltarelo predito.</p>
-				<p>//<ref target="note_6ed4ec480ecc444690b31b2525291afd">(A)</ref><note xml:id="note_f11v_c">reprise de la 1e main (A)</note> Ancora nota che tutti homini e done se moveno fazando tempi</p>
+				<p><add place="margin">//</add><ref target="note_6ed4ec480ecc444690b31b2525291afd">(A)</ref><note xml:id="note_f11v_c">reprise de la 1e main (A)</note> Ancora nota che tutti homini e done se moveno fazando tempi</p>
 				<p>octo de piva, l’uno chiopa drieto a l’altra per ordine, e ferma<corr>nose</corr><note xml:id="note_f11v_e">Ms. fermaseno, probable inversion des syllabes corrigée ici</note></p>
 				<p>le due chiope de drieto; fazando el primo homo cum la prima dona</p>
 				<p>mezavolta suso lo lato sinistro in uno tempo de piva, e fermanose;</p>
@@ -2825,22 +2838,22 @@
 				<p>
 					<lb/>
 				</p>
-				<p rend="indent">          Pizochara a ballo*, e va in homini quatro e quatro done.</p>
-				<p rend="indent">          Imprima vano uno homo e una dona per mano* che veneno a esser</p>
-				<p>chiope quatro; e vano large dicte chiope l’una da l’altra per spa-</p>
+				<p rend="indent">          Pizochara a ballo, e va in homini quatro, e quatro done.</p>
+				<p rend="indent">          Imprima vano uno homo e una dona per mano che veneno a esser</p>
+				<p>chiope quatro, e vano large dicte chiope l’una da l’altra per spa-</p>
 				<p>tio de passi tri, movandose tutti de compania, e fazando tempi</p>
-				<p>XII de piva, poi tutte quatro le done s’afermano l’una drieto</p>
-				<p>l’altra ; li quatro homini se moveno fazando tempi quatro</p>
+				<p>XII de piva; poi tutte quatro le done s’afermano l’una drieto</p>
+				<p>l’altra : li quatro homini se moveno fazando tempi quatro</p>
 				<p>de piva d’intorno a la dona sua, comenzando col pè sinistro, e tor-</p>
-				<p>nando a le poste sue, afermandose. Poi tutte dicte quatro</p>
+				<p>nando a le poste sue, afermandose; poi tutte dicte quatro<note xml:id="note_f12r_a">Ms. suivi d'un signe de remplissage de ligne "y" non transcrit ici</note></p>
 				<p>done se moveno tutte in compagnia fazando altri quatro tempi de</p>
 				<p>piva d’intorno a li suoi homini comenzando col pè sinistro tornando</p>
-				<p>a le poste sue afermandose e tuttavolta che se moveno tutti dicti</p>
-				<p>homini e dicte done cum li dicti quatro tempi de piva, passino de-</p>
+				<p>a le poste sue afermandose, e tuttavolta che se moveno tutti dicti</p>
+				<p>homini e dicte done cum li dicti quatro tempi de piva passino de-</p>
 				<p>nanti via, cioè l’homo a la dona sua e la dona a lo suo homo.</p>
 				<p><ref target="note_fb533a96e9f24e31921916fc286a238f">//</ref><note xml:id="note_fb533a96e9f24e31921916fc286a238f"/>Or nota che tutti quatro li homini fano una riverentia cum lo pè</p>
-				<p>drito indrieto d’un tempo de bassadanza* tocando la man drita dicti</p>
-				<p>homini a la sua dona. E movese li homini fazando tempi XIIII de</p>
+				<p>drito indrieto d’un tempo de bassadanza tocando la man drita dicti</p>
+				<p>homini a la sua dona; e movese li homini fazando tempi <corr evidence="conjecture"><ref target="note_bb9df6beccf34f768d9457dce825a88b">XIV</ref></corr><note xml:id="note_bb9df6beccf34f768d9457dce825a88b">Ms. XIII; Nous supposons qu'il s'agit d'une erreur de copie, en regard de la description qui suit: tion qui suit (1 represa+11 dopi+1 ripresa=14)</note> de</p>
 				<p>bassadanza cioè una represa sul pè drito cum la dona sua a mano</p>
 				<p>lasandola poi e fazando passi sempii dui e dupii XI comenzando</p>
 			</div>
