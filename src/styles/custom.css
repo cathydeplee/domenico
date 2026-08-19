@@ -1,0 +1,40 @@
+/* Custom styles for TEI elements in EditionCrafter */
+
+tei-del[rend*="strikethrough"],
+tei-del[data-tei-rend*="strikethrough"] {
+  text-decoration: line-through;
+}
+
+tei-line[rend*="indent"],
+tei-line[data-tei-rend*="indent"],
+tei-p[rend*="indent"],
+tei-p[data-tei-rend*="indent"] {
+  padding-left: 2em;
+}
+
+/* Supplied text (editorial restorations) */
+tei-supplied::before {
+  content: "[";
+}
+tei-supplied::after {
+  content: "]";
+}
+tei-supplied {
+  color: #4a5568;
+  font-style: italic;
+}
+
+/* Corrected text (editorial corrections) */
+tei-corr {
+  text-decoration: underline dotted #2b6cb0;
+  text-underline-offset: 3px;
+}
+
+/* Unclear text (uncertain readings) */
+tei-unclear {
+  opacity: 0.75;
+  border-bottom: 1px dotted #a0aec0;
+  font-style: italic;
+}
+
+

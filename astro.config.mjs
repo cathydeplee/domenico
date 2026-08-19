@@ -4,5 +4,6 @@ import react from "@astrojs/react";
 // https://astro.build/config
 export default defineConfig({
   integrations: [react()],
-  base: '/domenico',
+  base: process.env.BASE_PATH !== undefined ? process.env.BASE_PATH : '/domenico',
 });
+
