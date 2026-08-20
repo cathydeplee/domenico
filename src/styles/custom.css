@@ -12,6 +12,49 @@ tei-p[data-tei-rend*="indent"] {
   padding-left: 2em;
 }
 
+tei-line[rend*="indent(2)"],
+tei-line[data-tei-rend*="indent(2)"],
+tei-p[rend*="indent(2)"],
+tei-p[data-tei-rend*="indent(2)"] {
+  padding-left: 4em;
+}
+
+tei-line[rend*="indent(3)"],
+tei-line[data-tei-rend*="indent(3)"],
+tei-p[rend*="indent(3)"],
+tei-p[data-tei-rend*="indent(3)"] {
+  padding-left: 6em;
+}
+
+tei-line[rend*="indent(4)"],
+tei-line[data-tei-rend*="indent(4)"],
+tei-p[rend*="indent(4)"],
+tei-p[data-tei-rend*="indent(4)"] {
+  padding-left: 8em;
+}
+
+tei-line[rend*="indent(5)"],
+tei-line[data-tei-rend*="indent(5)"],
+tei-p[rend*="indent(5)"],
+tei-p[data-tei-rend*="indent(5)"] {
+  padding-left: 10em;
+}
+
+tei-line[rend*="indent(6)"],
+tei-line[data-tei-rend*="indent(6)"],
+tei-p[rend*="indent(6)"],
+tei-p[data-tei-rend*="indent(6)"] {
+  padding-left: 12em;
+}
+
+tei-line[rend*="indent(-1)"],
+tei-line[data-tei-rend*="indent(-1)"],
+tei-p[rend*="indent(-1)"],
+tei-p[data-tei-rend*="indent(-1)"] {
+  padding-left: 0;
+  margin-left: -2em;
+}
+
 /* Supplied text (editorial restorations) */
 tei-supplied::before {
   content: "[";
@@ -33,8 +76,41 @@ tei-corr {
 /* Unclear text (uncertain readings) */
 tei-unclear {
   opacity: 0.75;
-  border-bottom: 1px dotted #a0aec0;
   font-style: italic;
+  text-decoration-style: wavy;
+  text-decoration-line: underline;
 }
 
+/* Marginal additions (generic margin, defaults to left) */
+tei-add[place~="margin"],
+tei-add[data-tei-place~="margin"] {
+  display: inline-block;
+  float: left;
+  clear: left;
+  margin-left: -6em;
+  width: 5em;
+  font-size: 0.8em;
+  color: #718096;
+  text-align: right;
+}
+
+/* Left-margin additions */
+tei-add[place="margin left"],
+tei-add[data-tei-place="margin left"] {
+  float: left;
+  clear: left;
+  margin-left: -6em;
+  margin-right: 0;
+  text-align: right;
+}
+
+/* Right-margin additions (explicit) */
+tei-add[place="margin right"],
+tei-add[data-tei-place="margin right"] {
+  float: right;
+  clear: right;
+  margin-right: 10em;
+  margin-left: 0;
+  text-align: left;
+}
 
