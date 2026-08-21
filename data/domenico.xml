@@ -311,15 +311,28 @@
 				<add><hi>De arte saltandi &amp; choreas ducendi</hi>.</add>
 			</line>
 			<line><add><hi>De la arte di ballare et danzare</hi></add>.</line>
-			<line/>
-			<line/>
+			<line>
+				<lb/>
+			</line>
+			<line>
+				<lb/>
+			</line>
+			<line>
+				<lb/>
+			</line>
+			<line>
+				<lb/>
+			</line>
+			<line>
+				<add place="margin">s</add>
+			</line>
 			<line rend="indent(6)"><add place="margin">1</add> RENGRATIANDO</line>
-			<line>el grande e triumfante Idio de li intelecti che per</line>
-			<line>gratia da lui sono imfusi, et a lui solo dato li</line>
-			<line>sia honore et gloria de tutte le operatione in-</line>
-			<line>intelectuale e moralle. E vogliando el</line>
+			<line rend="indent(3)">el grande e triumfante Idio de li intelecti che per</line>
+			<line rend="indent(3)">gratia da lui sono imfusi, et a lui solo dato li</line>
+			<line rend="indent(3)">sia honore et gloria de tutte le operatione in-</line>
+			<line rend="indent(3)">intelectuale e moralle. E vogliando el</line>
 			<line>spectable e nobele cavaliero messer Domenigino piacentino tra-</line>
-			<line>ctare <add>V</add> <add place="margin">del moto corporeo</add> cum grande reverentia, impetra a Quello che sempre per sua sancta</line>
+			<line>ctare <add place="above">V</add> <add place="margin">del moto corporeo</add> cum grande reverentia, impetra a Quello che sempre per sua sancta</line>
 			<line>humanitade s’è dignato de soccorere el dicto operante e tractante de</line>
 			<line>questa materia a bon fine. E pur volendo molti opponere a questo m-</line>
 			<line>oto azele e pelegrino opera<del>n</del>do cum grande subtilitade e fatica che sia</line>
