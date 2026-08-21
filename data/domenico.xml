@@ -326,7 +326,11 @@
 			<line>
 				<add place="margin">s</add>
 			</line>
-			<line rend="indent(6)"><add place="margin">1</add> RENGRATIANDO</line>
+			<line>
+				<lb/>
+				<add place="margin" rend="small">1</add>
+			</line>
+			<line rend="indent(6)">RENGRATIANDO</line>
 			<line rend="indent(3)">el grande e triumfante Idio de li intelecti che per</line>
 			<line rend="indent(3)">gratia da lui sono imfusi, et a lui solo dato li</line>
 			<line rend="indent(3)">sia honore et gloria de tutte le operatione in-</line>
@@ -356,7 +360,7 @@
 				<lb/>
 				<add place="margin">2</add>
 			</line>
-			<line rend="indent(2)"> Ota che niuna creatura creata che habia in sé de natura man-</line>
+			<line rend="indent(2)">Ota che niuna creatura creata che habia in sé de natura man-</line>
 			<line>camento, de questo motto zentille capace sia, digando lui che</line>
 			<line>zopi, gobi, guerci de tutti li ministerii aprensivi sono, salvo che de</line>
 			<line>questo <del>che</del> operandose seria frusta. Adomque li bisogna prosperità</line>
