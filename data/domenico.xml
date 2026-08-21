@@ -324,26 +324,22 @@
 				<lb/>
 			</line>
 			<line>
-				<add place="margin">s</add>
+				<add place="margin left">s</add>
 			</line>
-			<line>
-				<lb/>
-				<add place="margin" rend="small">1</add>
-			</line>
-			<line rend="indent(6)">RENGRATIANDO</line>
+			<line rend="indent(6)"><add place="margin left">1</add> RENGRATIANDO</line>
 			<line rend="indent(3)">el grande e triumfante Idio de li intelecti che per</line>
 			<line rend="indent(3)">gratia da lui sono imfusi, et a lui solo dato li</line>
 			<line rend="indent(3)">sia honore et gloria de tutte le operatione in-</line>
 			<line rend="indent(3)">intelectuale e moralle. E vogliando el</line>
 			<line>spectable e nobele cavaliero messer Domenigino piacentino tra-</line>
-			<line>ctare <add place="above">V</add> <add place="margin">del moto corporeo</add> cum grande reverentia, impetra a Quello che sempre per sua sancta</line>
+			<line>ctare <add place="above">V</add> <add place="margin left">del moto corporeo</add> cum grande reverentia, impetra a Quello che sempre per sua sancta</line>
 			<line>humanitade s’è dignato de soccorere el dicto operante e tractante de</line>
 			<line>questa materia a bon fine. E pur volendo molti opponere a questo m-</line>
 			<line>oto azele e pelegrino opera<del>n</del>do cum grande subtilitade e fatica che sia</line>
-			<line>venerea e de perditione de tempo, l’operante argumenta in lo 2° del heticha <add place="marginright"><q rend="note_d_autorite">} in 2° delhetica</q></add></line>
+			<line>venerea e de perditione de tempo, l’operante argumenta in lo 2° del heticha <add place="margin right">} in 2° delhetica</add></line>
 			<line>contra di questo, dicendo lui che tutte le cosse se corompono e guastase se</line>
 			<line>le sono conducte e menate in<unclear cert="low">divi</unclear>se cioè per le operatione extreme,</line>
-			<line>e la mezanitade conserva. E bene ch’el savio Aristotele tractasse del motto} <add place="marginright">Aristotele</add></line>
+			<line>e la mezanitade conserva. E bene ch’el savio Aristotele tractasse del motto} <add place="margin right">Aristotele</add></line>
 			<line>alquanto in lo X° del heticha, in altre parte non poté mai cum sua subtilitade</line>
 			<line>saper cavare el subtille del subtille de questo motto corporalle mosso da</line>
 			<line>luoco a luoco cum mexura, memoria, agilitade e mainera. Mexura de</line>
@@ -358,9 +354,8 @@
 			<line>in sua operatione.</line>
 			<line>
 				<lb/>
-				<add place="margin" rend="small">2</add>
 			</line>
-			<line rend="indent(2)">Ota che niuna creatura creata che habia in sé de natura man-</line>
+			<line rend="indent(2)"><add place="margin left" rend="small">2</add> Ota che niuna creatura creata che habia in sé de natura man-</line>
 			<line>camento, de questo motto zentille capace sia, digando lui che</line>
 			<line>zopi, gobi, guerci de tutti li ministerii aprensivi sono, salvo che de</line>
 			<line>questo <del>che</del> operandose seria frusta. Adomque li bisogna prosperità</line>
@@ -370,7 +365,7 @@
 			<line>pedi fino a lo capo, digando però questa belleza non satisfare la</line>
 			<line>virtù de questa zentile arte.</line>
 			<line/>
-			<line><add place="margin">3</add> Ota per Dio e non esser ingnorante de lo intelecto da Dio datto,</line>
+			<line rend="indent(2)"><add place="margin left" rend="small">3</add> Ota per Dio e non esser ingnorante de lo intelecto da Dio datto,</line>
 			<line>che oltra sii adoptado per natura de beleza, vogliando ti imparare</line>
 			<line>e cavare el constructo de questo zentille mestiero, lui dice che el</line>
 			<line>fondamento de questo si è mexura, la quale mexura <del>è</del> tutte preste-</line>
@@ -391,14 +386,14 @@
 			<line/>
 		</surface>
 		<surface facs="#f008">
-			<line><add place="margin">4°</add> Ota etiandio e apri lo intelecto. L’è un’altra mexura la quale</line>
+			<line rend="indent(2)"><add place="margin left">4°</add> Ota etiandio e apri lo intelecto. L’è un’altra mexura la quale</line>
 			<line>è composta cum la gratia de la mainera de el deportamento de tutta</line>
 			<line>la persona, la quale è deseperada da le mexure muxichale dicte disopra.</line>
 			<line>Questa mexura el tereno e mexura l<add place="above"><unclear>a</unclear></add>giera, e questa è quella che</line>
 			<line>fa tenire el mezo del tuo motto dal capo a li piedi, el quale non è</line>
 			<line>ni tropo ni poco, e fate fugire li extremi segondo ha dicto lui qui disopra.</line>
 			<line/>
-			<line><add place="margin">5°</add> Oltra dico a ti <del>galante</del> chi del mestiero vole imparare <del>el</del> biso-</line>
+			<line rend="indent(2)"><add place="margin left">5°</add> Oltra dico a ti <del>galante</del> chi del mestiero vole imparare <del>el</del> biso-</line>
 			<line>gna danzare per fantasmata; e nota che fantasmata è una presteza</line>
 			<line>corporalle la quale è mossa cum lo intellecto de la mexura dicta</line>
 			<line>imprima disopra, facendo requia a cadauno tempo, che pari ha-</line>
@@ -408,13 +403,13 @@
 			<line>cioè operando mexura, memoria, mainera cum mexura de</line>
 			<line>terreno e d’aiare.</line>
 			<line/>
-			<line><add place="margin">6</add> <add place="margin">a</add>Presso è neccessario a ti <del>galante</del> operando questa causa,</line>
+			<line rend="indent(2)"><add place="margin left">6        a</add>   Presso è neccessario a ti <del>galante</del> operando questa causa,</line>
 			<line>che segondo motto, sii buono per ti e per altri, cioè che concordantia de terreno</line>
 			<line>ge sia, che sempre ve retroviati segondo lo esser composito, cioè l’uno</line>
 			<line>cum l’altro porzendose aiuto fa<add place="below">ç</add>ando fine a le dançe secondo lo esser suo.</line>
 			<line/>
 			<line/>
-			<line><add place="margin left">7</add><add place="margin">°</add> <add place="margin left">o</add>R nocta che voiando provare che questo misterio è virtude per</line>
+			<line rend="indent(2)"><add place="margin left">7°       o</add>R nocta che voiando provare che questo misterio è virtude per</line>
 			<line>acidentia, el savio Aristotele dice in lo X° che in tutte le cosse è</line>
 			<line>alcuna buntade naturalmente, e intel dilecto è alcuno bene</line>
 			<line>adomque fuçando li extremi e malitia donque, è questa virtù; façando</line>
@@ -435,7 +430,7 @@
 			<line>che de molte parte è adoptato; e <add place="overleaf"><del>per</del></add> la mediocritade da te</line>
 			<line>galante sia conducta questa virtù singulare.</line>
 			<line/>
-			<line><add place="margin">8</add> <add place="left">o</add>R nota che per satisfare a ti <del>galante</del> lo esser de questo moto,</line>
+			<line rend="indent(2)"><add place="margin left">8        o</add>R nota che per satisfare a ti <del>galante</del> lo esser de questo moto,</line>
 			<line>lui dice che dodice motti sono in l'operare de questa arte, de li</line>
 			<line>quali ne cava nove naturalli e tri acidentalli. Li nove</line>
 			<line>naturalli operati sono in lo pino e li tri acidentalli operati</line>
@@ -445,7 +440,7 @@
 			<line>per consequente façando nocto a ti la natura e acidentia de quisti</line>
 			<line>motti.</line>
 			<line/>
-			<line><add place="margin">9°</add> R intendi e apri li ochi dicendo lui che li soptoscripti sono tutti na-</line>
+			<line rend="indent(2)"><add place="margin left">9°</add> R intendi e apri li ochi dicendo lui che li soptoscripti sono tutti na-</line>
 			<line>turali, cioè sempio, dopio, reprexa, continentia, reverentia, meza-</line>
 			<line>volta, volta tonda, movimento, salto; dicendo lui che la natura</line>
 			<line>in sì medemo neccessariamente tutti li opera senza mexure, li tri</line>
@@ -453,7 +448,7 @@
 			<line>quisti tri se acquistano per accidentia perché non sono necessarii segondo</line>
 			<line>natura.</line>
 			<line/>
-			<line><add place="margin">10</add> Ota che dopio, represa e reverentia dice lui esser de uno tempo;</line>
+			<line rend="indent(2)"><add place="margin left">10</add> Ota che dopio, represa e reverentia dice lui esser de uno tempo;</line>
 			<line>sempio, continentia, mezavolta, movimento e salto sono de mezo</line>
 			<line>tempo; voltatonda consiste dui tempi. E questo è segondo mo-</line>
 			<line>tto vero de bassadanza, mexurado mazore <add place="inspace">im</add>perfecto. Concludando</line>
@@ -480,7 +475,7 @@
 			<line>cilissima è, operando però inseme mexura sopratutto; de la quale</line>
 			<line>mexura alquante demonstratione ne faremo.</line>
 			<line/>
-			<line><add place="margin">11°</add> Ota e priegoti vogli aprire la virtù de lo intelecto ad intendere</line>
+			<line rend="indent(2)"><add place="margin left">11°</add> Ota e priegoti vogli aprire la virtù de lo intelecto ad intendere</line>
 			<line>che cossa è mexura de motto, etiandio como sono compositi li motti</line>
 			<line>sopra le mexure. Mexura çeneralle, segondo canto over sono o</line>
 			<line>movimento, consiste in mexurare el pieno cum lo vuodo, mexurare</line>
@@ -601,7 +596,7 @@
 			<line/>
 		</surface>
 		<surface facs="#f014">
-			<line><add place="margin">12°</add> Ota e intendi, a fine che de ingnorantia non me increpi. Ad-</line>
+			<line rend="indent(2)"><add place="margin left">12°</add> Ota e intendi, a fine che de ingnorantia non me increpi. Ad-</line>
 			<line>visandote che questa a lo intendere è subtilissima, vogliando lui che</line>
 			<line>tu sapi e revolvi tutte le mexure a tuo modo, cum ragione, per natura on</line>
 			<line>per accidentia. Nota per natura dare el suo ordine a ciascaduna</line>
@@ -627,7 +622,7 @@
 			<line>intelecto se pono operare como è dicto qui disopra.</line>
 			<line/>
 			<line/>
-			<line><add place="margin">13</add> Oota che la bassadanza, la quale è de mazor <add place="inspace">im</add>perfecto dico</line>
+			<line rend="indent(2)"><add place="margin left">13</add> Oota che la bassadanza, la quale è de mazor <add place="inspace">im</add>perfecto dico</line>
 			<line>se pò danzare per modi cinque, de li cinque dui hanno suo ordine</line>
 			<line>per motto de compartitione de tempo, li altri tri per acidentia</line>
 			<line>lo intelecto li pò spartirli e danzarli. Ma più difficille sono</line>
@@ -685,7 +680,7 @@
 			<line>Adomque resta tractare per quanti motti se pò danzare su la quadernaria.</line>
 			<line/>
 			<line/>
-			<line><add place="margin">14°</add> Ota che la quadernaria dico se pò danzare per modi quatro</line>
+			<line rend="indent(2)"><add place="margin left">14°</add> Ota che la quadernaria dico se pò danzare per modi quatro</line>
 			<line>Lo primo modo ha suo ordine danzando ti uno dopio e uno</line>
 			<line>frapamento drieto a lo dopio in uno tempo de quadernaria,</line>
 			<line>el segondo modo tu poi danzare bassadanza su la quadernaria,</line>
@@ -716,7 +711,7 @@
 			<line>de la calura de dio baco ponendo la scira fine al danzare.</line>
 			<line/>
 			<line/>
-			<line><add place="margin">15°</add> Ota che el saltarello per motto se pò dividire in modi cinque. El</line>
+			<line rend="indent(2)"><add place="margin left">15°</add> Ota che el saltarello per motto se pò dividire in modi cinque. El</line>
 			<line>primo motto ha suo ordine de mazor perfecto in lo suo esser de sua</line>
 			<line>mexura. El motto secondo posse danzare bassadanza, cioe che tu</line>
 			<line>poi pigliare dui tempi de saltarello e metterli in uno tempo de</line>
@@ -747,7 +742,7 @@
 			<line>se pò operare el motto in la mexura de la piva la quale è de menor</line>
 			<line>perfecto.</line>
 			<line/>
-			<line><add place="margin">16</add> Ota che la piva se pò danzare per motti quatro, lo primo motto</line>
+			<line rend="indent(2)"><add place="margin left">16</add> Ota che la piva se pò danzare per motti quatro, lo primo motto</line>
 			<line>ha lo suo ordine in suo esser, el motto segondo ha l’ordine suo de</line>
 			<line>motto, cioè che pigliando dui tempi de piva e farli uno motto de</line>
 			<line>bassadanza suso dicti dui tempi, la bassadanza harà suo ordine</line>
