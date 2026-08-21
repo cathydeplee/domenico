@@ -352,8 +352,11 @@
 		<surface facs="#f007">
 			<line>questa arte zentille havere in sé buntade <add place="above">per</add> natura e molte per <add place="overleaf">azidenzia</add></line>
 			<line>in sua operatione.</line>
-			<line/>
-			<line><add place="margin">2</add> Ota che niuna creatura creata che habia in sé de natura man-</line>
+			<line>
+				<lb/>
+				<add place="margin">2</add>
+			</line>
+			<line rend="indent(2)"> Ota che niuna creatura creata che habia in sé de natura man-</line>
 			<line>camento, de questo motto zentille capace sia, digando lui che</line>
 			<line>zopi, gobi, guerci de tutti li ministerii aprensivi sono, salvo che de</line>
 			<line>questo <del>che</del> operandose seria frusta. Adomque li bisogna prosperità</line>
