@@ -358,7 +358,7 @@
 			<line>in sua operatione.</line>
 			<line>
 				<lb/>
-				<add place="margin">2</add>
+				<add place="margin" rend="small">2</add>
 			</line>
 			<line rend="indent(2)">Ota che niuna creatura creata che habia in sé de natura man-</line>
 			<line>camento, de questo motto zentille capace sia, digando lui che</line>
