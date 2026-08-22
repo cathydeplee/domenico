@@ -2079,11 +2079,11 @@
 				<p>
 					<lb/>
 				</p>
-				<p rend="indent(5)"><add place="margin"><term rend="small">1.</term></add> <supplied cert="medium" reason="editorial">SEMPRE</supplied><note xml:id="note_f1_02">Ajout ici de "sempre": sur base de la lettre d'attente en marge "s", de l'espace laissé avant le premier mot écrit en capitale propisce à recevoir env.4 ou 5 caractères en capitale, et de la syntaxe qui fait supposet un adverbe.</note> RENGRATIANDO</p>
-				<p>el grande e triumfante Idio de li intelecti che per</p>
-				<p>gratia da lui sono imfusi, et a lui solo dato li</p>
+				<p rend="indent(3)"><add place="left" rend="small"><term rend="small">1.</term></add> <supplied cert="medium" reason="editorial">SEMPRE</supplied><note xml:id="note_f1_02">Ajout ici de "sempre": sur base de la lettre d'attente en marge "s", de l'espace laissé avant le premier mot écrit en capitale propisce à recevoir env.4 ou 5 caractères en capitale, et de la syntaxe qui fait supposet un adverbe.</note> RENGRATIANDO</p>
+				<p rend="indent(3)">el grande e triumfante Idio de li intelecti che per</p>
+				<p rend="indent(3)">gratia da lui sono imfusi, et a lui solo dato li</p>
 				<p>sia honore et gloria de tutte le operatione<note>Ms: i(n) en fin de ligne redondant avec le début du mot suivant</note></p>
-				<p>intelectuale e moralle. E vogliando el</p>
+				<p rend="indent(3)">intelectuale e moralle. E vogliando el</p>
 				<p>spectable e nobele cavaliero messer Domenigino piacentino tra-</p>
 				<p>ctare <ref target="note_0e136f54f0d64a489e7bbfa06e39e84e">del moto corporeo</ref><note xml:id="note_0e136f54f0d64a489e7bbfa06e39e84e">add. en marge de gauche d'une encre plus foncée, avec signe d'insertion dans le texte après 'tractare'</note> cum grande reverentia, impetra a Quello che sempre per sua sancta</p>
 				<p>humanitade s’è dignato de soccorere el dicto operante e tractante de</p>
@@ -2107,8 +2107,10 @@
 				</p>
 				<p>questa arte zentille havere in sé buntade <add place="above">per</add><note target="#note_f2_01" xml:id="note_f2_01">Ms: p(er) add. sublinéaire de main gothique à l'encre plus foncée; première et dernière lettre de natura retouchées de même.</note> natura e molte<note target="#note_f2_02" xml:id="note_f2_02">Procopio: "molto"</note> per azidenzia<note target="#note_f2_03" xml:id="note_f2_03">correction de main gothique sur effacement illisible. Smith: "erzadergia"; Casazza: "eczidenzia"</note></p>
 				<p>in sua operatione.</p>
-				<p/>
-				<p>2.<note xml:id="note_f01v_a">Numéro de paragraphe original en marge de gauche</note> <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_26a145b309864ce886cd7a684cbd51b8">Ajout du N à l'initiale (initiale d'attente ommise ici); Ms. Au-dessus du O première moitié d'un autre O, le copiste ayant probablement oublié le saut de ligne.</note> che niuna creatura creata che habia in sé de natura man-</p>
+				<p>
+					<lb/>
+				</p>
+				<p rend="indent(2)"><add place="left">2.</add><note xml:id="note_f01v_a">Numéro de paragraphe original en marge de gauche</note> <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_26a145b309864ce886cd7a684cbd51b8">Ajout du N à l'initiale (initiale d'attente ommise ici); Ms. Au-dessus du O première moitié d'un autre O, le copiste ayant probablement oublié le saut de ligne.</note> che niuna creatura creata che habia in sé de natura man-</p>
 				<p>camento, de questo motto zentille capace sia, digando lui che</p>
 				<p>zopi, gobi, guerci de tutti li ministerii aprensivi sono, salvo <ref target="note_d80b305461dc463cbb8c998c2a6877d3"><supplied>che</supplied></ref><note xml:id="note_d80b305461dc463cbb8c998c2a6877d3">Ms. che effacé à tort (mais lisible) ; rétabli par par Procopio.</note> de</p>
 				<p>questo che operandose seria frusta. Adomque li bisogna prosperità</p>
