@@ -2079,7 +2079,7 @@
 				<p>
 					<lb/>
 				</p>
-				<p rend="indent(3)"><add place="left" rend="small"><term rend="small">1.</term></add> <supplied cert="medium" reason="editorial">SEMPRE</supplied><note xml:id="note_f1_02">Ajout ici de "sempre": sur base de la lettre d'attente en marge "s", de l'espace laissé avant le premier mot écrit en capitale propisce à recevoir env.4 ou 5 caractères en capitale, et de la syntaxe qui fait supposet un adverbe.</note> RENGRATIANDO</p>
+				<p rend="indent(3)"><add place="left"><hi rend="small"><term rend="small">1.</term></hi></add> <supplied cert="medium" reason="editorial">SEMPRE</supplied><note xml:id="note_f1_02">Ajout ici de "sempre": sur base de la lettre d'attente en marge "s", de l'espace laissé avant le premier mot écrit en capitale propisce à recevoir env.4 ou 5 caractères en capitale, et de la syntaxe qui fait supposet un adverbe.</note> RENGRATIANDO</p>
 				<p rend="indent(3)">el grande e triumfante Idio de li intelecti che per</p>
 				<p rend="indent(3)">gratia da lui sono imfusi, et a lui solo dato li</p>
 				<p>sia honore et gloria de tutte le operatione<note>Ms: i(n) en fin de ligne redondant avec le début du mot suivant</note></p>
@@ -2110,7 +2110,7 @@
 				<p>
 					<lb/>
 				</p>
-				<p rend="indent(2)"><add place="left">2.</add><note xml:id="note_f01v_a">Numéro de paragraphe original en marge de gauche</note> <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_26a145b309864ce886cd7a684cbd51b8">Ajout du N à l'initiale (initiale d'attente ommise ici); Ms. Au-dessus du O première moitié d'un autre O, le copiste ayant probablement oublié le saut de ligne.</note> che niuna creatura creata che habia in sé de natura man-</p>
+				<p rend="indent(2)">2.<note xml:id="note_f01v_a">Numéro de paragraphe original en marge de gauche</note> <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_26a145b309864ce886cd7a684cbd51b8">Ajout du N à l'initiale (initiale d'attente ommise ici); Ms. Au-dessus du O première moitié d'un autre O, le copiste ayant probablement oublié le saut de ligne.</note> che niuna creatura creata che habia in sé de natura man-</p>
 				<p>camento, de questo motto zentille capace sia, digando lui che</p>
 				<p>zopi, gobi, guerci de tutti li ministerii aprensivi sono, salvo <ref target="note_d80b305461dc463cbb8c998c2a6877d3"><supplied>che</supplied></ref><note xml:id="note_d80b305461dc463cbb8c998c2a6877d3">Ms. che effacé à tort (mais lisible) ; rétabli par par Procopio.</note> de</p>
 				<p>questo che operandose seria frusta. Adomque li bisogna prosperità</p>
@@ -2119,8 +2119,10 @@
 				<p>habia adoptado e scolpido lo operante de questo mestiero da li</p>
 				<p>pedi fino a lo capo, digando però questa belleza non satisfare la</p>
 				<p>virtù de questa zentile arte.</p>
-				<p/>
-				<p>3. <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_f01v_b">Ajout éditorial du N. Initiale d'attente ommise ici.</note> per Dio e non esser ingnorante de lo intelecto da Dio datto,</p>
+				<p>
+					<lb/>
+				</p>
+				<p rend="indent(2)">3. <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_f01v_b">Ajout éditorial du N. Initiale d'attente ommise ici.</note> per Dio e non esser ingnorante de lo intelecto da Dio datto,</p>
 				<p>che oltra sii adoptado per natura de beleza, vogliando ti imparare</p>
 				<p>e cavare el constructo de questo zentille mestiero, lui dice che el</p>
 				<p>fondamento de questo si è mexura, la quale mexura <supplied reason="deleted">è</supplied><note xml:id="note_f01v_c">Supprimé (mais lisible) sans doute à tort, la même construction se retrouve à la fin de ce même paragraphe. Omis par Procopio.</note> tutte preste-</p>
@@ -2144,13 +2146,18 @@
 				<p>
 					<pb facs="#f008"/>
 				</p>
-				<p><add place="margin">4°</add><note xml:id="note_5c6dca2a012948b9ba9376b75bdffa56">Numérotation en marge de gauche.</note> <supplied cert="high">N</supplied>ota<note xml:id="note_f02r_a">Ajout éditorial du N, initiale d'attente ommise</note> etiandio e apri lo intelecto. L’è un’altra mexura la quale</p>
+				<p>
+					<lb/>
+				</p>
+				<p rend="indent(2)"><add place="margin">4°</add><note xml:id="note_5c6dca2a012948b9ba9376b75bdffa56">Numérotation en marge de gauche.</note> <supplied cert="high">N</supplied>ota<note xml:id="note_f02r_a">Ajout éditorial du N, initiale d'attente ommise</note> etiandio e apri lo intelecto. L’è un’altra mexura la quale</p>
 				<p>è composta cum la gratia de la mainera de el<note xml:id="note_f02r_1">Tr. Procopio: del portamento</note> deportamento de tutta</p>
 				<p>la persona, la quale è deseperada da le mexure muxichale dicte disopra.</p>
 				<p>Questa mexura<note xml:id="note_f02r_2">La structure de la phrase est ambigue de la par la double fonction syntaxique possible de mexura à la fois comme verbe et comme nom. La ponctuation choisie ici suppose le verbe dans la première partie de la phrase et le nom dans la suivante. Mais on aurait pu avoir également deux verbes (voir note suivante), qui correspond davantage au sens de la fin du paragraphe 5.</note> el tereno, e mexura <ref><sic>legiera</sic></ref><note xml:id="note_0f9364bca87c484c9cc16c2246d1fb64">Ms. lagiera corr. sur legiera, le premier "e" changé par grattage et add. interl. en "a" de forme gothique et d’une encre plus foncée. La raison de cette correction s’explique peut-être à la fin du § suivant où il est question de mesura de terreno e d’aiare. Une hypothèse étant que ce soit une erreur de copie à savoir "legiera" au lieu de "aiare" que le a suppr. a tenté de corriger vainement. Dans le doute nous gardons ici la forme la plus proche de la copie. Sur le point du i, de la même encre, est ajouté un trait vertical qui peut être un simple renforcement du point plutôt qu’une</note>, e questa è quella che</p>
 				<p>fa tenire el mezo del tuo motto dal capo a li piedi, el quale non è</p>
 				<p>ni tropo ni poco, e fate fugire li extremi segondo ha dicto lui qui disopra.</p>
-				<p/>
+				<p>
+					<lb/>
+				</p>
 				<p/>
 				<p><add place="margin">5°</add><note>Numérotation en marge de gauche</note> Oltra dico a ti<note>Suivi de <hi rend="italic">galante</hi> effacé systématiquement dans le ms sauf au f.2v par négligence</note> chi del mestiero vole imparare<note xml:id="note_f2r_5">Suivi de <hi rend="italic">el</hi> gratté</note> biso-</p>
 				<p>gna danzare per fantasmata; e nota che fantasmata è una presteza</p>
@@ -2161,12 +2168,16 @@
 				<p>ale como falcone che per paiça mosso sia, segonda la riegola disopra,</p>
 				<p>cioè operando mexura, memoria, mainera cum mexura de</p>
 				<p>terreno e d’aiare.</p>
-				<p/>
-				<p><add place="margin">6°</add><note xml:id="note_f2r_c">numéro 6 placé en marge, sans le petit o abrégé en exposant</note> Apresso<note xml:id="note_f2r_a">Initiale d'attente "a" en marge de gauche.</note> è neccessario a ti<note xml:id="note_f2r_b">Ms. Suivi de galante gratté systématiquement dans le ms sauf au f.2v par négligence</note>, operando questa causa,</p>
+				<p>
+					<lb/>
+				</p>
+				<p rend="indent(2)"><add place="margin">6°</add><note xml:id="note_f2r_c">numéro 6 placé en marge, sans le petit o abrégé en exposant</note> Apresso<note xml:id="note_f2r_a">Initiale d'attente "a" en marge de gauche.</note> è neccessario a ti<note xml:id="note_f2r_b">Ms. Suivi de "galante" gratté systématiquement dans le ms sauf au f.2v par négligence</note>, operando questa causa,</p>
 				<p>che segondo motto, sii buono per ti e per altri, cioè che concordantia de terreno<note xml:id="note_f2r_8">Ms. terre abrégé par tilde, ensuite complété par no débordant en marge, d’une encre plus foncée.</note></p>
 				<p>ge sia, che sempre ve retroviati segondo lo esser composito, cioè l’uno</p>
 				<p>cum l’altro porzendose aiuto façando<note xml:id="note_f2r6_9">Ms. cédille ajoutée d’une encre plus foncée.</note> fine a le dançe secondo lo esser suo.</p>
-				<p/>
+				<p>
+					<lb/>
+				</p>
 				<p><add place="margin">7°</add> Or<note xml:id="note_f2r7_a">O initiale d'attente en marge de gauche</note> nota<note xml:id="note_f2r7_11">Ms. nocta</note> che voiando provare che questo misterio è virtude per</p>
 				<p>acidentia, el savio Aristot<expan>e</expan>le dice in lo X° che in tutte le cosse è</p>
 				<p>alcuna buntade* naturalmente e intel dilecto è alcuno bene,</p>
@@ -2191,8 +2202,10 @@
 				<p>che de molte parte è adoptato; e <add place="overleaf"><del>per</del></add><note xml:id="note_f2r7_14">Ms. p(er) abrégé, en partie gratté, récrit en add. interlinéaire, plus petit mais d’apparence gothique et d’une encre plus foncée</note>la mediocritade da te</p>
 				<p>galante<note>Seul endroit du ms où le terme n'a pas été effacé, sans doute par négligence.</note> sia conducta questa virtù singulare.</p>
 				<p/>
-				<p/>
-				<p><add place="margin">8°</add><note xml:id="note_f2v8_a">Numéro en marge, le petit o en exposant est ommis. Ajout éditorial par cohérence</note> Or<note xml:id="note_f2v8_b">Initiale d'attente en marge de gauche</note> nota che per satisfare a ti<note xml:id="note_f2v8_2">Suivi de galante effacé, comme dans le reste du ms, sauf au § précédent</note> lo esser de questo moto,</p>
+				<p>
+					<lb/>
+				</p>
+				<p rend="indent(2)"><add place="margin">8°</add><note xml:id="note_f2v8_a">Numéro en marge, le petit o en exposant est ommis. Ajout éditorial par cohérence</note> Or<note xml:id="note_f2v8_b">Initiale d'attente en marge de gauche</note> nota che per satisfare a ti<note xml:id="note_f2v8_2">Suivi de galante effacé, comme dans le reste du ms, sauf au § précédent</note> lo esser de questo moto,</p>
 				<p>lui dice che dodice motti sono in l'operare de questa arte, de li</p>
 				<p>quali ne cava nove naturalli e tri acidentalli. Li nove</p>
 				<p>naturalli operati sono in lo p<corr>i</corr>no<note xml:id="note_f2v8_3">Accent ajouté en remplacement du point sur i, d’une encre plus foncée</note> e li tri acidentalli operati</p>
@@ -2201,7 +2214,7 @@
 				<p>tra uno tempo e l'altro, dico pieno innel tempo instanti. E</p>
 				<p>per consequente façando nocto a ti la natura e acidentia de quisti motti.</p>
 				<p/>
-				<p><add place="margin">9°</add><note xml:id="note_f2v9_a">Numéro en marge</note> <supplied cert="high">O</supplied>r<note xml:id="note_2fv9_b">Initiale d'attente ommise</note> intendi e apri li ochi, dicendo lui che li soptoscripti sono tutti na-</p>
+				<p rend="indent(2)"><add place="margin">9°</add><note xml:id="note_f2v9_a">Numéro en marge</note> <supplied cert="high">O</supplied>r<note xml:id="note_2fv9_b">Initiale d'attente ommise</note> intendi e apri li ochi, dicendo lui che li soptoscripti sono tutti na-</p>
 				<p>turali, cioè: sempio, dopio, reprexa, continentia, reverentia, meza-</p>
 				<p>volta, volta tonda, movimento, salto; dicendo lui che la natura</p>
 				<p>in sì medemo neccessariamente tutti li opera senza mexure. Li tri</p>
@@ -2237,8 +2250,10 @@
 				<p>se da lui non è operato la varietade de la mainera la quale diffe</p>
 				<p>cilissima è, operando però inseme mexura sopratutto; de la quale</p>
 				<p>mexura alquante demonstratione ne faremo.</p>
-				<p/>
-				<p><add place="margin"><ref target="note_80e7bef4473b4a0e91f64f67d0c3a6b9">11°</ref></add><note xml:id="note_fr3r10_a">Numéro de § en marge</note><ref target="note_80e7bef4473b4a0e91f64f67d0c3a6b9"></ref><supplied>N</supplied>ota<note xml:id="note_f3r11_b">Initiale d'attente N ommise</note> e priegoti vogli aprire la virtù de lo intelecto ad intendere</p>
+				<p>
+					<lb/>
+				</p>
+				<p rend="indent(2)"><add place="margin"><ref target="note_80e7bef4473b4a0e91f64f67d0c3a6b9">11°</ref></add><note xml:id="note_fr3r10_a">Numéro de § en marge</note><ref target="note_80e7bef4473b4a0e91f64f67d0c3a6b9"></ref><supplied>N</supplied>ota<note xml:id="note_f3r11_b">Initiale d'attente N ommise</note> e priegoti vogli aprire la virtù de lo intelecto ad intendere</p>
 				<p>che cossa è mexura de motto, etiandio como sono compositi li motti</p>
 				<p>sopra le mexure. Mexura çeneralle, segondo canto over sono o</p>
 				<p>movimento, consiste in mexurare el pieno cum lo vuodo, mexurare</p>
@@ -2330,43 +2345,51 @@
 				<p>
 					<pb facs="#f013"/>
 				</p>
-				<p>(B)<note xml:id="note_f4r_x">Début de séquence d'une 2e main (B), qui couvre l'entièreté du feuillet.</note> <ref target="note_8bf792fe93dc41fe87c147722ae1b82e">Capo</ref><note xml:id="note_8bf792fe93dc41fe87c147722ae1b82e">Le tableau /charte de ce feuillet est repris avec des variantes et sans la règle transversale (avec par conséquent une compréhension des termes parfois très étranges) dans les ms M, S, NY. Dans V, il est (par la même main (B) qu'ici ?) substentiellement tranformé par Cornozzano qui place la piva en haut. La présente transcription ne respecte pas la mise en page, ni les couleurs pour raisons techniques. Les pieds de mouche initiant chaque paragraphe ne sont pas reproduits non plus. Les coupures dans les § opérés par la règle verticale dans l'original sont remplacés dans la transcription diplomatique par des tirets (-).</note></p>
+				<p rend="indent(6)">(B)<note xml:id="note_f4r_x">Début de séquence d'une 2e main (B), qui couvre l'entièreté du feuillet.</note> <ref target="note_8bf792fe93dc41fe87c147722ae1b82e">Capo</ref><note xml:id="note_8bf792fe93dc41fe87c147722ae1b82e">Le tableau /charte de ce feuillet est repris avec des variantes et sans la règle transversale (avec par conséquent une compréhension des termes parfois très étranges) dans les ms M, S, NY. Dans V, il est (par la même main (B) qu'ici ?) substentiellement tranformé par Cornozzano qui place la piva en haut. La présente transcription ne respecte pas la mise en page, ni les couleurs pour raisons techniques. Les pieds de mouche initiant chaque paragraphe ne sont pas reproduits non plus. Les coupures dans les § opérés par la règle verticale dans l'original sont remplacés dans la transcription diplomatique par des tirets (-).</note></p>
 				<p/>
 				<p>Io sono bassadança de le me sure regina, e merito de portare</p>
 				<p>corona. Et in l'operare de mi poche genti hano ragione. E chi</p>
 				<p>in dançare <corr><ref target="note_9e4f557f3d2d4e4d8c619d2da69116e1">o</ref></corr><note xml:id="note_9e4f557f3d2d4e4d8c619d2da69116e1">"o" précédé d'un "l" biffé.</note> in sonare ben di me s'adopra, força che da li cieli</p>
 				<p>sia data l'opra.</p>
-				<p/>
-				<p/>
-				<p>Sexto</p>
+				<p>
+					<lb/>
+				</p>
+				<p>
+					<lb/>
+				</p>
+				<p rend="indent(6)">Sexto</p>
 				<p>Io son misura quadernaria per nome chiamata, e se gli</p>
 				<p>sonatori mi fano ragione lor retroverano che per compartitione</p>
 				<p>uno sexto callo da la mia regina. E s'el sonatore bono bene</p>
 				<p>di me se voglia regere de la bassadança e del saltarello tengo il mezo.</p>
-				<p/>
-				<p/>
-				<p>Terço</p>
+				<p>
+					<lb/>
+				</p>
+				<p>
+					<lb/>
+				</p>
+				<p rend="indent(6)">Terço</p>
 				<p>Io sono saltarello chiamato passo brabante che dui sexti callo</p>
 				<p>da la bassadanza e se gli sonatori prudenti mi vogliono com-</p>
 				<p>partire retroverano che tengo il meço de la misura quaderna-</p>
 				<p>ria e della piva.</p>
 				<p/>
 				<p/>
-				<p>Mezo</p>
+				<p rend="indent(6)">Mezo</p>
 				<p>Io sono piva per nome chiamata e de le misure son</p>
 				<p>la piu trista perche da gli villani sono adoperata, e per mia</p>
 				<p>presteça tanto me faccio inançi che tengo el meço de la bassadança</p>
 				<p/>
 				<p/>
-				<p>Terço</p>
+				<p rend="indent(6)">Terço</p>
 				<p>Salta rello</p>
 				<p/>
 				<p/>
-				<p>Sexto</p>
+				<p rend="indent(6)">Sexto</p>
 				<p>Quader naria</p>
 				<p/>
 				<p/>
-				<p>Capo</p>
+				<p rend="indent(6)">Capo</p>
 				<p>Bassa dança</p>
 				<p/>
 				<p/>
@@ -2375,7 +2398,7 @@
 				<p>
 					<pb facs="#f014"/>
 				</p>
-				<p>(A)<note xml:id="note_f5r_x">reprise de la 1e main (A)</note> <ref target="note_551ed62a4dca406883bd75255194ee39">12°</ref><note xml:id="note_551ed62a4dca406883bd75255194ee39">Numéro de § en marge de gauche.</note> <ref target="note_286d1d1628d04ab2b8d02b430b40f12c"><supplied cert="high">N</supplied>ota</ref><note xml:id="note_286d1d1628d04ab2b8d02b430b40f12c">Initiale d'attente "N" ommise mais espace laissé</note> e intendi, a fine che de ingnorantia non me increpi. Ad-</p>
+				<p rend="indent(2)">(A)<note xml:id="note_f5r_x">reprise de la 1e main (A)</note> <ref target="note_551ed62a4dca406883bd75255194ee39">12°</ref><note xml:id="note_551ed62a4dca406883bd75255194ee39">Numéro de § en marge de gauche.</note> <ref target="note_286d1d1628d04ab2b8d02b430b40f12c"><supplied cert="high">N</supplied>ota</ref><note xml:id="note_286d1d1628d04ab2b8d02b430b40f12c">Initiale d'attente "N" ommise mais espace laissé</note> e intendi, a fine che de ingnorantia non me increpi. Ad-</p>
 				<p>visandote che questa a lo intendere è subtilissima, vogliando lui che</p>
 				<p>tu sapi e revolvi tutte le mexure a tuo modo, cum ragione, per natura on</p>
 				<p>per accidentia. Nota per natura dare el suo ordine a ciascaduna</p>
@@ -2399,9 +2422,11 @@
 				<p>motto corporeo le quale mexure hanno suo ordine per distantia</p>
 				<p>e quelle non hanno suo ordine ma, per <ref target="note_ac061480da5a427983ee55008e1f5b9b">accidentia</ref><note xml:id="note_ac061480da5a427983ee55008e1f5b9b">Précédé de "diatantia" biffé et souligné en pointillé (pour indiquer une erreur de copie)</note>, de</p>
 				<p>intelecto se pono operare como è dicto qui disopra.</p>
+				<p>
+					<lb/>
+				</p>
 				<p/>
-				<p/>
-				<p><add place="margin"><ref target="note_91aab76b085a48e0944b6e7fba1b7f0f">13</ref></add><note xml:id="note_91aab76b085a48e0944b6e7fba1b7f0f">Numéro de paragraphe en marge de gauche. Petit ° ommis.</note> <ref target="note_06b7a82eb4cc43139bd80987129a9fe5"><supplied>N</supplied>ota</ref><note xml:id="note_06b7a82eb4cc43139bd80987129a9fe5">Double "o" par erreur. Initiale d'attente "N" ommise mais espace laissé.</note> che la bassadanza, la quale è de mazor <add place="inspace"><ref target="note_69ee881c4d2544e7acdc120df4f2117f">im</ref></add><ref target="note_69ee881c4d2544e7acdc120df4f2117f">perfecto</ref><note xml:id="note_69ee881c4d2544e7acdc120df4f2117f">"Im" abrégé inséré après coup. Id paragraphe 10</note> dico</p>
+				<p rend="indent(2)"><add place="margin"><ref target="note_91aab76b085a48e0944b6e7fba1b7f0f">13</ref></add><note xml:id="note_91aab76b085a48e0944b6e7fba1b7f0f">Numéro de paragraphe en marge de gauche. Petit ° ommis.</note> <ref target="note_06b7a82eb4cc43139bd80987129a9fe5"><supplied>N</supplied>ota</ref><note xml:id="note_06b7a82eb4cc43139bd80987129a9fe5">Double "o" par erreur. Initiale d'attente "N" ommise mais espace laissé.</note> che la bassadanza, la quale è de mazor <add place="inspace"><ref target="note_69ee881c4d2544e7acdc120df4f2117f">im</ref></add><ref target="note_69ee881c4d2544e7acdc120df4f2117f">perfecto</ref><note xml:id="note_69ee881c4d2544e7acdc120df4f2117f">"Im" abrégé inséré après coup. Id paragraphe 10</note> dico</p>
 				<p>se pò danzare per modi cinque. De li cinque dui hanno suo ordine*</p>
 				<p>per motto de compartitione de tempo, li altri tri per acidentia</p>
 				<p>lo intelecto <ref target="note_7a9b9e0e2b224ba396213ef6cc5b6a66"><sic>li</sic></ref><note xml:id="note_7a9b9e0e2b224ba396213ef6cc5b6a66">"li" probablement superflu</note>pò spartirli e danzarli. Ma più difficille sono</p>
@@ -2461,9 +2486,11 @@
 				<p>bassadanza seranno prestissimi; ma è de zentile intelecto a saperlo</p>
 				<p>fare. Et hai el quinto modo el quale se pò danzare in su la bassadanza.</p>
 				<p>Adomque resta tractare per quanti motti se pò danzare su la quadernaria.</p>
+				<p>
+					<lb/>
+				</p>
 				<p/>
-				<p/>
-				<p><add place="margin">14°</add> <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_ccd560777fb74e81a9f754f2c59b532a">Initiale d'attente "N" ommise. Ajoutée ici</note> che la quadernaria dico se pò danzare per modi quatro</p>
+				<p rend="indent(2)"><add place="margin">14°</add> <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_ccd560777fb74e81a9f754f2c59b532a">Initiale d'attente "N" ommise. Ajoutée ici</note> che la quadernaria dico se pò danzare per modi quatro</p>
 				<p>Lo primo modo ha suo ordine danzando ti uno dopio e uno</p>
 				<p>frapamento drieto a lo dopio in uno tempo de quadernaria</p>
 				<p>El segondo modo: tu poi danzare bassadanza su la quadernaria,</p>
@@ -2494,8 +2521,10 @@
 				<p>se adopera questo motto su li triumphi, quando li feri sono caldi</p>
 				<p>de la calura de dio Baco ponendo la scira fine al danzare.</p>
 				<p/>
-				<p/>
-				<p><add place="margin">15°</add><note xml:id="note_f6v_a">Numéro de § en marge; le signe ° placé étrangement entre le 1 et le 5 dans le ms. non reproduit ici</note> <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_f6v_b">Ajout de l'initiale. La lettre d'attente N est ommise dans le ms.</note> che el saltarello per motto se pò dividire in modi cinque. El</p>
+				<p>
+					<lb/>
+				</p>
+				<p rend="indent(2)"><add place="margin">15°</add><note xml:id="note_f6v_a">Numéro de § en marge; le signe ° placé étrangement entre le 1 et le 5 dans le ms. non reproduit ici</note> <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_f6v_b">Ajout de l'initiale. La lettre d'attente N est ommise dans le ms.</note> che el saltarello per motto se pò dividire in modi cinque. El</p>
 				<p>primo motto ha suo ordine de mazor perfecto in lo suo esser de sua</p>
 				<p>mexura. El motto secondo: posse danzare bassadanza, cioè che tu</p>
 				<p>poi pigliare dui tempi de saltarello e metterli in uno tempo de</p>
@@ -2528,7 +2557,7 @@
 				<p>se pò operare el motto in la mexura de la piva, la quale è de menor</p>
 				<p>perfecto.</p>
 				<p/>
-				<p><add place="margin">16</add> <supplied>N</supplied>ota<note xml:id="note_f7r_a">Ajout de l'initiale. Lettre d'attente ommise dans le ms.</note> che la piva se pò danzare per motti quatro. Lo primo motto</p>
+				<p rend="indent(2)"><add place="margin">16</add> <supplied>N</supplied>ota<note xml:id="note_f7r_a">Ajout de l'initiale. Lettre d'attente ommise dans le ms.</note> che la piva se pò danzare per motti quatro. Lo primo motto</p>
 				<p>ha lo suo ordine in suo esser. El motto segondo ha l’ordine suo de</p>
 				<p>motto, cioè che pigliando dui tempi de piva e farli uno motto de</p>
 				<p>bassadanza suso dicti dui tempi, la bassadanza harà suo ordine</p>
@@ -2545,9 +2574,11 @@
 				<p>imperò non haria suo ordine, ma è zentile a saperlo fare. Po-</p>
 				<p>nendo fine a le dicte mexure e fazandote noto le fabricatione</p>
 				<p>de le danze.</p>
+				<p>
+					<lb/>
+				</p>
 				<p/>
-				<p/>
-				<p>(B)<note xml:id="note_f7r_x">Le § qui commence ici et se termine à la fin du feuillet est écrit d'une autre main (B) (la même que celle du tableau, au f. 4v?)</note> Le infrascripte dançe sono composte, cusì il canto come le</p>
+				<p><hi rend="bold">(B)</hi><note xml:id="note_f7r_x">Le § qui commence ici et se termine à la fin du feuillet est écrit d'une autre main (B) (la même que celle du tableau, au f. 4v?)</note> Le infrascripte dançe sono composte, cusì il canto come le</p>
 				<p>parole, per lo spectabile et egregio cavagliero misser</p>
 				<p>Domenico da Piasença, salvo che il canto de la Figlia Guiliel</p>
 				<p>mino che è ballatta francese, et sopra esso canto el dicto</p>
@@ -2557,7 +2588,7 @@
 				<p>
 					<pb facs="#f019"/>
 				</p>
-				<p>(A)<note xml:id="note_7v_x">reprise de l'écriture par la 1e main (A)</note> Belreguardo im ballo, cioè uno homo e una dona.</p>
+				<p><hi rend="bold">(A)</hi><note xml:id="note_7v_x">reprise de l'écriture par la 1e main (A)</note> Belreguardo im ballo, cioè uno homo e una dona.</p>
 				<p><ref target="note_6e114509483541c58c3902faf5254a5a"><supplied>I</supplied></ref>mprima<note xml:id="note_f7v_a">Initiale d'attente "I" ommise dans le ms. Ajoutée ici.</note> fano tempi <ref target="note_be133b7c52a14ad3aa5676f45f8fedf2">XI</ref><note xml:id="note_be133b7c52a14ad3aa5676f45f8fedf2">Procopio: transforme en "XV" probablement par comparaison avec Pg, Pa et NY. (Dans V, pas d'indication du nombre de nombre de temps/pas de saltarello). B.Sparti considère les "XI tempi de saltarello" (repris également dans "Belreguardo nuovo" au f.suivant) de Pd corrects mais voit une erreur dans le chiffre de répétition "3" de la partition musicale du ms (à la fin de la 1e mesure) qui devrait être "2". Notons à ce sujet que la répétition "3" apparaît dans V, Pg et Pa et NY. Ces trois derniers changent néanmoins le nombre de pas en 15. Nous gardons XI (en considérant le 3 correct). Pour l'interprétation dansée voir Notes chorégraphiques.</note> de saltarello et afermase; façando</p>
 				<p>dupei quatro de bassadanza inseme, comenzando al pede sinistro</p>
 				<p>e fazando fine al drito, e poi fano dupii tri suso el pede sinistro</p>
