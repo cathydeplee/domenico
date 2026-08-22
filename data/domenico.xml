@@ -2076,8 +2076,10 @@
 				<p>
 					<lb/>
 				</p>
-				<p><lb/>1.</p>
-				<p rend="indent(5)"><supplied cert="medium" reason="editorial">SEMPRE</supplied><note xml:id="note_f1_02">Ajout de l'éditeur: sur base de la lettre d'attente en marge "s", de l'espace laissé avant le premier mot écrit en capitale propisce à recevoir env.4 ou 5 caractères en capitale, et de la syntaxe qui fait supposet un adverbe.</note> RENGRATIANDO</p>
+				<p>
+					<lb/>
+				</p>
+				<p rend="indent(5)"><add place="margin"><term rend="small">1.</term></add> <supplied cert="medium" reason="editorial">SEMPRE</supplied><note xml:id="note_f1_02">Ajout ici de "sempre": sur base de la lettre d'attente en marge "s", de l'espace laissé avant le premier mot écrit en capitale propisce à recevoir env.4 ou 5 caractères en capitale, et de la syntaxe qui fait supposet un adverbe.</note> RENGRATIANDO</p>
 				<p>el grande e triumfante Idio de li intelecti che per</p>
 				<p>gratia da lui sono imfusi, et a lui solo dato li</p>
 				<p>sia honore et gloria de tutte le operatione<note>Ms: i(n) en fin de ligne redondant avec le début du mot suivant</note></p>
