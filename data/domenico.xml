@@ -3,9 +3,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader xml:id="header">
 		<fileDesc>
-			<titleStmt>
-				<title>BnF. Département des Manuscrits. italien 972</title>
-			</titleStmt>
+			<titleStmt><title>BnF. Département des Manuscrits. italien 972</title></titleStmt>
 			<publicationStmt>
 				<publisher>Cathy De Plée</publisher>
 				<availability status="restricted">
@@ -309,25 +307,13 @@
 	</facsimile>
 	<sourceDoc xml:id="transcription_diplomatique">
 		<surface facs="#f006">
-			<line>
-				<add><hi>De arte saltandi &amp; choreas ducendi</hi>.</add>
-			</line>
+			<line><add><hi>De arte saltandi &amp; choreas ducendi</hi>.</add></line>
 			<line><add><hi>De la arte di ballare et danzare</hi></add>.</line>
-			<line>
-				<lb/>
-			</line>
-			<line>
-				<lb/>
-			</line>
-			<line>
-				<lb/>
-			</line>
-			<line>
-				<lb/>
-			</line>
-			<line>
-				<add place="margin left">s</add>
-			</line>
+			<line><lb/></line>
+			<line><lb/></line>
+			<line><lb/></line>
+			<line><lb/></line>
+			<line><add place="margin left">s</add></line>
 			<line rend="indent(6)"><add place="margin left">1</add> RENGRATIANDO</line>
 			<line rend="indent(3)">el grande e triumfante Idio de li intelecti che per</line>
 			<line rend="indent(3)">gratia da lui sono imfusi, et a lui solo dato li</line>
@@ -353,9 +339,7 @@
 		<surface facs="#f007">
 			<line>questa arte zentille havere in sé buntade <add place="above">per</add> natura e molte per <add place="overleaf">azidenzia</add></line>
 			<line>in sua operatione.</line>
-			<line>
-				<lb/>
-			</line>
+			<line><lb/></line>
 			<line rend="indent(2)"><add place="margin left" rend="small">2</add> Ota che niuna creatura creata che habia in sé de natura man-</line>
 			<line>camento, de questo motto zentille capace sia, digando lui che</line>
 			<line>zopi, gobi, guerci de tutti li ministerii aprensivi sono, salvo che de</line>
@@ -956,9 +940,7 @@
 			<line>et quello homo el quale è a la man drita de la dona se move in</line>
 			<line>instante cum la dicta dona fazando tempi tri de piva in dicta</line>
 			<line>mexura andagando la dona de dentrovia da lo homo intorno</line>
-			<line>
-				<add place="below">e lo homo va a la dona</add>
-			</line>
+			<line><add place="below">e lo homo va a la dona</add></line>
 		</surface>
 		<surface facs="#f026">
 			<line>e lo homo va a la dona di foravia, ritornando dicto homo a la</line>
@@ -969,18 +951,10 @@
 			<line>se ritrovano ne le poste loro como erano nel principio de la danza</line>
 			<line>fazando uno movimento et è fine.</line>
 			<line rend="indent">La Giloxia in canto.</line>
-			<line>
-				<lb/>
-			</line>
-			<line>
-				<lb/>
-			</line>
-			<line>
-				<lb/>
-			</line>
-			<line>
-				<lb/>
-			</line>
+			<line><lb/></line>
+			<line><lb/></line>
+			<line><lb/></line>
+			<line><lb/></line>
 			<line rend="indent">Giloxia a balo e va in siei zoè homeni tri e done tre.</line>
 			<line rend="indent">Mprima se pigliano homo uno et una dona per man tuti siei</line>
 			<line>in thiope tre. E fano tienpi siei de saltarelo largi in mexura qua-</line>
@@ -1838,22 +1812,12 @@
 			<line>in instante cioè façando la dona dui passi sempi et dui doppi co-</line>
 			<line>menzando col pè senestro, et façando fine dal dritto</line>
 			<line>&lt;<add place="margin">Poi la dona</add></line>
-			<line>
-				<add place="margin">sola se parte façando dui</add>
-			</line>
-			<line>
-				<add place="margin">passi sempi et quatro doppi com-</add>
-			</line>
-			<line>
-				<add place="margin">ançando dal senestro</add>
-			</line>
-			<line>
-				<add place="margin">a guisa de S </add>
-				<add>façando tucti tre in instante due re prese una sul pè se-</add>
-			</line>
-			<line>
-				<add place="margin">nestro, l'altra sul dritto</add>
-			</line>
+			<line><add place="margin">sola se parte façando dui</add></line>
+			<line><add place="margin">passi sempi et quatro doppi com-</add></line>
+			<line><add place="margin">ançando dal senestro</add></line>
+			<line><add place="margin">a guisa de S </add>
+<add>façando tucti tre in instante due re prese una sul pè se-</add></line>
+			<line><add place="margin">nestro, l'altra sul dritto</add></line>
 		</surface>
 		<surface facs="#f057">
 			<line>et in instanti tucti dui gli homini fano in detro tre represe comen-</line>
@@ -1979,20 +1943,12 @@
 	<text xml:id="transcription_annotee">
 		<body>
 			<div>
-				<head>
-					<pb facs="#f006"/>
-				</head>
+				<head><pb facs="#f006"/></head>
 				<head>De arte saltandi &amp; choreas ducendi.</head>
 				<head>De la arte di ballare et danzare.<note xml:id="note_f1_01">Titre bilingue ajouté probablement au XVIe s. par le possesseur du ms. ou un bibliothécaire.</note></head>
-				<p>
-					<lb/>
-				</p>
-				<p>
-					<lb/>
-				</p>
-				<p>
-					<lb/>
-				</p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
 				<p rend="indent(3)"><add place="left"><hi rend="small"><term rend="small">1.</term></hi></add> <supplied cert="medium" reason="editorial">SEMPRE</supplied><note xml:id="note_f1_02">Ajout ici de "sempre": sur base de la lettre d'attente en marge "s", de l'espace laissé avant le premier mot écrit en capitale propisce à recevoir env.4 ou 5 caractères en capitale, et de la syntaxe qui fait supposet un adverbe.</note> RENGRATIANDO</p>
 				<p rend="indent(3)">el grande e triumfante Idio de li intelecti che per</p>
 				<p rend="indent(3)">gratia da lui sono imfusi, et a lui solo dato li</p>
@@ -2016,14 +1972,10 @@
 				<p>vogliando operare questo motto per modo che tu nol condugi per li extremi, dico</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f007"/>
-				</p>
+				<p><pb facs="#f007"/></p>
 				<p>questa arte zentille havere in sé buntade <add place="above">per</add><note target="#note_f2_01" xml:id="note_f2_01">Ms: p(er) add. sublinéaire de main gothique à l'encre plus foncée; première et dernière lettre de natura retouchées de même.</note> natura e molte<note target="#note_f2_02" xml:id="note_f2_02">Procopio: "molto"</note> per azidenzia<note target="#note_f2_03" xml:id="note_f2_03">correction de main gothique sur effacement illisible. Smith: "erzadergia"; Casazza: "eczidenzia"</note></p>
 				<p>in sua operatione.</p>
-				<p>
-					<lb/>
-				</p>
+				<p><lb/></p>
 				<p rend="indent(2)">2.<note xml:id="note_f01v_a">Numéro de paragraphe original en marge de gauche</note> <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_26a145b309864ce886cd7a684cbd51b8">Ajout du N à l'initiale (initiale d'attente ommise ici); Ms. Au-dessus du O première moitié d'un autre O, le copiste ayant probablement oublié le saut de ligne.</note> che niuna creatura creata che habia in sé de natura man-</p>
 				<p>camento, de questo motto zentille capace sia, digando lui che</p>
 				<p>zopi, gobi, guerci de tutti li ministerii aprensivi sono, salvo <ref target="note_d80b305461dc463cbb8c998c2a6877d3"><supplied>che</supplied></ref><note xml:id="note_d80b305461dc463cbb8c998c2a6877d3">Ms. che effacé à tort (mais lisible) ; rétabli par par Procopio.</note> de</p>
@@ -2033,9 +1985,7 @@
 				<p>habia adoptado e scolpido lo operante de questo mestiero da li</p>
 				<p>pedi fino a lo capo, digando però questa belleza non satisfare la</p>
 				<p>virtù de questa zentile arte.</p>
-				<p>
-					<lb/>
-				</p>
+				<p><lb/></p>
 				<p rend="indent(2)">3. <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_f01v_b">Ajout éditorial du N. Initiale d'attente ommise ici.</note> per Dio e non esser ingnorante de lo intelecto da Dio datto,</p>
 				<p>che oltra sii adoptado per natura de beleza, vogliando ti imparare</p>
 				<p>e cavare el constructo de questo zentille mestiero, lui dice che el</p>
@@ -2054,24 +2004,17 @@
 				<p>dosse cum presteza, sempre operando el fondamento</p>
 				<p>de la causa, cioè mexura, la qualle è tardeza</p>
 				<p>ricoperada cum presteza<note xml:id="note_dfbc12887a8d4217873e08f290d4c9a6">Dans cette dernière phrase on remarque un espacement progressif des mots et l'allongement des dernières lettres qui laisse penser à une imitation par l'écriture de l'image véhiculée par le texte</note>.</p>
-				<p/>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f008"/>
-				</p>
-				<p>
-					<lb/>
-				</p>
+				<p><pb facs="#f008"/></p>
+				<p><lb/></p>
 				<p rend="indent(2)"><add place="margin">4°</add><note xml:id="note_5c6dca2a012948b9ba9376b75bdffa56">Numérotation en marge de gauche.</note> <supplied cert="high">N</supplied>ota<note xml:id="note_f02r_a">Ajout éditorial du N, initiale d'attente ommise</note> etiandio e apri lo intelecto. L’è un’altra mexura la quale</p>
 				<p>è composta cum la gratia de la mainera de el<note xml:id="note_f02r_1">Tr. Procopio: del portamento</note> deportamento de tutta</p>
 				<p>la persona, la quale è deseperada da le mexure muxichale dicte disopra.</p>
 				<p>Questa mexura<note xml:id="note_f02r_2">La structure de la phrase est ambigue de la par la double fonction syntaxique possible de mexura à la fois comme verbe et comme nom. La ponctuation choisie ici suppose le verbe dans la première partie de la phrase et le nom dans la suivante. Mais on aurait pu avoir également deux verbes (voir note suivante), qui correspond davantage au sens de la fin du paragraphe 5.</note> el tereno, e mexura <ref><sic>legiera</sic></ref><note xml:id="note_0f9364bca87c484c9cc16c2246d1fb64">Ms. lagiera corr. sur legiera, le premier "e" changé par grattage et add. interl. en "a" de forme gothique et d’une encre plus foncée. La raison de cette correction s’explique peut-être à la fin du § suivant où il est question de mesura de terreno e d’aiare. Une hypothèse étant que ce soit une erreur de copie à savoir "legiera" au lieu de "aiare" que le a suppr. a tenté de corriger vainement. Dans le doute nous gardons ici la forme la plus proche de la copie. Sur le point du i, de la même encre, est ajouté un trait vertical qui peut être un simple renforcement du point plutôt qu’une</note>, e questa è quella che</p>
 				<p>fa tenire el mezo del tuo motto dal capo a li piedi, el quale non è</p>
 				<p>ni tropo ni poco, e fate fugire li extremi segondo ha dicto lui qui disopra.</p>
-				<p>
-					<lb/>
-				</p>
+				<p><lb/></p>
 				<p/>
 				<p rend="indent(2)"><add place="margin">5°</add><note>Numérotation en marge de gauche</note> Oltra dico a ti<note>Suivi de <hi rend="italic">galante</hi> effacé systématiquement dans le ms sauf au f.2v par négligence</note> chi del mestiero vole imparare<note xml:id="note_f2r_5">Suivi de <hi rend="italic">el</hi> gratté</note> biso-</p>
 				<p>gna danzare per fantasmata; e nota che fantasmata è una presteza</p>
@@ -2082,16 +2025,12 @@
 				<p>ale como falcone che per paiça mosso sia, segonda la riegola disopra,</p>
 				<p>cioè operando mexura, memoria, mainera cum mexura de</p>
 				<p>terreno e d’aiare.</p>
-				<p>
-					<lb/>
-				</p>
+				<p><lb/></p>
 				<p rend="indent(2)"><add place="margin">6°</add><note xml:id="note_f2r_c">numéro 6 placé en marge, sans le petit o abrégé en exposant</note> Apresso<note xml:id="note_f2r_a">Initiale d'attente "a" en marge de gauche.</note> è neccessario a ti<note xml:id="note_f2r_b">Ms. Suivi de "galante" gratté systématiquement dans le ms sauf au f.2v par négligence</note>, operando questa causa,</p>
 				<p>che segondo motto, sii buono per ti e per altri, cioè che concordantia de terreno<note xml:id="note_f2r_8">Ms. terre abrégé par tilde, ensuite complété par no débordant en marge, d’une encre plus foncée.</note></p>
 				<p>ge sia, che sempre ve retroviati segondo lo esser composito, cioè l’uno</p>
 				<p>cum l’altro porzendose aiuto façando<note xml:id="note_f2r6_9">Ms. cédille ajoutée d’une encre plus foncée.</note> fine a le dançe secondo lo esser suo.</p>
-				<p>
-					<lb/>
-				</p>
+				<p><lb/></p>
 				<p rend="indent(2)"><add place="margin">7°</add> Or<note xml:id="note_f2r7_a">O initiale d'attente en marge de gauche</note> nota<note xml:id="note_f2r7_11">Ms. nocta</note> che voiando provare che questo misterio è virtude per</p>
 				<p>acidentia, el savio Aristot<expan>e</expan>le dice in lo X° che in tutte le cosse è</p>
 				<p>alcuna buntade* naturalmente e intel dilecto è alcuno bene,</p>
@@ -2099,12 +2038,9 @@
 				<p>ricordo che Aristotele in lo 2° lauda l’eutrapelia<note xml:id="note_f2r7_13">Ms. lautrope(l)ia avec l en add. interlinéaire. Smith, Bianchi : la utropeia. Wilson: lautropelia.</note> laquale del mezo</p>
 				<p>tene la virtù fuçando li estremi de lo forstiero campestre e</p>
 				<p>di quello che è giugolatore e <sic>ministro</sic><note xml:id="note_f2r7_12">Possiblement "menestrello" (ou une forme ancienne du terme)</note>, operando questo dilecto</p>
-				<p/>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f009"/>
-				</p>
+				<p><pb facs="#f009"/></p>
 				<p>per fugire tristeza e molesta<note>Procopio: molestia</note> domque è virtù. Ma non sapiamo noi che</p>
 				<p>la mexura è parte de prudentia et è ne le arte liberale? No sa-</p>
 				<p>piamo che la memoria è madre de la prudentia la quale se aquista</p>
@@ -2116,9 +2052,7 @@
 				<p>che de molte parte è adoptato; e <add place="overleaf"><del>per</del></add><note xml:id="note_f2r7_14">Ms. p(er) abrégé, en partie gratté, récrit en add. interlinéaire, plus petit mais d’apparence gothique et d’une encre plus foncée</note>la mediocritade da te</p>
 				<p>galante<note>Seul endroit du ms où le terme n'a pas été effacé, sans doute par négligence.</note> sia conducta questa virtù singulare.</p>
 				<p/>
-				<p>
-					<lb/>
-				</p>
+				<p><lb/></p>
 				<p rend="indent(2)"><add place="margin">8°</add><note xml:id="note_f2v8_a">Numéro en marge, le petit o en exposant est ommis. Ajout éditorial par cohérence</note> Or<note xml:id="note_f2v8_b">Initiale d'attente en marge de gauche</note> nota che per satisfare a ti<note xml:id="note_f2v8_2">Suivi de galante effacé, comme dans le reste du ms, sauf au § précédent</note> lo esser de questo moto,</p>
 				<p>lui dice che dodice motti sono in l'operare de questa arte, de li</p>
 				<p>quali ne cava nove naturalli e tri acidentalli. Li nove</p>
@@ -2142,9 +2076,7 @@
 				<p>tto vero de bassadanza, mexurado mazore <add place="inspace">im</add>perfecto<note xml:id="note_f2v10_6">Ms. i surmonté d’un tilde add. entre "mazor" et "perfetto". Noter que dans d’autres manuscrits (V, M) on trouve (erronément) "mazor perfetto" pour qualifier la mesure de bassadanza. Peut-être parce que cette mesure étant considérée la « reine » des mesures, on lui attribue, par extrapolation, la « perfection » au sens courant, sans tenir compte du sens musical restreint lié à la théorie de la musique mensurale.</note>; concludando</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f010"/>
-				</p>
+				<p><pb facs="#f010"/></p>
 				<p>che frapamento, scorsa e scambiamento sono de uno quarto de tempo,</p>
 				<p>tuttavolta operandone uno per tempo e non più. E se per intellecto</p>
 				<p>tu fussi adoptado de questa virtù, ne poi mettere dui per tempo, e</p>
@@ -2164,9 +2096,7 @@
 				<p>se da lui non è operato la varietade de la mainera la quale diffe</p>
 				<p>cilissima è, operando però inseme mexura sopratutto; de la quale</p>
 				<p>mexura alquante demonstratione ne faremo.</p>
-				<p>
-					<lb/>
-				</p>
+				<p><lb/></p>
 				<p rend="indent(2)"><add place="margin"><ref target="note_80e7bef4473b4a0e91f64f67d0c3a6b9">11°</ref></add><note xml:id="note_fr3r10_a">Numéro de § en marge</note><ref target="note_80e7bef4473b4a0e91f64f67d0c3a6b9"/><supplied>N</supplied>ota<note xml:id="note_f3r11_b">Initiale d'attente N ommise</note> e priegoti vogli aprire la virtù de lo intelecto ad intendere</p>
 				<p>che cossa è mexura de motto, etiandio como sono compositi li motti</p>
 				<p>sopra le mexure. Mexura çeneralle, segondo canto over sono o</p>
@@ -2178,13 +2108,9 @@
 				<p>prima, la quale è piu larga de le altre, se chiama per nome basse-</p>
 				<p>danza<note xml:id="note_f3r11_9">Ici et ailleurs, bassedanza alterné avec bassadanza. Cette orthographe, plus proche du français, pourrait témoigner une connaissance des basse danses bourguignonnes.</note>, de mazor <add place="inspace">im</add>perfecto<note xml:id="note_f3r11_10">Comme au § 10, i surmonté d’un tilde add. entre mazor et perfetto.</note>. La seconda mexura se chiama quaderna-</p>
 				<p>ria, de menore imperfecto, la quale per distantia de tempo è più</p>
-				<p/>
-				<p/>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f011"/>
-				</p>
+				<p><pb facs="#f011"/></p>
 				<p>strecta de la bassadanza uno sesto. La 3a mexura se chiama per</p>
 				<p>nome saltarello, de mazor perfecto, voi dire passo Brebant, e questa me-</p>
 				<p>xura per distantia de tempo è più strecta de la quadernaria uno altro se</p>
@@ -2216,13 +2142,9 @@
 				<p>tu principii el suo tempo in lo pieno e compisilo in lo vuodo; e</p>
 				<p>provetello. Nota, ti sonatore, quando comenci a sonare una</p>
 				<p>mesura de bassedanza, sempre comenza el sovrano più tosto che<note xml:id="note_f3v11_17">Ms. "che" répété au début du feuillet suivant, supprimé ici.</note></p>
-				<p/>
-				<p/>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f012"/>
-				</p>
+				<p><pb facs="#f012"/></p>
 				<p>la bota del tenore; quello sovrano che tu comenci si è ’l vuodo e la bo-</p>
 				<p>ta del tenore si è lo pino. E in la quadernaria, la quale è de menor</p>
 				<p>imperfecto, farae el contrario, che tu sonadore sempre recomenzarai</p>
@@ -2252,36 +2174,24 @@
 				<p>a calare la mitade, como vidi qui suso questa carta. La quale</p>
 				<p>carta dimostra le distantie de le mexure, como se dice sonare e danzare</p>
 				<p>più presto e più largo, e per questo modo se fa differente el motto corporeo.</p>
-				<p/>
-				<p/>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f013"/>
-				</p>
+				<p><pb facs="#f013"/></p>
 				<p rend="indent(6)">(B)<note xml:id="note_f4r_x">Début de séquence d'une 2e main (B), qui couvre l'entièreté du feuillet.</note> <ref target="note_8bf792fe93dc41fe87c147722ae1b82e">Capo</ref><note xml:id="note_8bf792fe93dc41fe87c147722ae1b82e">Le tableau /charte de ce feuillet est repris avec des variantes et sans la règle transversale (avec par conséquent une compréhension des termes parfois très étranges) dans les ms M, S, NY. Dans V, il est (par la même main (B) qu'ici ?) substentiellement tranformé par Cornozzano qui place la piva en haut. La présente transcription ne respecte pas la mise en page, ni les couleurs pour raisons techniques. Les pieds de mouche initiant chaque paragraphe ne sont pas reproduits non plus. Les coupures dans les § opérés par la règle verticale dans l'original sont remplacés dans la transcription diplomatique par des tirets (-).</note></p>
 				<p/>
 				<p>Io sono bassadança de le me sure regina, e merito de portare</p>
 				<p>corona. Et in l'operare de mi poche genti hano ragione. E chi</p>
 				<p>in dançare <corr><ref target="note_9e4f557f3d2d4e4d8c619d2da69116e1">o</ref></corr><note xml:id="note_9e4f557f3d2d4e4d8c619d2da69116e1">"o" précédé d'un "l" biffé.</note> in sonare ben di me s'adopra, força che da li cieli</p>
 				<p>sia data l'opra.</p>
-				<p>
-					<lb/>
-				</p>
-				<p>
-					<lb/>
-				</p>
+				<p><lb/></p>
+				<p><lb/></p>
 				<p rend="indent(6)">Sexto</p>
 				<p>Io son misura quadernaria per nome chiamata, e se gli</p>
 				<p>sonatori mi fano ragione lor retroverano che per compartitione</p>
 				<p>uno sexto callo da la mia regina. E s'el sonatore bono bene</p>
 				<p>di me se voglia regere de la bassadança e del saltarello tengo il mezo.</p>
-				<p>
-					<lb/>
-				</p>
-				<p>
-					<lb/>
-				</p>
+				<p><lb/></p>
+				<p><lb/></p>
 				<p rend="indent(6)">Terço</p>
 				<p>Io sono saltarello chiamato passo brabante che dui sexti callo</p>
 				<p>da la bassadanza e se gli sonatori prudenti mi vogliono com-</p>
@@ -2309,9 +2219,7 @@
 				<p/>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f014"/>
-				</p>
+				<p><pb facs="#f014"/></p>
 				<p rend="indent(2)"><hi rend="bold">(A)</hi><note xml:id="note_f5r_x">reprise de la 1e main (A)</note> <ref target="note_551ed62a4dca406883bd75255194ee39">12°</ref><note xml:id="note_551ed62a4dca406883bd75255194ee39">Numéro de § en marge de gauche.</note> <ref target="note_286d1d1628d04ab2b8d02b430b40f12c"><supplied cert="high">N</supplied>ota</ref><note xml:id="note_286d1d1628d04ab2b8d02b430b40f12c">Initiale d'attente "N" ommise mais espace laissé</note> e intendi, a fine che de ingnorantia non me increpi. Ad-</p>
 				<p>visandote che questa a lo intendere è subtilissima, vogliando lui che</p>
 				<p>tu sapi e revolvi tutte le mexure a tuo modo, cum ragione, per natura on</p>
@@ -2336,9 +2244,7 @@
 				<p>motto corporeo le quale mexure hanno suo ordine per distantia</p>
 				<p>e quelle non hanno suo ordine ma, per <ref target="note_ac061480da5a427983ee55008e1f5b9b">accidentia</ref><note xml:id="note_ac061480da5a427983ee55008e1f5b9b">Précédé de "diatantia" biffé et souligné en pointillé (pour indiquer une erreur de copie)</note>, de</p>
 				<p>intelecto se pono operare como è dicto qui disopra.</p>
-				<p>
-					<lb/>
-				</p>
+				<p><lb/></p>
 				<p/>
 				<p rend="indent(2)"><add place="margin"><ref target="note_91aab76b085a48e0944b6e7fba1b7f0f">13</ref></add><note xml:id="note_91aab76b085a48e0944b6e7fba1b7f0f">Numéro de paragraphe en marge de gauche. Petit ° ommis.</note> <ref target="note_06b7a82eb4cc43139bd80987129a9fe5"><supplied>N</supplied>ota</ref><note xml:id="note_06b7a82eb4cc43139bd80987129a9fe5">Double "o" par erreur. Initiale d'attente "N" ommise mais espace laissé.</note> che la bassadanza, la quale è de mazor <add place="inspace"><ref target="note_69ee881c4d2544e7acdc120df4f2117f">im</ref></add><ref target="note_69ee881c4d2544e7acdc120df4f2117f">perfecto</ref><note xml:id="note_69ee881c4d2544e7acdc120df4f2117f">"Im" abrégé inséré après coup. Id paragraphe 10</note> dico</p>
 				<p>se pò danzare per modi cinque. De li cinque dui hanno suo ordine*</p>
@@ -2347,9 +2253,7 @@
 				<p>quisti altri tri motti che li dicti dui, imperò che li bisogna</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f015"/>
-				</p>
+				<p><pb facs="#f015"/></p>
 				<p>mettere una grande presteza e tardeza a quilli motti li quali no hanno</p>
 				<p>suo ordine perché lo intelecto li cava fuora del suo esser. E nota</p>
 				<p>che quilli dui che hanno suo ordine per motto de danzare, lo primo ordine</p>
@@ -2383,9 +2287,7 @@
 				<p>a l’altro. Et hai el primo motto difficile. El segondo</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f016"/>
-				</p>
+				<p><pb facs="#f016"/></p>
 				<p>motto difficile è che tu poi danzare in dui modi el motto del sal-</p>
 				<p>tarello su la bassadanza. El primo si è che tu poi mettere uno tempo</p>
 				<p>de saltarello in uno de bassedanza, ma lo saltarello serà largo, perché</p>
@@ -2400,9 +2302,7 @@
 				<p>bassadanza seranno prestissimi; ma è de zentile intelecto a saperlo</p>
 				<p>fare. Et hai el quinto modo el quale se pò danzare in su la bassadanza.</p>
 				<p>Adomque resta tractare per quanti motti se pò danzare su la quadernaria.</p>
-				<p>
-					<lb/>
-				</p>
+				<p><lb/></p>
 				<p/>
 				<p rend="indent(2)"><add place="margin">14°</add> <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_ccd560777fb74e81a9f754f2c59b532a">Initiale d'attente "N" ommise. Ajoutée ici</note> che la quadernaria dico se pò danzare per modi quatro</p>
 				<p>Lo primo modo ha suo ordine danzando ti uno dopio e uno</p>
@@ -2422,9 +2322,7 @@
 				<p>del saltarello è uno dopio cum uno salteto, e quello de la</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f017"/>
-				</p>
+				<p><pb facs="#f017"/></p>
 				<p>quadernaria è uno dopio cum uno frapamento, ch’è più lungo, co-</p>
 				<p>mo è dicto disopra in lo capitolo XIII°. El modo quarto: se pò dan-</p>
 				<p>zar su la quadernaria el motto de la piva, cioè che tu poni dui</p>
@@ -2435,9 +2333,7 @@
 				<p>se adopera questo motto su li triumphi, quando li feri sono caldi</p>
 				<p>de la calura de dio Baco ponendo la scira fine al danzare.</p>
 				<p/>
-				<p>
-					<lb/>
-				</p>
+				<p><lb/></p>
 				<p rend="indent(2)"><add place="margin">15°</add><note xml:id="note_f6v_a">Numéro de § en marge; le signe ° placé étrangement entre le 1 et le 5 dans le ms. non reproduit ici</note> <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_f6v_b">Ajout de l'initiale. La lettre d'attente N est ommise dans le ms.</note> che el saltarello per motto se pò dividire in modi cinque. El</p>
 				<p>primo motto ha suo ordine de mazor perfecto in lo suo esser de sua</p>
 				<p>mexura. El motto secondo: posse danzare bassadanza, cioè che tu</p>
@@ -2461,9 +2357,7 @@
 				<p>piva in uno tempo de saltarello; ma lo motto de la piva serae</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f018"/>
-				</p>
+				<p><pb facs="#f018"/></p>
 				<p>prestissimo; ricordante<note xml:id="note_f7r_d">Contrairement au feuillet précédent, pas de "do" ajouté en interlinéaire. Nous gardons ici cette forme plus rare dans le ms. de participe présent (au lieu du gérondif plus courant dans le ms)</note> che el capitolo XI° dice che la piva tene el</p>
 				<p>mezo per distantia de la bassadanza, e vogliando tignesse el mezo del sal-</p>
 				<p>tarello seriano li tempi dui de piva prestissimi, imperò non haria</p>
@@ -2488,9 +2382,7 @@
 				<p>imperò non haria suo ordine, ma è zentile a saperlo fare. Po-</p>
 				<p>nendo fine a le dicte mexure e fazandote noto le fabricatione</p>
 				<p>de le danze.</p>
-				<p>
-					<lb/>
-				</p>
+				<p><lb/></p>
 				<p/>
 				<p><hi rend="bold">(B)</hi><note xml:id="note_f7r_x">Le § qui commence ici et se termine à la fin du feuillet est écrit d'une autre main (B) (la même que celle du tableau, au f. 4v?)</note> Le infrascripte dançe sono composte, cusì il canto come le</p>
 				<p>parole, per lo spectabile et egregio cavagliero misser</p>
@@ -2499,9 +2391,7 @@
 				<p>cavagliero ha composti i di<unclear>ct</unclear>i<note xml:id="note_f7r_f">abréviation peu claire.</note> balli.</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f019"/>
-				</p>
+				<p><pb facs="#f019"/></p>
 				<p><hi rend="bold">(A)</hi><note xml:id="note_7v_x">reprise de l'écriture par la 1e main (A)</note> Belreguardo im ballo, cioè uno homo e una dona.</p>
 				<p><ref target="note_6e114509483541c58c3902faf5254a5a"><supplied>I</supplied></ref>mprima<note xml:id="note_f7v_a">Initiale d'attente "I" ommise dans le ms. Ajoutée ici.</note> fano tempi <ref target="note_be133b7c52a14ad3aa5676f45f8fedf2">XI</ref><note xml:id="note_be133b7c52a14ad3aa5676f45f8fedf2">Procopio: transforme en "XV" probablement par comparaison avec Pg, Pa et NY. (Dans V, pas d'indication du nombre de nombre de temps/pas de saltarello). B.Sparti considère les "XI tempi de saltarello" (repris également dans "Belreguardo nuovo" au f.suivant) de Pd corrects mais voit une erreur dans le chiffre de répétition "3" de la partition musicale du ms (à la fin de la 1e mesure) qui devrait être "2". Notons à ce sujet que la répétition "3" apparaît dans V, Pg et Pa et NY. Ces trois derniers changent néanmoins le nombre de pas en 15. Nous gardons XI (en considérant le 3 correct). Pour l'interprétation dansée voir Notes chorégraphiques.</note> de saltarello et afermase; façando</p>
 				<p>dupei quatro de bassadanza inseme, comenzando al pede sinistro</p>
@@ -2522,9 +2412,7 @@
 				<p>tempo de bassadanza. Fine.</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f020"/>
-				</p>
+				<p><pb facs="#f020"/></p>
 				<p>Belreguardo novo, e va in homini dui et una dona in mezo e</p>
 				<p>balasse sul canto del vechio</p>
 				<p>Imprima<note xml:id="note_f8r_b">Initiale d'attente "I" en marge de gauche</note> fano tutti tri de compagnia a mano, tempi <ref target="note_acfdde10d6b74b24b40b48163fdc2f6a">XI</ref><note xml:id="note_acfdde10d6b74b24b40b48163fdc2f6a">Voir Belriguardo (vechio) feuillet précédent, note relative au même chiffre XI, ligne 2.</note></p>
@@ -2558,9 +2446,7 @@
 				<p>dredano boto del dicto segondo tempo de saltarello la dicta dona</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f021"/>
-				</p>
+				<p><pb facs="#f021"/></p>
 				<p>fuze cum uno dopio inanti comenzando cum lo pè drito, e aferma-</p>
 				<p>se; poi tutti dui li homini se moveno cum uno dopio suso el pè drito</p>
 				<p>ritrovandosse in capo de dicto dopio tutti dui equali a la dicta dona</p>
@@ -2590,9 +2476,7 @@
 				<p>Lionzello in canto</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f022"/>
-				</p>
+				<p><pb facs="#f022"/></p>
 				<p>Lionzello vechio a ballo, è in uno homo cum la dona</p>
 				<p><supplied>I</supplied>mprima<note>Ommission de l'initiale d'attente "I" dans le ms, ajoutée ici</note> fano tutti dui a mano tempi sei de saltarello co-</p>
 				<p>menzando cum lo pè sinistro in mexura quadernaria e afermase;</p>
@@ -2620,9 +2504,7 @@
 				<p>vimenti sono tempi dui in mexura quadernaria. Fine.</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f023"/>
-				</p>
+				<p><pb facs="#f023"/></p>
 				<p>Lionzello novo sul medesmo<note xml:id="note_f9r_c">Ms. "s" addition supralinéaire d'une encre plus foncée</note> canto vechio, e va humini dui cum una dona</p>
 				<p>in mezo.</p>
 				<p>Imprima<note>Initiale d'attente "I" en marge</note> dicti dui homini cum la dona in mezo fano tempi</p>
@@ -2656,9 +2538,7 @@
 				<p>cum uno dopio sul pè drito e afermase, poi li dicti dui homini</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f024"/>
-				</p>
+				<p><pb facs="#f024"/></p>
 				<p>vano pur a la lor via contrarii de la dona, cum uno dopio sul pè drito.</p>
 				<p>//Apresso nota che ininstanti dicti dui homini e dona danno una meza-</p>
 				<p>volta sul pè drito, riguardandose a volto a volto, fazando represe</p>
@@ -2686,9 +2566,7 @@
 				<p>Nota che dicta dona va inanti cum passi quatro sempii in mexura</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f025"/>
-				</p>
+				<p><pb facs="#f025"/></p>
 				<p>quadernaria comenzando cum lo pè sinistro; poi li dicti homini sie-</p>
 				<p>gueno la dona cum quilli medemi quatro pasi, ritrovandose e-</p>
 				<p>quali a lei. La dona dà una mezavolta suso el lato sinistro donde</p>
@@ -2722,9 +2600,7 @@
 				<p>mexura, andagando la dona de dentrovia da lo homo intorno,</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f026"/>
-				</p>
+				<p><pb facs="#f026"/></p>
 				<p><ref target="note_fc35c980812e463e818fcd89ce2847ad">e lo homo va a la dona</ref><note xml:id="note_fc35c980812e463e818fcd89ce2847ad">morceau de phrase en appel au bas du feuillet précédent, non transcrit ici</note> di foravia, ritornando dicto homo a la</p>
 				<p>posta sua, afermandose; et in questo instante la dona se ritrova</p>
 				<p>in mezo de dicti dui homini; e l’altro homo, el quale è stato fermo</p>
@@ -2733,18 +2609,10 @@
 				<p>se ritrovano ne le poste loro como erano nel principio de la danza,</p>
 				<p>fazando uno movimento, et è fine.</p>
 				<p rend="indent">(C)<note xml:id="note_f11r_a">Intervention d'une 3e main (C), qui sera interrompue au milieu de la danse (reprise de A)</note> La Giloxia in canto</p>
-				<p>
-					<lb/>
-				</p>
-				<p>
-					<lb/>
-				</p>
-				<p>
-					<lb/>
-				</p>
-				<p>
-					<lb/>
-				</p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
 				<p rend="indent">Giloxia a balo e va in siei zoè homeni tri e done tre.</p>
 				<p rend="indent">Imprima<note xml:id="note_f11r_b">Initiale d'attente "i" ommise, ajoutée ici</note> se pigliano homo uno et una dona per man tuti siei</p>
 				<p>in thiope tre e fano tienpi siei de saltarelo largi in mexura qua-</p>
@@ -2757,9 +2625,7 @@
 				<p>Lo homo che è apreso la dita dona de meço fa uno tenpo di sal-</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f027"/>
-				</p>
+				<p><pb facs="#f027"/></p>
 				<p>tarelo in mexura quadernaria partandose cun lo pè drito e va ap-</p>
 				<p>reso la prima dona e li se aferma.</p>
 				<p>Apreso nota che lo homo che è de meço a lato la man drita de la</p>
@@ -2790,24 +2656,14 @@
 				<p>ritrova in mezo, e quello de mezo si ritrova denanti: sì che l’è</p>
 				<p>necesso che dicta danza se façi volte tre vogliando che cada<corr>u</corr>no<note>Ms. cadanno</note></p>
 				<p>de li homini habino el dover suo.</p>
-				<p>
-					<lb/>
-				</p>
+				<p><lb/></p>
 				<p rend="indent">Pizochara in canto da sonare</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f028"/>
-				</p>
-				<p>
-					<lb/>
-				</p>
-				<p>
-					<lb/>
-				</p>
-				<p>
-					<lb/>
-				</p>
+				<p><pb facs="#f028"/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
 				<p rend="indent">Pizochara a ballo, e va in homini quatro, e quatro done.</p>
 				<p rend="indent">Imprima vano uno homo e una dona per mano che veneno a esser</p>
 				<p>chiope quatro, e vano large dicte chiope l’una da l’altra per spa-</p>
@@ -2828,9 +2684,7 @@
 				<p>lasandola poi e fazando passi sempii dui e dupii XI comenzando</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f029"/>
-				</p>
+				<p><pb facs="#f029"/></p>
 				<p>col pede sinistro, pasando el dicto primo homo denanti a la dona sua</p>
 				<p>et andagando d’intorno a le altre done inseme cum li compagni y</p>
 				<p>ch’el siegue per ordine a guisa de una bissa, e quando el dicto primo</p>
@@ -2864,9 +2718,7 @@
 				<p>rimane apresso quella de drieto.</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f030"/>
-				</p>
+				<p><pb facs="#f030"/></p>
 				<p>(C) Verçepe in canto a sonare</p>
 				<p/>
 				<p/>
@@ -2885,9 +2737,7 @@
 				<p>prexa su lo pede drito faciendo fine dal sinestro tornendo ne</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f031"/>
-				</p>
+				<p><pb facs="#f031"/></p>
 				<p>li luogi suoi de prima e afermansse. Poi le done gie risponde</p>
 				<p>cun tienpi dui de basadança dagando una volta tunda ne li</p>
 				<p>luogi suoi mediexemi cun pasi dui sienpii et una reprexa</p>
@@ -2921,9 +2771,7 @@
 				<p>de la dona, e lo segundo boto equalle a la man drita de lo ho(mino)</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f032"/>
-				</p>
+				<p><pb facs="#f032"/></p>
 				<p>de mezo, e lo terço botto equalle a la man sinistra de l'altra dona</p>
 				<p>e lo quarto botto se vene a trovare ne la posta del cunpagno</p>
 				<p>suo che era inanti, e afermansse tuti dui.</p>
@@ -2957,9 +2805,7 @@
 				<p>tri li homini ge rispondeno cun uno altro poi le done dano quella</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f033"/>
-				</p>
+				<p><pb facs="#f033"/></p>
 				<p>medema volta tonda che deteno li homini. Fine.</p>
 				<p>Ma nota che l'homo che era denanti nel principio de la dicta</p>
 				<p>danza se ritrova de drieto ne la fine e vogliando fare più dicta</p>
@@ -2986,9 +2832,7 @@
 				<p>nanti, e la dona de sopra da lui, tutti dui in uno instante fazando</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f034"/>
-				</p>
+				<p><pb facs="#f034"/></p>
 				<p>passi dui sempii comenzando col pè sinistro et una riverentia suso</p>
 				<p>dicto pè rimanendo la dona de sopra a lo homo; e nota che vogliando</p>
 				<p>pigliarse per mano fazando dicti dui sempii e reverentia se pò fare</p>
@@ -3013,9 +2857,7 @@
 				<p>[I]Mprima fano tempi XII de piva tutti tri inseme in mexura</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f035"/>
-				</p>
+				<p><pb facs="#f035"/></p>
 				<p>quadernaria, e afermanse. E nota che lo primo homo fa uno dopio in-</p>
 				<p>anti sul pè sinistro lassando la dona, e fermase. Poi la dona si lo siegue</p>
 				<p>andagandoge apresso cum uno dopio sul sinistro pede et afermase</p>
@@ -3049,9 +2891,7 @@
 				<p>Anello in Canto</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f036"/>
-				</p>
+				<p><pb facs="#f036"/></p>
 				<p>(C)Anello a balo, e va homini dui e done doe</p>
 				<p>[I]Mprima fano diti homeni e done moti oto di saltarelo</p>
 				<p>in mexura de piva, andagando in ciope doe large l'una da l'altra</p>
@@ -3072,9 +2912,7 @@
 				<p>done fano uno movimento rispondandoge li homini como uno</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f037"/>
-				</p>
+				<p><pb facs="#f037"/></p>
 				<p>altro, facendo dicte done la simel volta che feceno li homini, afir-</p>
 				<p>mandose.</p>
 				<p>//Ancora nota che li homini fano tempi quatro de piva movandose</p>
@@ -3104,9 +2942,7 @@
 				<p>Ora nota che el sa a fare tienpi XII e mezo de basadanza</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f038"/>
-				</p>
+				<p><pb facs="#f038"/></p>
 				<p>zoè lo homo e la dona se pigliano per man façando reprexe doe co-</p>
 				<p>mencando su lo pè sinistro. Poi se lasano per la mano, piglian-</p>
 				<p>dose per la man drita facendo pasi dui sienpi e uno dopio come-</p>
@@ -3135,9 +2971,7 @@
 				<p>Iupiter in canto a sonare</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f039"/>
-				</p>
+				<p><pb facs="#f039"/></p>
 				<p>Iupiter a balo, e va in homeni dui e una dona</p>
 				<p>(A) [I]Mprima va uno de li homini inanti e la dona li va driedo</p>
 				<p>e l'altro homo va driedo a la dona, andagando largi l'uno da l'altro</p>
@@ -3165,9 +2999,7 @@
 				<p>anti comenzando cun lo pè sinistro, e fase questa parte volte doe</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f040"/>
-				</p>
+				<p><pb facs="#f040"/></p>
 				<p>dunde gie cunsiste tienpi diexe de basadanza zoè cinque per volta</p>
 				<p>ritrovandose tuti tri a le poste soe de prima in l'ultima volta.</p>
 				<p>Nota che poi se fano tienpi nove de piva, butandose tuti su lo pè</p>
@@ -3201,9 +3033,7 @@
 				<p>dui altri indrieto uno equale a la mane drita de la dona e l'altro</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f041"/>
-				</p>
+				<p><pb facs="#f041"/></p>
 				<p>ne la posta del compagno, et in quello instante el dicto suo compagno</p>
 				<p>ne fa dui inanti uno equale a la mane sinistra de la dona e l'altro</p>
 				<p>ne la posta del compagno suo, e afermanse tutti dui dicti hommi,</p>
@@ -3220,9 +3050,7 @@
 				<p>La fia guilmin in canto</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f042"/>
-				</p>
+				<p><pb facs="#f042"/></p>
 				<p>(A) Questa è una dança chiamata la fiaguielmina laquale foe</p>
 				<p>facta el canto suo in Franza, e suzo dicto canto messer Domenego</p>
 				<p>gli fece (canti) balli dui de liquali questo ne uno e va im persone quatro in</p>
@@ -3251,9 +3079,7 @@
 				<p>sul galono sinistro et le done ininstanti tornano indriedo</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f043"/>
-				</p>
+				<p><pb facs="#f043"/></p>
 				<p>cum quello medemo che feceno li homini inanti; poi ininstante</p>
 				<p>dicti homini e done tornano a li lor logi in dicta mexura tornan-</p>
 				<p>do dicte done como uno tempo a guisa de saltarello e fermanse,</p>
@@ -3286,9 +3112,7 @@
 				<p>salto de mezo tempo de piva, e movesse lui et dicta dona</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f044"/>
-				</p>
+				<p><pb facs="#f044"/></p>
 				<p>che li guarda ne la faza, fazando tempi tri de piva, cioè l'ho-</p>
 				<p>mo che è de drieto va ritrovare la sua dona ch'è denanti, et</p>
 				<p>la dicta dona vene a ritrovare l'homo suo che è de drieto. Ri-</p>
@@ -3322,9 +3146,7 @@
 				<p>tutti dui, andagando l'homo indrieto e la dona inanti com passi</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f045"/>
-				</p>
+				<p><pb facs="#f045"/></p>
 				<p>dui sempii e dupii dui comenzando dal pè sinistro voltandose</p>
 				<p>tutti dui sul canto drito como una mezavolta e una ripresa sul</p>
 				<p>pè sinistro, guardandose nel volto. Poi se rivoltano sul canto</p>
@@ -3355,9 +3177,7 @@
 				<p>intorno l'homo da la mane drita de la dona e la dona da la mane</p>
 				<p>drita de l'homo trovandose tutti dui equali a li logi soi como nel</p>
 				<p>principio de la danza, e è fine.</p>
-				<p>
-					<pb facs="#f046"/>
-				</p>
+				<p><pb facs="#f046"/></p>
 				<p>(C) Mercatia in canto</p>
 				<p/>
 				<p/>
@@ -3381,9 +3201,7 @@
 				<p>a tocare la mane drita a la dona cum passi dui sempii et uno</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f047"/>
-				</p>
+				<p><pb facs="#f047"/></p>
 				<p>dopio comenzando dal pè sinistro, tornando al luogo suo cum dui</p>
 				<p>altri passi sempii et uno dopio comenzando al pè drito e dagan-</p>
 				<p>do una mezavolta sul lato drito in tempo vuodo afirmandose</p>
@@ -3417,9 +3235,7 @@
 				<p>homini pasi dui senpii e uno dopio chomençando dal pè drito</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f048"/>
-				</p>
+				<p><pb facs="#f048"/></p>
 				<p>reservando che l'homo che va de drie dà una meça volta su</p>
 				<p>lo lato drito et in instanti la dona e l'altro homo dano una</p>
 				<p>volta tunda ne li luogi suoi, dunde ge cunsiste pasi dui</p>
@@ -3433,9 +3249,7 @@
 				<p>Sobria in canto a sonare</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f049"/>
-				</p>
+				<p><pb facs="#f049"/></p>
 				<p>*******</p>
 				<p>Sobria a ballo, e va in homini cinque et una dona</p>
 				<p>[I]Mprima vano in chiope tre cioè uno homo et una dona a</p>
@@ -3465,9 +3279,7 @@
 				<p>homini de drieto fanno quello medemo che hanno facto li altri</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f050"/>
-				</p>
+				<p><pb facs="#f050"/></p>
 				<p>et simelmente la dona li risponde afirmandose dicti quatro</p>
 				<p>homini in quadro ne le lor poste.</p>
 				<p>//Apresso nota che l'homo denanti solo se volta verso la dona ve-</p>
@@ -3501,9 +3313,7 @@
 				<p>altri dui de drieto movandose da lo lato de la mano drita dicto</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f051"/>
-				</p>
+				<p><pb facs="#f051"/></p>
 				<p>homo e dicta dona, andagando la dona de sopra dal primo homo</p>
 				<p>intorno a guisa de uno S e così l'altro homo ge vadi intorno,</p>
 				<p>e l'homo faci el simele andagando di sopto dal suo primo homo ricor-</p>
@@ -3532,9 +3342,7 @@
 				<p>(C)Tesara in canto a sonare</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f052"/>
-				</p>
+				<p><pb facs="#f052"/></p>
 				<p>Tesara a ballo, e va in homini siei e done quatro in chopie</p>
 				<p>quatro, çioè uno homo et una dona per man e li altri dui ho-</p>
 				<p>mini ne va uno in anti a dite chopie e l'altro de drie an-</p>
@@ -3544,9 +3352,7 @@
 				<p>fila per ordine afirmandose, poi le dite chopie quatro se aslar-</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f053"/>
-				</p>
+				<p><pb facs="#f053"/></p>
 				<p>gano presto cun una reprexa afirmandose.</p>
 				<p>Nota che li homini çoe quelo che è denanti e de drie che se guard-</p>
 				<p>ano nel volto, fano tienpi quatro de piva per mezo dite qu-</p>
@@ -3580,9 +3386,7 @@
 				<p>de lo compagno che è remasto in la sua. Ricordandoti che arivato</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f054"/>
-				</p>
+				<p><pb facs="#f054"/></p>
 				<p>che sia di detro, piglia la derdrana copia fazando quello medesimo</p>
 				<p>fece l'altro suo compagno, andagando inançi a tucte copie, et</p>
 				<p>fermandossi, et lo dicto suo compagno torna in lo loco suo per mezo</p>
@@ -3616,9 +3420,7 @@
 				<p>homini apresso l'uno all'altro, cioè a lo incontro, et fermandossi,</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f055"/>
-				</p>
+				<p><pb facs="#f055"/></p>
 				<p>apresso le dicte due copie di meço se cambiano un'altra volta</p>
 				<p>per quello simile modo che fecino fermandosse et gli dicti dui homi-</p>
 				<p>ni passano di sotto via a gli paneselli per quello simile modo che fecino</p>
@@ -3651,9 +3453,7 @@
 				<p>homini, daghando el primo botto dal canto sinestro de l'homo</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f056"/>
-				</p>
+				<p><pb facs="#f056"/></p>
 				<p>primo, et lo secondo botto dal canto dritto dell'altro homo, et lo terço</p>
 				<p>dal canto sinestro dell'altro homo, et lo quarto per mezo la copia</p>
 				<p>di detro, ricordandoti che sempre lavora li dui homini cioè quello</p>
@@ -3697,9 +3497,7 @@
 				<p>dritto"</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f057"/>
-				</p>
+				<p><pb facs="#f057"/></p>
 				<p>et in instanti tucti dui gli homini fano in detro tre represe comen-</p>
 				<p>çan[d]o col pè senestro in traverso, cioè l'una sul gallone senestro,</p>
 				<p>l'altra sul dritto, et l'altra sur senestro. Ancora in instanti se</p>
@@ -3733,9 +3531,7 @@
 				<p>In prima doe continentie comenzando col pè senestro</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f058"/>
-				</p>
+				<p><pb facs="#f058"/></p>
 				<p>poi dui sempi e dui dopi començando col pè senestro, e façen-</p>
 				<p>do fine dal dritto. Apresso, doe continentie comenzando col</p>
 				<p>senestro, poi dui dopi comenzando col pè senestro. Poi 2</p>
@@ -3769,9 +3565,7 @@
 				<p>comenzando col pè senestro et finendo dal dritto con uno passo do</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f059"/>
-				</p>
+				<p><pb facs="#f059"/></p>
 				<p>pio sul pè senestro di mezo tempo, poi 2 sempi comenzando col pè</p>
 				<p>dritto, poi tre dopi sul pe dritto et una reverentia sul senestro</p>
 				<p>et finis.</p>
@@ -3807,9 +3601,7 @@
 				<p>con una reverentia et è finita.</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f060"/>
-				</p>
+				<p><pb facs="#f060"/></p>
 				<p>(E) Zoglioxa</p>
 				<p>Prima continanze II comenzando suxo el pede stanco, passi</p>
 				<p>II sempi passo uno dopio una reprexa drita, passo</p>
@@ -3829,9 +3621,7 @@
 				<p>et faza una reverenzia stanca, é del fine.</p>
 			</div>
 			<div>
-				<p>
-					<pb facs="#f061"/>
-				</p>
+				<p><pb facs="#f061"/></p>
 			</div>
 		</body>
 	</text>
