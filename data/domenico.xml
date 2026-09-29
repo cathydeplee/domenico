@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?ceteicean-stylesheet href="https://raw.githubusercontent.com/cathydeplee/domenico/refs/heads/main/src/styles/custom.css"?>
+<?ceteicean-stylesheet href="https://cathydeplee.github.io/domenico/_astro/index.DjtqhbqA.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader xml:id="header">
 		<fileDesc>
@@ -349,7 +349,6 @@
 			<line>opponendo per argumenti boni e veri essere questa arte e demostratione zentille</line>
 			<line>de tanto intelecto e fatica quanto ritrovare se possa. E nota ti <del>galante</del> che</line>
 			<line>vogliando operare questo motto per modo che tu nol condugi per li extremi, dico</line>
-			<line/>
 		</surface>
 		<surface facs="#f007">
 			<line>questa arte zentille havere in sé buntade <add place="above">per</add> natura e molte per <add place="overleaf">azidenzia</add></line>
@@ -385,7 +384,6 @@
 			<line>dosse cum presteza, sempre operando el fondamento</line>
 			<line>de la causa, cioè mexura, la qualle è tardeza</line>
 			<line>ricoperada cum presteza.</line>
-			<line/>
 		</surface>
 		<surface facs="#f008">
 			<line rend="indent(2)"><add place="margin left">4°</add> Ota etiandio e apri lo intelecto. L’è un’altra mexura la quale</line>
@@ -418,7 +416,6 @@
 			<line>ricordo che Aristotle in lo 2° lauda l'autrope<add place="above">l</add>ia laquale del mezo</line>
 			<line>tene la virtù fuçando li estremi de lo forstiero campestre e</line>
 			<line>di quello che è giugolatore e ministro; operando questo dilecto</line>
-			<line/>
 		</surface>
 		<surface facs="#f009">
 			<line>per fugire tristeza e molesta, domque è virtù. Ma non sapiamo noi che</line>
@@ -454,7 +451,6 @@
 			<line>sempio, continentia, mezavolta, movimento e salto sono de mezo</line>
 			<line>tempo; voltatonda consiste dui tempi. E questo è segondo mo-</line>
 			<line>tto vero de bassadanza, mexurado mazore <add place="inspace">im</add>perfecto. Concludando</line>
-			<line/>
 		</surface>
 		<surface facs="#f010">
 			<line>che frapamento, scorsa e scambiamento sono de uno quarto de tempo,</line>
@@ -488,7 +484,6 @@
 			<line>prima, la quale è piu larga de le altre se chiama per nome Basse-</line>
 			<line>danza, de mazor <add place="inspace">im</add>perfecto. La seconda mexura se chiama quaderna-</line>
 			<line>ria, de menore imperfecto la quale per distantia de tempo è più</line>
-			<line/>
 		</surface>
 		<surface facs="#f011">
 			<line>strecta de la bassadanza uno sesto. La 3a mexura se chiama per</line>
@@ -522,7 +517,6 @@
 			<line>tu principii el suo tempo in lo pieno e compisilo in lo vuodo; e</line>
 			<line>provetello. Nota, ti sonatore, quando comenci a sonare una</line>
 			<line>mesura de bassedanza, sempre comenza el sovrano più tosto che</line>
-			<line/>
 		</surface>
 		<surface facs="#f012">
 			<line>che la bota del tenore quello sovrano che tu comenci si è ’l vuodo e la bo-</line>
@@ -554,7 +548,6 @@
 			<line>a calare la mitade, como vidi qui suso questa carta. La quale</line>
 			<line>carta dimostra le distantie de le mexure, como se dice sonare e danzare</line>
 			<line>più presto e più largo, e per questo modo se fa differente el motto corporeo.</line>
-			<line/>
 		</surface>
 		<surface facs="#f013">
 			<line>Ca - po</line>
@@ -595,7 +588,6 @@
 			<line/>
 			<line>Ca - po</line>
 			<line>Bassa - dança</line>
-			<line/>
 		</surface>
 		<surface facs="#f014">
 			<line rend="indent(2)"><add place="margin left">12°</add> Ota e intendi, a fine che de ingnorantia non me increpi. Ad-</line>
@@ -629,7 +621,6 @@
 			<line>per motto de compartitione de tempo, li altri tri per acidentia</line>
 			<line>lo intelecto li pò spartirli e danzarli. Ma più difficille sono</line>
 			<line>quisti altri tri motti che li dicti dui imperò che li bisogna</line>
-			<line/>
 		</surface>
 		<surface facs="#f015">
 			<line>mettere una grande presteza e tardeza a quilli motti li quali no hanno</line>
@@ -663,7 +654,6 @@
 			<line>se fa in su el pieno, e quello de la bassedanza, cioè lo frapa-</line>
 			<line>mento, se fa nel vuodo, e questa differentia è da l’uno</line>
 			<line>a l’altro. Et hai el primo motto difficile. El segondo</line>
-			<line/>
 		</surface>
 		<surface facs="#f016">
 			<line>motto difficile è che tu poi danzare in dui modi el motto del sal-</line>
@@ -698,8 +688,6 @@
 			<line>saltarello in lo capitolo XI° dico esser più strecto de la quaderna<add place="inline">r</add>ia</line>
 			<line>uno sesto, sì che non haria suo ordine; ricordandote ch’el moto</line>
 			<line>del saltarello è uno dopio cum uno salteto, e quello de la</line>
-			<line/>
-			<line/>
 		</surface>
 		<surface facs="#f017">
 			<line>quadernaria è uno dopio cum uno frapamento ch’è più lungo, co-</line>
@@ -734,7 +722,6 @@
 			<line>dine. El quinto modo e ultimo: se pò danzare el motto de la piva</line>
 			<line>de menore perfecto in lo saltarello, cioè ponere tempi dui de</line>
 			<line>piva in uno tempo de saltarello: ma lo motto de la piva serae</line>
-			<line/>
 		</surface>
 		<surface facs="#f018">
 			<line>prestissimo, ricordante che el capitolo XI° dice che la piva tene el</line>
@@ -768,11 +755,8 @@
 			<line>Domenico da Piasença, salvo che il canto de la figliaguiliel-</line>
 			<line>mino che è ballatta francese, et sopra esso canto el dicto</line>
 			<line>cavagliero ha composti i di<unclear>ct</unclear>i balli.</line>
-			<line/>
-			<line/>
 		</surface>
 		<surface facs="#f019">
-			<line rend="indent"/>
 			<line rend="indent(3)">Belreguardo im ballo, cioè uno homo e una dona.</line>
 			<line rend="indent(2)">Mprima fano tempi XI de saltarello et afermase, façando</line>
 			<line>dupei quatro de bassadanza inseme, comenzando al pede sinistro</line>
@@ -791,7 +775,6 @@
 			<line>et una represa suso el pè drito, e continentie due comenzando <q rend="remplissage">y</q></line>
 			<line>dal pè sinistro et una reverentia suso dicto pè, dove consiste uno</line>
 			<line>tempo de bassadanza. Fine.</line>
-			<line/>
 		</surface>
 		<surface facs="#f020">
 			<line rend="indent(3)">Belreguardo novo, e va in homini dui et una dona in mezo e</line>
@@ -825,7 +808,6 @@
 			<line>da la sua mane drita affirmandosse tutti dui dicti homini.</line>
 			<line><add place="margin">//</add>Nota che in questo instante che li homini hanno datto <del>el dicto</del> eL</line>
 			<line>dredano boto del dicto segondo tempo de saltarello la dicta dona</line>
-			<line/>
 		</surface>
 		<surface facs="#f021">
 			<line>fuze cum uno dopio inanti comenzando cum lo pè drito, e aferma-</line>
@@ -854,16 +836,8 @@
 			<line>rimane de drieto ne la fine, e volendola rifare el compagno va</line>
 			<line>denanti | fine a questa danza.</line>
 			<line rend="indent(6)">Lionzello in canto</line>
-			<line/>
-			<line/>
-			<line/>
-			<line/>
-			<line/>
 		</surface>
 		<surface facs="#f022">
-			<line/>
-			<line/>
-			<line/>
 			<line rend="indent(3)">Lionzello vechio a ballo, è in uno homo cum la dona</line>
 			<line rend="indent(2)">Mprima fano tutti dui a mano tempi sei de saltarello, co-</line>
 			<line>menzando cum lo pè sinistro in mexura quadernaria e afermase;</line>
@@ -889,7 +863,6 @@
 			<line>pede sinistro e sempii dui]e dupii dui e represe due, et afermase fazando l’homo</line>
 			<line>uno movimento e la dona respondendoge cum un altro liquali mo-</line>
 			<line>vimenti sono tempi dui in mexura quadernaria, fine.</line>
-			<line/>
 		</surface>
 		<surface facs="#f023">
 			<line>Lionzello novo sul mede<add place="above">s</add>mo canto vechio, e va humini dui cum una dona</line>
@@ -923,7 +896,6 @@
 			<line>dopio sul pè sinistro, e afermase, li dicti dui homini vano inanti cum</line>
 			<line>uno dopio sul pè sinistro et afermanse; la dona va pur a la sua via</line>
 			<line>cum uno dopio sul pè drito e afermase, poi li dicti dui homini</line>
-			<line/>
 		</surface>
 		<surface facs="#f024">
 			<line>vano pur a la lor via contrarii de la dona cum uno dopio sul pè drito.</line>
@@ -951,8 +923,6 @@
 			<line>Mprima fano dicti homini cun la dona in mezo tempi nove in</line>
 			<line>mexura di saltarello e afermanse li homini lasando la dona.</line>
 			<line><add place="margin">//</add>Nota che dicta dona va inanti cum passi quatro sempii in mexura</line>
-			<line/>
-			<line/>
 		</surface>
 		<surface facs="#f025">
 			<line>quadernaria comenzando cum lo pè sinistro, poi li dicti homini sie-</line>
@@ -989,7 +959,6 @@
 			<line>
 				<add place="below">e lo homo va a la dona</add>
 			</line>
-			<line/>
 		</surface>
 		<surface facs="#f026">
 			<line>e lo homo va a la dona di foravia, ritornando dicto homo a la</line>
@@ -1022,8 +991,6 @@
 			<line>denanti via a la soa dona, e va a tochare la man a la dona de</line>
 			<line>mezo cun una riverientia suxo el pè sinistro e afermase.</line>
 			<line>Lo homo che è apreso la dita dona de meço fa uno tenpo di sal-</line>
-			<line/>
-			<line/>
 		</surface>
 		<surface facs="#f027">
 			<line>tarelo in mexura quadernaria partandose cun lo pè drito e va ap-</line>
@@ -1082,7 +1049,6 @@
 			<line>homini a la sua dona; e movese li homini fazando tempi XIIII de</line>
 			<line>bassadanza cioè, una represa sul pè drito cum la dona sua a mano</line>
 			<line>lasandola poi e fazando passi sempii dui e dupii XI comenzando</line>
-			<line/>
 		</surface>
 		<surface facs="#f029">
 			<line>col pede sinistro, pasando el dicto primo homo denanti a la dona sua</line>
@@ -1116,8 +1082,6 @@
 			<line>ritrovandose inanti e pigliandose per mano tutti como de prima, re-</line>
 			<line>manendo la prima chiopa de drieto, e quella che era apresso quella denanci</line>
 			<line>rimane apresso quella de drieto.</line>
-			<line/>
-			<line/>
 		</surface>
 		<surface facs="#f030">
 			<line>(C) Verçepe in canto a sonare</line>
@@ -1136,7 +1100,6 @@
 			<line>a la dona che iano denanti e da lo lato drito de dita dona e fa-</line>
 			<line>ciendo diti dui homeni dupii dui suxo el pè sinistro e una re-</line>
 			<line>prexa su lo pede drito faciendo fine dal sinestro tornendo ne</line>
-			<line/>
 		</surface>
 		<surface facs="#f031">
 			<line>li luogi suoi de prima e afermansse. Poi le done gie risponde</line>
@@ -1170,7 +1133,6 @@
 			<line>tienpi quatro di saltarelo andagando a la posta del cunpagno</line>
 			<line>denanti, e dagando el primo boto equalle a la <del rend="strikethrough">so</del> man <del>drita </del>stanca</line>
 			<line>de la dona, e lo segundo boto equalle a la man drita de lo ho(mino)</line>
-			<line/>
 		</surface>
 		<surface facs="#f032">
 			<line>de mezo, e lo terço botto equalle a la man sinistra de l'altra dona</line>
@@ -1204,7 +1166,6 @@
 			<line>li consiste passi tri sempii fazando dicta volta ne la posta</line>
 			<line>sua medema. E poi le done fano uno movimento, e tutti</line>
 			<line>tri li homini ge rispondeno cun uno altro poi le done dano quella</line>
-			<line/>
 		</surface>
 		<surface facs="#f033">
 			<line>medema volta tonda che deteno li homini. Fine.</line>
@@ -1231,7 +1192,6 @@
 			<line>dicto homo dà una mezavolta sul lato drito in lo vuodo e poi si fa</line>
 			<line>tempi dui de bassadanza pasando de sopto da la dona dal canto de-</line>
 			<line>nanti, e la dona de sopra da lui, tutti dui in uno instante fazando</line>
-			<line/>
 		</surface>
 		<surface facs="#f034">
 			<line>passi dui sempii comenzando col pè sinistro et una riverentia suso</line>
@@ -1257,9 +1217,6 @@
 			<line/>
 			<line>Belfiore a ballo e va in homini dui et una dona in mezo</line>
 			<line>[I]Mprima fano tempi XII de piva tutti tri inseme in mexura</line>
-			<line/>
-			<line/>
-			<line/>
 		</surface>
 		<surface facs="#f035">
 			<line>quadernaria e afermanse. E nota che lo primo homo fa uno dopio in-</line>
@@ -1293,7 +1250,6 @@
 			<line>sta in mezo, e l'homo denanti riman de drieto.</line>
 			<line/>
 			<line>Anello in Canto</line>
-			<line/>
 		</surface>
 		<surface facs="#f036">
 			<line/>
@@ -1317,7 +1273,6 @@
 			<line>ge rispondeno como uno altro. Poscia , li homini dano una volta</line>
 			<line>tonda ne li logi suoi, dove consiste uno dopio, afirmandose. Le</line>
 			<line>done fano uno movimento rispondandoge li homini como uno</line>
-			<line/>
 		</surface>
 		<surface facs="#f037">
 			<line>altro, facendo dicte done la simel volta che feceno li homini, afir-</line>
@@ -1347,9 +1302,6 @@
 			<line>di saltarelo facando fine cun lo pè drito. Poi la dona sie(g)que</line>
 			<line>dito homo cun quello medesmo, afermandosse apreso lui.</line>
 			<line>Ora nota che el sa a fare tienpi XII e mezo de basadanza zoe</line>
-			<line/>
-			<line/>
-			<line/>
 		</surface>
 		<surface facs="#f038">
 			<line>che lo homo e la dona se pigliano per man façando reprexe doe co-</line>
@@ -1377,7 +1329,6 @@
 			<line>dito homo e dona a lato a lato chome nel principio de la danza.</line>
 			<line/>
 			<line>Iupiter in canto a sonare</line>
-			<line/>
 		</surface>
 		<surface facs="#f039">
 			<line/>
@@ -1410,7 +1361,6 @@
 			<line>drito tocando la man drita a dita dona, ritrovandose denanti</line>
 			<line>e fazando tuti tri inseme pasi dui sienpi et uno dopio a la fila in-</line>
 			<line>anti comenzando cun lo pè sinistro, e fase questa parte volte doe</line>
-			<line/>
 		</surface>
 		<surface facs="#f040">
 			<line>dunde gie cunsiste tienpi diexe de basadanza zoè cinque per volta</line>
@@ -1444,7 +1394,6 @@
 			<line>menzando col pè sinistro poi se aferma la dona. Et l'homo ch'è de-</line>
 			<line>nanti dà una mezavolta in lo segondo boto de dicto saltarello fazandone</line>
 			<line>dui altri indrieto uno equale a la mane drita de la dona e l'altro</line>
-			<line/>
 		</surface>
 		<surface facs="#f041">
 			<line>ne la posta del compagno, et in quello instante el dicto suo compagno</line>
@@ -1461,10 +1410,6 @@
 			<line>ne li luogi sui primi et è fine.</line>
 			<line/>
 			<line>La fia guilmin in canto</line>
-			<line/>
-			<line/>
-			<line/>
-			<line/>
 		</surface>
 		<surface facs="#f042">
 			<line>(A) Questa è una dança chiamata la fiaguielmina laquale foe</line>
@@ -1493,7 +1438,6 @@
 			<line>vuodo, lasandose per mano, façando dicti homini inanti passi</line>
 			<line>dui sempii comenzando al pè sinistro e una represa inanti</line>
 			<line>sul galono sinistro et le done ininstanti tornano indriedo</line>
-			<line/>
 		</surface>
 		<surface facs="#f043">
 			<line>cum quello medemo che feceno li homini inanti; poi ininstante</line>
@@ -1526,7 +1470,6 @@
 			<line>a l'altro homo, e fermase equale a lui, façendo fine per lui. Ma</line>
 			<line>dicta dona se aferma tanto che l'altro homo che è de drieto fa uno</line>
 			<line>salto de mezo tempo de piva, e movesse lui et dicta dona</line>
-			<line/>
 		</surface>
 		<surface facs="#f044">
 			<line>che li guarda ne la faza fazando tempi tri de piva, cioè l'ho-</line>
@@ -1560,7 +1503,6 @@
 			<line>inanti.</line>
 			<line>Apresso nota che fano tempi octo de bassadanza in instante</line>
 			<line>tutti dui, andagando l'homo indrieto e la dona inanti cum passi</line>
-			<line/>
 		</surface>
 		<surface facs="#f045">
 			<line>dui sempii e dupii dui comenzando dal pè sinistro voltandose</line>
@@ -1593,7 +1535,6 @@
 			<line>intorno l'homo da la mane drita de la dona e la dona da la mane</line>
 			<line>drita de l'homo trovandose tutti dui equali a li logi soi como nel</line>
 			<line>principio de la danza, e è fine.</line>
-			<line/>
 		</surface>
 		<surface facs="#f046">
 			<line>(C) Mercatia in canto</line>
@@ -1617,8 +1558,6 @@
 			<line>Apresso nota che se fanno tempi octo de bassadanza cioè</line>
 			<line>l'homo de drieto che è a la mane stanca del compagno suo va</line>
 			<line>a tocare la mane drita a la dona cum passi dui sempii et uno</line>
-			<line/>
-			<line/>
 		</surface>
 		<surface facs="#f047">
 			<line>dopio comenzando dal pè sinistro, tornando al luogo suo cum dui</line>
@@ -1652,7 +1591,6 @@
 			<line>apreso la dona si va ne la posta de l'homo de drie che è per</line>
 			<line>meço lui, e lui vene in la soa apreso la dona, façando diti dui</line>
 			<line>homini pasi dui senpii e uno dopio chomençando dal pè drito</line>
-			<line/>
 		</surface>
 		<surface facs="#f048">
 			<line>reservando che l'homo che va de drie dà una meça volta su</line>
@@ -1666,11 +1604,6 @@
 			<line>tri homini ge toca a menare la soa volta la dona.</line>
 			<line/>
 			<line>Sobria in canto a sonare</line>
-			<line/>
-			<line/>
-			<line/>
-			<line/>
-			<line/>
 		</surface>
 		<surface facs="#f049">
 			<line/>
@@ -1701,7 +1634,6 @@
 			<line>comenzando dal pè drito cum uno poco di volteta et una</line>
 			<line>posada guardandose in lo volto l'uno a l'altro. Li altri dui</line>
 			<line>homini de drieto fanno quello medemo che hanno facto li altri</line>
-			<line/>
 		</surface>
 		<surface facs="#f050">
 			<line>et simelmente la dona li risponde afirmandose dicti quatro</line>
@@ -1735,7 +1667,6 @@
 			<line>de saltarello, e cossì la dona in instante andagando l'homo intor-</line>
 			<line>no a quilli dui che li sono apresso. E la dona va d'intorno a li</line>
 			<line>altri dui de drieto movandose da lo lato de la mano drita dicto</line>
-			<line/>
 		</surface>
 		<surface facs="#f051">
 			<line>homo e dicta dona, andagando la dona de sopra dal primo homo</line>
@@ -1764,9 +1695,6 @@
 			<line/>
 			<line/>
 			<line>(C)Tesara in canto a sonare</line>
-			<line/>
-			<line/>
-			<line/>
 		</surface>
 		<surface facs="#f052">
 			<line/>
@@ -1779,8 +1707,6 @@
 			<line>do chaduna di le dite chopie panexielli dui in mano.</line>
 			<line>[I]Mprima fano tuti in cunpagnia tienpi oto di saltarelo a la</line>
 			<line>fila per ordine afirmandose, poi le dite chopie quatro se aslar-</line>
-			<line/>
-			<line/>
 		</surface>
 		<surface facs="#f053">
 			<line>gano presto cun una reprexa afirmandose.</line>
@@ -1814,7 +1740,6 @@
 			<line>del compagno suo dinançi, et fermandossi, et lo dicto so compagno</line>
 			<line>fuge per mezo dicte copie con tempi tre de piva arivando in la posta</line>
 			<line>de lo compagno che è remasto in la sua. Ricordandoti che arivato</line>
-			<line/>
 		</surface>
 		<surface facs="#f054">
 			<line>che sia di detro, piglia la derdrana copia fazando quello medesimo</line>
@@ -1848,7 +1773,6 @@
 			<line>due passando li dicti dui homini di sotto via a gli panexelli</line>
 			<line>per quello simile modo che feno l'altri dui retrovandossi dicti dui</line>
 			<line>homini apresso l'uno all'altro, cioè a lo incontro, et fermandossi,</line>
-			<line/>
 		</surface>
 		<surface facs="#f055">
 			<line>apresso le dicte due copie di meço se cambiano un'altra volta</line>
@@ -1881,7 +1805,6 @@
 			<line>ti a la prima copia; et l'altro homo dinanti fa dicti tempi qua-</line>
 			<line>tro di saltarello tornando in detro a guisa de bissa per mezzo gli</line>
 			<line>homini, daghando el primo botto dal canto sinestro de l'homo</line>
-			<line/>
 		</surface>
 		<surface facs="#f056">
 			<line>primo, et lo secondo botto dal canto dritto dell'altro homo, et lo terço</line>
@@ -1931,9 +1854,6 @@
 			<line>
 				<add place="margin">nestro, l'altra sul dritto</add>
 			</line>
-			<line/>
-			<line/>
-			<line/>
 		</surface>
 		<surface facs="#f057">
 			<line>et in instanti tucti dui gli homini fano in detro tre represe comen-</line>
@@ -1967,7 +1887,6 @@
 			<line/>
 			<line><hi>m</hi>Ignotta <add place="above">vechia</add> è bassadança che si fa a la fila in quanti si vole</line>
 			<line>In prima doe continentie comenzando col pè senestro</line>
-			<line/>
 		</surface>
 		<surface facs="#f058">
 			<line>poi dui sempi e dui dopi començando col pè senestro, e façen-</line>
@@ -2001,7 +1920,6 @@
 			<line>col senestro et una represa in traverso sul pè dritto. Apresso 2 con-</line>
 			<line>tinentie comenzando col pè senestro con 2 tempi di saltarello inanti</line>
 			<line>comenzando col pè senestro et finendo dal dritto con uno passo do</line>
-			<line/>
 		</surface>
 		<surface facs="#f059">
 			<line>pio sul pè senestro di mezo tempo, poi 2 sempi comenzando col pè</line>
@@ -2037,8 +1955,6 @@
 			<line>col pè dritto gittandossi su quello et façando una represa</line>
 			<line>sul gallone senestro inançi. Apresso una volta tonda</line>
 			<line>con una reverentia et è finita.</line>
-			<line/>
-			<line/>
 		</surface>
 		<surface facs="#f060">
 			<line>(E) Zoglioxa <hi><unclear>F</unclear></hi></line>
@@ -2058,9 +1974,6 @@
 			<line>represa stanca cun una volta tonda presta</line>
 			<line>con la ripresa drita ne la mexura de II tempii</line>
 			<line>et faza una reverenzia stanca, é del fine.</line>
-			<line/>
-			<line/>
-			<line/>
 		</surface>
 	</sourceDoc>
 	<text xml:id="transcription_annotee">
