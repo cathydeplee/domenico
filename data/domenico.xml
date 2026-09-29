@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?ceteicean-stylesheet href="https://raw.githubusercontent.com/cathydeplee/domenico/refs/heads/main/src/styles/custom.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader xml:id="header">
 		<fileDesc>
@@ -2252,7 +2254,7 @@
 				<p>
 					<lb/>
 				</p>
-				<p rend="indent(2)"><add place="margin"><ref target="note_80e7bef4473b4a0e91f64f67d0c3a6b9">11°</ref></add><note xml:id="note_fr3r10_a">Numéro de § en marge</note><ref target="note_80e7bef4473b4a0e91f64f67d0c3a6b9"></ref><supplied>N</supplied>ota<note xml:id="note_f3r11_b">Initiale d'attente N ommise</note> e priegoti vogli aprire la virtù de lo intelecto ad intendere</p>
+				<p rend="indent(2)"><add place="margin"><ref target="note_80e7bef4473b4a0e91f64f67d0c3a6b9">11°</ref></add><note xml:id="note_fr3r10_a">Numéro de § en marge</note><ref target="note_80e7bef4473b4a0e91f64f67d0c3a6b9"/><supplied>N</supplied>ota<note xml:id="note_f3r11_b">Initiale d'attente N ommise</note> e priegoti vogli aprire la virtù de lo intelecto ad intendere</p>
 				<p>che cossa è mexura de motto, etiandio como sono compositi li motti</p>
 				<p>sopra le mexure. Mexura çeneralle, segondo canto over sono o</p>
 				<p>movimento, consiste in mexurare el pieno cum lo vuodo, mexurare</p>
