@@ -5,54 +5,73 @@ tei-del[data-tei-rend*="strikethrough"] {
   text-decoration: line-through;
 }
 
+/*
+ * The indentation of a line or paragraph, which a margin note inside it
+ * subtracts to stay in the margin (see the marginal additions below).
+ * Registered as a length so that it is resolved on the line itself, in the
+ * line's font size, and inherited as such by the smaller note.
+ */
+@property --indent {
+  syntax: "<length>";
+  inherits: true;
+  initial-value: 0px;
+}
+
 tei-line[rend*="indent"],
 tei-line[data-tei-rend*="indent"],
 tei-p[rend*="indent"],
 tei-p[data-tei-rend*="indent"] {
-  padding-left: 2em;
+  --indent: 2em;
+  padding-left: var(--indent);
 }
 
 tei-line[rend*="indent(2)"],
 tei-line[data-tei-rend*="indent(2)"],
 tei-p[rend*="indent(2)"],
 tei-p[data-tei-rend*="indent(2)"] {
-  padding-left: 4em;
+  --indent: 4em;
+  padding-left: var(--indent);
 }
 
 tei-line[rend*="indent(3)"],
 tei-line[data-tei-rend*="indent(3)"],
 tei-p[rend*="indent(3)"],
 tei-p[data-tei-rend*="indent(3)"] {
-  padding-left: 6em;
+  --indent: 6em;
+  padding-left: var(--indent);
 }
 
 tei-line[rend*="indent(4)"],
 tei-line[data-tei-rend*="indent(4)"],
 tei-p[rend*="indent(4)"],
 tei-p[data-tei-rend*="indent(4)"] {
-  padding-left: 8em;
+  --indent: 8em;
+  padding-left: var(--indent);
 }
 
 tei-line[rend*="indent(5)"],
 tei-line[data-tei-rend*="indent(5)"],
 tei-p[rend*="indent(5)"],
 tei-p[data-tei-rend*="indent(5)"] {
-  padding-left: 10em;
+  --indent: 10em;
+  padding-left: var(--indent);
 }
 
 tei-line[rend*="indent(6)"],
 tei-line[data-tei-rend*="indent(6)"],
 tei-p[rend*="indent(6)"],
 tei-p[data-tei-rend*="indent(6)"] {
-  padding-left: 12em;
+  --indent: 12em;
+  padding-left: var(--indent);
 }
 
 tei-line[rend*="indent(-1)"],
 tei-line[data-tei-rend*="indent(-1)"],
 tei-p[rend*="indent(-1)"],
 tei-p[data-tei-rend*="indent(-1)"] {
+  --indent: -2em;
   padding-left: 0;
-  margin-left: -2em;
+  margin-left: var(--indent);
 }
 
 /* Supplied text (editorial restorations) */
@@ -81,13 +100,15 @@ tei-unclear {
   text-decoration-line: underline;
 }
 
-/* Marginal additions (generic margin, defaults to left) */
+/* Marginal additions (generic margin, defaults to left). A left float sits
+   against its line's content box, which an indent moves right, so the note
+   takes the line's indent off its offset to stay in the margin. */
 tei-add[place~="margin"],
 tei-add[data-tei-place~="margin"] {
   display: inline-block;
   float: left;
   clear: left;
-  margin-left: -6em;
+  margin-left: calc(-6em - var(--indent));
   width: 5em;
   font-size: 0.8em;
   color: #718096;
@@ -99,7 +120,7 @@ tei-add[place="margin left"],
 tei-add[data-tei-place="margin left"] {
   float: left;
   clear: left;
-  margin-left: -6em;
+  margin-left: calc(-6em - var(--indent));
   margin-right: 0;
   text-align: right;
 }
