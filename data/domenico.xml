@@ -308,8 +308,8 @@
 	</facsimile>
 	<sourceDoc xml:id="transcription_diplomatique">
 		<surface facs="#f006">
-			<line><add><hi>De arte saltandi &amp; choreas ducendi</hi>.</add></line>
-			<line><add><hi>De la arte di ballare et danzare</hi></add>.</line>
+			<line rend="indent(3)"><add><hi>De arte saltandi &amp; choreas ducendi</hi>.</add></line>
+			<line rend="indent(3)"><add><hi>De la arte di ballare et danzare</hi></add>.</line>
 			<line><lb/></line>
 			<line><lb/></line>
 			<line><lb/></line>
@@ -321,14 +321,14 @@
 			<line rend="indent(3)">sia honore et gloria de tutte le operatione in-</line>
 			<line rend="indent(3)">intelectuale e moralle. E vogliando el</line>
 			<line>spectable e nobele cavaliero messer Domenigino piacentino tra-</line>
-			<line>ctare <add place="above">V</add> <add place="margin left">del moto corporeo</add> cum grande reverentia, impetra a Quello che sempre per sua sancta</line>
+			<line>ctare <metamark function="insertion" place="below" target="#add_del_moto_corporeo">‸</metamark><add place="margin left" xml:id="add_del_moto_corporeo">del moto corporeo</add> cum grande reverentia, impetra a Quello che sempre per sua sancta</line>
 			<line>humanitade s’è dignato de soccorere el dicto operante e tractante de</line>
 			<line>questa materia a bon fine. E pur volendo molti opponere a questo m-</line>
 			<line>oto azele e pelegrino opera<del>n</del>do cum grande subtilitade e fatica che sia</line>
-			<line>venerea e de perditione de tempo, l’operante argumenta in lo 2° del heticha <add place="margin right">} in 2° delhetica</add></line>
+			<line>venerea e de perditione de tempo, l’operante argumenta in lo 2° del heticha <metamark target="#add_delhetica" function="insertion">}</metamark><add place="margin right" xml:id="add_delhetica"> in 2° delhetica</add></line>
 			<line>contra di questo, dicendo lui che tutte le cosse se corompono e guastase se</line>
 			<line>le sono conducte e menate in<unclear cert="low">divi</unclear>se cioè per le operatione extreme,</line>
-			<line>e la mezanitade conserva. E bene ch’el savio Aristotele tractasse del motto} <add place="margin right">Aristotele</add></line>
+			<line>e la mezanitade conserva. E bene ch’el savio Aristotele tractasse del motto <metamark target="#add_aristotele" function="insertion">}</metamark> <add place="margin right" xml:id="add_aristotele">Aristotele</add></line>
 			<line>alquanto in lo X° del heticha, in altre parte non poté mai cum sua subtilitade</line>
 			<line>saper cavare el subtille del subtille de questo motto corporalle mosso da</line>
 			<line>luoco a luoco cum mexura, memoria, agilitade e mainera. Mexura de</line>
