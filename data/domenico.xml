@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?ceteicean-stylesheet href="https://cathydeplee.github.io/domenico/_astro/index.DjtqhbqA.css"?>
+<?ceteicean-stylesheet href="https://raw.githubusercontent.com/cathydeplee/domenico/refs/heads/main/src/styles/custom.css"?>
+<?ceteicean-stylesheet href="https://raw.githubusercontent.com/cathydeplee/domenico/refs/heads/main/src/styles/CETEIcean-editioncrafter.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader xml:id="header">
 		<fileDesc>
