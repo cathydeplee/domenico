@@ -1,0 +1,1130 @@
+/* :is(*, .specificity-bump) matches every element and restores the removed class specificity. */
+/* The following file was created from the editioncrafter/src/EditionCrafter/scss/_CETEIcean.scss */
+/* , with the .editioncrafter scope removed,                                                      */
+/* to simulate the style of editioncrafter outside editioncrafter (with teiedit)                  */
+
+/* This is a sample stylesheet for use with CETEIcean. It is not intended    */
+/* to be comprehensive. The rules here are largely derived from earlier work */
+/* on TEI Boilerplate                                                        */
+
+/* language support */
+/* render Arabic, Persian, Ottoman, Hebrew  as rtl */
+
+[lang = "ar"]:is(*, .specificity-bump),
+[lang = "ota"]:is(*, .specificity-bump),
+[lang = "fa"]:is(*, .specificity-bump),
+[lang = "he"]:is(*, .specificity-bump),
+[lang *="-Arab-AR"]:is(*, .specificity-bump) {
+  direction:rtl;
+  text-align:right;
+}
+
+/* display latin scripts as ltr  */
+[lang = "en"]:is(*, .specificity-bump),
+[lang = "fr"]:is(*, .specificity-bump),
+[lang = "de"]:is(*, .specificity-bump),
+[lang = "it"]:is(*, .specificity-bump),
+[lang *="ar-Latn-"]:is(*, .specificity-bump),
+[lang *="ota-Latn-"]:is(*, .specificity-bump) {
+  direction:ltr;
+  text-align:left;
+}
+
+/* Choice elements */
+tei-choice tei-abbr + tei-expan:is(*, .specificity-bump):before,
+tei-choice tei-expan + tei-abbr:is(*, .specificity-bump):before,
+tei-choice tei-sic + tei-corr:is(*, .specificity-bump):before,
+tei-choice tei-corr + tei-sic:is(*, .specificity-bump):before,
+tei-choice tei-orig + tei-reg:is(*, .specificity-bump):before,
+tei-choice tei-reg + tei-orig:is(*, .specificity-bump):before {
+  content: " (";
+}
+
+tei-choice tei-abbr + tei-expan:is(*, .specificity-bump):after,
+tei-choice tei-expan + tei-abbr:is(*, .specificity-bump):after,
+tei-choice tei-sic + tei-corr:is(*, .specificity-bump):after,
+tei-choice tei-corr + tei-sic:is(*, .specificity-bump):after,
+tei-choice tei-orig + tei-reg:is(*, .specificity-bump):after,
+tei-choice tei-reg + tei-orig:is(*, .specificity-bump):after {
+  content: ")";
+}
+
+/* A */
+tei-ab:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+tei-accMat:is(*, .specificity-bump) {
+  display: block;
+}
+
+tei-accMat:is(*, .specificity-bump):before {
+  content: "accompanying materials: ";
+}
+
+tei-acquisition:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+tei-acquisition:is(*, .specificity-bump):before {
+  font-weight: bold;
+  content: "acquisition";
+}
+
+tei-activity:is(*, .specificity-bump) {
+  display: block;
+}
+
+tei-activity:is(*, .specificity-bump):before {
+  content: "activity: ";
+}
+
+tei-add[place=above]:is(*, .specificity-bump) {
+  color: blue;
+  vertical-align: super;
+  font-size: 10pt;
+}
+
+tei-add[place=inline]:is(*, .specificity-bump):before {
+  content: "«";
+}
+
+tei-add[place=inline]:is(*, .specificity-bump):after {
+  content: "»";
+}
+
+tei-add[place=below]:is(*, .specificity-bump) {
+  vertical-align: sub;
+}
+
+tei-additional:is(*, .specificity-bump) {
+  display: block;
+}
+
+tei-additions:is(*, .specificity-bump) {
+  display: block;
+}
+
+tei-additions:is(*, .specificity-bump):before {
+  content: "Significant additions within the document: ";
+}
+
+tei-addrLine:is(*, .specificity-bump) {
+  display: block;
+}
+
+tei-address[data-tei-rend~="block"]:is(*, .specificity-bump),
+addresss[data-tei-rendition~="#block"]:is(*, .specificity-bump) {
+  display: block;
+}
+
+tei-adminInfo:is(*, .specificity-bump) {
+  display: block;
+}
+
+tei-app tei-note:is(*, .specificity-bump) {
+  display: none;
+}
+
+tei-appInfo:is(*, .specificity-bump) {
+  display: block;
+}
+
+tei-appInfo:is(*, .specificity-bump):before {
+  content: "Application information: ";
+}
+
+tei-application:is(*, .specificity-bump) {
+  display: block;
+}
+
+tei-application:is(*, .specificity-bump):after {
+  content: " " attr(version);
+}
+
+tei-argument:is(*, .specificity-bump) {
+  display: block;
+}
+
+tei-att:is(*, .specificity-bump) {
+  font-family: Courier,monospace;
+}
+
+tei-att:is(*, .specificity-bump):before {
+  content: "@";
+}
+
+tei-titlestmt > tei-author:is(*, .specificity-bump) {
+  display: block;
+  margin-bottom: 1em;
+}
+
+tei-publicationstmt > tei-availability:is(*, .specificity-bump) {
+  font-size: 80%;
+}
+
+tei-publicationstmt > tei-availability:is(*, .specificity-bump):before {
+  font-weight: bold;
+  content: "Availability: ";
+}
+
+tei-publicationstmt > tei-availability[data-tei-status]:is(*, .specificity-bump):before {
+  font-weight: bold;
+  content: "Availability (" attr(status) "): ";
+}
+
+/* B */
+tei-back:is(*, .specificity-bump) {
+  display: block;
+}
+
+tei-bibl[data-tei-rend~="block"]:is(*, .specificity-bump),
+bibl[data-tei-rendition~="#block"]:is(*, .specificity-bump) {
+  display: block;
+  padding-left: 2em;
+  text-indent: -2em;
+}
+
+tei-biblFull:is(*, .specificity-bump) {
+  display: block;
+}
+
+tei-binding:is(*, .specificity-bump) {
+  display: block;
+}
+
+tei-binding:is(*, .specificity-bump):before {
+  content: "Binding: \a";
+  white-space: pre-wrap;
+}
+
+tei-binding[data-tei-contemporary]:is(*, .specificity-bump):before {
+  content: "Binding: \A" "Contemporary: " attr(contemporary) "\A";
+  white-space: pre-wrap;
+}
+
+tei-bindingdesc:is(*, .specificity-bump) {
+  display: block;
+}
+
+tei-bindngdesc:is(*, .specificity-bump):before {
+  content: "Binding description: \A";
+}
+
+tei-birth:is(*, .specificity-bump) {
+  display: block;
+}
+
+tei-birth:is(*, .specificity-bump):before {
+  content: "Birth: ";
+}
+
+/* c */
+tei-cRefPattern:is(*, .specificity-bump) {
+  display: none;
+}
+
+tei-caption:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+tei-case[data-tei-value]:is(*, .specificity-bump):before {
+  font-weight: bold;
+  content: attr(value) " ";
+}
+
+tei-castgroup:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+tei-castitem:is(*, .specificity-bump) {
+  display: list-item;
+}
+
+tei-castlist:is(*, .specificity-bump) {
+  display: block;
+  list-style-type: none;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 2em;
+}
+
+tei-cb:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+tei-cb:is(*, .specificity-bump):before {
+  content: "[column break]";
+}
+
+tei-cell:is(*, .specificity-bump) {
+  border-right: thin solid black;
+  border-bottom: thin solid black;
+  padding: 2px;
+}
+
+/* for cell or row with @role = label */
+tei-cell[data-tei-role=label]:is(*, .specificity-bump) {
+  font-weight: bold;
+}
+
+tei-climate:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+tei-climate:is(*, .specificity-bump):before {
+  font-weight: bold;
+  content: "Climate: ";
+}
+
+tei-code:is(*, .specificity-bump) {
+  font-family: Courier,monospace;
+}
+
+tei-collation:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+tei-condition:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+tei-constitution:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+tei-constitution:is(*, .specificity-bump):before {
+  font-weight: bold;
+  content: "Constitution: ";
+}
+
+tei-constitution[data-tei-type]:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+tei-constitution[data-tei-type]:is(*, .specificity-bump):before {
+  font-weight: bold;
+  content: "Constitution (" attr(type) "): ";
+}
+
+tei-constitution[data-tei-type=frags]:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+tei-constitution[data-tei-type=frags]:is(*, .specificity-bump):before {
+  font-weight: bold;
+  content: "Constitution (fragments): ";
+}
+
+tei-custevent:is(*, .specificity-bump) {
+  display: list-item;
+}
+
+tei-custodialhist:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+/* d */
+tei-date[data-tei-when]:empty:is(*, .specificity-bump):before {
+  content: attr(when);
+}
+
+tei-del:is(*, .specificity-bump) {
+  color: red;
+}
+
+/* e */
+tei-editionstmt:is(*, .specificity-bump) {
+  display:block;
+}
+
+teieg-egxml:is(*, .specificity-bump) {
+  display: block;
+  font-size: 80%;
+  margin-left: 1em;
+  padding-left: 1em;
+  border-left: 1px solid #aaaaaa;
+  margin-top: .75em;
+  margin-bottom: .75em;
+  padding-top: .75em;
+  padding-bottom: .75em;
+  font-family: monospace;
+  white-space: pre;
+}
+
+tei-emph:is(*, .specificity-bump) {
+  font-style: italic;
+}
+
+tei-encodingdesc:is(*, .specificity-bump) {
+  display: none;
+}
+
+tei-epigraph:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+tei-explicit:is(*, .specificity-bump) {
+  font-style: italic;
+}
+
+tei-filedesc > tei-extent:is(*, .specificity-bump) {
+  display: none;
+}
+
+/* f */
+tei-figure:is(*, .specificity-bump) {
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* g */
+tei-gap[data-tei-reason='lost']:is(*, .specificity-bump):before {
+  content:'[';
+}
+
+tei-gap[data-tei-reason='lost']:is(*, .specificity-bump):after {
+  content: attr(data-content) ']';
+}
+
+tei-gap[data-tei-reason='illegible']:is(*, .specificity-bump):after {
+  content: attr(data-content);
+}
+
+tei-gi:is(*, .specificity-bump) {
+  font-family: Courier,monospace;
+}
+
+tei-gi:is(*, .specificity-bump):before {
+  content: "<";
+}
+
+tei-gi:is(*, .specificity-bump):after {
+  content: ">";
+}
+
+/* h */
+tei-head:is(*, .specificity-bump) {
+  display: block;
+  font-family: 'OpenSans', sans-serif;
+  font-weight: 700;
+  font-size: 1.5em;
+  line-height: max(1.5rem, 24px);
+}
+
+tei-body > tei-head:is(*, .specificity-bump) {
+  font-size: 180%;
+  text-indent: -0.5em;
+}
+
+tei-div.textpart:is(*, .specificity-bump) {
+  display: none;
+}
+
+tei-div > tei-head:is(*, .specificity-bump) {
+  font-size: 170%;
+  text-indent: -0.5em;
+}
+
+tei-div > tei-div > tei-head:is(*, .specificity-bump) {
+  font-size: 155%;
+}
+
+tei-div > tei-div > tei-div > tei-head:is(*, .specificity-bump) {
+  font-size: 140%;
+}
+
+tei-div > tei-div > tei-div > tei-div > tei-head:is(*, .specificity-bump),
+list > tei-head:is(*, .specificity-bump) {
+  font-size: 130%;
+}
+
+tei-div > tei-div > tei-div > tei-div > tei-div > tei-head:is(*, .specificity-bump) {
+  font-size: 120%;
+}
+
+tei-div > tei-div > tei-div > tei-div > tei-div > tei-div tei-head:is(*, .specificity-bump) {
+  font-size: 110%;
+}
+
+tei-figure > tei-head:is(*, .specificity-bump) {
+  display: block;
+  margin: 1.5em auto 1.5em auto;
+  padding: .5em 1.5em 1.5em 1.5em;
+  border: 1px solid black;
+  border-radius: 15px;
+  width: 325px;
+  position: relative;
+  border: 1px solid #aaaaaa;
+  background: #fafafa;
+  /* reset text-indent for note with <l> ancestors. */
+  text-indent: 0;
+  font-size: 85%;
+  text-align: justify;
+  -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+  width: 85%;
+  font-family: Georgia, Serif;
+  font-size: 13pt;
+}
+
+tei-hi[rend~="caps"]:is(*, .specificity-bump) {
+  font-weight:bold;
+}
+
+tei-hi[rend~="italic"]:is(*, .specificity-bump) {
+  font-style: italic;
+}
+
+tei-hi[rend~="underline"]:is(*, .specificity-bump) {
+  text-decoration: underline;
+}
+
+tei-ident:is(*, .specificity-bump) {
+  font-family: Courier,monospace;
+}
+
+tei-incipit:is(*, .specificity-bump) {
+  font-style: italic;
+}
+
+tei-item:is(*, .specificity-bump) {
+  display: list-item;
+  margin-left: 1em;
+}
+
+tei-cell item:is(*, .specificity-bump) {
+  margin-left: 1em;
+}
+
+/* j */
+/* l */
+tei-l:is(*, .specificity-bump) {
+  display: block;
+}
+
+tei-l[data-lineno]:is(*, .specificity-bump):before {
+  content: attr(data-lineno);
+  position: absolute;
+  left: 2em;
+}
+
+tei-lb:is(*, .specificity-bump):after {
+  content: '\a';
+  white-space: pre;
+}
+
+tei-lg:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+tei-list:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  list-style-type: none;
+}
+
+tei-item > tei-list:is(*, .specificity-bump) {
+  margin-top: 0;
+}
+
+tei-sourcedesc tei-list:is(*, .specificity-bump) {
+  list-style-type: none;
+}
+
+tei-sourcedesc > tei-list > tei-head:is(*, .specificity-bump) {
+  font-size: 140%;
+  font-weight: bold;
+}
+
+tei-sourcedesc tei-list > tei-item:is(*, .specificity-bump) {
+  display: list-item;
+}
+
+/* Match only lists that are descendants of
+  tei-text. Otherwise they show up in the header. */
+tei-text tei-list[type=simple]:is(*, .specificity-bump) {
+  list-style-type: none;
+}
+
+tei-text tei-list[type=bulleted]:is(*, .specificity-bump) {
+  list-style-type: disc;
+}
+
+tei-text tei-list[type=ordered]:is(*, .specificity-bump) {
+  list-style-type: none;
+  counter-reset: items 0;
+}
+
+tei-text tei-list[type=ordered] > tei-item:is(*, .specificity-bump) {
+  display: list-item;
+  margin-left: 0;
+}
+
+tei-item > tei-list[type=ordered]:is(*, .specificity-bump) {
+  margin-left: 1em;
+}
+
+tei-text tei-list[type=ordered] > item:is(*, .specificity-bump):before {
+  counter-increment: items 1;
+  content: counter(items, decimal) ". ";
+}
+
+tei-text tei-list[type=gloss]:is(*, .specificity-bump) {
+  list-style-type: none;
+}
+
+tei-list[type="gloss"] > tei-label:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+  font-weight: bold;
+}
+
+tei-list[type="gloss"] > tei-item:is(*, .specificity-bump) {
+  margin-left: 2em;
+}
+
+tei-item > tei-list[type=ordered]:is(*, .specificity-bump) {
+  margin-left: 1em;
+}
+
+tei-listapp:is(*, .specificity-bump) {
+  display: block;
+  margin: 1em;
+  padding: 1em;
+}
+
+tei-listbibl:is(*, .specificity-bump) {
+  display:block;
+  list-style-type: none;
+  margin-left: .5 em;
+  margin-top: .5em;
+}
+
+tei-listbibl > tei-head:is(*, .specificity-bump) {
+  font-size: 120%;
+  font-weight: bold;
+}
+
+tei-listbibl > tei-bibl:is(*, .specificity-bump) {
+  display: list-item;
+  margin-left: .5em;
+}
+
+tei-listwit:is(*, .specificity-bump) {
+  display:block;
+  list-style-type: none;
+  margin-left: .5em;
+}
+
+tei-listwit > tei-head:is(*, .specificity-bump) {
+  font-size: 120%;
+  font-weight: bold;
+}
+
+tei-listwit > tei-witness:is(*, .specificity-bump) {
+  display: list-item;
+  margin-left: 2em;
+  text-indent: -1.1em;
+}
+
+tei-witness > tei-listwit:is(*, .specificity-bump) {
+  display: inline;
+}
+
+tei-witness > tei-listwit > tei-head:is(*, .specificity-bump) {
+  display: inline;
+}
+
+tei-witness > tei-listwit > tei-witness:is(*, .specificity-bump) {
+  display: inline;
+}
+
+tei-locus:is(*, .specificity-bump) {
+  display: none;
+}
+
+/* m */
+tei-milestone:is(*, .specificity-bump) {
+  display: none;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+tei-musicNotation:is(*, .specificity-bump) {
+  font-weight: bold;
+}
+
+tei-musicNotation:is(*, .specificity-bump):before {
+  font-weight: bold;
+  content: "Musical Notation: ";
+}
+
+/* n */
+tei-node:is(*, .specificity-bump) {
+  display: none;
+}
+
+tei-note:is(*, .specificity-bump) {
+  display: none;
+}
+
+tei-notesstmt:is(*, .specificity-bump) {
+  display: none;
+}
+
+/* o */
+tei-ovar:is(*, .specificity-bump) {
+  font-style: italic;
+}
+
+tei-origPlace:is(*, .specificity-bump) {
+  font-weight: bold;
+}
+
+tei-origPlace:is(*, .specificity-bump):before {
+  font-weight: bold;
+  content: "Place of Origin: ";
+}
+
+/* p */
+tei-p:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-align: justify;
+}
+
+*[data-tei-rendition~="#center"] p:is(*, .specificity-bump) {
+  text-align: center;
+}
+
+tei-availability > p:first-child:is(*, .specificity-bump) {
+  margin-top: 0em;
+}
+
+tei-performance:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+tei-person:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+tei-personGrp:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+tei-postscript:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 2em;
+}
+
+tei-principal:is(*, .specificity-bump) {
+  font-weight: bold;
+}
+
+tei-principal:is(*, .specificity-bump):before {
+  font-weight: bold;
+  content: "Principal: ";
+}
+
+tei-profiledesc:is(*, .specificity-bump) {
+  display: none;
+}
+
+tei-publicationstmt > *:is(*, .specificity-bump) {
+  display: none;
+}
+
+tei-publicationstmt:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+tei-publicationstmt > date:is(*, .specificity-bump) {
+  display: none;
+}
+
+tei-publicationstmt > publisher:is(*, .specificity-bump) {
+  display: none;
+}
+
+/* q */
+tei-q:is(*, .specificity-bump) {
+  quotes: "\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d";
+}
+
+tei-q:is(*, .specificity-bump):before {
+  content: "";
+}
+
+tei-q:is(*, .specificity-bump):after {
+  content: "";
+}
+
+tei-q[data-tei-next]:is(*, .specificity-bump):after {
+  content: "" !important;
+}
+
+tei-q[data-tei-prev]:is(*, .specificity-bump):before {
+  content: "" !important;
+}
+
+tei-quote:is(*, .specificity-bump) {
+  font-style:italic;
+}
+
+/* r */
+tei-app tei-rdg:is(*, .specificity-bump) {
+  /*perhaps choice */
+  display:none;
+}
+
+tei-re:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+tei-recordhist:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+tei-ref:is(*, .specificity-bump) {
+  color: #5f0000;
+}
+
+tei-remarks:is(*, .specificity-bump) {
+  font-weight: bold;
+}
+
+tei-remarks:is(*, .specificity-bump):before {
+  font-weight: bold;
+  content: "remarks: ";
+}
+
+tei-respstmt:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+tei-revisiondesc:is(*, .specificity-bump) {
+  display: none;
+}
+
+tei-row:is(*, .specificity-bump) {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: 1fr;
+}
+
+/* s */
+tei-salute:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+tei-samplingdecl:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+tei-scriptnote:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+tei-seal:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+tei-seal:is(*, .specificity-bump):before {
+  font-weight: bold;
+  content: "Seal: ";
+}
+
+tei-sealdesc:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+tei-secFol:is(*, .specificity-bump):before {
+  font-weight: bold;
+  content: "Second Folio: ";
+}
+
+tei-secl>*:first-child:is(*, .specificity-bump):before {
+  content: "\a[";
+  white-space: pre;
+}
+
+tei-secl>*:last-child:is(*, .specificity-bump):after {
+  content: "]\a\a";
+  white-space: pre;
+}
+
+tei-seg:is(*, .specificity-bump) {
+  outline: 0px solid transparent;
+}
+
+tei-sense:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+tei-seriesstmt:is(*, .specificity-bump) {
+  display: none;
+}
+
+tei-setting:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+tei-signed:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 2em;
+}
+
+tei-soCalled:is(*, .specificity-bump) {
+  quotes: "\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d";
+}
+
+tei-soCalled:is(*, .specificity-bump):before {
+  content: open-quote;
+}
+
+tei-soCalled:is(*, .specificity-bump):after {
+  content: close-quote;
+}
+
+tei-soCalled[data-tei-next]:is(*, .specificity-bump):after {
+  content: "" !important;
+}
+
+tei-soCalled[data-tei-prev]:is(*, .specificity-bump):before {
+  content: "" !important;
+}
+
+tei-sound:is(*, .specificity-bump) {
+  font-style: italic;
+}
+
+tei-source:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+tei-sourcedesc:is(*, .specificity-bump) {
+  display: none;
+}
+
+tei-space:is(*, .specificity-bump):before {
+  font-weight: bold;
+  content: "";
+}
+
+tei-span[data-tei-data-n]:is(*, .specificity-bump):before {
+  content: attr(data-n);
+}
+
+tei-speaker:is(*, .specificity-bump) {
+  font-weight: bold;
+  margin-right: 0;
+}
+
+tei-sponsor:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+tei-sponsor:is(*, .specificity-bump):before {
+  font-weight: bold;
+  content: "Sponsor:";
+}
+
+tei-stage:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  font-style: italic;
+}
+
+tei-stamp:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+tei-stamp:is(*, .specificity-bump):before {
+  font-weight: bold;
+  content: "Stamped: ";
+}
+
+tei-surplus>*:first-child:is(*, .specificity-bump):before {
+  content: "\a[";
+  white-space: pre;
+}
+
+tei-surplus>*:last-child:is(*, .specificity-bump):after {
+  content: "]\a\a";
+  white-space: pre;
+}
+
+/* t */
+tei-tei:is(*, .specificity-bump) {
+  display: block;
+}
+
+tei-table:is(*, .specificity-bump) {
+  display: block;
+  border-top: thin solid black;
+  border-left: thin solid black;
+}
+
+tei-table:is(*, .specificity-bump) {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  font-size: 12pt;
+}
+
+tei-table > tei-head:is(*, .specificity-bump) {
+  border-bottom: thin solid black;
+  border-right: thin solid black;
+  font-size: 120%;
+  font-weight: bold;
+  padding: 2px;
+  text-align: center;
+}
+
+tei-teiheader:is(*, .specificity-bump) {
+  display: block;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+tei-tei > tei-text:is(*, .specificity-bump) {
+  display: block;
+  line-height: 1.5;
+}
+
+tei-textclass:is(*, .specificity-bump) {
+  display: none;
+}
+
+tei-textdesc:is(*, .specificity-bump) {
+  display: none;
+}
+
+/* title */
+tei-tei tei-title:is(*, .specificity-bump) {
+  display: inline;
+}
+
+tei-tei tei-title[level=a]:is(*, .specificity-bump) {
+  quotes: "\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d";
+}
+
+tei-tei tei-title[level=a]:is(*, .specificity-bump):before {
+  content: open-quote;
+}
+
+tei-tei tei-title[level=a]:is(*, .specificity-bump):after {
+  content: close-quote;
+}
+
+tei-tei tei-title[level=a][next]:is(*, .specificity-bump):after {
+  content: "" !important;
+}
+
+tei-tei tei-title[level=a][prev]:is(*, .specificity-bump):before {
+  content: "" !important;
+}
+
+tei-title[level=m]:is(*, .specificity-bump) {
+  font-style: italic;
+}
+
+tei-titlestmt > tei-title:is(*, .specificity-bump) {
+  display: block;
+  font-family: Arvo, sans-serif;
+  font-weight: normal;
+  font-weight: bold !important;
+  font-size: 150%;
+}
+
+tei-typedesc:is(*, .specificity-bump) {
+  display: none;
+}
+
+/* u */
+tei-u:is(*, .specificity-bump):before {
+  content: "-";
+}
+
+tei-view:is(*, .specificity-bump) {
+  font-style: italic;
+}
+
+tei-wit:is(*, .specificity-bump) {
+  display: inline;
+}
+
+tei-witdetail:is(*, .specificity-bump) {
+  display:none;
+}
