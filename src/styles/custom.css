@@ -135,3 +135,6 @@ tei-add[data-tei-place="margin right"] {
   text-align: left;
 }
 
+tei-metamark {
+  color: blue;
+}
