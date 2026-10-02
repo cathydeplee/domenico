@@ -100,6 +100,13 @@ tei-unclear {
   text-decoration-line: underline;
 }
 
+/* Raised additions (EditionCrafter draws every addition as a superscript)
+   keep the line at its normal height. Margin additions are left out: they
+   are blocks of their own, which may run over several lines. */
+tei-add:not([place~="margin"]):not([data-tei-place~="margin"]) {
+  line-height: 0;
+}
+
 /* Marginal additions (generic margin, defaults to left). A left float sits
    against its line's content box, which an indent moves right, so the note
    takes the line's indent off its offset to stay in the margin. */
