@@ -12,47 +12,47 @@
   "readingGuide": [
     {
       "example": "<tei-del>parola</tei-del>",
-      "meaning": "Suppression : texte supprimé dans le manuscrit"
+      "meaning": "Deletion: text deleted in the manuscript"
     },
     {
       "example": "<tei-del rend=\"strikethrough\">parola</tei-del>",
-      "meaning": "Suppression par un trait : texte barré dans le manuscrit"
+      "meaning": "Deletion by a stroke: text struck through in the manuscript"
     },
     {
       "example": "il <tei-add place=\"above\">passo</tei-add>",
-      "meaning": "Ajout écrit au-dessus de la ligne"
+      "meaning": "Addition written above the line"
     },
     {
-      "example": "<span style=\"display:block;padding-left:6em\"><tei-add place=\"margin\">ajout</tei-add>ligne</span>",
-      "meaning": "Ajout écrit dans la marge, à côté de la ligne qu'il complète"
+      "example": "<span style=\"display:block;padding-left:6em\"><tei-add place=\"margin\">addition</tei-add>line</span>",
+      "meaning": "Addition written in the margin, beside the line it completes"
     },
     {
       "example": "<tei-metamark>^</tei-metamark>",
-      "meaning": "Signe de renvoi du manuscrit indiquant où insérer un ajout"
+      "meaning": "Mark in the manuscript showing where an addition goes"
     },
     {
       "example": "<tei-corr>parola</tei-corr>",
-      "meaning": "Correction de l'éditeur"
+      "meaning": "Editorial correction"
     },
     {
       "example": "<tei-supplied>parola</tei-supplied>",
-      "meaning": "Texte restitué par l'éditeur"
+      "meaning": "Text supplied by the editor"
     },
     {
       "example": "<tei-unclear>parola</tei-unclear>",
-      "meaning": "Lecture incertaine"
+      "meaning": "Uncertain reading"
     },
     {
-      "example": "<tei-note n=\"reading-guide-note\">Exemple de note de l'éditeur.</tei-note>",
-      "meaning": "Note de l'éditeur : cliquez sur l'astérisque pour la lire"
+      "example": "<tei-note n=\"reading-guide-note\">An example of an editorial note.</tei-note>",
+      "meaning": "Editorial note: click the asterisk to read it"
     },
     {
       "example": "<span class=\"glossary-term\" tabindex=\"0\">cambiamento</span>",
-      "meaning": "Mot du glossaire : survolez-le pour lire sa définition"
+      "meaning": "Glossary word: hover over it to read its definition"
     },
     {
-      "example": "<tei-media url=\"https://api.nakala.fr/data/10.34847/nkl.bc417050/6ea381d74d6a0e87b0d8360ccdcfcb43c311648c\" mimetype=\"video/mp4\"><tei-desc>Exemple de vidéo</tei-desc></tei-media>",
-      "meaning": "Vidéo : cliquez sur le bouton pour l'afficher sous le texte"
+      "example": "<tei-media url=\"https://api.nakala.fr/data/10.34847/nkl.bc417050/6ea381d74d6a0e87b0d8360ccdcfcb43c311648c\" mimetype=\"video/mp4\"><tei-desc>An example video</tei-desc></tei-media>",
+      "meaning": "Video: click the button to show it below the text"
     }
   ]
 }
