@@ -65,6 +65,38 @@ tei-p[data-tei-rend*="indent(6)"] {
   padding-left: var(--indent);
 }
 
+tei-line[rend*="indent(7)"],
+tei-line[data-tei-rend*="indent(7)"],
+tei-p[rend*="indent(7)"],
+tei-p[data-tei-rend*="indent(7)"] {
+  --indent: 14em;
+  padding-left: var(--indent);
+}
+
+tei-line[rend*="indent(8)"],
+tei-line[data-tei-rend*="indent(8)"],
+tei-p[rend*="indent(8)"],
+tei-p[data-tei-rend*="indent(8)"] {
+  --indent: 16em;
+  padding-left: var(--indent);
+}
+
+tei-line[rend*="indent(9)"],
+tei-line[data-tei-rend*="indent(9)"],
+tei-p[rend*="indent(9)"],
+tei-p[data-tei-rend*="indent(9)"] {
+  --indent: 18em;
+  padding-left: var(--indent);
+}
+
+tei-line[rend*="indent(10)"],
+tei-line[data-tei-rend*="indent(10)"],
+tei-p[rend*="indent(10)"],
+tei-p[data-tei-rend*="indent(10)"] {
+  --indent: 20em;
+  padding-left: var(--indent);
+}
+
 tei-line[rend*="indent(-1)"],
 tei-line[data-tei-rend*="indent(-1)"],
 tei-p[rend*="indent(-1)"],
