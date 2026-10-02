@@ -148,7 +148,7 @@ tei-metamark {
 
 /* Notated music image correct size and left-aligned */
 .editioncrafter tei-notatedmusic figure {
-  align-items: flex-start;
+  align-items: flex-start !important;
 }
 
 .editioncrafter tei-notatedmusic img.inline-image {
