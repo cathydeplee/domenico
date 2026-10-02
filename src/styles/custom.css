@@ -146,6 +146,12 @@ tei-metamark {
   color: blue;
 }
 
-tei-notatedmusic img.inline-image {
+/* Notated music image correct size and left-aligned */
+.editioncrafter tei-notatedmusic figure {
+  align-items: flex-start;
+}
+
+.editioncrafter tei-notatedmusic img.inline-image {
   max-width: 450px;
+  margin: 0;
 }
