@@ -150,6 +150,7 @@ tei-add[data-tei-place~="margin"] {
   margin-left: calc(-16em - var(--indent));
   width: 15em;
   font-size: 0.8em;
+  line-height: 1em;
   color: #718096;
   text-align: right;
 }
