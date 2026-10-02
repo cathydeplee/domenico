@@ -96,6 +96,7 @@
 		<surface xml:id="f019" ulx="0" uly="0" lrx="4982" lry="6658" sameAs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/canvas/f20">
 			<label>7v</label>
 			<graphic mimeType="application/json" url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f20"/>
+			<zone xml:id="f019-zone-1" ulx="1210" uly="793" lrx="4474" lry="2621"/>
 		</surface>
 		<surface xml:id="f020" ulx="0" uly="0" lrx="4982" lry="6658" sameAs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/canvas/f21">
 			<label>8r</label>
@@ -742,6 +743,7 @@
 			<line>cavagliero ha composti i di<unclear>ct</unclear>i balli.</line>
 		</surface>
 		<surface facs="#f019">
+			<line><notatedMusic facs="#f019-zone-1"><desc>TODO: Add description here</desc><graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f20/1210,793,3264,1828/500,/0/native.jpg"/></notatedMusic></line>
 			<line rend="indent(3)">Belreguardo im ballo, cioè uno homo e una dona.</line>
 			<line rend="indent(2)">Mprima fano tempi XI de saltarello et afermase, façando</line>
 			<line>dupei quatro de bassadanza inseme, comenzando al pede sinistro</line>
