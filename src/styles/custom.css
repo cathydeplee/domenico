@@ -147,8 +147,8 @@ tei-add[data-tei-place~="margin"] {
   display: inline-block;
   float: left;
   clear: left;
-  margin-left: calc(-6em - var(--indent));
-  width: 5em;
+  margin-left: calc(-16em - var(--indent));
+  width: 15em;
   font-size: 0.8em;
   color: #718096;
   text-align: right;
