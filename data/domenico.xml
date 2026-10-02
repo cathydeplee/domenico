@@ -1956,7 +1956,8 @@
 			<line>con una reverentia et è finita.</line>
 		</surface>
 		<surface facs="#f060">
-			<line>(E) Zoglioxa <hi><unclear>F</unclear></hi></line>
+			<line rend="indent(4)">(E) Zoglioxa <hi><unclear>F</unclear></hi></line>
+			<line><lb/></line>
 			<line>Prima continanze II comenzando suxo el pede stanco, passi</line>
 			<line>II sempi passo uno dopio una reprexa drita, passo</line>
 			<line>uno dopio sul pede stanco II passi sempi et dui dopii</line>
