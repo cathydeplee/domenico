@@ -145,3 +145,7 @@ tei-add[data-tei-place="margin right"] {
 tei-metamark {
   color: blue;
 }
+
+tei-notatedmusic img.inline-image {
+  max-width: 450px;
+}
