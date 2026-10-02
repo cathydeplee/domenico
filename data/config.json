@@ -3,10 +3,56 @@
   "documentName": "Trattato De la arte di ballare et danzare di Domenico da Piacenza",
   "iiifManifest": "/domenico/domenico/iiif/manifest.json",
   "transcriptionTypes": {
-    "traduction":"Traduction",
-    "transcription_diplomatique":"Transcription diplomatique",
-    "transcription_annotee":"Transcription annotée"
+    "traduction": "Traduction",
+    "transcription_diplomatique": "Transcription diplomatique",
+    "transcription_annotee": "Transcription annotée"
   },
   "viewerUrl": "/domenico",
-  "glossaryURL": "https://cathydeplee.github.io/domenico/glossary.json"
+  "glossaryURL": "https://cathydeplee.github.io/domenico/glossary.json",
+  "readingGuide": [
+    {
+      "example": "<tei-del>parola</tei-del>",
+      "meaning": "Suppression : texte supprimé dans le manuscrit"
+    },
+    {
+      "example": "<tei-del rend=\"strikethrough\">parola</tei-del>",
+      "meaning": "Suppression par un trait : texte barré dans le manuscrit"
+    },
+    {
+      "example": "il <tei-add place=\"above\">passo</tei-add>",
+      "meaning": "Ajout écrit au-dessus de la ligne"
+    },
+    {
+      "example": "<span style=\"display:block;padding-left:6em\"><tei-add place=\"margin\">ajout</tei-add>ligne</span>",
+      "meaning": "Ajout écrit dans la marge, à côté de la ligne qu'il complète"
+    },
+    {
+      "example": "<tei-metamark>^</tei-metamark>",
+      "meaning": "Signe de renvoi du manuscrit indiquant où insérer un ajout"
+    },
+    {
+      "example": "<tei-corr>parola</tei-corr>",
+      "meaning": "Correction de l'éditeur"
+    },
+    {
+      "example": "<tei-supplied>parola</tei-supplied>",
+      "meaning": "Texte restitué par l'éditeur"
+    },
+    {
+      "example": "<tei-unclear>parola</tei-unclear>",
+      "meaning": "Lecture incertaine"
+    },
+    {
+      "example": "<tei-note n=\"reading-guide-note\">Exemple de note de l'éditeur.</tei-note>",
+      "meaning": "Note de l'éditeur : cliquez sur l'astérisque pour la lire"
+    },
+    {
+      "example": "<span class=\"glossary-term\" tabindex=\"0\">cambiamento</span>",
+      "meaning": "Mot du glossaire : survolez-le pour lire sa définition"
+    },
+    {
+      "example": "<tei-media url=\"https://api.nakala.fr/data/10.34847/nkl.bc417050/6ea381d74d6a0e87b0d8360ccdcfcb43c311648c\" mimetype=\"video/mp4\"><tei-desc>Exemple de vidéo</tei-desc></tei-media>",
+      "meaning": "Vidéo : cliquez sur le bouton pour l'afficher sous le texte"
+    }
+  ]
 }
