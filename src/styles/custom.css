@@ -172,6 +172,7 @@ tei-add[data-tei-place="margin right"] {
   margin-right: 10em;
   margin-left: 0;
   text-align: left;
+  width: 15em;
 }
 
 tei-metamark {
