@@ -132,6 +132,14 @@ tei-unclear {
   text-decoration-line: underline;
 }
 
+/* Text reproduced as written although wrong (sic): the unclear text's wavy
+   underline, in red */
+tei-sic {
+  text-decoration-style: wavy;
+  text-decoration-line: underline;
+  text-decoration-color: red;
+}
+
 /* Raised additions (EditionCrafter draws every addition as a superscript)
    keep the line at its normal height. Margin additions are left out: they
    are blocks of their own, which may run over several lines. */
