@@ -43,6 +43,10 @@
       "meaning": "Uncertain reading"
     },
     {
+      "example": "<tei-sic>parola</tei-sic>",
+      "meaning": "Error in the manuscript, reproduced as written (sic)"
+    },
+    {
       "example": "<tei-note n=\"reading-guide-note\">An example of an editorial note.</tei-note>",
       "meaning": "Editorial note: click the asterisk to read it"
     },
