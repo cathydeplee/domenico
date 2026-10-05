@@ -106,12 +106,14 @@ tei-p[data-tei-rend*="indent(-1)"] {
   margin-left: var(--indent);
 }
 
-/* Paragraphs without EditionCrafter's 1em margin above and below. Its
-   stylesheet is added when the page runs, after this one, so the rule is made
-   one step more specific than its own `.editioncrafter tei-p`. */
-body .editioncrafter tei-p {
-  margin-top: 0;
-  margin-bottom: 0;
+/* Paragraphs without a margin above and below. EditionCrafter gives them
+   1em in `.editioncrafter tei-p`, a stylesheet added when the page runs,
+   after this one: only `!important` takes precedence over it without naming
+   EditionCrafter's own class, so that this stylesheet styles the text alike
+   wherever it is shown, such as in TEIEdit's preview. */
+tei-p {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
 }
 
 /* Supplied text (editorial restorations) */
@@ -196,12 +198,14 @@ tei-metamark {
   color: blue;
 }
 
-/* Notated music image correct size and left-aligned */
-.editioncrafter tei-notatedmusic figure {
+/* Notated music image correct size and left-aligned. `!important` takes
+   precedence over EditionCrafter's `.editioncrafter .inline-image` without
+   naming its class (see the paragraphs above). */
+tei-notatedmusic figure {
   align-items: flex-start !important;
 }
 
-.editioncrafter tei-notatedmusic img.inline-image {
-  max-width: 450px;
-  margin: 0;
+tei-notatedmusic img.inline-image {
+  max-width: 450px !important;
+  margin: 0 !important;
 }
