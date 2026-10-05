@@ -106,6 +106,14 @@ tei-p[data-tei-rend*="indent(-1)"] {
   margin-left: var(--indent);
 }
 
+/* Paragraphs without EditionCrafter's 1em margin above and below. Its
+   stylesheet is added when the page runs, after this one, so the rule is made
+   one step more specific than its own `.editioncrafter tei-p`. */
+body .editioncrafter tei-p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 /* Supplied text (editorial restorations) */
 tei-supplied::before {
   content: "[";
