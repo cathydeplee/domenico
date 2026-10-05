@@ -341,7 +341,7 @@
 			<line rend="indent(8)"><add place="margin left">1</add> RENGRATIANDO</line>
 			<line rend="indent(4)">el grande e triumfante Idio de li intelecti che per</line>
 			<line rend="indent(4)">gratia da lui sono imfusi, et a lui solo dato li</line>
-			<line rend="indent(4)">sia honore et gloria de tutte le operatione in-</line>
+			<line rend="indent(4)">sia honore et gloria de tutte le operatione <del>in</del></line>
 			<line rend="indent(4)">intelectuale e moralle. E vogliando el</line>
 			<line>spectable e nobele cavaliero messer Domenigino piacentino tra-</line>
 			<line>ctare <metamark function="insertion" place="below" target="#add_del_moto_corporeo">‸</metamark><add place="margin left" xml:id="add_del_moto_corporeo">del moto<lb/>corporeo</add> cum grande reverentia, impetra a Quello che sempre per sua sancta</line>
@@ -357,7 +357,7 @@
 			<line>luoco a luoco cum mexura, memoria, agilitade e mainera. Mexura de</line>
 			<line>terreno, porzando aiuto, spirando el corpo per fantaxmata, dicendo lui e</line>
 			<line>opponendo per argumenti boni e veri essere questa arte e demostratione zentille</line>
-			<line>de tanto intelecto e fatica quanto ritrovare se possa. E nota ti <del>galante</del> che</line>
+			<line>de tanto intelecto e fatica quanto ritrovare se possa. E nota ti <del rend="strikethrough">galante</del> che</line>
 			<line>vogliando operare questo motto per modo che tu nol condugi per li extremi, dico</line>
 		</surface>
 		<surface facs="#f007">
@@ -600,9 +600,9 @@
 			<line rend="indent(6)">Bassa - dança</line>
 		</surface>
 		<surface facs="#f014">
-			<line rend="indent"><add place="margin left">12°</add> Ota e intendi, a fine che de ingnorantia non me increpi. Ad-</line>
+			<line rend="indent"><add place="margin left">12°</add> Ota e intendi a fine che de ingnorantia non me increpi. Ad-</line>
 			<line>visandote che questa a lo intendere è subtilissima, vogliando lui che</line>
-			<line>tu sapi e revolvi tutte le mexure a tuo modo, cum ragione, per natura on</line>
+			<line>tu sapi e revolvi tutte le mexure a tuo modo cum ragione per natu<add place="top">r</add>a on</line>
 			<line>per accidentia. Nota per natura dare el suo ordine a ciascaduna</line>
 			<line>mexura de la sua distantia, cioè de largeza e de presteza di tempo;</line>
 			<line>per accidentia saper seperare tutte le mexure, cioè de dui tempi de pi-</line>
@@ -625,7 +625,7 @@
 			<line>e quelle non hanno suo ordine. Ma per <del rend="strikethrough">distantia</del> accidentia, de</line>
 			<line>intelecto se pono operare como è dicto qui disopra.</line>
 			<line><lb/></line>
-			<line rend="indent"><add place="margin left">13</add> Oota che la bassadanza, la quale è de mazor <add place="inspace">im</add>perfecto dico</line>
+			<line rend="indent"><add place="margin left">13</add> O<del>o</del>ta che la bassadanza, la quale è de mazor <add place="inspace">im</add>perfecto dico</line>
 			<line>se pò danzare per modi cinque, de li cinque dui hanno suo ordine</line>
 			<line>per motto de compartitione de tempo, li altri tri per acidentia</line>
 			<line>lo intelecto li pò spartirli e danzarli. Ma più difficille sono</line>
@@ -1976,19 +1976,19 @@
 				<p><lb/></p>
 				<p><lb/></p>
 				<p><lb/></p>
-				<p rend="indent(3)"><add place="left"><hi rend="small"><term rend="small">1.</term></hi></add> <supplied cert="medium" reason="editorial">SEMPRE</supplied><note xml:id="note_f1_02">Ajout ici de "sempre": sur base de la lettre d'attente en marge "s", de l'espace laissé avant le premier mot écrit en capitale propisce à recevoir env.4 ou 5 caractères en capitale, et de la syntaxe qui fait supposet un adverbe.</note> RENGRATIANDO<media url="https://api.nakala.fr/data/10.34847/nkl.bc417050/6ea381d74d6a0e87b0d8360ccdcfcb43c311648c" mimeType="video/mp4"><desc>This is an example video, unrelated to the website</desc></media></p>
+				<p rend="indent(3)">1<note>Numéro de § en marge de gauche</note>. <supplied cert="medium" reason="editorial">SEMPRE</supplied><note xml:id="note_f1_02">Ajout ici de "sempre": sur base de la lettre d'attente "s" en marge de gauche, de l'espace laissé avant le premier mot écrit en capitale propisce à recevoir env. 4 ou 5 caractères en capitale, et de la syntaxe qui fait supposer un adverbe.</note> RENGRATIANDO<media url="https://api.nakala.fr/data/10.34847/nkl.bc417050/6ea381d74d6a0e87b0d8360ccdcfcb43c311648c" mimeType="video/mp4"><desc>This is an example video, unrelated to the website</desc></media></p>
 				<p rend="indent(3)">el grande e triumfante Idio de li intelecti che per</p>
 				<p rend="indent(3)">gratia da lui sono imfusi, et a lui solo dato li</p>
-				<p rend="indent(3)">sia honore et gloria de tutte le operatione<note>Ms: i(n) en fin de ligne redondant avec le début du mot suivant</note></p>
+				<p rend="indent(3)">sia honore et gloria de tutte le operatione<note>Ms: suivi de i(n) en fin de ligne redondant avec le début du mot suivant</note></p>
 				<p rend="indent(3)">intelectuale e moralle. E vogliando el</p>
 				<p>spectable e nobele cavaliero messer Domenigino piacentino tra-</p>
 				<p>ctare <ref target="note_0e136f54f0d64a489e7bbfa06e39e84e">del moto corporeo</ref><note xml:id="note_0e136f54f0d64a489e7bbfa06e39e84e">add. en marge de gauche d'une encre plus foncée, avec signe d'insertion dans le texte après 'tractare'</note> cum grande reverentia, impetra a Quello che sempre per sua sancta</p>
 				<p>humanitade s’è dignato de soccorere el dicto operante e tractante de</p>
 				<p>questa materia a bon fine. E pur volendo molti opponere a questo m-</p>
-				<p>oto azele e pelegrino opera<corr evidence="internal">do</corr><note xml:id="note_c49cc2d15a0545f9b7dd7df8e7f3d17c">Ms: "n" gratté entre "a" et "d", à comprendre par conséquent comme un participe passé (operato) plus plausible syntaxiquement qu'un gérondif.</note> cum grande subtilitade e fatica che sia</p>
+				<p>oto azele e pelegrino opera<corr evidence="internal">do</corr><note xml:id="note_c49cc2d15a0545f9b7dd7df8e7f3d17c">Ms: "n" gratté entre "a" et "d", à comprendre par conséquent comme un participe passé (operato) plus plausible syntaxiquement qu'un gérondif (operando).</note> cum grande subtilitade e fatica che sia</p>
 				<p>venerea e de perditione de tempo, l’operante argumenta <ref target="note_4533c62045894b12bdb381602da9af59">in lo 2° de l’Heticha</ref><note xml:id="note_4533c62045894b12bdb381602da9af59">Ms. add. manchette de référence en marge de droite de la même main. Pour l'Ethique à Nicomaque de Aristote</note></p>
 				<p>contra di questo, dicendo lui che tutte le cosse se corompono e guasta[n]se se</p>
-				<p>le sono conducte e menate indivise<note target="#note_f1_05" xml:id="note_f1_05">Ms. tilde ondulé de forme inhabituelle sur le 2e "i". Première hypothèse, retenue ici: abréviation inhabituelle pour "indivisamente". Autre hypothèse : abbréviation hâtive pour "in diverse vie" cf : Procopio: "in diverse" (...); Neville: "ind(i)verse" (p.112 n.60)</note>, cioè per le operatione extreme,</p>
+				<p>le sono conducte e menate <unclear cert="medium">indivise</unclear><note target="#note_f1_05" xml:id="note_f1_05">Ms. tilde ondulé de forme inhabituelle sur le 2e "i" pour signaler une abréviation ou une omission peu claires. Première hypothèse, retenue ici: abréviation inhabituelle pour "indivisamente". Autre hypothèse : abbréviation hâtive pour "in diverse vie" cf : Procopio: "in diverse"; Neville: "ind(i)verse" (p.112 n.60)</note>, cioè per le operatione extreme,</p>
 				<p>e la mezanitade conserva. E bene ch’el savio <ref target="note_463adc62d23446cd9fe8ba6473ce1a89">Aristotele</ref><note target="#note_f1_z" xml:id="note_f1_z">Manchette d'autorité en marge de droite: Aristote</note> tractasse del motto</p>
 				<p>alquanto in lo X° de l’Heticha, in altre parte non poté mai cum sua subtilitade</p>
 				<p>saper cavare el subtille del subtille de questo motto corporalle mosso da</p>
@@ -2000,12 +2000,12 @@
 			</div>
 			<div>
 				<p><pb facs="#f007"/></p>
-				<p>questa arte zentille havere in sé buntade <add place="above">per</add><note target="#note_f2_01" xml:id="note_f2_01">Ms: p(er) add. sublinéaire de main gothique à l'encre plus foncée; première et dernière lettre de natura retouchées de même.</note> natura e molte<note target="#note_f2_02" xml:id="note_f2_02">Procopio: "molto"</note> per azidenzia<note target="#note_f2_03" xml:id="note_f2_03">correction de main gothique sur effacement illisible. Smith: "erzadergia"; Casazza: "eczidenzia"</note></p>
+				<p>questa arte zentille havere in sé buntade per<note target="#note_f2_01" xml:id="note_f2_01">Ms: p(er) add. sublinéaire de main gothique à l'encre plus foncée; première et dernière lettre de natura retouchées de même.</note> natura e molte<note target="#note_f2_02" xml:id="note_f2_02">Procopio: "molto"</note> per azidenzia<note target="#note_f2_03" xml:id="note_f2_03">correction de main gothique sur effacement illisible. Smith: "erzadergia"; Casazza: "eczidenzia"</note></p>
 				<p>in sua operatione.</p>
 				<p><lb/></p>
-				<p rend="indent(2)">2.<note xml:id="note_f01v_a">Numéro de paragraphe original en marge de gauche</note> <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_26a145b309864ce886cd7a684cbd51b8">Ajout du N à l'initiale (initiale d'attente ommise ici); Ms. Au-dessus du O première moitié d'un autre O, le copiste ayant probablement oublié le saut de ligne.</note> che niuna creatura creata che habia in sé de natura man-</p>
+				<p rend="indent(2)">2.<note xml:id="note_f01v_a">Numéro de paragraphe original en marge de gauche</note> <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_26a145b309864ce886cd7a684cbd51b8">Ajout du N à l'initiale (initiale d'attente omise ici) mais place laissée; Ms. Au-dessus du O première moitié d'un autre O, le copiste ayant probablement oublié le saut de ligne.</note> che niuna creatura creata che habia in sé de natura man-</p>
 				<p>camento, de questo motto zentille capace sia, digando lui che</p>
-				<p>zopi, gobi, guerci de tutti li ministerii aprensivi sono, salvo <ref target="note_d80b305461dc463cbb8c998c2a6877d3"><supplied>che</supplied></ref><note xml:id="note_d80b305461dc463cbb8c998c2a6877d3">Ms. che effacé à tort (mais lisible) ; rétabli par par Procopio.</note> de</p>
+				<p>zopi, gobi, guerci de tutti li ministerii aprensivi sono, salvo <ref target="note_d80b305461dc463cbb8c998c2a6877d3"><supplied>che</supplied></ref><note xml:id="note_d80b305461dc463cbb8c998c2a6877d3">Ms. che effacé à tort (mais lisible) ; rétabli ici; id. Procopio.</note> de</p>
 				<p>questo che operandose seria frusta. Adomque li bisogna prosperità</p>
 				<p>de fortuna che è beleza, imperò dice el proverbio : chi Idio fece</p>
 				<p>bello non fece tutto povero. Adomque bisogna che la natura</p>
@@ -2013,7 +2013,7 @@
 				<p>pedi fino a lo capo, digando però questa belleza non satisfare la</p>
 				<p>virtù de questa zentile arte.</p>
 				<p><lb/></p>
-				<p rend="indent(2)">3. <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_f01v_b">Ajout éditorial du N. Initiale d'attente ommise ici.</note> per Dio e non esser ingnorante de lo intelecto da Dio datto,</p>
+				<p rend="indent(2)">3. <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_f01v_b">Ajout du N. Initiale d'attente omise ici mais place laissée.</note> per Dio e non esser ingnorante de lo intelecto da Dio datto,</p>
 				<p>che oltra sii adoptado per natura de beleza, vogliando ti imparare</p>
 				<p>e cavare el constructo de questo zentille mestiero, lui dice che el</p>
 				<p>fondamento de questo si è mexura, la quale mexura <supplied reason="deleted">è</supplied><note xml:id="note_f01v_c">Supprimé (mais lisible) sans doute à tort, la même construction se retrouve à la fin de ce même paragraphe. Omis par Procopio.</note> tutte preste-</p>
@@ -2024,13 +2024,13 @@
 				<p>a tutte queste cosse è bisogno havere una grandissima e zentile azi-</p>
 				<p>litade e mainera corporea. E nota che questa agilitade e mainera</p>
 				<p>per niuno modo vole esser adoperata per li estremi, ma tenire el mezo</p>
-				<p>del tuo movimento che non sia ni tropo ni poco, <add place="above"><ref>ma</ref></add><note xml:id="note_f01v_19">Ms. ma add. interl. de main gothique, encre plus foncée. Le mot n’est pas indispensable à la syntaxe.</note> cum tanta suavi-</p>
+				<p>del tuo movimento che non sia ni tropo ni poco, <ref>ma</ref><note xml:id="note_f01v_19">Ms. "ma" add. interl. de main gothique, encre plus foncée. Le mot n’est pas indispensable à la syntaxe.</note> cum tanta suavi-</p>
 				<p>tade che pari una gondola che da dui rimi spinta sia per quelle</p>
 				<p>undicelle quando el mare fa quieta segondo sua natura,</p>
 				<p>alçando le dicte undicelle cum tardeza e asbasan<ref target="#note_dfbc12887a8d4217873e08f290d4c9a6">-</ref></p>
 				<p>dosse cum presteza, sempre operando el fondamento</p>
 				<p>de la causa, cioè mexura, la qualle è tardeza</p>
-				<p>ricoperada cum presteza<note xml:id="note_dfbc12887a8d4217873e08f290d4c9a6">Dans cette dernière phrase on remarque un espacement progressif des mots et l'allongement des dernières lettres qui laisse penser à une imitation par l'écriture de l'image véhiculée par le texte</note>.</p>
+				<p>ricoperada cum presteza<note xml:id="note_dfbc12887a8d4217873e08f290d4c9a6">Dans cette dernière partie de phrase (à partir de "alçando") on remarque un espacement progressif des mots et l'allongement des dernières lettres qui laisse penser à une imitation par l'écriture de l'image véhiculée par le texte</note>.</p>
 			</div>
 			<div>
 				<p><pb facs="#f008"/></p>
@@ -2247,9 +2247,9 @@
 			</div>
 			<div>
 				<p><pb facs="#f014"/></p>
-				<p rend="indent(2)"><hi rend="bold">(A)</hi><note xml:id="note_f5r_x">reprise de la 1e main (A)</note> <ref target="note_551ed62a4dca406883bd75255194ee39">12°</ref><note xml:id="note_551ed62a4dca406883bd75255194ee39">Numéro de § en marge de gauche.</note> <ref target="note_286d1d1628d04ab2b8d02b430b40f12c"><supplied cert="high">N</supplied>ota</ref><note xml:id="note_286d1d1628d04ab2b8d02b430b40f12c">Initiale d'attente "N" ommise mais espace laissé</note> e intendi, a fine che de ingnorantia non me increpi. Ad-</p>
+				<p rend="indent(2)"><hi rend="bold">(A)</hi><note xml:id="note_f5r_x">reprise de la 1e main (A)</note> <ref target="note_551ed62a4dca406883bd75255194ee39">12°</ref><note xml:id="note_551ed62a4dca406883bd75255194ee39">Numéro de § en marge de gauche.</note> <ref target="note_286d1d1628d04ab2b8d02b430b40f12c"><supplied>N</supplied>ota</ref><note xml:id="note_286d1d1628d04ab2b8d02b430b40f12c">Initiale d'attente "N" ommise mais espace laissé</note> e intendi, a fine che de ingnorantia non me increpi. Ad-</p>
 				<p>visandote che questa a lo intendere è subtilissima, vogliando lui che</p>
-				<p>tu sapi e revolvi tutte le mexure a tuo modo, cum ragione, per natura on</p>
+				<p>tu sapi e revolvi tutte le mexure a tuo modo, cum ragione, per natura<note xml:id="note-5r_1">lettre "r" ommise, indiquée par un tilde ondulé supralinéaire</note> on</p>
 				<p>per accidentia. Nota per natura dare el suo ordine a ciascaduna</p>
 				<p>mexura de la sua distantia, cioè de largeza e de presteza di tempo;</p>
 				<p>per accidentia saper seperare tutte le mexure, cioè de dui tempi de pi-</p>
@@ -2269,7 +2269,7 @@
 				<p>terzo. Vogliando imprima tractare de la mexura de bassadanza,</p>
 				<p>la quale è de mazor imperfecto, quante mexure se li pò operare in lo</p>
 				<p>motto corporeo le quale mexure hanno suo ordine per distantia</p>
-				<p>e quelle non hanno suo ordine ma, per <ref target="note_ac061480da5a427983ee55008e1f5b9b">accidentia</ref><note xml:id="note_ac061480da5a427983ee55008e1f5b9b">Précédé de "diatantia" biffé et souligné en pointillé (pour indiquer une erreur de copie)</note>, de</p>
+				<p>e quelle non hanno suo ordine ma, per <ref target="note_ac061480da5a427983ee55008e1f5b9b">accidentia</ref><note xml:id="note_ac061480da5a427983ee55008e1f5b9b">Précédé de "distantia" biffé et souligné en pointillé (pour indiquer une erreur de copie)</note>, de</p>
 				<p>intelecto se pono operare como è dicto qui disopra.</p>
 				<p><lb/></p>
 				<p/>
