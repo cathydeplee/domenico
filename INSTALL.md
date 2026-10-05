@@ -4,6 +4,14 @@ This is a Javascript based project and you will need Node.js v18 or higher to ru
 
 ```npm install```
 
+This installs the [fork of EditionCrafter](https://github.com/leszekhanusz/editioncrafter) the project uses, `@leszekhanusz/editioncrafter`. `package.json` names it under EditionCrafter's own package name through an npm alias:
+
+```json
+"@cu-mkp/editioncrafter": "npm:@leszekhanusz/editioncrafter@^1.3.1-media.11"
+```
+
+so the code keeps importing `@cu-mkp/editioncrafter`.
+
 Then, install the EditionCrafter CLI:
 
 ```npm install -g @cu-mkp/editioncrafter-cli```
@@ -32,9 +40,11 @@ Then use the following command:
 
 ## Upgrading EditionCrafter
 
-This repository contains the latest version of EditionCrafter. To upgrade to a newer version in the future, run the following command:
+This repository uses the fork of EditionCrafter, whose versions are upstream's with a `-media.N` suffix (`1.3.1-media.11`). To upgrade to its latest release, keeping the alias, run:
 
-```npm install @cu-mkp/editioncrafter@latest```
+```npm install "@cu-mkp/editioncrafter@npm:@leszekhanusz/editioncrafter@latest"```
+
+Running `npm install @cu-mkp/editioncrafter@latest` instead would replace the fork with upstream EditionCrafter.
 
 Then, upgrade the EditionCrafter CLI using this command:
 
