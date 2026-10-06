@@ -17,7 +17,7 @@ See [INSTALL.md](INSTALL.md) for installation instructions.
 
 ## Credits
 
-EditionCrafter was developed by the [Making and Knowing Project](https://www.makingandknowing.org/) at the Center for Science and Society at Columbia University and [Performant Software Solutions LLC](https://www.performantsoftware.com). Funded by Grant SES-2218218 from the National Science Foundation.
+EditionCrafter was developed by the [Making and Knowing Project](https://www.makingandknowing.org/) at the Center for Science and Society at Columbia University and [Performant Software Solutions LLC](https://www.performantsoftware.com). Funded by Grant SES-2218218 from the National Science Foundation. For the edition work we thank warmly Pr. Marc H. Smith for his expert and attentive help, and Marina Nordera for her wise and constant encouragements. 
 
 ## License
 
