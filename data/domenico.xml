@@ -433,10 +433,10 @@
 			<line>a li principi e monarchi è licito havere suoi piaciri conveniveli</line>
 			<line>e condecenti. Concludando la operatione del motto, operandolo</line>
 			<line>a bono fine, esser çentile, pelegrino e nobele, havuto rispecto</line>
-			<line>che de molte parte è adoptato; e <add place="overleaf"><del>per</del></add> la mediocritade da te</line>
+			<line>che de molte parte è adoptato; e <del rend="strikethrough">per</del><add place="top">per</add> la mediocritade da te</line>
 			<line>galante sia conducta questa virtù singulare.</line>
 			<line><lb/></line>
-			<line rend="indent"><add place="margin left">8 o</add>R nota che per satisfare a ti <del>galante</del> lo esser de questo moto,</line>
+			<line rend="indent"><add place="margin left">8 o</add>R nota che per satisfare a ti <del rend="strikethrough">galante</del> lo esser de questo moto,</line>
 			<line>lui dice che dodice motti sono in l'operare de questa arte, de li</line>
 			<line>quali ne cava nove naturalli e tri acidentalli. Li nove</line>
 			<line>naturalli operati sono in lo pino e li tri acidentalli operati</line>
@@ -1976,34 +1976,34 @@
 				<p><lb/></p>
 				<p><lb/></p>
 				<p><lb/></p>
-				<p rend="indent(3)">1<note>Numéro de § en marge de gauche</note>. <supplied cert="medium" reason="editorial">SEMPRE</supplied><note xml:id="note_f1_02">Ajout ici de "sempre": sur base de la lettre d'attente "s" en marge de gauche, de l'espace laissé avant le premier mot écrit en capitale propisce à recevoir env. 4 ou 5 caractères en capitale, et de la syntaxe qui fait supposer un adverbe.</note> RENGRATIANDO<media url="https://api.nakala.fr/data/10.34847/nkl.bc417050/6ea381d74d6a0e87b0d8360ccdcfcb43c311648c" mimeType="video/mp4"><desc>This is an example video, unrelated to the website</desc></media></p>
+				<p rend="indent(3)">1<note>Ms. Numéro de § en marge de gauche</note>. <supplied cert="medium" reason="editorial">SEMPRE</supplied><note xml:id="note_f1_02">Ajout ici de "sempre": sur base de la lettre d'attente "s" en marge de gauche, de l'espace laissé avant le premier mot écrit en capitale propisce à recevoir env. 4 ou 5 caractères en capitale, et de la syntaxe qui fait supposer un adverbe.</note> RENGRATIANDO<media url="https://api.nakala.fr/data/10.34847/nkl.bc417050/6ea381d74d6a0e87b0d8360ccdcfcb43c311648c" mimeType="video/mp4"><desc>This is an example video, unrelated to the website</desc></media></p>
 				<p rend="indent(3)">el grande e triumfante Idio de li intelecti che per</p>
 				<p rend="indent(3)">gratia da lui sono imfusi, et a lui solo dato li</p>
 				<p rend="indent(3)">sia honore et gloria de tutte le operatione<note>Ms: suivi de i(n) en fin de ligne redondant avec le début du mot suivant</note></p>
 				<p rend="indent(3)">intelectuale e moralle. E vogliando el</p>
 				<p>spectable e nobele cavaliero messer Domenigino piacentino tra-</p>
-				<p>ctare <ref target="note_0e136f54f0d64a489e7bbfa06e39e84e">del moto corporeo</ref><note xml:id="note_0e136f54f0d64a489e7bbfa06e39e84e">add. en marge de gauche d'une encre plus foncée, avec signe d'insertion dans le texte après 'tractare'</note> cum grande reverentia, impetra a Quello che sempre per sua sancta</p>
+				<p>ctare <ref target="note_0e136f54f0d64a489e7bbfa06e39e84e">del moto corporeo</ref><note xml:id="note_0e136f54f0d64a489e7bbfa06e39e84e">Ms. add. en marge de gauche d'une encre plus foncée, avec signe d'insertion dans le texte après 'tractare'</note> cum grande reverentia, impetra a Quello che sempre per sua sancta</p>
 				<p>humanitade s’è dignato de soccorere el dicto operante e tractante de</p>
 				<p>questa materia a bon fine. E pur volendo molti opponere a questo m-</p>
 				<p>oto azele e pelegrino opera<corr evidence="internal">do</corr><note xml:id="note_c49cc2d15a0545f9b7dd7df8e7f3d17c">Ms: "n" gratté entre "a" et "d", à comprendre par conséquent comme un participe passé (operato) plus plausible syntaxiquement qu'un gérondif (operando).</note> cum grande subtilitade e fatica che sia</p>
 				<p>venerea e de perditione de tempo, l’operante argumenta <ref target="note_4533c62045894b12bdb381602da9af59">in lo 2° de l’Heticha</ref><note xml:id="note_4533c62045894b12bdb381602da9af59">Ms. add. manchette de référence en marge de droite de la même main. Pour l'Ethique à Nicomaque de Aristote</note></p>
 				<p>contra di questo, dicendo lui che tutte le cosse se corompono e guasta[n]se se</p>
 				<p>le sono conducte e menate <unclear cert="medium">indivise</unclear><note target="#note_f1_05" xml:id="note_f1_05">Ms. tilde ondulé de forme inhabituelle sur le 2e "i" pour signaler une abréviation ou une omission peu claires. Première hypothèse, retenue ici: abréviation inhabituelle pour "indivisamente". Autre hypothèse : abbréviation hâtive pour "in diverse vie" cf : Procopio: "in diverse"; Neville: "ind(i)verse" (p.112 n.60)</note>, cioè per le operatione extreme,</p>
-				<p>e la mezanitade conserva. E bene ch’el savio <ref target="note_463adc62d23446cd9fe8ba6473ce1a89">Aristotele</ref><note target="#note_f1_z" xml:id="note_f1_z">Manchette d'autorité en marge de droite: Aristote</note> tractasse del motto</p>
+				<p>e la mezanitade conserva. E bene ch’el savio <ref target="note_463adc62d23446cd9fe8ba6473ce1a89">Aristotele</ref><note target="#note_f1_z" xml:id="note_f1_z">Ms. Manchette d'autorité en marge de droite: Aristote</note> tractasse del motto</p>
 				<p>alquanto in lo X° de l’Heticha, in altre parte non poté mai cum sua subtilitade</p>
 				<p>saper cavare el subtille del subtille de questo motto corporalle mosso da</p>
 				<p>luoco a luoco cum mexura, memoria, agilitade e mainera; mexura de</p>
-				<p>terreno, porzando aiuto, spirando el corpo per fantaxmate<note target="#note_fiiiii" xml:id="note_fiiiii">Le choix de la ponctuation fait ici suppose l'enumération de termes, séparés par des verigules, comme autant de caractéristiques du mouvement corporel tel que conçu par le maître et que les paragraphes suivant expliqueront un à un. Le point virgule devant "mexura de terreno" (en écho au ": M" du ms.) indique une rupture dans l'énumération dont le sens est à chercher (voir Traduction)</note>, dicendo lui e</p>
+				<p>terreno, porzando aiuto, spirando el corpo per fantaxmate<note target="#note_fiiiii" xml:id="note_fiiiii">Le choix de la ponctuation ici suppose l'enumération de termes, séparés par des verigules, comme autant de caractéristiques du mouvement corporel tel que conçu par le maître et que les paragraphes suivant expliqueront un à un. Le point virgule devant "mexura de terreno" (en écho au ": M" du ms.) indique une rupture dans l'énumération dont le sens est à chercher (voir Traduction)</note>, dicendo lui e</p>
 				<p>opponendo per argumenti boni e veri essere questa arte e demostratione zentille</p>
 				<p>de tanto intelecto e fatica quanto ritrovare se possa. E nota ti<note xml:id="note_f01r_11">Ms: suivi de "galante" effacé mais lisible, présent et effacé aussi aux fol. 2v, 5v, 7r. Le mot n'est conservé par négligence qu'au f.2v l.10.</note> che</p>
 				<p>vogliando operare questo motto per modo che tu nol condugi per li extremi, dico</p>
 			</div>
 			<div>
 				<p><pb facs="#f007"/></p>
-				<p>questa arte zentille havere in sé buntade per<note target="#note_f2_01" xml:id="note_f2_01">Ms: p(er) add. sublinéaire de main gothique à l'encre plus foncée; première et dernière lettre de natura retouchées de même.</note> natura e molte<note target="#note_f2_02" xml:id="note_f2_02">Procopio: "molto"</note> per azidenzia<note target="#note_f2_03" xml:id="note_f2_03">correction de main gothique sur effacement illisible. Smith: "erzadergia"; Casazza: "eczidenzia"</note></p>
+				<p>questa arte zentille havere in sé buntade per<note target="#note_f2_01" xml:id="note_f2_01">Ms: p(er) add. sublinéaire de main gothique à l'encre plus foncée; première et dernière lettre de natura retouchées de même.</note> natura e molte<note target="#note_f2_02" xml:id="note_f2_02">Procopio: "molto"</note> per azidenzia<note target="#note_f2_03" xml:id="note_f2_03">Ms. correction de main gothique sur effacement illisible. Smith: "erzadergia"; Casazza: "eczidenzia"</note></p>
 				<p>in sua operatione.</p>
 				<p><lb/></p>
-				<p rend="indent(2)">2.<note xml:id="note_f01v_a">Numéro de paragraphe original en marge de gauche</note> <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_26a145b309864ce886cd7a684cbd51b8">Ajout du N à l'initiale (initiale d'attente omise ici) mais place laissée; Ms. Au-dessus du O première moitié d'un autre O, le copiste ayant probablement oublié le saut de ligne.</note> che niuna creatura creata che habia in sé de natura man-</p>
+				<p rend="indent(2)">2.<note xml:id="note_f01v_a">Ms. Numéro de paragraphe original en marge de gauche</note> <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_26a145b309864ce886cd7a684cbd51b8">Ms. N à l'initiale (initiale d'attente) omise ici mais place laissée; Ms. Au-dessus du O première moitié d'un autre O, le copiste ayant probablement oublié le saut de ligne.</note> che niuna creatura creata che habia in sé de natura man-</p>
 				<p>camento, de questo motto zentille capace sia, digando lui che</p>
 				<p>zopi, gobi, guerci de tutti li ministerii aprensivi sono, salvo <ref target="note_d80b305461dc463cbb8c998c2a6877d3"><supplied>che</supplied></ref><note xml:id="note_d80b305461dc463cbb8c998c2a6877d3">Ms. che effacé à tort (mais lisible) ; rétabli ici; id. Procopio.</note> de</p>
 				<p>questo che operandose seria frusta. Adomque li bisogna prosperità</p>
@@ -2013,10 +2013,10 @@
 				<p>pedi fino a lo capo, digando però questa belleza non satisfare la</p>
 				<p>virtù de questa zentile arte.</p>
 				<p><lb/></p>
-				<p rend="indent(2)">3. <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_f01v_b">Ajout du N. Initiale d'attente omise ici mais place laissée.</note> per Dio e non esser ingnorante de lo intelecto da Dio datto,</p>
+				<p rend="indent(2)">3. <supplied cert="high" reason="editorial">N</supplied>ota <note xml:id="note_f01v_b">Ms. Initiale d'attente omise ici mais place laissée. D'où l'ajout ici, comme plus bas</note> per Dio e non esser ingnorante de lo intelecto da Dio datto,</p>
 				<p>che oltra sii adoptado per natura de beleza, vogliando ti imparare</p>
 				<p>e cavare el constructo de questo zentille mestiero, lui dice che el</p>
-				<p>fondamento de questo si è mexura, la quale mexura <supplied reason="deleted">è</supplied><note xml:id="note_f01v_c">Supprimé (mais lisible) sans doute à tort, la même construction se retrouve à la fin de ce même paragraphe. Omis par Procopio.</note> tutte preste-</p>
+				<p>fondamento de questo si è mexura, la quale mexura <supplied reason="deleted">è</supplied><note xml:id="note_f01v_c">Ms. Supprimé (mais lisible) sans doute à tort, la même construction se retrouve à la fin de ce même paragraphe. Omis par Procopio.</note> tutte preste-</p>
 				<p>ze e tardeze segondo muxica. Oltra di questo è neccessario havere</p>
 				<p>una grande e perfonda memoria, la quale è texorera de tutti li</p>
 				<p>motti corporali naturali e accidentali <corr>che</corr><note xml:id="note_f01v_d">Ms. Corr. par surcharge (de main gothique et d'une encre plus foncée) du h en che dans une forme erronée (hc pour ch) avec un tilde. La conjonction et étant aussi correcte. La correction vise soit à éviter l'ambiguité syntaxique de deux conjonctions trop rapprochées, soit de rattacher le verbe à texore plutôt qu'à memoria</note> apertene a tutti li operanti</p>
@@ -2035,15 +2035,15 @@
 			<div>
 				<p><pb facs="#f008"/></p>
 				<p><lb/></p>
-				<p rend="indent(2)">4°<note xml:id="note_5c6dca2a012948b9ba9376b75bdffa56">Numérotation en marge de gauche.</note> <supplied cert="high">N</supplied>ota<note xml:id="note_f02r_a">Ajout du N, initiale d'attente omise mais place laissée</note> etiandio e apri lo intelecto. L’è un’altra mexura la quale</p>
+				<p rend="indent(2)">4°<note xml:id="note_5c6dca2a012948b9ba9376b75bdffa56">Ms. Numérotation en marge de gauche.</note> <supplied cert="high">N</supplied>ota<note xml:id="note_f02r_a">Ajout du N, initiale d'attente omise mais place laissée</note> etiandio e apri lo intelecto. L’è un’altra mexura la quale</p>
 				<p>è composta cum la gratia de la mainera de el<note xml:id="note_f02r_1">Procopio: "del portamento"</note> deportamento de tutta</p>
 				<p>la persona, la quale è deseperada da le mexure muxichale dicte disopra.</p>
-				<p>Questa mexura<note xml:id="note_f02r_2">La structure de la phrase est ambigue de par la double fonction syntaxique possible de mexura à la fois comme verbe et comme nom. La ponctuation choisie ici suppose le verbe dans la première partie de la phrase et le nom ensuite, qui correspond au sens de la reprise à la fin du §5</note> el tereno, e mexura <unclear>l'aiare</unclear><note xml:id="note_0f9364bca87c484c9cc16c2246d1fb64">Ms. "lagiera" corrigé par grattage du 1e "e" et add. interl. d'un "a" de forme gothique et d’une encre plus foncée. La raison de cette correction s’explique peut-être à la fin du § suivant où il est question de "mesura de terreno e d’aiare". L'hypothèse retenue est que ce soit une erreur de copie à savoir "legiera" au lieu de "aiare", que le "a" suppl. aurait commencé à corriger vainement. // Ms. Sur le point du i, de la même encre, est ajouté un trait vertical qui peut être un simple renforcement du point plutôt qu’une</note>, e questa è quella che</p>
+				<p>Questa mexura<note xml:id="note_f02r_2">La structure de la phrase est ambigue de par la double fonction syntaxique possible de mexura à la fois comme verbe et comme nom. La ponctuation choisie ici suppose le verbe dans la première partie de la phrase et le nom ensuite, qui correspond au sens de la reprise à la fin du §5</note> el tereno, e mexura <unclear>l'aiare</unclear><note xml:id="note_0f9364bca87c484c9cc16c2246d1fb64">Ms. "lagiera" corrigé par grattage du 1e "e" et add. interl. d'un "a" de forme gothique et d’une encre plus foncée. La raison de cette correction s’explique peut-être à la fin du § suivant où il est question de "mesura de terreno e d’aiare". L'hypothèse retenue est que ce soit une erreur de copie à savoir "legiera" au lieu de "l'aiare", que le "a" suppl. aurait commencé à corriger vainement. // Ms. Sur le point du i, de la même encre, est ajouté un trait vertical qui peut être un simple renforcement du point plutôt qu’une</note>, e questa è quella che</p>
 				<p>fa tenire el mezo del tuo motto dal capo a li piedi, el quale non è</p>
 				<p>ni tropo ni poco, e fate fugire li extremi segondo ha dicto lui qui disopra.</p>
 				<p><lb/></p>
 				<p/>
-				<p rend="indent(2)">5°<note>Numérotation en marge de gauche</note> Oltra dico a ti<note xml:id="note_2r_5">Ms. Suivi de "galante" effacé systématiquement dans le ms sauf au f.2v par négligence</note> chi del mestiero vole imparare<note xml:id="note_f2r_5">Suivi de "el" gratté</note> biso-</p>
+				<p rend="indent(2)">5°<note>Ms. Numérotation en marge de gauche</note> Oltra dico a ti<note xml:id="note_2r_5">Ms. Suivi de "galante" effacé systématiquement dans le ms sauf au f.2v par négligence</note> chi del mestiero vole imparare<note xml:id="note_f2r_5">Ms. Suivi de "el" gratté</note> biso-</p>
 				<p>gna danzare per fantasmata; e nota che fantasmata è una presteza</p>
 				<p>corporalle la quale è mossa cum lo intellecto de la mexura dicta</p>
 				<p>imprima disopra, facendo requia a cadauno tempo, che pari ha-</p>
@@ -2053,12 +2053,12 @@
 				<p>cioè operando mexura, memoria, mainera cum mexura de</p>
 				<p>terreno e d’aiare.</p>
 				<p><lb/></p>
-				<p rend="indent(2)">6<supplied>°</supplied><note xml:id="note_f2r_c">numéro 6 placé en marge, sans le petit o abrégé en exposant</note> Apresso<note xml:id="note_f2r_a">Initiale d'attente "a" en marge de gauche.</note> è neccessario a ti<note xml:id="note_f2r_b">Ms. Suivi de "galante" gratté systématiquement dans le ms sauf au f.2v par négligence</note>, operando questa causa,</p>
-				<p>che segondo motto, sii buono per ti e per altri, cioè che concordantia de terreno<note xml:id="note_f2r_8">Ms. "terre" abrégé par tilde, ensuite complété par no débordant en marge, d’une encre plus foncée.</note></p>
+				<p rend="indent(2)">6<supplied>°</supplied><note xml:id="note_f2r_c">Ms. numéro 6 placé en marge, sans le petit o abrégé en exposant</note> Apresso<note xml:id="note_f2r_a">Initiale d'attente "a" en marge de gauche.</note> è neccessario a ti<note xml:id="note_f2r_b">Ms. Suivi de "galante" gratté systématiquement dans le ms sauf au f.2v par négligence</note>, operando questa causa,</p>
+				<p>che segondo motto, sii buono per ti e per altri, cioè che concordantia de terreno<note xml:id="note_f2r_8">Ms. "terre" abrégé par tilde, ensuite complété par "no" débordant en marge, d’une encre plus foncée.</note></p>
 				<p>ge sia, che sempre ve retroviati segondo lo esser composito, cioè l’uno</p>
 				<p>cum l’altro porzendose aiuto façando<note xml:id="note_f2r6_9">Ms. cédille ajoutée d’une encre plus foncée.</note> fine a le dançe secondo lo esser suo.</p>
 				<p><lb/></p>
-				<p rend="indent(2)">7° Or<note xml:id="note_f2r7_a">O initiale d'attente en marge de gauche</note> nota<note xml:id="note_f2r7_11">Ms. nocta</note> che voiando provare che questo misterio è virtude per</p>
+				<p rend="indent(2)">7° Or<note xml:id="note_f2r7_a">Ms. Numéro de § et initiale d'attente "o" en marge de gauche</note> nota<note xml:id="note_f2r7_11">Ms. nocta</note> che voiando provare che questo misterio è virtude per</p>
 				<p>acidentia, el savio Aristot<expan>e</expan>le dice in lo X° che in tutte le cosse è</p>
 				<p>alcuna buntade* naturalmente e intel dilecto è alcuno bene,</p>
 				<p>adomque fuçando li extremi e malitia donque è questa virtù, façando</p>
@@ -2072,15 +2072,15 @@
 				<p>la mexura è parte de prudentia et è ne le arte liberale? No sa-</p>
 				<p>piamo che la memoria è madre de la prudentia la quale se aquista</p>
 				<p>per lunga experientia? No sapiamo che questa virtù è parte de armo-</p>
-				<p>nia e de muxicha ? Ricordando el savio Aristo<expan cert="high">t</expan><supplied><expan cert="high">e</expan></supplied><expan cert="high">le</expan><note/> nel primo che</p>
+				<p>nia e de muxicha ? Ricordando el savio Aristo<expan cert="high">t</expan><supplied><expan cert="high">e</expan></supplied><expan cert="high">le</expan> nel primo che</p>
 				<p>a li principi e monarchi è licito havere suoi piaciri conveniveli</p>
 				<p>e condecenti. Concludando la operatione del motto, operandolo</p>
 				<p>a bono fine, esser çentile, pelegrino e nobele, havuto rispecto</p>
-				<p>che de molte parte è adoptato; e <add place="overleaf"><del>per</del></add><note xml:id="note_f2r7_14">Ms. p(er) abrégé, en partie gratté, récrit en add. interlinéaire, plus petit mais d’apparence gothique et d’une encre plus foncée</note>la mediocritade da te</p>
+				<p>che de molte parte è adoptato; e per<note xml:id="note_f2r7_14">Ms. p(er) en partie gratté, récrit en add. interlinéaire plus petit d’apparence gothique et d’une encre plus foncée</note>la mediocritade da te</p>
 				<p>galante<note>Seul endroit du ms où le terme n'a pas été effacé, sans doute par négligence.</note> sia conducta questa virtù singulare.</p>
 				<p/>
 				<p><lb/></p>
-				<p rend="indent(2)"><add place="margin">8°</add><note xml:id="note_f2v8_a">Numéro en marge, le petit o en exposant est ommis. Ajout éditorial par cohérence</note> Or<note xml:id="note_f2v8_b">Initiale d'attente en marge de gauche</note> nota che per satisfare a ti<note xml:id="note_f2v8_2">Suivi de galante effacé, comme dans le reste du ms, sauf au § précédent</note> lo esser de questo moto,</p>
+				<p rend="indent(2)">8<supplied>°</supplied><note xml:id="note_f2v8_a">Ms. Numéro en marge, le petit o en exposant est omis. Ajout éditorial par cohérence</note> Or<note xml:id="note_f2v8_b">Ms. Initiale d'attente en marge de gauche</note> nota che per satisfare a ti<note xml:id="note_f2v8_2">Ms. Suivi de "galante" effacé, comme dans le reste du ms, sauf au § précédent</note> lo esser de questo moto,</p>
 				<p>lui dice che dodice motti sono in l'operare de questa arte, de li</p>
 				<p>quali ne cava nove naturalli e tri acidentalli. Li nove</p>
 				<p>naturalli operati sono in lo p<corr>i</corr>no<note xml:id="note_f2v8_3">Accent ajouté en remplacement du point sur i, d’une encre plus foncée</note> e li tri acidentalli operati</p>
@@ -2089,7 +2089,7 @@
 				<p>tra uno tempo e l'altro, dico pieno innel tempo instanti. E</p>
 				<p>per consequente façando nocto a ti la natura e acidentia de quisti motti.</p>
 				<p/>
-				<p rend="indent(2)"><add place="margin">9°</add><note xml:id="note_f2v9_a">Numéro en marge</note> <supplied cert="high">O</supplied>r<note xml:id="note_2fv9_b">Initiale d'attente ommise</note> intendi e apri li ochi, dicendo lui che li soptoscripti sono tutti na-</p>
+				<p rend="indent(2)">9°<note xml:id="note_f2v9_a">Ms. Numéro en marge de gauche</note> <supplied cert="high">O</supplied>r<note xml:id="note_2fv9_b">Ms. Initiale d'attente omise</note> intendi e apri li ochi, dicendo lui che li soptoscripti sono tutti na-</p>
 				<p>turali, cioè: sempio, dopio, reprexa, continentia, reverentia, meza-</p>
 				<p>volta, volta tonda, movimento, salto; dicendo lui che la natura</p>
 				<p>in sì medemo neccessariamente tutti li opera senza mexure. Li tri</p>
@@ -2097,10 +2097,10 @@
 				<p>quisti tri se acquistano per accidentia perché non sono necessarii segondo</p>
 				<p>natura.</p>
 				<p/>
-				<p><add place="margin">10°</add><note xml:id="note_f2v10_a">Numéro en marge. Le petit o en exposant est ommis. Ajout éditorial par cohérence</note> <supplied cert="high">N</supplied>ota<note xml:id="note_f2v10b">Initiale d'attente ommise</note> che dopio, represa e reverentia dice lui esser de uno tempo*;</p>
+				<p>10<supplied>°</supplied><note xml:id="note_f2v10_a">Ms. Numéro en marge. Le petit o en exposant est omis. Ajout éditorial par cohérence</note> <supplied cert="high">N</supplied>ota<note xml:id="note_f2v10b">Ms. Initiale d'attente omise</note> che dopio, represa e reverentia dice lui esser de uno tempo*;</p>
 				<p>sempio, continentia, mezavolta, movimento e salto sono de mezo</p>
 				<p>tempo; voltatonda consiste dui tempi. E questo è segondo mo-</p>
-				<p>tto vero de bassadanza, mexurado mazore <add place="inspace">im</add>perfecto<note xml:id="note_f2v10_6">Ms. i surmonté d’un tilde add. entre "mazor" et "perfetto". Noter que dans d’autres manuscrits (V, M) on trouve (erronément) "mazor perfetto" pour qualifier la mesure de bassadanza. Peut-être parce que cette mesure étant considérée la « reine » des mesures, on lui attribue, par extrapolation, la « perfection » au sens courant, sans tenir compte du sens musical restreint lié à la théorie de la musique mensurale.</note>; concludando</p>
+				<p>tto vero de bassadanza, mexurado mazore imperfecto<note xml:id="note_f2v10_6">Ms. i surmonté d’un tilde add. entre "mazor" et "perfetto". Noter que dans d’autres manuscrits (V, M) on trouve (erronément) "mazor perfetto" pour qualifier la mesure de bassadanza. Peut-être parce que cette mesure étant considérée la « reine » des mesures, on lui attribue, par extrapolation, la « perfection » au sens courant, sans tenir compte du sens musical restreint lié à la théorie de la musique mensurale.</note>; concludando</p>
 			</div>
 			<div>
 				<p><pb facs="#f010"/></p>
@@ -2118,13 +2118,13 @@
 				<p>s'adopera per tutto, resalvando quando dai mezavolta in cavo de uno</p>
 				<p>dopio poi adoperare la scorsa. E nota che lo cambiamento se adopra</p>
 				<p>senon in le compositione de le bassedanze, segondo vederai sequentemente</p>
-				<p>in una la quale è nominata Corona<note xml:id="note_f3r10_7">Danse décrite au f.27v</note>; dicendo lui che ritrovar<add place="end">e</add><note xml:id="note_f3r10_8">Ms. "e" corr. par surcharge sur a.</note></p>
+				<p>in una la quale è nominata Corona<note xml:id="note_f3r10_7">Danse décrite au f.27v</note>; dicendo lui che ritrovare<note xml:id="note_f3r10_8">Ms. "e" corr. par surcharge sur a.</note></p>
 				<p>mai non si poterà niuno optimo magistro del mestiero salvo</p>
 				<p>se da lui non è operato la varietade de la mainera la quale diffe</p>
 				<p>cilissima è, operando però inseme mexura sopratutto; de la quale</p>
 				<p>mexura alquante demonstratione ne faremo.</p>
 				<p><lb/></p>
-				<p rend="indent(2)"><add place="margin"><ref target="note_80e7bef4473b4a0e91f64f67d0c3a6b9">11°</ref></add><note xml:id="note_fr3r10_a">Numéro de § en marge</note><ref target="note_80e7bef4473b4a0e91f64f67d0c3a6b9"/><supplied>N</supplied>ota<note xml:id="note_f3r11_b">Initiale d'attente N ommise</note> e priegoti vogli aprire la virtù de lo intelecto ad intendere</p>
+				<p rend="indent(2)">11°<note xml:id="note_fr3r10_a">Ms. Numéro de § en marge</note><ref target="note_80e7bef4473b4a0e91f64f67d0c3a6b9"/><supplied>N</supplied>ota<note xml:id="note_f3r11_b">Ms. Initiale d'attente N omise</note> e priegoti vogli aprire la virtù de lo intelecto ad intendere</p>
 				<p>che cossa è mexura de motto, etiandio como sono compositi li motti</p>
 				<p>sopra le mexure. Mexura çeneralle, segondo canto over sono o</p>
 				<p>movimento, consiste in mexurare el pieno cum lo vuodo, mexurare</p>
