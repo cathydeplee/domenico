@@ -503,12 +503,12 @@
 			<line>in questo se cognosce tutto lo intelecto e tutta la ignorantia de li</line>
 			<line>sonaturi che de bassadanza uno canto sonerano, e sempre per puoco intelecto</line>
 			<line>strenzerano el canto fino a la fine e poi dirano haver facto una me-</line>
-			<line>xura, dicendo buxia, e arano factone tre : perché el principio del <del>canto</del> <add place="end">sono</add></line>
+			<line>xura, dicendo buxia, e arano factone tre : perché el principio del <del rend="strikethrough">canto</del> <add place="end">sono</add></line>
 			<line>serà stato largo et haverà havuto l'ordine de mazore imperfecto. E tu</line>
 			<line>sonatore, per puoco intelecto, strenzando la mexura del canto, de subito</line>
 			<line>per distantia arivarai a la quadernaria; non seria de cavo del canto</line>
 			<line>che per distantia de mexura intrato serai in lo saltarello. E questo pro-</line>
-			<line>cede che la operatione del corpo è mazore che quell<add place="overleaf">o</add> de lo intelecto,</line>
+			<line>cede che la operatione del corpo è mazore che quell<del>a</del><add place="overleaf">o</add> de lo intelecto,</line>
 			<line>el quale intelecto mette freno a le mane; imperò se ne trovano pochi</line>
 			<line>de boni, perché omni oxello non conosce el grano, unde dice el</line>
 			<line>proverbio: è neccessario viver le oche aprono li paiari, cioè che</line>
@@ -638,7 +638,7 @@
 			<line>de motto si è lo suo esser, cioè che la bassadanza è de mazor imperfecto</line>
 			<line>questo non se pò negare, lo segondo ordine per motto si è la mexura</line>
 			<line>de menor perfecto, la quale è la piva. E nota, como dico disopra in lo</line>
-			<line>capitolo XII°, che la mexura de la piva cala sesti tri da la bassadanza</line>
+			<line>capitolo <unclear>XII</unclear>°, che la mexura de la piva cala sesti tri da la bassadanza</line>
 			<line>per mitade. <del rend="strikethrough"><hi>merttando ti</hi></del> Se tu spartirai la mexura de la bassadanza</line>
 			<line>per mitade, mettando ti dui tempi de piva in uno de bassadanza,</line>
 			<line>tu ritroverai el tuo ordine per motto, e sì tel provo : che uno tempo de</line>
@@ -2097,7 +2097,7 @@
 				<p>quisti tri se acquistano per accidentia perché non sono necessarii segondo</p>
 				<p>natura.</p>
 				<p/>
-				<p>10<supplied>°</supplied><note xml:id="note_f2v10_a">Ms. Numéro en marge. Le petit o en exposant est omis. Ajout éditorial par cohérence</note> <supplied cert="high">N</supplied>ota<note xml:id="note_f2v10b">Ms. Initiale d'attente omise</note> che dopio, represa e reverentia dice lui esser de uno tempo*;</p>
+				<p rend="indent(2)">10<supplied>°</supplied><note xml:id="note_f2v10_a">Ms. Numéro en marge. Le petit o en exposant est omis. Ajout éditorial par cohérence</note> <supplied cert="high">N</supplied>ota<note xml:id="note_f2v10b">Ms. Initiale d'attente omise</note> che dopio, represa e reverentia dice lui esser de uno tempo*;</p>
 				<p>sempio, continentia, mezavolta, movimento e salto sono de mezo</p>
 				<p>tempo; voltatonda consiste dui tempi. E questo è segondo mo-</p>
 				<p>tto vero de bassadanza, mexurado mazore imperfecto<note xml:id="note_f2v10_6">Ms. i surmonté d’un tilde add. entre "mazor" et "perfetto". Noter que dans d’autres manuscrits (V, M) on trouve (erronément) "mazor perfetto" pour qualifier la mesure de bassadanza. Peut-être parce que cette mesure étant considérée la « reine » des mesures, on lui attribue, par extrapolation, la « perfection » au sens courant, sans tenir compte du sens musical restreint lié à la théorie de la musique mensurale.</note>; concludando</p>
@@ -2133,7 +2133,7 @@
 				<p>principio ni mezo né fine a questo motto de danzare. E sopra</p>
 				<p>a questa mexura zeneralle se ne cava quatro particulare. La</p>
 				<p>prima, la quale è piu larga de le altre, se chiama per nome basse-</p>
-				<p>danza<note xml:id="note_f3r11_9">Ici et ailleurs, bassedanza alterné avec bassadanza. Cette orthographe, plus proche du français, pourrait témoigner une connaissance des basse danses bourguignonnes.</note>, de mazor <add place="inspace">im</add>perfecto<note xml:id="note_f3r11_10">Comme au § 10, i surmonté d’un tilde add. entre mazor et perfetto.</note>. La seconda mexura se chiama quaderna-</p>
+				<p>danza<note xml:id="note_f3r11_9">"bassedanza" (rappelant le terme franç. bassedanse) alterne régulièrement dans le ms. avec "bassadanza" (ital).</note>, de mazor imperfecto<note xml:id="note_f3r11_10">Ms. "i" surmonté d’un tilde intercalé  après coup entre "mazor" et "perfetto". id. §10</note>. La seconda mexura se chiama quaderna-</p>
 				<p>ria, de menore imperfecto, la quale per distantia de tempo è più</p>
 			</div>
 			<div>
@@ -2143,27 +2143,27 @@
 				<p>xura per distantia de tempo è più strecta de la quadernaria uno altro se</p>
 				<p>sto, che vene ad esser uno terzo più strecta de la bassadanza. La 4a et</p>
 				<p>ultima mexura se chiama per lo vulgo piva, de menore perfecto. Questa</p>
-				<p>calla del saltarello per distantia de temp<supplied cert="high">o</supplied><note xml:id="note_f3v11_11">Comme au § 10, i surmonté d’un tilde add. entre mazor et perfetto..</note> uno sesto, sì che adonque</p>
+				<p>calla del saltarello per distantia de temp<supplied cert="high">o</supplied><note xml:id="note_f3v11_11">Ms. "o" omis. Ceci  pourrait signaler un copiste francophone, comme peuvent le laisser supposer l'orthographe de plusieurs autres termes dans le ms.</note> uno sesto, sì che adonque</p>
 				<p>questa mexura ultima dicta piva vene ad esser più strecta de la basse-</p>
 				<p>danza tri sesti, che contene la mitade. In queste quatro mexure con-</p>
 				<p>siste el motto del danzadore e del sonatore più largo e più presto. E</p>
 				<p>in questo se cognosce tutto lo intelecto e tutta la ignorantia de li</p>
 				<p>sonaturi che de bassadanza uno canto sonerano, e sempre per puoco intelecto</p>
 				<p>strenzerano el canto fino a la fine e poi dirano haver facto una me-</p>
-				<p>xura, dicendo buxia, e arano factone tre : perché el principio del <add place="right">sono</add><note xml:id="note_f3v11_12">Ms.corr. en marge sur canto biffé.</note></p>
+				<p>xura, dicendo buxia, e arano factone tre : perché el principio del sono<note xml:id="note_f3v11_12">Ms. corr. add. en marge de droite sur "canto" biffé.</note></p>
 				<p>serà stato largo et haverà havuto l'ordine de mazore imperfecto. E tu</p>
 				<p>sonatore, per puoco intelecto, strenzando la mexura del canto, de subito</p>
 				<p>per distantia arivarai a la quadernaria; non seria de cavo del canto</p>
 				<p>che per distantia de mexura intrato serai in lo saltarello. E questo pro-</p>
-				<p>cede che la operatione del corpo è mazore che quell<corr>a</corr><note xml:id="note_f3v11_13">Ms. correction (erronée) de la finale: o en surcharge sur a, d’une encre plus foncée.</note> de lo intelecto,</p>
+				<p>cede che la operatione del corpo è mazore che quell<corr>a</corr><note xml:id="note_f3v11_13">Ms. correction (erronée) d'une encre plus foncée de la finale "o" en surcharge sur "a".</note> de lo intelecto,</p>
 				<p>el quale intelecto mette freno a le mane; imperò se ne trovano pochi</p>
 				<p>de boni, perché omni oxello non conosce el grano, unde dice el</p>
 				<p>proverbio: è neccessario viver<note xml:id="note_f3v11_14">Procopio, 2014 : inver</note> le oche apresso<note>Ms. "aprono"; Procopio, 2014: "oche aprano". Expression proverbiale (au sens obscur aujourd'hui) probablement d'origine locale, et peut-être non connue du copiste</note> li paiari, cioè che</p>
 				<p>li ignoranti viveno apresso le divitie. Sì che, habiando tractado</p>
 				<p>la separatione de le mexure, voria alquanto tractare di modi de le mexure.</p>
-				<p>E se tu<note xml:id="note_f3v11_15">Ms. tu suivi de galante effacé mais lisible</note> me dimandi che differentia de muodo</p>
+				<p>E se tu<note xml:id="note_f3v11_15">Ms. suivi de "galante" effacé mais lisible, comme dans le reste du ms.</note> me dimandi che differentia de muodo</p>
 				<p>è tra la bassadanza e la quadernaria in la operatione del danzare,</p>
-				<p>dirotelo. Nota che la bassadanza, la quale è de mazor <add place="inspace">im</add>perfecto<note xml:id="note_f3v11_16">Comme au §10 et plus haut ici : i surmonté d’un tilde add.devant perfetcto.</note>,</p>
+				<p>dirotelo. Nota che la bassadanza, la quale è de mazor imperfecto<note xml:id="note_f3v11_16">Ms. "i" surmonté d’un tilde intercallé entre mazor et perfecto. cf §10</note>,</p>
 				<p>se comenza el suo tempo in lo vuodo e compisse in lo pieno. La</p>
 				<p>quadernaria, la quale è de minore imperfecto, è lo contrario, che</p>
 				<p>tu principii el suo tempo in lo pieno e compisilo in lo vuodo; e</p>
@@ -2193,7 +2193,7 @@
 				<p>el suo tempo in lo vuodo como la bassadanza. E de mazore</p>
 				<p>perfecto, ma li è differentia de distantia, como è dicto disopra, è</p>
 				<p>più strecto uno terzo da la bassadanza, e da la quadernaria uno se-</p>
-				<p>sto. E nota che la piva, ch'è de menore<del> im</del>perfecto<note xml:id="note_f4r21">"im" souligné en pointillé pour signaler une erreur (avec hésitation?). Il est dit plus haut en effet que la piva est mineure parfaite</note>, <corr evidence="conjecture">ha</corr><note xml:id="note_f4r22">Ms. "è" : probable erreur, le verbe avoir correspond mieux à la construction grammaticale de la phrase</note> el suo nasci-</p>
+				<p>sto. E nota che la piva, ch'è de menore <sic>im</sic>perfecto<note xml:id="note_f4r21">Ms. "im" souligné en pointillé pour signaler une erreur (avec hésitation?). Il est dit plus haut en effet que la piva est mineure parfaite</note>, <corr evidence="conjecture">ha</corr><note xml:id="note_f4r22">Ms. "è" : probable erreur, le verbe avoir correspond mieux à la construction grammaticale de la phrase</note> el suo nasci-</p>
 				<p>mento de la quadernaria, perché se comenza el suo motto del tempo</p>
 				<p>in lo pieno como la quadernaria; ma li è differentia de distan-</p>
 				<p>tia, che questa mexura dicta piva cala uno terzo da la quadernaria</p>
@@ -2204,11 +2204,11 @@
 			</div>
 			<div>
 				<p><pb facs="#f013"/></p>
-				<p rend="indent(6)">(B)<note xml:id="note_f4r_x">Début de séquence d'une 2e main (B), qui couvre l'entièreté du feuillet.</note> <ref target="note_8bf792fe93dc41fe87c147722ae1b82e">Capo</ref><note xml:id="note_8bf792fe93dc41fe87c147722ae1b82e">Le tableau /charte de ce feuillet est repris avec des variantes et sans la règle transversale (avec par conséquent une compréhension des termes parfois très étranges) dans les ms M, S, NY. Dans V, il est (par la même main (B) qu'ici ?) substentiellement tranformé par Cornozzano qui place la piva en haut. La présente transcription ne respecte pas la mise en page, ni les couleurs pour raisons techniques. Les pieds de mouche initiant chaque paragraphe ne sont pas reproduits non plus. Les coupures dans les § opérés par la règle verticale dans l'original sont remplacés dans la transcription diplomatique par des tirets (-).</note></p>
+				<p rend="indent(6)"><note xml:id="note_f4r_x" place="margin">Début de séquence d'une 2e main (B), qui couvre l'entièreté du feuillet.</note> <ref target="note_8bf792fe93dc41fe87c147722ae1b82e">Capo</ref><note xml:id="note_8bf792fe93dc41fe87c147722ae1b82e">Le tableau /charte de ce feuillet est repris avec des variantes et sans la règle verticale (avec par conséquent une compréhension des termes parfois très étranges) dans les ms M, S, NY. Dans V, il est (par la même main (B) qu'ici ?) substentiellement tranformé par Cornozzano qui place la piva en haut. La présente transcription ne respecte que partiellement la mise en page, ni les couleurs pour raisons techniques. Les pieds de mouche initiant chaque paragraphe ne sont pas reproduits non plus. Les coupures dans les § opérés par la règle verticale dans l'original sont remplacés dans la transcription diplomatique par des tirets (-).</note></p>
 				<p/>
-				<p>Io sono bassadança de le me sure regina, e merito de portare</p>
+				<p>Io sono bassadança de le mesure regina, e merito de portare</p>
 				<p>corona. Et in l'operare de mi poche genti hano ragione. E chi</p>
-				<p>in dançare <corr><ref target="note_9e4f557f3d2d4e4d8c619d2da69116e1">o</ref></corr><note xml:id="note_9e4f557f3d2d4e4d8c619d2da69116e1">"o" précédé d'un "l" biffé.</note> in sonare ben di me s'adopra, força che da li cieli</p>
+				<p>in dançare o<note xml:id="note_9e4f557f3d2d4e4d8c619d2da69116e1">Ms. "o" précédé d'un "l" biffé.</note> in sonare ben di me s'adopra, força che da li cieli</p>
 				<p>sia data l'opra.</p>
 				<p><lb/></p>
 				<p><lb/></p>
@@ -2247,9 +2247,9 @@
 			</div>
 			<div>
 				<p><pb facs="#f014"/></p>
-				<p rend="indent(2)"><hi rend="bold">(A)</hi><note xml:id="note_f5r_x">reprise de la 1e main (A)</note> <ref target="note_551ed62a4dca406883bd75255194ee39">12°</ref><note xml:id="note_551ed62a4dca406883bd75255194ee39">Numéro de § en marge de gauche.</note> <ref target="note_286d1d1628d04ab2b8d02b430b40f12c"><supplied>N</supplied>ota</ref><note xml:id="note_286d1d1628d04ab2b8d02b430b40f12c">Initiale d'attente "N" ommise mais espace laissé</note> e intendi, a fine che de ingnorantia non me increpi. Ad-</p>
+				<p rend="indent(2)"><hi rend="bold">()</hi><note xml:id="note_f5r_x">reprise de la 1e main (A)</note> <ref target="note_551ed62a4dca406883bd75255194ee39">12°</ref><note xml:id="note_551ed62a4dca406883bd75255194ee39">Numéro de § en marge de gauche.</note> <ref target="note_286d1d1628d04ab2b8d02b430b40f12c"><supplied>N</supplied>ota</ref><note xml:id="note_286d1d1628d04ab2b8d02b430b40f12c">Ms. Initiale d'attente "N" omise mais espace laissé</note> e intendi, a fine che de ingnorantia non me increpi. Ad-</p>
 				<p>visandote che questa a lo intendere è subtilissima, vogliando lui che</p>
-				<p>tu sapi e revolvi tutte le mexure a tuo modo, cum ragione, per natura<note xml:id="note-5r_1">lettre "r" ommise, indiquée par un tilde ondulé supralinéaire</note> on</p>
+				<p>tu sapi e revolvi tutte le mexure a tuo modo, cum ragione, per natura<note xml:id="note-5r_1">Ms.  "r" omis, indiqué par un tilde ondulé supralinéaire</note> on</p>
 				<p>per accidentia. Nota per natura dare el suo ordine a ciascaduna</p>
 				<p>mexura de la sua distantia, cioè de largeza e de presteza di tempo;</p>
 				<p>per accidentia saper seperare tutte le mexure, cioè de dui tempi de pi-</p>
@@ -2269,14 +2269,14 @@
 				<p>terzo. Vogliando imprima tractare de la mexura de bassadanza,</p>
 				<p>la quale è de mazor imperfecto, quante mexure se li pò operare in lo</p>
 				<p>motto corporeo le quale mexure hanno suo ordine per distantia</p>
-				<p>e quelle non hanno suo ordine ma, per <ref target="note_ac061480da5a427983ee55008e1f5b9b">accidentia</ref><note xml:id="note_ac061480da5a427983ee55008e1f5b9b">Précédé de "distantia" biffé et souligné en pointillé (pour indiquer une erreur de copie)</note>, de</p>
+				<p>e quelle non hanno suo ordine ma, per <ref target="note_ac061480da5a427983ee55008e1f5b9b">accidentia</ref><note xml:id="note_ac061480da5a427983ee55008e1f5b9b">Ms. Précédé de "distantia" biffé et souligné en pointillé (pour indiquer une erreur de copie)</note>, de</p>
 				<p>intelecto se pono operare como è dicto qui disopra.</p>
 				<p><lb/></p>
 				<p/>
-				<p rend="indent(2)"><add place="margin"><ref target="note_91aab76b085a48e0944b6e7fba1b7f0f">13</ref></add><note xml:id="note_91aab76b085a48e0944b6e7fba1b7f0f">Numéro de paragraphe en marge de gauche. Petit ° ommis.</note> <ref target="note_06b7a82eb4cc43139bd80987129a9fe5"><supplied>N</supplied>ota</ref><note xml:id="note_06b7a82eb4cc43139bd80987129a9fe5">Double "o" par erreur. Initiale d'attente "N" ommise mais espace laissé.</note> che la bassadanza, la quale è de mazor <add place="inspace"><ref target="note_69ee881c4d2544e7acdc120df4f2117f">im</ref></add><ref target="note_69ee881c4d2544e7acdc120df4f2117f">perfecto</ref><note xml:id="note_69ee881c4d2544e7acdc120df4f2117f">"Im" abrégé inséré après coup. Id paragraphe 10</note> dico</p>
+				<p rend="indent(2)">13<supplied>°</supplied><note xml:id="note_91aab76b085a48e0944b6e7fba1b7f0f">Ms. Numéro de paragraphe en marge de gauche. Petit ° omis.</note> <supplied>N</supplied>ota<note xml:id="note_06b7a82eb4cc43139bd80987129a9fe5">Ms. Double "o" par erreur. Initiale d'attente "N" omise mais espace laissé.</note> che la bassadanza, la quale è de mazor imperfecto<note xml:id="note_69ee881c4d2544e7acdc120df4f2117f">Ms. "Im" abrégé inséré après coup. Id § 10</note> dico</p>
 				<p>se pò danzare per modi cinque. De li cinque dui hanno suo ordine*</p>
 				<p>per motto de compartitione de tempo, li altri tri per acidentia</p>
-				<p>lo intelecto <ref target="note_7a9b9e0e2b224ba396213ef6cc5b6a66"><sic>li</sic></ref><note xml:id="note_7a9b9e0e2b224ba396213ef6cc5b6a66">"li" probablement superflu</note>pò spartirli e danzarli. Ma più difficille sono</p>
+				<p>lo intelecto <ref target="note_7a9b9e0e2b224ba396213ef6cc5b6a66"><sic>li</sic></ref><note xml:id="note_7a9b9e0e2b224ba396213ef6cc5b6a66">Ms. "li" probablement superflu</note>pò spartirli e danzarli. Ma più difficille sono</p>
 				<p>quisti altri tri motti che li dicti dui, imperò che li bisogna</p>
 			</div>
 			<div>
@@ -2287,8 +2287,8 @@
 				<p>de motto si è lo suo esser, cioè che la bassadanza è de mazor imperfecto</p>
 				<p>questo non se pò negare; lo segondo ordine per motto si è la mexura</p>
 				<p>de menor perfecto, la quale è la piva. E nota, como dico disopra in lo</p>
-				<p>capitolo <corr evidence="internal">XI°</corr><note xml:id="note_f5v_a">Correction de XII°, dans le ms (erreur).</note>, che la mexura de la piva cala sesti tri da la bassadanza</p>
-				<p>per mitade<ref target="note_ef1004768d4c4f67a3d234bbbf6e38ed">. </ref><note xml:id="note_ef1004768d4c4f67a3d234bbbf6e38ed">Suppression de "mettandoti" (superflu) souligné en pointillé dans le Ms. pour indiquer l'erreur de copie (confusion de ligne).</note> Se tu spartirai la mexura de la bassadanza</p>
+				<p>capitolo <corr evidence="internal">XI°</corr><note xml:id="note_f5v_a">Correction du XII° dans le ms (erreur).</note>, che la mexura de la piva cala sesti tri da la bassadanza</p>
+				<p>per mitade<ref target="note_ef1004768d4c4f67a3d234bbbf6e38ed">. </ref><note xml:id="note_ef1004768d4c4f67a3d234bbbf6e38ed">Ms. "mettandoti" souligné en pointillé pour indiquer l'erreur de copie (confusion de ligne), supprimé ici.</note> Se tu spartirai la mexura de la bassadanza</p>
 				<p>per mitade, mettando ti dui tempi de piva in uno de bassadanza,</p>
 				<p>tu ritroverai el tuo ordine per motto, e sì tel provo : che uno tempo de</p>
 				<p>piva si è uno dopio; metti adonque dui de quilli dopii in uno de</p>
@@ -2298,7 +2298,7 @@
 				<p>suo ordine. El primo, chiamato motto quadernario, posse danzare</p>
 				<p>su la bassadanza, el quale motto quadernario ge consiste in suo</p>
 				<p>compimento uno dopio cum uno frapamento in uno tempo.</p>
-				<p>E ti <sic>galante</sic><note xml:id="note_f5v_d">"galante" laissé ici (par négligence?), contrairement aux § plus hauts</note> poi mettere questo motto in uno tempo de bassadanza,</p>
+				<p>E ti <sic>galante</sic><note xml:id="note_f5v_d">Ms. "galante" laissé ici (par négligence?), contrairement aux § plus hauts où il est effacé</note> poi mettere questo motto in uno tempo de bassadanza,</p>
 				<p>ma serà alquanto un poco largo : como dico disopra in lo capitollo</p>
 				<p>XI°, esser più strecta uno sexto la quadernaria de la bassadanza. <corr evidence="internal">Ma</corr><note xml:id="note_f5v_b">Correction de coupure de mot peu conforme</note></p>
 				<p>per cavare fuora tutte le dubitatione, nota che questo motto</p>
