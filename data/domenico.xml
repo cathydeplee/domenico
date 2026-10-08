@@ -667,13 +667,13 @@
 		<surface facs="#f016">
 			<line>motto difficile è che tu poi danzare in dui modi el motto del sal-</line>
 			<line>tarello su la bassadanza. El primo si è che tu poi mettere uno tempo</line>
-			<line>de saltarello <del>fer</del> in uno de bassedanza, ma lo saltarello serà largo, perché</line>
+			<line>de saltarello in uno de bassedanza, ma lo saltarello serà largo, perché</line>
 			<line>dico disopra in lo capitolo XI° esser più strecto el saltarello uno terzo</line>
-			<line>de la bassadanza, imperò ponendo uno tempo del saltarello in</line>
+			<line>de la bassadanza, imperò ponendo uno tempo del saltarello <del rend="strikethrough">fer</del> in</line>
 			<line>uno de bassadanza serà largo; et è difficile a farlo ma è de mazore</line>
 			<line>intelecto. Lo segondo modo, che poi danzare lo saltarello su la bassad-</line>
 			<line>anza: tu poi mettere dui tempi del saltarello in uno de bassadanza, m-</line>
-			<line>a siamo prestissimi, ponendoli dui tempi, perché dico qui desopra la piva</line>
+			<line>a sia<del rend="pointed">m</del>o prestissimi, ponendoli dui tempi, perché dico qui desopra la piva</line>
 			<line>esser la mitade de bassadanza e lo saltarello è piu largo de la piva</line>
 			<line>uno sesto, adomque ponendoli dui tempi de saltarello in uno de</line>
 			<line>bassadanza seranno prestissimi; ma è de zentile intelecto a saperlo</line>
@@ -690,7 +690,7 @@
 			<line>dansando tu bassadanza su la quadernaria seria la bassadanza</line>
 			<line>alquanto presta, e però non ha suo ordine de motto; ma perché</line>
 			<line>se muda prolatione è bello a qui el sa fare, ma non è biava</line>
-			<line>da bagoni. El modo terzo: posse danzare saltarello, cioè y</line>
+			<line>da bagoni. El modo terzo: posse danzare saltarello, cioè <metamark function="filling">y</metamark></line>
 			<line>mettere uno tempo per motto de saltarello in uno tempo de quadernaria</line>
 			<line>ma sera lo saltarello alquanto largo perche lo</line>
 			<line>saltarello in lo capitolo XI° dico esser più strecto de la quaderna<add place="inline">r</add>ia</line>
@@ -708,7 +708,7 @@
 			<line>se adopera questo motto su li triumphi, quando li feri sono caldi</line>
 			<line>de la calura de dio baco ponendo la scira fine al danzare.</line>
 			<line><lb/></line>
-			<line rend="indent"><add place="margin left">15°</add> Ota che el saltarello per motto se pò dividire in modi cinque. El</line>
+			<line rend="indent"><add place="margin left">1<sic>°</sic>5</add> Ota che el saltarello per motto se pò dividire in modi cinque. El</line>
 			<line>primo motto ha suo ordine de mazor perfecto in lo suo esser de sua</line>
 			<line>mexura. El motto secondo posse danzare bassadanza, cioe che tu</line>
 			<line>poi pigliare dui tempi de saltarello e metterli in uno tempo de</line>
@@ -746,7 +746,7 @@
 			<line>danzatore uno motto quadernario suso dui tempi de piva. Ma</line>
 			<line>serà alquanto presto perché como dico disopra la piva esser el mezo de</line>
 			<line>la bassadanza e la quadernaria calare uno sesto da la bassadanza.</line>
-			<line>Non se poteria tuore dui tempi per uno adomque non haria suo ordine.</line>
+			<line>Non se poteria <unclear><metamark>t</metamark>uore</unclear> dui tempi per uno adomque non haria suo ordine.</line>
 			<line>El quarto motto se pò danzare saltarello su la mexura de la piva</line>
 			<line>pigliando ti galante dui tempi de piva e farli suso uno motto</line>
 			<line>de saltarello, ma lo saltarello alquanto serà largeto perché cala</line>
@@ -782,7 +782,7 @@
 			<line>drito, cum due represe, comenzando sul pè sinistro; e poi fano</line>
 			<line>tempi cinque de bassadanza, cioè passi dui sempii comenzando dal pè</line>
 			<line>sinistro et uno dopio suso dicto pè cum uno poco di reverentia</line>
-			<line>et una represa suso el pè drito, e continentie due comenzando <q rend="remplissage">y</q></line>
+			<line>et una represa suso el pè drito, e continentie due comenzando <metamark function="filling">y</metamark></line>
 			<line>dal pè sinistro et una reverentia suso dicto pè, dove consiste uno</line>
 			<line>tempo de bassadanza. Fine.</line>
 		</surface>
@@ -816,7 +816,7 @@
 			<line>in questo instante l’altro homo che de drieto fa dicto tempo de</line>
 			<line>saltarello comenzando col pè drito, e venendo equale a la dona</line>
 			<line>da la sua mane drita affirmandosse tutti dui dicti homini.</line>
-			<line><add place="margin">//</add>Nota che in questo instante che li homini hanno datto <del>el dicto</del> eL</line>
+			<line><add place="margin">//</add>Nota che in questo instante che li homini hanno datto <del rend="strikethrough">el dicto</del> eL</line>
 			<line>dredano boto del dicto segondo tempo de saltarello la dicta dona</line>
 		</surface>
 		<surface facs="#f021">
@@ -832,7 +832,7 @@
 			<line>sul canto drito e rimanendo equale a la dona: e quello che passa</line>
 			<line>denanti dà una volta tonda suso el canto drito, rimanendo equa-</line>
 			<line>le a la dicta dona, façando tutti tri de compagnia continentie</line>
-			<line>due <del>un</del> comenzando sul pè sinistro.</line>
+			<line>due <del rend="strikethrough">un</del> comenzando sul pè sinistro.</line>
 			<line><add place="margin">//</add>Ancora nota che se fano tempi sei de bassadanza, cioè tutti tri</line>
 			<line>fano in compagnia dupii dui inanti comenzando cum lo pede</line>
 			<line>sinistro, poi se aferma la dona; e li dui homini se moveno in lo</line>
@@ -844,7 +844,7 @@
 			<line>dal pè sinistro, e una reverentia suso dicto pede de uno tempo.</line>
 			<line>E nota che quello che andò inanti nel principio de dicta danza</line>
 			<line>rimane de drieto ne la fine, e volendola rifare el compagno va</line>
-			<line>denanti | fine a questa danza.</line>
+			<line>denanti<metamark> | </metamark>fine a questa danza.</line>
 			<line rend="indent(6)">Lionzello in canto</line>
 			<notatedMusic facs="#f021-zone-1">
 				<graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f22/1342,4378,3304,942/500,/0/native.jpg"/>
@@ -2319,11 +2319,11 @@
 				<p>tarello su la bassadanza. El primo si è che tu poi mettere uno tempo</p>
 				<p>de saltarello in uno de bassedanza, ma lo saltarello serà largo, perché</p>
 				<p>dico disopra in lo capitolo XI° esser più strecto el saltarello uno terzo</p>
-				<p>de la bassadanza, imperò ponendo uno tempo del saltarello<note xml:id="note_2756bfd658174ba387febc2ce4c34393">Suivi de "fer" biffé dans le ms (erreur), supprimé ici.</note> in</p>
+				<p>de la bassadanza, imperò ponendo uno tempo del saltarello<note xml:id="note_2756bfd658174ba387febc2ce4c34393">Ms. Suivi de "fer" biffé.</note> in</p>
 				<p>uno de bassadanza serà largo; et è difficile a farlo ma è de mazore</p>
 				<p>intelecto. Lo segondo modo, che poi danzare lo saltarello su la bassad-</p>
 				<p>anza: tu poi mettere dui tempi del saltarello in uno de bassadanza, <corr evidence="internal">ma</corr><note>Correction de coupure de mot peu conforme</note></p>
-				<p><corr evidence="conjecture">seranno</corr><note xml:id="note_f6r_b">Ms. "siamo" avec un point sous le dernier jambage du "m" signalant une erreur. Correction conjecturelle ici.</note> prestissimi, ponendoli dui tempi, perché dico qui desopra la piva</p>
+				<p><corr evidence="conjecture">seranno</corr><note xml:id="note_f6r_b">Ms. "siamo" avec un point sous et au-dessus du dernier jambage du "m" signalant une erreur. Correction (conjecturelle), basée sur les futurs simples des phrases précédentes.</note> prestissimi, ponendoli dui tempi, perché dico qui desopra la piva</p>
 				<p>esser la mitade de bassadanza e lo saltarello è piu largo de la piva</p>
 				<p>uno sesto, adomque ponendoli dui tempi de saltarello in uno de</p>
 				<p>bassadanza seranno prestissimi; ma è de zentile intelecto a saperlo</p>
@@ -2331,7 +2331,7 @@
 				<p>Adomque resta tractare per quanti motti se pò danzare su la quadernaria.</p>
 				<p><lb/></p>
 				<p/>
-				<p rend="indent(2)"><add place="margin">14°</add> <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_ccd560777fb74e81a9f754f2c59b532a">Initiale d'attente "N" ommise. Ajoutée ici</note> che la quadernaria dico se pò danzare per modi quatro</p>
+				<p rend="indent(2)">14° <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_ccd560777fb74e81a9f754f2c59b532a">Ms. Initiale d'attente "N" omise. Ajoutée ici</note> che la quadernaria dico se pò danzare per modi quatro</p>
 				<p>Lo primo modo ha suo ordine danzando ti uno dopio e uno</p>
 				<p>frapamento drieto a lo dopio in uno tempo de quadernaria</p>
 				<p>El segondo modo: tu poi danzare bassadanza su la quadernaria,</p>
@@ -2341,10 +2341,10 @@
 				<p>dansando tu bassadanza su la quadernaria seria la bassadanza</p>
 				<p>alquanto presta, e pero non ha suo ordine de motto; ma perché</p>
 				<p>se muda prolatione è bello a qui el sa fare, ma non è biava</p>
-				<p>da bagoni. El modo terzo: posse danzare saltarello, cioè<note xml:id="note_f6r_a">suivi d'un signe de remplissage de ligne "y"</note></p>
+				<p>da bagoni. El modo terzo: posse danzare saltarello, cioè<note xml:id="note_f6r_a">Ms. suivi d'un signe de remplissage de ligne "y"</note></p>
 				<p>mettere uno tempo per motto de saltarello in uno tempo de quadernaria</p>
 				<p>ma serà lo saltarello alquanto largo perché lo</p>
-				<p>saltarello in lo capitolo XI° dico esser più strecto de la quadernaria<note xml:id="note_901be0942819447b96d714d5034c8d07">2e "r" ajouté au dessus de la ligne.</note></p>
+				<p>saltarello in lo capitolo XI° dico esser più strecto de la quadernaria<note xml:id="note_901be0942819447b96d714d5034c8d07">Ms. 2e "r" ajouté au dessus de la ligne.</note></p>
 				<p>uno sesto, sì che non haria suo ordine; ricordandote ch’el moto</p>
 				<p>del saltarello è uno dopio cum uno salteto, e quello de la</p>
 			</div>
@@ -2361,14 +2361,14 @@
 				<p>de la calura de dio Baco ponendo la scira fine al danzare.</p>
 				<p/>
 				<p><lb/></p>
-				<p rend="indent(2)"><add place="margin">15°</add><note xml:id="note_f6v_a">Numéro de § en marge; le signe ° placé étrangement entre le 1 et le 5 dans le ms. non reproduit ici</note> <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_f6v_b">Ajout de l'initiale. La lettre d'attente N est ommise dans le ms.</note> che el saltarello per motto se pò dividire in modi cinque. El</p>
+				<p rend="indent(2)">15°<note xml:id="note_f6v_a">Ms. Numéro de § en marge; le signe ° placé étrangement entre le 1 et le 5 dans le ms. régularisé ici</note> <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_f6v_b">Ms. Initiale d'attente N est omise dans le ms.</note> che el saltarello per motto se pò dividire in modi cinque. El</p>
 				<p>primo motto ha suo ordine de mazor perfecto in lo suo esser de sua</p>
 				<p>mexura. El motto secondo: posse danzare bassadanza, cioè che tu</p>
 				<p>poi pigliare dui tempi de saltarello e metterli in uno tempo de</p>
 				<p>bassadanza; advisandote che è difficile e non è biada da Bagoni*</p>
 				<p>perché è mexura largissima, imperò se cognosce li boni intelecti de</p>
 				<p>coloro che mexurano largo e che sano mettere tempi dui per uno;</p>
-				<p>ricordan<add place="above">do</add>te che lo motto non vene havere suo ordine. El terzo</p>
+				<p>ricordandote<note xml:id="note_f017_0001">Ms. "do" add.supralin. avec signe d'insertion supralin. tranformant le part. prés. en gérondif (cette dernière forme étant la plus courante dans le ms.)</note> che lo motto non vene havere suo ordine. El terzo</p>
 				<p>modo: posse danzare ancora el motto de la bassadanza suso lo saltarello</p>
 				<p>cioè che tu poni uno motto de bassadanza in uno tempo de sal-</p>
 				<p>tarello, ma serà prestissimo e veloze dicto motto; fazandote ri-</p>
@@ -2385,14 +2385,14 @@
 			</div>
 			<div>
 				<p><pb facs="#f018"/></p>
-				<p>prestissimo; ricordante<note xml:id="note_f7r_d">Contrairement au feuillet précédent, pas de "do" ajouté en interlinéaire. Nous gardons ici cette forme plus rare dans le ms. de participe présent (au lieu du gérondif plus courant dans le ms)</note> che el capitolo XI° dice che la piva tene el</p>
+				<p>prestissimo; ricordante<note xml:id="note_f7r_d">Contrairement au feuillet précédent, pas de "do" ajouté en interlinéaire. Nous gardons ici cette forme plus rare dans le ms. de participe présent au lieu du gérondif</note> che el capitolo XI° dice che la piva tene el</p>
 				<p>mezo per distantia de la bassadanza, e vogliando tignesse el mezo del sal-</p>
 				<p>tarello seriano li tempi dui de piva prestissimi, imperò non haria</p>
 				<p>suo ordine, ma è bello a saperlo spartire. Resta dire quanti modi</p>
 				<p>se pò operare el motto in la mexura de la piva, la quale è de menor</p>
 				<p>perfecto.</p>
 				<p/>
-				<p rend="indent(2)"><add place="margin">16</add> <supplied>N</supplied>ota<note xml:id="note_f7r_a">Ajout de l'initiale. Lettre d'attente ommise dans le ms.</note> che la piva se pò danzare per motti quatro. Lo primo motto</p>
+				<p rend="indent(2)">16<supplied>°</supplied><note xml:id="note_f018_0001">Ms. numéro de § en marge, le ° est omis. </note> <supplied>N</supplied>ota<note xml:id="note_f7r_a">Ms. Initiale d'attente N omise dans le ms.</note> che la piva se pò danzare per motti quatro. Lo primo motto</p>
 				<p>ha lo suo ordine in suo esser. El motto segondo ha l’ordine suo de</p>
 				<p>motto, cioè che pigliando dui tempi de piva e farli uno motto de</p>
 				<p>bassadanza suso dicti dui tempi, la bassadanza harà suo ordine</p>
@@ -2415,12 +2415,12 @@
 				<p>parole, per lo spectabile et egregio cavagliero misser</p>
 				<p>Domenico da Piasença, salvo che il canto de la Figlia Guiliel</p>
 				<p>mino che è ballatta francese, et sopra esso canto el dicto</p>
-				<p>cavagliero ha composti i di<unclear>ct</unclear>i<note xml:id="note_f7r_f">abréviation peu claire.</note> balli.</p>
+				<p>cavagliero ha composti i di<unclear>ct</unclear>i<note xml:id="note_f7r_f">Ms. abréviation peu claire.</note> balli.</p>
 			</div>
 			<div>
 				<p><pb facs="#f019"/></p>
-				<p><hi rend="bold">(A)</hi><note xml:id="note_7v_x">reprise de l'écriture par la 1e main (A)</note> Belreguardo im ballo, cioè uno homo e una dona.</p>
-				<p><ref target="note_6e114509483541c58c3902faf5254a5a"><supplied>I</supplied></ref>mprima<note xml:id="note_f7v_a">Initiale d'attente "I" ommise dans le ms. Ajoutée ici.</note> fano tempi <ref target="note_be133b7c52a14ad3aa5676f45f8fedf2">XI</ref><note xml:id="note_be133b7c52a14ad3aa5676f45f8fedf2">Procopio: transforme en "XV" probablement par comparaison avec Pg, Pa et NY. (Dans V, pas d'indication du nombre de nombre de temps/pas de saltarello). B.Sparti considère les "XI tempi de saltarello" (repris également dans "Belreguardo nuovo" au f.suivant) de Pd corrects mais voit une erreur dans le chiffre de répétition "3" de la partition musicale du ms (à la fin de la 1e mesure) qui devrait être "2". Notons à ce sujet que la répétition "3" apparaît dans V, Pg et Pa et NY. Ces trois derniers changent néanmoins le nombre de pas en 15. Nous gardons XI (en considérant le 3 correct). Pour l'interprétation dansée voir Notes chorégraphiques.</note> de saltarello et afermase; façando</p>
+				<p rend="indent(2)"><hi rend="bold">(A)</hi><note xml:id="note_7v_x">reprise de l'écriture par la 1e main (A)</note> Belreguardo im ballo, cioè uno homo e una dona.</p>
+				<p rend="indent"><ref target="note_6e114509483541c58c3902faf5254a5a"><supplied>I</supplied></ref>mprima<note xml:id="note_f7v_a">Ms. Initiale d'attente "I" omise. </note> fano tempi <ref target="note_be133b7c52a14ad3aa5676f45f8fedf2">XI</ref><note xml:id="note_be133b7c52a14ad3aa5676f45f8fedf2">Procopio: transforme en "XV" probablement par comparaison avec Pg, Pa et NY. (Dans V, pas d'indication du nombre de nombre de temps/pas de saltarello). B.Sparti considère les "XI tempi de saltarello" (repris également dans "Belreguardo nuovo" au f.suivant) de Pd corrects mais voit une erreur dans le chiffre de répétition "3" de la partition musicale du ms (à la fin de la 1e mesure) qui devrait être "2". Notons à ce sujet que la répétition "3" apparaît dans V, Pg et Pa et NY. Ces trois derniers changent néanmoins le nombre de pas en 15. Nous gardons XI (en considérant le 3 correct). Pour l'interprétation dansée voir Notes chorégraphiques.</note> de saltarello et afermase; façando</p>
 				<p>dupei quatro de bassadanza inseme, comenzando al pede sinistro</p>
 				<p>e fazando fine al drito, e poi fano dupii tri suso el pede sinistro</p>
 				<p>finiando suso dicto pede, e poi sempii dui comenzando cum lo pede</p>
@@ -2434,24 +2434,24 @@
 				<p>drito, cum due represe comenzando sul pè sinistro; e poi fano</p>
 				<p>tempi cinque de bassadanza, cioè passi dui sempii comenzando dal pè</p>
 				<p>sinistro et uno dopio suso dicto pè cum uno poco di reverentia</p>
-				<p>et una represa suso el pè drito, e continentie due comenzando<note xml:id="note_f8r_a">signe de remplissage de ligne dans le ms ("y"), supprimé ici</note></p>
+				<p>et una represa suso el pè drito, e continentie due comenzando<note xml:id="note_f8r_a">Ms. suivi du signe de remplissage de ligne "y"</note></p>
 				<p>dal pè sinistro, et una reverentia suso dicto pè dove consiste uno</p>
 				<p>tempo de bassadanza. Fine.</p>
 			</div>
 			<div>
 				<p><pb facs="#f020"/></p>
-				<p>Belreguardo novo, e va in homini dui et una dona in mezo e</p>
-				<p>balasse sul canto del vechio</p>
-				<p>Imprima<note xml:id="note_f8r_b">Initiale d'attente "I" en marge de gauche</note> fano tutti tri de compagnia a mano, tempi <ref target="note_acfdde10d6b74b24b40b48163fdc2f6a">XI</ref><note xml:id="note_acfdde10d6b74b24b40b48163fdc2f6a">Voir Belriguardo (vechio) feuillet précédent, note relative au même chiffre XI, ligne 2.</note></p>
+				<p rend="indent(2)">Belreguardo novo, e va in homini dui et una dona in mezo e</p>
+				<p rend="indent(2)">balasse sul canto del vechio</p>
+				<p rend="indent">Imprima<note xml:id="note_f8r_b">Initiale d'attente "I" en marge de gauche</note> fano tutti tri de compagnia a mano, tempi <ref target="note_acfdde10d6b74b24b40b48163fdc2f6a">XI</ref><note xml:id="note_acfdde10d6b74b24b40b48163fdc2f6a">Voir Belriguardo (vechio) feuillet précédent, note relative au même chiffre XI, ligne 2.</note></p>
 				<p>de saltarello, et affermase poi la dona, e nota che tutti dui li homi-</p>
 				<p>ni se parteno ininstante, fazando lo homo denanci dupii dui</p>
 				<p>comenzando cum lo pè sinistro e andagando inanti per mezo la sala</p>
-				<p>a la fila, e lo homo che è dal canto <ref target="note_2857b8e93d414095a99a2201293a4417">de la man drita</ref><note xml:id="note_2857b8e93d414095a99a2201293a4417">V: di soto</note> de la dona fa</p>
+				<p>a la fila, e lo homo che è dal canto de la man drita<note xml:id="note_2857b8e93d414095a99a2201293a4417">V: di soto</note> de la dona fa</p>
 				<p>dupii dui comenzando cum lo pè sinistro tornando indriedo et</p>
 				<p>in capo de dicti dupii se volta cum lo volto verso le spale</p>
 				<p>a la dona et fano dicti dui dupii dicti homini l’uno quando l’altro</p>
 				<p>cioè l’uno inanti e l’altro indrieto.</p>
-				<p>//<note xml:id="note_2bf8ef347e2445cb84b81a37d91919bc">La signification/fonction de ces deux traits obliques en marge qui semblent marquer le début d'une autre séquence de danse n'est cependant pas complètement claire et non systématique. Dans le doute nous la transcrivons. Marquage propre à la main A</note>Or nota che tutti tri vengono a remanere a la fila l’uno drieto</p>
+				<p><metamark place="margin">//</metamark><note xml:id="note_2bf8ef347e2445cb84b81a37d91919bc">Ces deux traits obliques en marge apparaissent régulièrement dans les descriptions des danses de ce ms. Ce marquage, qui semble marquer le début d'une nouvelle séquence chorégraphique, est spécifiques à la main A. Il n'est toutefois pas systématique.  Etant donné qu'il donne potentiellement une indication chorégraphique, nous le transcrivons ici et plus bas, là où il apparaît. </note>Or nota che tutti tri vengono a remanere a la fila l’uno drieto</p>
 				<p>a l’altro, ritrovandose la dona in mezo, fazando tutti tri de compagnia</p>
 				<p>dupii dui inanti a la fila comenzando cum lo pè sinisitro; e poi</p>
 				<p>fano dupii tri suso el pè sinistro tutti tri pur inanti a la fila et</p>
@@ -2460,7 +2460,7 @@
 				<p>dupii suso el pè drito ritornando però indrieto e dagando una</p>
 				<p>mezavolta suso el pè drito, fazando continentie due comenzando sul</p>
 				<p>pè sinistro e una riverentia sul pè sinistro de uno tempo tutti tri.</p>
-				<p><ref target="note_4bc9335b63f94966ae4000f8c3ac961e">//</ref><note xml:id="note_4bc9335b63f94966ae4000f8c3ac961e">Signe en marge semblant signaler une nouvelle séquence de danse, mais non systématique</note>Apresso se fano tempi dui de saltarello largo, fazando tutti tri uno</p>
+				<p><metamark>//</metamark><note xml:id="note_4bc9335b63f94966ae4000f8c3ac961e">Voir note précédente</note>Apresso se fano tempi dui de saltarello largo, fazando tutti tri uno</p>
 				<p>de dicti tempi inanti a la fila, e afermase la dona, e li dui homini</p>
 				<p>fano l’altro tempo de compagnia, cioè el primo homo dà una</p>
 				<p>mezavolta sul pè sinistro, tornando indrieto cum lo dicto tempo</p>
@@ -2469,7 +2469,7 @@
 				<p>in questo instante l’altro homo ch’è de drieto fa dicto tempo de</p>
 				<p>saltarello comenzando col pè drito, e venendo equale a la dona</p>
 				<p>da la sua mane drita affirmandosse tutti dui dicti homini.</p>
-				<p>//Nota che in questo instante che li homini hanno datto<note xml:id="note_f8r_d">Ms: "el dicto" barré (cf erreur de copie), supprimé ici.</note> el</p>
+				<p><metamark>// </metamark>Nota che in questo instante che li homini hanno datto<note xml:id="note_f8r_d">Ms: suivi de "el dicto" barré (cf erreur de copie).</note> el</p>
 				<p>dredano boto del dicto segondo tempo de saltarello la dicta dona</p>
 			</div>
 			<div>
@@ -2477,7 +2477,7 @@
 				<p>fuze cum uno dopio inanti comenzando cum lo pè drito, e aferma-</p>
 				<p>se; poi tutti dui li homini se moveno cum uno dopio suso el pè drito</p>
 				<p>ritrovandosse in capo de dicto dopio tutti dui equali a la dicta dona</p>
-				<p>//Apresso se fa tempi dui de saltarello largi, cioè uno de dicti tempi</p>
+				<p><metamark rend="margin">//<note xml:id="note_f021_0001">Voir note f. 8r, l.12</note></metamark>Apresso se fa tempi dui de saltarello largi, cioè uno de dicti tempi</p>
 				<p>tutti tri in compagnia inanti essendo equali, poi la dona sì se</p>
 				<p>aferma e li dicti dui homini se moveno façando l’altro tempo</p>
 				<p>cum lo pè drito e scambiando posta: cioè quello che è da la</p>
@@ -2485,13 +2485,13 @@
 				<p>da la mano dricta va de drieto a la dona façando una mezavolta</p>
 				<p>sul canto drito e rimanendo equale a la dona: e quello che passa</p>
 				<p>denanti dà una volta tonda suso el canto drito, rimanendo equa-</p>
-				<p>le a la dicta dona, façando<note xml:id="note_f8v_a">La cédille est ajoutée d’une encre plus foncée.</note> tutti tri de compagnia continentie</p>
-				<p>due<note xml:id="note_f8v_b">Ms. Suivi de "un" barré (erreur de copie), supprimé ici</note> comenzando sul pè sinistro.</p>
-				<p>//Ancora nota che se fano tempi sei de bassadanza, cioè tutti tri</p>
+				<p>le a la dicta dona, façando<note xml:id="note_f8v_a">Ms. La cédille est ajoutée d’une encre plus foncée.</note> tutti tri de compagnia continentie</p>
+				<p>due<note xml:id="note_f8v_b">Ms. Suivi de "un" barré (erreur de copie)</note> comenzando sul pè sinistro.</p>
+				<p><metamark rend="margin">//</metamark>Ancora nota che se fano tempi sei de bassadanza, cioè tutti tri</p>
 				<p>fano in compagnia dupii dui inanti comenzando cum lo pede</p>
 				<p>sinistro, poi se aferma la dona, e li dui homini se moveno in lo</p>
 				<p>instante, cioè lo homo ch’è da la mane sinistra de la dona fa</p>
-				<p>uno dopio sul pè sinistro inanti, e l’altro homo fa uno <ref target="note_b57c3adce0c642b1adf6e67e73eccd2e">dopedo</ref><note xml:id="note_b57c3adce0c642b1adf6e67e73eccd2e">autre forme (lexicale et probablement pas chorégraphique) de dopio</note></p>
+				<p>uno dopio sul pè sinistro inanti, e l’altro homo fa uno dopedo<note xml:id="note_b57c3adce0c642b1adf6e67e73eccd2e">autre forme (lexicale et probablement pas chorégraphique) de dopio</note></p>
 				<p>suso dicto pè indriedo, e poi tutti dui ritornano a le poste sue</p>
 				<p>cum uno dopio suso el pè drito, rimanendo equali a la dona façando</p>
 				<p>continentie due tutti tri in compagnia comenzando</p>
