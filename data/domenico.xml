@@ -895,14 +895,14 @@
 			<line>de li quali el quarto e lo octavo se fa im passi dui sempii suso el pè</line>
 			<line>drito e cadauno de dicti dui passi se fanno in mezo de dicti dui homini</line>
 			<line>e afermase poi la dicta dona in mezo loro.</line>
-			<line><add place="margin">//</add>Or nota che li homini se parteno tutti dui de compagnia fazando <q rend="remplissage">y</q></line>
+			<line><add place="margin">//</add>Or nota che li homini se parteno tutti dui de compagnia fazando <metamark function="filling">y</metamark></line>
 			<line>tempi dui de saltarello comenzando al pè sinistro in mexura quaderna</line>
 			<line>ria, cum una volta tonda, comenzando dal pè sinistro unde gli con-</line>
 			<line>siste passi tri sempii e una meza represa afirmandose; poi la dona</line>
 			<line>li siegue cum tempi dui de saltarello comenzando dal pè sinistro</line>
-			<line>e quatro pasi sempii dagando <add place="above">in cho</add> de dicti quatro passi una mezavolta per</line>
+			<line>e quatro pasi sempii dagando in <add place="top">cho de</add> dicti quatro passi una mezavolta per</line>
 			<line>ritrovarse guardare al contrario de li homini.</line>
-			<line><add place="margin">//</add>Apresso nota che tutti tri se moveno in uno instante <del>e</del> facendo du-</line>
+			<line><add place="margin">//</add>Apresso nota che tutti tri se moveno in uno instante <del rend="strikethrough">e</del> facendo du-</line>
 			<line>pii tri sul pè sinistro, et in capo del terzo fano una posada suso el drito</line>
 			<line>in tempo vuodo, dagando una mezavolta andagando però la dona al</line>
 			<line>contrario de li homini, cioè loro inanti e lei indrieto; ritornando</line>
@@ -915,7 +915,7 @@
 		</surface>
 		<surface facs="#f024">
 			<line>vano pur a la lor via contrarii de la dona cum uno dopio sul pè drito.</line>
-			<line><add place="margin">//</add>Apresso nota che ininstanti dicti dui homini e dona danno una meza-</line>
+			<line><add place="margin">//</add>Apresso nota che ininstanti dicti dui homini <del>e </del>dona danno una meza-</line>
 			<line>volta sul pè drito, riguardandose a volto a volto, fazando represe</line>
 			<line>due, comenzando col pè sinistro, continentie due, e riverentia una</line>
 			<line>suso el sinistro afermandose dicti dui homini.</line>
@@ -2532,9 +2532,9 @@
 			</div>
 			<div>
 				<p><pb facs="#f023"/></p>
-				<p>Lionzello novo sul medesmo<note xml:id="note_f9r_c">Ms. "s" addition supralinéaire d'une encre plus foncée</note> canto vechio, e va humini dui cum una dona</p>
-				<p>in mezo.</p>
-				<p>Imprima<note>Initiale d'attente "I" en marge</note> dicti dui homini cum la dona in mezo fano tempi</p>
+				<p rend="indent(2)">Lionzello novo sul medesmo<note xml:id="note_f9r_c">Ms. "s" addition supralinéaire d'une encre plus foncée</note> canto vechio, e va humini dui cum una dona</p>
+				<p rend="indent(2)">in mezo.</p>
+				<p rend="indent(2)">Imprima<note>Initiale d'attente "I" en marge</note> dicti dui homini cum la dona in mezo fano tempi</p>
 				<p>dui de saltarello in mexura quadernaria e afermase li homini; poi</p>
 				<p>la dona se parte de mezo loro cum uno dopio sul pè sinistro, e afer-</p>
 				<p>mase; li dicti dui homini siegueno poi la dona cum<note xml:id="note_f9r_d">Ms. cun</note> uno dopio</p>
@@ -2546,20 +2546,20 @@
 				<p>de li quali el quarto e lo octavo se fa im passi dui sempii suso el pè</p>
 				<p>drito e cadauno de dicti dui passi se fanno in mezo de dicti dui homini</p>
 				<p>e afermase poi la dicta dona in mezo loro.</p>
-				<p><ref target="note_f8749dbfe2a44c3cbec857e547c3335b">//</ref><note xml:id="note_f8749dbfe2a44c3cbec857e547c3335b">Comme dans les descriptions précédentes, la signification et la fonction de ces deux traits obliques laissent supposer le commencement d'une nouvelle séquence chorégraphique (parfois en une autre mesure), mais ceci n'est pas systématique</note>Or nota che li homini se parteno tutti dui de compagnia fazando<note xml:id="note_f9r_e">Ms: présence d'un signe de remplissage de ligne "y", non transcrit ici</note></p>
+				<p><ref target="note_f8749dbfe2a44c3cbec857e547c3335b">//</ref><note xml:id="note_f8749dbfe2a44c3cbec857e547c3335b">voir note f.8r l.12</note>Or nota che li homini se parteno tutti dui de compagnia fazando<note xml:id="note_f9r_e">Ms: présence d'un signe de remplissage de ligne "y", non transcrit ici</note></p>
 				<p>tempi dui de saltarello comenzando al pè sinistro in mexura quadernaria</p>
 				<p>cum una volta tonda comenzando dal pè sinistro, unde gli con-</p>
 				<p>siste passi tri sempii e una meza represa, afirmandose; poi la dona</p>
 				<p>li siegue cum tempi dui de saltarello comenzando dal pè sinistro</p>
-				<p>e quatro pasi sempii dagando <ref target="note_d0a966f44a104885a8ec36966bbfb368">in cho</ref><note xml:id="note_d0a966f44a104885a8ec36966bbfb368">Ms. "in cho" addition supralinéaire en écriture humanistique d'une encre plus foncée</note> de dicti quatro passi una mezavolta per</p>
+				<p>e quatro pasi sempii dagando in cho de<note xml:id="note_d0a966f44a104885a8ec36966bbfb368">Ms. "cho de" add. supralinéaire en écriture humanistique d'une encre plus foncée entre "in" et "dicti"</note>dicti quatro passi una mezavolta per</p>
 				<p>ritrovarse guardare al contrario de li homini.</p>
-				<p>//Apresso nota che tutti tri se moveno in uno instante<note xml:id="note_f9r_f">Ms. suivi de "e" biffé, non transcrit ici</note> facendo du-</p>
+				<p><metamark>//</metamark>Apresso nota che tutti tri se moveno in uno instante<note xml:id="note_f9r_f">Ms. suivi de "e" biffé</note> facendo du-</p>
 				<p>pii tri sul pè sinistro, et in capo del terzo fano una posada suso el drito</p>
 				<p>in tempo vuodo dagando una mezavolta, andagando però la dona al</p>
 				<p>contrario de li homini, cioè loro inanti e lei indrieto; ritornando</p>
 				<p>dicti dui homini et dona cum quilli medesmi<note xml:id="note_f9re">Ms: "s" addition supralinéaire d'une encre plus foncée</note> dicti dupii e posada, e</p>
 				<p>ritrovandose la dona in mezo de li homini guardando al contrario loro.</p>
-				<p>//Nota che la dona se parte da li homeni a roverso di loro fazando uno</p>
+				<p><metamark>//</metamark>Nota che la dona se parte da li homeni a roverso di loro fazando uno</p>
 				<p>dopio sul pè sinistro e afermase, li dicti dui homini vano inanti cum</p>
 				<p>uno dopio sul pè sinistro et afermanse. La dona va pur a la sua via</p>
 				<p>cum uno dopio sul pè drito e afermase, poi li dicti dui homini</p>
@@ -2567,16 +2567,16 @@
 			<div>
 				<p><pb facs="#f024"/></p>
 				<p>vano pur a la lor via contrarii de la dona, cum uno dopio sul pè drito.</p>
-				<p>//Apresso nota che ininstanti dicti dui homini e dona danno una meza-</p>
+				<p><metamark>//</metamark><note xml:id="note_f024_0002">voir note f.8r l.12</note>Apresso nota che ininstanti dicti dui homini e<note xml:id="note_f024_0001">Ms. Tentative vaine et erronée d'effacement du "e", mentionée par un trait creux sous la lettre qui reste apparente</note> dona danno una meza-</p>
 				<p>volta sul pè drito, riguardandose a volto a volto, fazando represe</p>
 				<p>due comenzando col pè sinistro, continentie due, e riverentia una</p>
 				<p>suso el sinistro afermandose dicti dui homini.</p>
-				<p>//Or nota che la dona se muove e va incontra li homini cum uno</p>
+				<p><metamark>//</metamark>Or nota che la dona se muove e va incontra li homini cum uno</p>
 				<p>dopio sul pè sinistro e afermase; poi li homini vano incontra</p>
 				<p>la dona cum uno dopio sul pè sinistro e afermanse, e la dona</p>
 				<p>vene incontra li homini cum uno dopio sul pè drito, e afermase.</p>
 				<p>Li homini vano incontra a la dona cum uno dopio sul pè dri-</p>
-				<p>to dagando una mezavolta suso dicto pè e <ref target="note_ea12dc3703a046ee9485fbdee3140735">trovandose</ref><note xml:id="note_ea12dc3703a046ee9485fbdee3140735">"r" addition supralinéaire de la même main</note> havere la</p>
+				<p>to dagando una mezavolta suso dicto pè e trovandose<note xml:id="note_ea12dc3703a046ee9485fbdee3140735">Ms."r" addition supralinéaire de la même main</note> havere la</p>
 				<p>dona equale in mezo loro, fazando tutti inseme una riverentia</p>
 				<p>sul pè sinistro; poi la dona si fa uno movimento de mezo tempo</p>
 				<p>e li homini ge respondeno cum uno altro et è fine.</p>
