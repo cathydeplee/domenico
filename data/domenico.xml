@@ -900,7 +900,7 @@
 			<line>ria, cum una volta tonda, comenzando dal pè sinistro unde gli con-</line>
 			<line>siste passi tri sempii e una meza represa afirmandose; poi la dona</line>
 			<line>li siegue cum tempi dui de saltarello comenzando dal pè sinistro</line>
-			<line>e quatro pasi sempii dagando in <add place="top">cho de</add> dicti quatro passi una mezavolta per</line>
+			<line>e quatro pasi sempii dagando in <add place="above">cho de</add> dicti quatro passi una mezavolta per</line>
 			<line>ritrovarse guardare al contrario de li homini.</line>
 			<line><add place="margin">//</add>Apresso nota che tutti tri se moveno in uno instante <del rend="strikethrough">e</del> facendo du-</line>
 			<line>pii tri sul pè sinistro, et in capo del terzo fano una posada suso el drito</line>
@@ -933,7 +933,7 @@
 			<notatedMusic facs="#f024-zone-1">
 				<graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f25/676,2888,3178,1684/500,/0/native.jpg"/>
 			</notatedMusic>
-			<line>La ingrata a ballo e va homini dui cum una dona in mezo</line>
+			<line rend="indent">La ingrata a ballo e va homini dui cum una dona in mezo</line>
 			<line rend="indent">Mprima fano dicti homini cun la dona in mezo tempi nove in</line>
 			<line>mexura di saltarello e afermanse li homini lasando la dona.</line>
 			<line><add place="margin">//</add>Nota che dicta dona va inanti cum passi quatro sempii in mexura</line>
@@ -2411,7 +2411,7 @@
 				<p>de le danze.</p>
 				<p><lb/></p>
 				<p/>
-				<p><hi rend="bold">(B)</hi><note xml:id="note_f7r_x">Le § qui commence ici et se termine à la fin du feuillet est écrit d'une autre main (B) (la même que celle du tableau, au f. 4v?)</note> Le infrascripte dançe sono composte, cusì il canto come le</p>
+				<p><seg>(B)</seg><note xml:id="note_f7r_x">Le § qui commence ici et se termine à la fin du feuillet est écrit d'une autre main (B) (la même que celle du tableau, au f. 4v?)</note> Le infrascripte dançe sono composte, cusì il canto come le<handShift new="mainB"/></p>
 				<p>parole, per lo spectabile et egregio cavagliero misser</p>
 				<p>Domenico da Piasença, salvo che il canto de la Figlia Guiliel</p>
 				<p>mino che è ballatta francese, et sopra esso canto el dicto</p>
@@ -2419,8 +2419,17 @@
 			</div>
 			<div>
 				<p><pb facs="#f019"/></p>
-				<p rend="indent(2)"><hi rend="bold">(A)</hi><note xml:id="note_7v_x">reprise de l'écriture par la 1e main (A)</note> Belreguardo im ballo, cioè uno homo e una dona.</p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p rend="indent(2)"><seg rend="blue">(A)</seg><note xml:id="note_7v_x">reprise de l'écriture par la 1e main (A)</note>Belreguardo im ballo, cioè uno homo e una dona<handShift new="mainA"/></p>
 				<p rend="indent"><ref target="note_6e114509483541c58c3902faf5254a5a"><supplied>I</supplied></ref>mprima<note xml:id="note_f7v_a">Ms. Initiale d'attente "I" omise. </note> fano tempi <ref target="note_be133b7c52a14ad3aa5676f45f8fedf2">XI</ref><note xml:id="note_be133b7c52a14ad3aa5676f45f8fedf2">Procopio: transforme en "XV" probablement par comparaison avec Pg, Pa et NY. (Dans V, pas d'indication du nombre de nombre de temps/pas de saltarello). B.Sparti considère les "XI tempi de saltarello" (repris également dans "Belreguardo nuovo" au f.suivant) de Pd corrects mais voit une erreur dans le chiffre de répétition "3" de la partition musicale du ms (à la fin de la 1e mesure) qui devrait être "2". Notons à ce sujet que la répétition "3" apparaît dans V, Pg et Pa et NY. Ces trois derniers changent néanmoins le nombre de pas en 15. Nous gardons XI (en considérant le 3 correct). Pour l'interprétation dansée voir Notes chorégraphiques.</note> de saltarello et afermase; façando</p>
+				<p rend="indent"></p>
+				<p rend="indent"></p>
 				<p>dupei quatro de bassadanza inseme, comenzando al pede sinistro</p>
 				<p>e fazando fine al drito, e poi fano dupii tri suso el pede sinistro</p>
 				<p>finiando suso dicto pede, e poi sempii dui comenzando cum lo pede</p>
@@ -2504,6 +2513,10 @@
 			</div>
 			<div>
 				<p><pb facs="#f022"/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
 				<p rend="indent(2)">Lionzello vechio a ballo, è in uno homo cum la dona</p>
 				<p rend="indent(1)"><supplied>I</supplied>mprima<note>Ms. Initiale d'attente "I" omise. </note>fano tutti dui a mano tempi sei de saltarello co-</p>
 				<p>menzando cum lo pè sinistro in mexura quadernaria e afermase;</p>
@@ -2580,15 +2593,14 @@
 				<p>dona equale in mezo loro, fazando tutti inseme una riverentia</p>
 				<p>sul pè sinistro; poi la dona si fa uno movimento de mezo tempo</p>
 				<p>e li homini ge respondeno cum uno altro et è fine.</p>
+				<p rend="indent(3)">La ingrata in canto.</p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
 				<p/>
-				<p>La ingrata in canto.</p>
-				<p/>
-				<p/>
-				<p/>
-				<p/>
-				<p/>
-				<p>La ingrata a ballo, e va homini (in) dui cum una dona in mezo.</p>
-				<p>Imprima<note xml:id="note_f10r_a">Initiale d'attente 'i" ommise, ajoutée ici</note> fano dicti homini cun la dona in mezo tempi nove in</p>
+				<p rend="indent">La ingrata a ballo, e va homini (in) dui cum una dona in mezo.</p>
+				<p rend="indent"><supplied>I</supplied>mprima<note xml:id="note_f10r_a">Ms. Initiale d'attente 'I" omise</note> fano dicti homini cun la dona in mezo tempi nove in</p>
 				<p>mexura di saltarello e afermanse li homini lasando la dona.</p>
 				<p>Nota che dicta dona va inanti cum passi quatro sempii in mexura</p>
 			</div>
@@ -2601,12 +2613,12 @@
 				<p>xura guardando al contrario de li homini, e poi tutti tri in uno instante</p>
 				<p>se moveno fazando tempi quatro di saltarello in sua mexura co-</p>
 				<p>menzando col pè sinistro, intendandose che li homini vadano al contr-</p>
-				<p>ario de la dona cioè loro <ref target="note_bd0f189614ca46a08fba548d88d80180">inanti e la dona indrieto</ref><note xml:id="note_bd0f189614ca46a08fba548d88d80180">Inanti et indrieto sont à comprendre par rapport au sens de la danse. Il n’en est pas de même dans Pg et Pa, où la dame est dite aller al inanti et les hommes font de même, ce qui sous-entend que l’inanti est ici à comprendre par rapport à chaque danseur</note>.</p>
-				<p><add place="margin"><ref target="note_8a821a318af64b8c93a2b7ed4933b672">//</ref></add><note xml:id="note_8a821a318af64b8c93a2b7ed4933b672">voir notes précédentes danses sur ces signes</note>Apresso nota che se hanno a fare tempi XVI de bassadanza, cioè li</p>
+				<p>ario de la dona cioè loro <ref target="note_bd0f189614ca46a08fba548d88d80180">inanti e la dona indrieto</ref><note xml:id="note_bd0f189614ca46a08fba548d88d80180">Chor. Inanti et indrieto sont à comprendre par rapport au sens de la danse. Il n’en est pas de même dans Pg et Pa, où la dame est dite aller al inanti et les hommes font de même, ce qui sous-entend que l’inanti est ici à comprendre par rapport à chaque danseur</note>.</p>
+				<p><metamark>//</metamark>Apresso nota che se hanno a fare tempi XVI de bassadanza, cioè li</p>
 				<p>dicti homini e dona seperadi l’uno da l’altro danno una mezavolta sul lado</p>
 				<p>drito cum due ripres, guardandosse nel volto l’uno l’altro.</p>
-				<p><add place="margin">//</add>Or nota che dicti dui homini e dona se parteno in uno instante, cioè</p>
-				<p>li homini a paro a paro, e veneno contra la dona e la dona contra</p>
+				<p><metamark>//</metamark>Or nota che dicti dui homini e dona se parteno in uno instante, cioè</p>
+				<p>li homini a paroa paro, e veneno contra la dona e la dona contra</p>
 				<p>di loro cum passi dui sempii et uno dopio comenzando como lo pè</p>
 				<p>sinistro, e dagando una volta tonda de bassadanza ne le loro poste donde</p>
 				<p>li consiste pasi dui sempii, et una represa comenzando cum lo pè</p>
@@ -2617,7 +2629,7 @@
 				<p>ge passa per mezo et in fine de dicti dopii se ritrovano esser largi dicti</p>
 				<p>homini da la dona, e dano una mezavolta suso el lato drito cum due represe,</p>
 				<p>e cossì fa la dona.</p>
-				<p><add place="margin">//</add>Nota che se fano tempi XV in mexura quadernaria, cioè dicti</p>
+				<p><metamark>//</metamark>Nota che se fano tempi XV in mexura quadernaria, cioè dicti</p>
 				<p>dui homini e dona se veneno a lo incontro fazando pasi dui e represe</p>
 				<p>due comenzando cum lo pè sinistro, e quisti dicti dui passi sempii et</p>
 				<p>represe se fano volte tre, homini e dona a l’incontro l’uno de l’altro.</p>
@@ -2635,13 +2647,13 @@
 				<p>fazando tempi dui de piva; nota che li dicti homini e dona</p>
 				<p>se ritrovano ne le poste loro como erano nel principio de la danza,</p>
 				<p>fazando uno movimento, et è fine.</p>
-				<p rend="indent">(C)<note xml:id="note_f11r_a">Intervention d'une 3e main (C), qui sera interrompue au milieu de la danse (reprise de A)</note> La Giloxia in canto</p>
+				<p rend="indent"><seg>(C)</seg><note xml:id="note_f11r_a">Intervention d'une 3e main (C), qui sera interrompue au milieu de la danse</note> La Giloxia in canto<handShift new="mainC"/></p>
 				<p><lb/></p>
 				<p><lb/></p>
 				<p><lb/></p>
 				<p><lb/></p>
 				<p rend="indent">Giloxia a balo e va in siei zoè homeni tri e done tre.</p>
-				<p rend="indent">Imprima<note xml:id="note_f11r_b">Initiale d'attente "i" ommise, ajoutée ici</note> se pigliano homo uno et una dona per man tuti siei</p>
+				<p rend="indent">Imprima<note xml:id="note_f11r_b">Ms. Initiale d'attente "i" omise</note> se pigliano homo uno et una dona per man tuti siei</p>
 				<p>in thiope tre e fano tienpi siei de saltarelo largi in mexura qua-</p>
 				<p>dernaria chomenzando dal pè sinistro, e afermanse; intendandosse</p>
 				<p>che vagino l’una thiopa<note xml:id="note_f11r_c">Ms. "o" addition supralinéaire</note> driedo a l’altra e largi per spathio de pasi tri.</p>
