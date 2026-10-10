@@ -1012,10 +1012,10 @@
 			<line><add>//</add>Ancora nota che tutti homini e done se moveno fazando tempi</line>
 			<line>octo de piva l’uno chiopa drieto a l’altra per ordine e fermanose</line>
 			<line>le due chiope de drieto fazando el primo homo cum la prima dona</line>
-			<line>mezavolta suso lo lato sinistro in uno tempo de piva e fermaseno.</line>
+			<line>mezavolta suso lo lato sinistro in uno tempo de piva e <seg>ferma<sic>seno</sic></seg>.</line>
 			<line>La segonda chiopa gli responde fazando el simele, e poi la terza</line>
 			<line>risponde a la segonda facendo el simele, e fermase.</line>
-			<line><add>//</add>Or nota che cadauno de tutti li homini se ritrova guardare nel</line>
+			<line><add place="margin">//</add>Or nota che cadauno de tutti li homini se ritrova guardare nel</line>
 			<line>volto a la sua dona e la dona a lui, pigliandose cadauna de</line>
 			<line>loro chiope per la mane drita fazando passi tri sempii comenzando</line>
 			<line>cum lo pè drito, e scambiando posta, poi se lassano per la mane</line>
@@ -2428,8 +2428,8 @@
 				<p><lb/></p>
 				<p rend="indent(2)"><seg rend="blue">(A)</seg><note xml:id="note_7v_x">reprise de l'écriture par la 1e main (A)</note>Belreguardo im ballo, cioè uno homo e una dona<handShift new="mainA"/></p>
 				<p rend="indent"><ref target="note_6e114509483541c58c3902faf5254a5a"><supplied>I</supplied></ref>mprima<note xml:id="note_f7v_a">Ms. Initiale d'attente "I" omise. </note> fano tempi <ref target="note_be133b7c52a14ad3aa5676f45f8fedf2">XI</ref><note xml:id="note_be133b7c52a14ad3aa5676f45f8fedf2">Procopio: transforme en "XV" probablement par comparaison avec Pg, Pa et NY. (Dans V, pas d'indication du nombre de nombre de temps/pas de saltarello). B.Sparti considère les "XI tempi de saltarello" (repris également dans "Belreguardo nuovo" au f.suivant) de Pd corrects mais voit une erreur dans le chiffre de répétition "3" de la partition musicale du ms (à la fin de la 1e mesure) qui devrait être "2". Notons à ce sujet que la répétition "3" apparaît dans V, Pg et Pa et NY. Ces trois derniers changent néanmoins le nombre de pas en 15. Nous gardons XI (en considérant le 3 correct). Pour l'interprétation dansée voir Notes chorégraphiques.</note> de saltarello et afermase; façando</p>
-				<p rend="indent"></p>
-				<p rend="indent"></p>
+				<p rend="indent"/>
+				<p rend="indent"/>
 				<p>dupei quatro de bassadanza inseme, comenzando al pede sinistro</p>
 				<p>e fazando fine al drito, e poi fano dupii tri suso el pede sinistro</p>
 				<p>finiando suso dicto pede, e poi sempii dui comenzando cum lo pede</p>
@@ -2460,7 +2460,7 @@
 				<p>in capo de dicti dupii se volta cum lo volto verso le spale</p>
 				<p>a la dona et fano dicti dui dupii dicti homini l’uno quando l’altro</p>
 				<p>cioè l’uno inanti e l’altro indrieto.</p>
-				<p><metamark place="margin">//</metamark><note xml:id="note_2bf8ef347e2445cb84b81a37d91919bc">Ces deux traits obliques en marge apparaissent régulièrement dans les descriptions des danses de ce ms. Ce marquage, qui semble marquer le début d'une nouvelle séquence chorégraphique, est spécifiques à la main A. Il n'est toutefois pas systématique.  Etant donné qu'il donne potentiellement une indication chorégraphique, nous le transcrivons ici et plus bas, là où il apparaît. </note>Or nota che tutti tri vengono a remanere a la fila l’uno drieto</p>
+				<p><add place="margin">//</add><note xml:id="note_2bf8ef347e2445cb84b81a37d91919bc">Ces deux traits obliques en marge apparaissent régulièrement dans les descriptions des danses de ce ms. Ce marquage, qui semble marquer le début d'une nouvelle séquence chorégraphique, est spécifiques à la main A. Il n'est toutefois pas systématique.  Etant donné qu'il donne potentiellement une indication chorégraphique, nous le transcrivons ici et plus bas, là où il apparaît. </note>Or nota che tutti tri vengono a remanere a la fila l’uno drieto</p>
 				<p>a l’altro, ritrovandose la dona in mezo, fazando tutti tri de compagnia</p>
 				<p>dupii dui inanti a la fila comenzando cum lo pè sinisitro; e poi</p>
 				<p>fano dupii tri suso el pè sinistro tutti tri pur inanti a la fila et</p>
@@ -2469,7 +2469,7 @@
 				<p>dupii suso el pè drito ritornando però indrieto e dagando una</p>
 				<p>mezavolta suso el pè drito, fazando continentie due comenzando sul</p>
 				<p>pè sinistro e una riverentia sul pè sinistro de uno tempo tutti tri.</p>
-				<p><metamark>//</metamark><note xml:id="note_4bc9335b63f94966ae4000f8c3ac961e">Voir note précédente</note>Apresso se fano tempi dui de saltarello largo, fazando tutti tri uno</p>
+				<p><add place="margin">//</add>Apresso se fano tempi dui de saltarello largo, fazando tutti tri uno</p>
 				<p>de dicti tempi inanti a la fila, e afermase la dona, e li dui homini</p>
 				<p>fano l’altro tempo de compagnia, cioè el primo homo dà una</p>
 				<p>mezavolta sul pè sinistro, tornando indrieto cum lo dicto tempo</p>
@@ -2478,7 +2478,7 @@
 				<p>in questo instante l’altro homo ch’è de drieto fa dicto tempo de</p>
 				<p>saltarello comenzando col pè drito, e venendo equale a la dona</p>
 				<p>da la sua mane drita affirmandosse tutti dui dicti homini.</p>
-				<p><metamark>// </metamark>Nota che in questo instante che li homini hanno datto<note xml:id="note_f8r_d">Ms: suivi de "el dicto" barré (cf erreur de copie).</note> el</p>
+				<p><add place="margin">//</add> Nota che in questo instante che li homini hanno datto<note xml:id="note_f8r_d">Ms: suivi de "el dicto" barré (cf erreur de copie).</note> el</p>
 				<p>dredano boto del dicto segondo tempo de saltarello la dicta dona</p>
 			</div>
 			<div>
@@ -2486,7 +2486,7 @@
 				<p>fuze cum uno dopio inanti comenzando cum lo pè drito, e aferma-</p>
 				<p>se; poi tutti dui li homini se moveno cum uno dopio suso el pè drito</p>
 				<p>ritrovandosse in capo de dicto dopio tutti dui equali a la dicta dona</p>
-				<p><metamark rend="margin">//<note xml:id="note_f021_0001">Voir note f. 8r, l.12</note></metamark>Apresso se fa tempi dui de saltarello largi, cioè uno de dicti tempi</p>
+				<p><add place="margin">//</add><note xml:id="note_f021_0001">Voir note f. 8r, l.12</note>Apresso se fa tempi dui de saltarello largi, cioè uno de dicti tempi</p>
 				<p>tutti tri in compagnia inanti essendo equali, poi la dona sì se</p>
 				<p>aferma e li dicti dui homini se moveno façando l’altro tempo</p>
 				<p>cum lo pè drito e scambiando posta: cioè quello che è da la</p>
@@ -2496,7 +2496,7 @@
 				<p>denanti dà una volta tonda suso el canto drito, rimanendo equa-</p>
 				<p>le a la dicta dona, façando<note xml:id="note_f8v_a">Ms. La cédille est ajoutée d’une encre plus foncée.</note> tutti tri de compagnia continentie</p>
 				<p>due<note xml:id="note_f8v_b">Ms. Suivi de "un" barré (erreur de copie)</note> comenzando sul pè sinistro.</p>
-				<p><metamark rend="margin">//</metamark>Ancora nota che se fano tempi sei de bassadanza, cioè tutti tri</p>
+				<p><add place="margin">//</add>Ancora nota che se fano tempi sei de bassadanza, cioè tutti tri</p>
 				<p>fano in compagnia dupii dui inanti comenzando cum lo pede</p>
 				<p>sinistro, poi se aferma la dona, e li dui homini se moveno in lo</p>
 				<p>instante, cioè lo homo ch’è da la mane sinistra de la dona fa</p>
@@ -2527,17 +2527,17 @@
 				<p>risponde cum quello medemo tempo di saltarello et mezavolta</p>
 				<p>ritrovandose equale a la man drita del suo homo; et è tutto questo</p>
 				<p>soprascripto <supplied cert="medium">in</supplied><note xml:id="note_f9r_a">Ms. Préposition "in" peut-être omise à la copie </note> mexura quadernaria e quest’altra parte seguente.</p>
-				<p><metamark>//</metamark><note xml:id="note_19f3615028434efa8a4b8070793868d4">voir note f.8r, l.12</note>Nota che l’homo se parte da la dona fazando passi quatro sempii in-</p>
+				<p><add place="margin">//</add><note xml:id="note_19f3615028434efa8a4b8070793868d4">voir note f.8r, l.12</note>Nota che l’homo se parte da la dona fazando passi quatro sempii in-</p>
 				<p>anti e uno dopio comenzando com lo pè sinistro, e affermase, poi</p>
 				<p>la dona el siegue facendo li simili passi et dupio<note xml:id="note_f9r_b">Correction du pluriel en singulier (erreur de copie?) sur base de la séquence de l'homme juste avant que la dame reproduit ensuite. </note>, e afermase.</p>
-				<p><metamark>//</metamark>Apresso nota che l’homo se parte da la dona e va inanti cum dupii</p>
+				<p><add place="margin">//</add>Apresso nota che l’homo se parte da la dona e va inanti cum dupii</p>
 				<p>tri sul pè sinistro pur in mexura quadernaria, e afermasse, e la</p>
 				<p>dona poi lo siegue cum li simili tri dupii e afermase.</p>
-				<p><metamark>//</metamark>Nota che l’homo se parte da la dona cum tempi tri in mexura de bassa-</p>
+				<p><add place="margin">//</add>Nota che l’homo se parte da la dona cum tempi tri in mexura de bassa-</p>
 				<p>danza fazando sempi dui e dupii dui comenzando cum lo pede</p>
 				<p>sinistro, e poi la dona siegue dicto homo cum quilli medemi sempii</p>
 				<p>e dupii afirmandose.</p>
-				<p><metamark>//</metamark>Ancora nota, che l’homo piglia la dona per mano fazando insieme</p>
+				<p><add place="margin">//</add>Ancora nota, che l’homo piglia la dona per mano fazando insieme</p>
 				<p>tempi septe di bassadanza, cio<supplied cert="high" reason="sampling">è</supplied><note>Ms. "e" omis</note> prima<note xml:id="note_f022_0001">Ms. "ri" abrévié par un petit trait vertical add. supralinéaire</note> represe due comenzando col</p>
 				<p>pede sinistro <ref target="note_c929def409db48a5a0f7dcba29924ec2"><supplied>[e sempii dui]</supplied></ref><note xml:id="note_c929def409db48a5a0f7dcba29924ec2">Dans cette séquence chorégraphique tous les autres manuscrits qui contiennent cette première version de Lionzello (pour 2 personnes) mentionnent 2 simples entre les 2 reprises et les deux doubles, ce qui correspond d'ailleurs à la musique. Nous supposons qu'il s'agit d'un oubli du copiste. Voir aussi Procopio p.90</note>e dupii dui e represe due et afermase fazando l’homo</p>
 				<p>uno movimento e la dona respondendoge cum un altro, li quali mo-</p>
@@ -2559,20 +2559,20 @@
 				<p>de li quali el quarto e lo octavo se fa im passi dui sempii suso el pè</p>
 				<p>drito e cadauno de dicti dui passi se fanno in mezo de dicti dui homini</p>
 				<p>e afermase poi la dicta dona in mezo loro.</p>
-				<p><ref target="note_f8749dbfe2a44c3cbec857e547c3335b">//</ref><note xml:id="note_f8749dbfe2a44c3cbec857e547c3335b">voir note f.8r l.12</note>Or nota che li homini se parteno tutti dui de compagnia fazando<note xml:id="note_f9r_e">Ms: présence d'un signe de remplissage de ligne "y", non transcrit ici</note></p>
+				<p><add place="margin">//</add><note xml:id="note_f8749dbfe2a44c3cbec857e547c3335b">voir note f.8r l.12</note>Or nota che li homini se parteno tutti dui de compagnia fazando<note xml:id="note_f9r_e">Ms: présence d'un signe de remplissage de ligne "y", non transcrit ici</note></p>
 				<p>tempi dui de saltarello comenzando al pè sinistro in mexura quadernaria</p>
 				<p>cum una volta tonda comenzando dal pè sinistro, unde gli con-</p>
 				<p>siste passi tri sempii e una meza represa, afirmandose; poi la dona</p>
 				<p>li siegue cum tempi dui de saltarello comenzando dal pè sinistro</p>
 				<p>e quatro pasi sempii dagando in cho de<note xml:id="note_d0a966f44a104885a8ec36966bbfb368">Ms. "cho de" add. supralinéaire en écriture humanistique d'une encre plus foncée entre "in" et "dicti"</note>dicti quatro passi una mezavolta per</p>
 				<p>ritrovarse guardare al contrario de li homini.</p>
-				<p><metamark>//</metamark>Apresso nota che tutti tri se moveno in uno instante<note xml:id="note_f9r_f">Ms. suivi de "e" biffé</note> facendo du-</p>
+				<p><add place="margin">//</add>Apresso nota che tutti tri se moveno in uno instante<note xml:id="note_f9r_f">Ms. suivi de "e" biffé</note> facendo du-</p>
 				<p>pii tri sul pè sinistro, et in capo del terzo fano una posada suso el drito</p>
 				<p>in tempo vuodo dagando una mezavolta, andagando però la dona al</p>
 				<p>contrario de li homini, cioè loro inanti e lei indrieto; ritornando</p>
 				<p>dicti dui homini et dona cum quilli medesmi<note xml:id="note_f9re">Ms: "s" addition supralinéaire d'une encre plus foncée</note> dicti dupii e posada, e</p>
 				<p>ritrovandose la dona in mezo de li homini guardando al contrario loro.</p>
-				<p><metamark>//</metamark>Nota che la dona se parte da li homeni a roverso di loro fazando uno</p>
+				<p><add place="margin">//</add>Nota che la dona se parte da li homeni a roverso di loro fazando uno</p>
 				<p>dopio sul pè sinistro e afermase, li dicti dui homini vano inanti cum</p>
 				<p>uno dopio sul pè sinistro et afermanse. La dona va pur a la sua via</p>
 				<p>cum uno dopio sul pè drito e afermase, poi li dicti dui homini</p>
@@ -2580,11 +2580,11 @@
 			<div>
 				<p><pb facs="#f024"/></p>
 				<p>vano pur a la lor via contrarii de la dona, cum uno dopio sul pè drito.</p>
-				<p><metamark>//</metamark><note xml:id="note_f024_0002">voir note f.8r l.12</note>Apresso nota che ininstanti dicti dui homini e<note xml:id="note_f024_0001">Ms. Tentative vaine et erronée d'effacement du "e", mentionée par un trait creux sous la lettre qui reste apparente</note> dona danno una meza-</p>
+				<p><add place="margin">//</add><note xml:id="note_f024_0002">voir note f.8r l.12</note>Apresso nota che ininstanti dicti dui homini e<note xml:id="note_f024_0001">Ms. Tentative vaine et erronée d'effacement du "e", mentionée par un trait creux sous la lettre qui reste apparente</note> dona danno una meza-</p>
 				<p>volta sul pè drito, riguardandose a volto a volto, fazando represe</p>
 				<p>due comenzando col pè sinistro, continentie due, e riverentia una</p>
 				<p>suso el sinistro afermandose dicti dui homini.</p>
-				<p><metamark>//</metamark>Or nota che la dona se muove e va incontra li homini cum uno</p>
+				<p><add place="margin">//</add>Or nota che la dona se muove e va incontra li homini cum uno</p>
 				<p>dopio sul pè sinistro e afermase; poi li homini vano incontra</p>
 				<p>la dona cum uno dopio sul pè sinistro e afermanse, e la dona</p>
 				<p>vene incontra li homini cum uno dopio sul pè drito, e afermase.</p>
@@ -2614,10 +2614,10 @@
 				<p>se moveno fazando tempi quatro di saltarello in sua mexura co-</p>
 				<p>menzando col pè sinistro, intendandose che li homini vadano al contr-</p>
 				<p>ario de la dona cioè loro <ref target="note_bd0f189614ca46a08fba548d88d80180">inanti e la dona indrieto</ref><note xml:id="note_bd0f189614ca46a08fba548d88d80180">Chor. Inanti et indrieto sont à comprendre par rapport au sens de la danse. Il n’en est pas de même dans Pg et Pa, où la dame est dite aller al inanti et les hommes font de même, ce qui sous-entend que l’inanti est ici à comprendre par rapport à chaque danseur</note>.</p>
-				<p><metamark>//</metamark>Apresso nota che se hanno a fare tempi XVI de bassadanza, cioè li</p>
+				<p><add place="margin">//</add>Apresso nota che se hanno a fare tempi XVI de bassadanza, cioè li</p>
 				<p>dicti homini e dona seperadi l’uno da l’altro danno una mezavolta sul lado</p>
 				<p>drito cum due ripres, guardandosse nel volto l’uno l’altro.</p>
-				<p><metamark>//</metamark>Or nota che dicti dui homini e dona se parteno in uno instante, cioè</p>
+				<p><add place="margin">//</add>Or nota che dicti dui homini e dona se parteno in uno instante, cioè</p>
 				<p>li homini a paroa paro, e veneno contra la dona e la dona contra</p>
 				<p>di loro cum passi dui sempii et uno dopio comenzando como lo pè</p>
 				<p>sinistro, e dagando una volta tonda de bassadanza ne le loro poste donde</p>
@@ -2629,7 +2629,7 @@
 				<p>ge passa per mezo et in fine de dicti dopii se ritrovano esser largi dicti</p>
 				<p>homini da la dona, e dano una mezavolta suso el lato drito cum due represe,</p>
 				<p>e cossì fa la dona.</p>
-				<p><metamark>//</metamark>Nota che se fano tempi XV in mexura quadernaria, cioè dicti</p>
+				<p><add place="margin">//</add>Nota che se fano tempi XV in mexura quadernaria, cioè dicti</p>
 				<p>dui homini e dona se veneno a lo incontro fazando pasi dui e represe</p>
 				<p>due comenzando cum lo pè sinistro, e quisti dicti dui passi sempii et</p>
 				<p>represe se fano volte tre, homini e dona a l’incontro l’uno de l’altro.</p>
@@ -2647,7 +2647,7 @@
 				<p>fazando tempi dui de piva; nota che li dicti homini e dona</p>
 				<p>se ritrovano ne le poste loro como erano nel principio de la danza,</p>
 				<p>fazando uno movimento, et è fine.</p>
-				<p rend="indent"><seg>(C)</seg><note xml:id="note_f11r_a">Intervention d'une 3e main (C), qui sera interrompue au milieu de la danse</note> La Giloxia in canto<handShift new="mainC"/></p>
+				<p rend="indent"><seg>(C)</seg><note xml:id="note_f11r_a"> Intervention d'une 3e main (C), probablement moins expérimentée, interrompue au milieu de la danse</note> La Giloxia in canto<handShift new="mainC"/></p>
 				<p><lb/></p>
 				<p><lb/></p>
 				<p><lb/></p>
@@ -2673,11 +2673,11 @@
 				<p>so la dona de driedo, e tochandogie la man drita cun una river-</p>
 				<p>enthia, e afermasse.</p>
 				<p>Ora nota che lo homo che havea per man la dita dona de driedo fa</p>
-				<p>tenpo uno de saltarelo in mexura quadernaria chomençando cun lo (A)<note xml:id="note_f11v_a">reprise par la 1e main (A)</note></p>
-				<p>pè drito et andagando<note xml:id="note_11v_marge">add. marg. de la même main A se corrigeant, avec signe de renvoi.</note> <ref target="note_743695e501a64795b101f92fbacfea74">V</ref><note xml:id="note_743695e501a64795b101f92fbacfea74">signe d'insertion pour indiquer la place de l'add. en marge de gauche</note> <add place="margin">equale a la dona de mezo a la man sua stanca.</add></p>
-				<p><add place="margin">L’homo che se ritrova apresso la dona de drieto va</add> drieto a le spale de la dona de drieto, ritrovan-</p>
-				<p>dose esserge equale a la mane sua stanca (C)<note xml:id="note_f11v_d">nouvelle petite tentative de la main C qui ne durera que 4 mots</note> cun lo saltarelo predito.</p>
-				<p><add place="margin">//</add><ref target="note_6ed4ec480ecc444690b31b2525291afd">(A)</ref><note xml:id="note_f11v_c">reprise de la 1e main (A)</note> Ancora nota che tutti homini e done se moveno fazando tempi</p>
+				<p>tenpo uno de saltarelo in mexura quadernaria chomençando cun lo (A)<note xml:id="note_f11v_a">reprise par la 1e main A</note><handShift new="mainC"/></p>
+				<p>pè drito et andagando<note xml:id="note_f027_0001">Suivi d'un signe d'insertion renvoyant à l'add. en marge de gauche, de la main A </note> equale a la dona de mezo a la man sua stanca.</p>
+				<p>L’homo che se ritrova apresso la dona de drieto va<note xml:id="note_f027_0002">Ms. fin de la séquence en marge</note> drieto a le spale de la dona de drieto, ritrovan-</p>
+				<p>dose esserge equale a la mane sua stanca (C)<note xml:id="note_f11v_d">nouvelle petite tentative de la main C qui ne durera que 4 mots</note> cun lo saltarelo predito.<handShift new="mainC"/></p>
+				<p><add place="margin">//</add>(A)<note xml:id="note_f11v_c">reprise de la 1e main (A)</note> Ancora nota che tutti homini e done se moveno fazando tempi<handShift new="mainA"/></p>
 				<p>octo de piva, l’uno chiopa drieto a l’altra per ordine, e ferma<corr>nose</corr><note xml:id="note_f11v_e">Ms. fermaseno, probable inversion des syllabes corrigée ici</note></p>
 				<p>le due chiope de drieto; fazando el primo homo cum la prima dona</p>
 				<p>mezavolta suso lo lato sinistro in uno tempo de piva, e fermanose;</p>
