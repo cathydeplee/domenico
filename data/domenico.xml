@@ -1050,7 +1050,7 @@
 			<line>nanti via, cioè l’homo a la dona sua, e la dona a lo suo homo</line>
 			<line><add place="margin">//</add>Or nota che tutti quatro li homini fano una riverentia cum lo pè</line>
 			<line>drito indrieto d’un tempo de bassadanza tocando la man drita dicti</line>
-			<line>homini a la sua dona; e movese li homini fazando tempi XIIII de</line>
+			<line>homini a la sua dona; e movese li homini fazando tempi <seg><sic>XIII</sic></seg> de</line>
 			<line>bassadanza cioè, una represa sul pè drito cum la dona sua a mano</line>
 			<line>lasandola poi e fazando passi sempii dui e dupii XI comenzando</line>
 		</surface>
@@ -1066,7 +1066,7 @@
 			<line><add place="margin">//</add>Ancora nota che tutte quatro le done se moveno seguendo la pri-</line>
 			<line>ma per ordine e facendo tempi VIIII de saltarello, passando la</line>
 			<line>prima dona denantivia al primo homo, facendo dicti tempi de sal-</line>
-			<line>tarello a guisa de bissa inseme cum le compagne sequente lei in-</line>
+			<line>tarello a guisa de bissa inseme cum l<del>i</del><add place="inline"><corr>e</corr></add> compagn<del>i</del><add place="inline"><corr>e</corr></add> sequente lei in-</line>
 			<line>torno a li homini como feceno dicti homini intorno ad epse, ritro-</line>
 			<line>vandose ne la fine de dicto saltarello a le loro prime poste del</line>
 			<line>principio de la danza.</line>
@@ -1096,7 +1096,7 @@
 			<line rend="indent">[I]Mprima va uno homo inanti, una dona driedo, poi uno</line>
 			<line>homo, poi una dona, e poi uno homo de driedo, façando tienpi</line>
 			<line>XI di saltarelo cun uno movimento nel partire, andagando tu-</line>
-			<line>ti a la fila per hordine largi l'uno da l'altro per spathio de pasi IIII</line>
+			<line>ti a la fila per hordine largi l'uno da l'altro per spat<del><corr>h</corr></del>io de pasi IIII</line>
 			<line>poi se afermano tutti.</line>
 			<line>Ora nota che lo homo che è de driedo e quello che è in meço fano</line>
 			<line>tuti dui inseme tienpi quatro e meço de basadança in soa mexura</line>
@@ -1135,8 +1135,8 @@
 			<line>iare quilli tienpi quatro di saltarello anteditti, se move</line>
 			<line>anchora lui, pigliando uno salto in lo luogo s[u]o e façando</line>
 			<line>tienpi quatro di saltarelo andagando a la posta del cunpagno</line>
-			<line>denanti, e dagando el primo boto equalle a la <del rend="strikethrough">so</del> man <del>drita </del>stanca</line>
-			<line>de la dona, e lo segundo boto equalle a la man drita de lo ho(mino)</line>
+			<line>denanti, e dagando el primo boto equalle a la <del rend="strikethrough">so</del> man <del><corr>drita</corr> </del>stanca</line>
+			<line>de la dona, e lo segundo boto equalle a la man drita de l<del>a</del><add>o</add> ho</line>
 		</surface>
 		<surface facs="#f032">
 			<line>de mezo, e lo terço botto equalle a la man sinistra de l'altra dona</line>
@@ -2689,14 +2689,14 @@
 				<p>cum lo pè drito, e scambiando posta. Poi se lassano per la mane</p>
 				<p>drita, pigliandose per la sinistra, fazando passi tri sempii comenzando</p>
 				<p>cum lo pè sinistro, ritrovandose a le poste loro, e dagando li homini</p>
-				<p>una mezavolta suso el pè sinistro, pigliando le done per mano; fine<note xml:id="note_f12r_b">Ms. fin (ou fiz)</note>.</p>
+				<p>una mezavolta suso el pè sinistro, pigliando le done per mano; fineMs. fin (ou fiz).</p>
 				<p><add place="margin">//</add>Nota che l’homo primo che era denanti nel principio de dicta dan-</p>
 				<p>za se ritrova drieto ne la fine, e quello che era de drieto se</p>
 				<p>ritrova in mezo, e quello de mezo si ritrova denanti: sì che l’è</p>
 				<p>necesso che dicta danza se façi volte tre vogliando che cada<corr>u</corr>no<note>Ms. cadanno</note></p>
 				<p>de li homini habino el dover suo.</p>
 				<p><lb/></p>
-				<p rend="indent">Pizochara in canto da sonare</p>
+				<p rend="indent(3)">Pizochara in canto da sonare</p>
 			</div>
 			<div>
 				<p><pb facs="#f028"/></p>
@@ -2716,9 +2716,9 @@
 				<p>a le poste sue afermandose, e tuttavolta che se moveno tutti dicti</p>
 				<p>homini e dicte done cum li dicti quatro tempi de piva passino de-</p>
 				<p>nanti via, cioè l’homo a la dona sua e la dona a lo suo homo.</p>
-				<p><add place="margin"><ref target="note_fb533a96e9f24e31921916fc286a238f">//</ref></add><note xml:id="note_fb533a96e9f24e31921916fc286a238f">Voir note danses précédentes pour ce signe</note>Or nota che tutti quatro li homini fano una riverentia cum lo pè</p>
+				<p><add place="margin">//</add>Or nota che tutti quatro li homini fano una riverentia cum lo pè</p>
 				<p>drito indrieto d’un tempo de bassadanza tocando la man drita dicti</p>
-				<p>homini a la sua dona; e movese li homini fazando tempi <corr evidence="conjecture"><ref target="note_bb9df6beccf34f768d9457dce825a88b">XIV</ref></corr><note xml:id="note_bb9df6beccf34f768d9457dce825a88b">Ms. XIII; Nous supposons qu'il s'agit d'une erreur de copie, en regard de la description qui suit: tion qui suit (1 represa+11 dopi+1 ripresa=14)</note> de</p>
+				<p>homini a la sua dona; e movese li homini fazando tempi <corr evidence="conjecture"><ref target="note_bb9df6beccf34f768d9457dce825a88b">XIV</ref></corr><note xml:id="note_bb9df6beccf34f768d9457dce825a88b">Ms. "XIII"; Nous supposons qu'il s'agit d'une erreur de copie, en regard de la description qui suit: (1 represa+11 dopi+1 ripresa=14)</note> de</p>
 				<p>bassadanza cioè una represa sul pè drito cum la dona sua a mano</p>
 				<p>lasandola poi e fazando passi sempii dui e dupii XI comenzando</p>
 			</div>
@@ -2732,10 +2732,10 @@
 				<p>trovandosse tutti dicti homini equali a la sua dona da la mane dri-</p>
 				<p>ta pigliando cadauno de loro la mane drita de la sua dona, e fazando</p>
 				<p>una represa inseme sul pè sinistro, e fermanse li homini.</p>
-				<p><add>//</add>Ancora nota che tutte quatro le done se moveno seguendo la pri-</p>
+				<p><add place="margin">//</add>Ancora nota che tutte quatro le done se moveno seguendo la pri-</p>
 				<p>ma per ordine e facendo tempi VIIII de saltarello, passando la</p>
 				<p>prima dona denantivia al primo homo, facendo dicti tempi de sal-</p>
-				<p>tarello a guisa de bissa inseme cum <ref target="note_ea8f71ad96714148b4e734411f2315e0">l</ref><corr><ref target="note_ea8f71ad96714148b4e734411f2315e0">e</ref></corr><ref target="note_ea8f71ad96714148b4e734411f2315e0"> compagn</ref><corr><ref target="note_ea8f71ad96714148b4e734411f2315e0">e</ref></corr><note xml:id="note_ea8f71ad96714148b4e734411f2315e0">Ms. Correction sur "li compagni" par surcharge des terminaisons</note>sequente lei in-</p>
+				<p>tarello a guisa de bissa inseme cum le<note xml:id="note_f029_0001">Ms. "li" corrigé en "le" par surcharge</note> compagne<note xml:id="note_ea8f71ad96714148b4e734411f2315e0">Ms. "compagni" terminaison corrigée en "e" par surcharge</note>sequente lei in-</p>
 				<p>torno a li homini como feceno dicti homini intorno ad epse, ritro-</p>
 				<p>vandose ne la fine de dicto saltarello a le loro prime poste del</p>
 				<p>principio de la danza.</p>
@@ -2758,15 +2758,21 @@
 			</div>
 			<div>
 				<p><pb facs="#f030"/></p>
-				<p>(C) Verçepe in canto a sonare</p>
-				<p/>
-				<p/>
-				<p/>
-				<p>Verçepe a balo, e va in homeni tri e doe done</p>
-				<p>[I]Mprima va uno homo inanti, una dona driedo, poi uno</p>
+				<p rend="indent(3)">(C)<note xml:id="note_f030_0001">Reprise de la main C</note> Verçepe in canto a sonare<handShift new="mainC"/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p rend="indent(2)">Verçepe a balo, e va in homeni tri e doe done</p>
+				<p rend="indent">[I]Mprima va uno homo inanti, una dona driedo, poi uno</p>
 				<p>homo, poi una dona, e poi uno homo de driedo, façando tienpi</p>
 				<p>XI di saltarelo cun uno movimento nel partire, andagando tu-</p>
-				<p>ti a la fila per hordine largi l'uno da l'altro per spathio de pasi IIII</p>
+				<p>ti a la fila per hordine largi l'uno da l'altro per spatio<note xml:id="note_f030_0002">Ms. "spathio", "h" souligné en pointillé mentionnant une orthographe fautive</note> de pasi IIII</p>
 				<p>poi se afermano tutti.</p>
 				<p>Ora nota che lo homo che è de driedo e quello che è in meço fano</p>
 				<p>tuti dui inseme tienpi quatro e meço de basadança in soa mexura</p>
@@ -2806,8 +2812,8 @@
 				<p>iare quilli tienpi quatro di saltarello anteditti, se move</p>
 				<p>anchora lui, pigliando uno salto in lo luogo s[u]o e façando</p>
 				<p>tienpi quatro di saltarelo andagando a la posta del cunpagno</p>
-				<p>denanti, e dagando el primo boto equalle a la man drita!!! stanca</p>
-				<p>de la dona, e lo segundo boto equalle a la man drita de lo ho(mino)</p>
+				<p>denanti, e dagando el primo boto equalle a la<note xml:id="note_f031_0001">Ms. suivi de "so" barré et souligné en pointillé</note> man stanca<note xml:id="note_f031_0002">Ms. remplace et corrige le terme précédent "drita" sur- et souligné en pointillé </note> </p>
+				<p>de la dona, e lo segundo boto equalle a la man drita de lo<note xml:id="note_f031_0003">Ms. corr. de la terminaison par surcharge transformant le "a" en "o" </note> ho<supplied>mino</supplied></p>
 			</div>
 			<div>
 				<p><pb facs="#f032"/></p>
