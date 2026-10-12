@@ -1217,7 +1217,7 @@
 				<graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f35/543,3249,3143,1610/500,/0/native.jpg"/>
 			</notatedMusic>
 			<line rend="indent">Belfiore a ballo e va in homini dui et una dona in mezo</line>
-			<line rend="indent">[I]Mprima fano tempi XII de piva tutti tri inseme in mexura</line>
+			<line rend="indent">Mprima fano tempi XII de piva tutti tri inseme in mexura</line>
 		</surface>
 		<surface facs="#f035">
 			<line>quadernaria e afermanse. E nota che lo primo homo fa uno dopio in-</line>
@@ -1304,8 +1304,8 @@
 			<line>mencando su lo pè sinistro. Poi se lasano per la mano, piglian-</line>
 			<line>dose per la man drita facendo pasi dui sienpi e uno dopio come-</line>
 			<line>ncando cun lo pede sinistro e finendo cun dito pè andagando d'in-</line>
-			<line>torno, lasendose per dita man, e pigliandose par la sinistra, facendo</line>
-			<line>una reprexa su lo pede drito, e pasi dui sienpi e uno dopio com-</line>
+			<line>torno, lasendose per dita man<metamark> / </metamark>e pigliandose par la sinistra <metamark>/ </metamark>facendo</line>
+			<line>una reprexa su lo pede drito, e <metamark>/</metamark> pasi dui sienpi e uno dopio com-</line>
 			<line>encando cun lo pede sinistro, andagando pure a l'intorno, e lasen-</line>
 			<line>dose per la man, facendo paso uno senpio, zoè lo homo a la via dr-</line>
 			<line>ita e la dona a la via de drieto facendo pure al cuntrario</line>
@@ -1320,7 +1320,7 @@
 			<line>movimento, l'homo gie risponde cun uno altro, andagandose pure</line>
 			<line>a l'incuntro cun uno dopio suxo el pè sinistro, ritrovandose apre-</line>
 			<line>so e volto cun volto, zoè la dona da lo lato drito de l'homo, facen-</line>
-			<line>do tuti dui in uno instante uno dopio su lo pè sinistro <add place="above">a l'intorno</add>, saltando</line>
+			<line>do tuti dui in uno in instante uno dopio su lo pè sinistro <add place="above">a l'intorno</add>, saltando</line>
 			<line>su lo drito facendo una posada, et è fine, ritrovandosse esser</line>
 			<line>dito homo e dona a lato a lato chome nel principio de la danza.</line>
 			<line><lb/></line>
@@ -2936,7 +2936,7 @@
 				<p>mano tutti tri essendo la dona inanti et è finita. Ma nota che</p>
 				<p>fazando più dicta danza, la dona va inanti, e l'homo che era de drieto</p>
 				<p>sta in mezo, e l'homo denanti riman de drieto.</p>
-				<p/>
+				<p><lb/></p>
 				<p rend="indent(4)">Anello in Canto</p>
 			</div>
 			<div>
@@ -2988,16 +2988,16 @@
 				<p>anti cun frapaminti tri de piedi suxo el pè sinistro et uno tempo</p>
 				<p>di saltarelo facando fine cun lo pè drito. Poi la dona sieque<note xml:id="note_f037_0007">Ms. "g" incomplet entre le premier "e" et "q", barré et pointé</note></p>
 				<p>dito homo cun quello medesmo, afermandosse apreso lui.</p>
-				<p>Ora nota che el sa a fare tienpi XII e mezo de basadanza</p>
+				<p>Ora nota che el sa a fare tienpi XII e mezo de basadanza zoè</p>
 			</div>
 			<div>
 				<p><pb facs="#f038"/></p>
-				<p>zoè lo homo e la dona se pigliano per man façando reprexe doe co-</p>
+				<p>che lo homo e la dona se pigliano per man façando reprexe doe co-</p>
 				<p>mencando su lo pè sinistro. Poi se lasano per la mano, piglian-</p>
 				<p>dose per la man drita facendo pasi dui sienpi e uno dopio come-</p>
 				<p>ncando cun lo pede sinistro e finendo cun dito pè andagando d'in-</p>
-				<p>torno, lasendose per dita man, e pigliandose par la sinistra, facendo</p>
-				<p>una reprexa su lo pede drito, e pasi dui sienpi e uno dopio com-</p>
+				<p>torno, lasendose per dita man, facendo une reprexa su lo pede drito</p>
+				<p><seg change="place"><corr>e pigliandosi per la sinistra</corr></seg><note xml:id="note_f038_0001">Ms. segment de phrase (de "e" à "sinistra") mis entre "/", signalant probablement une position erronée, et devant être inséré à l'endroit de l'autre "/", une ligne plus bas entre "e" et passi". Chor. D'un point de vue chorégraphique cette chorection se justifie, l'homme devant lacher la main de la dame pour pouvoir faire la reprise dans le même sens qu'elle </note>, pasi dui sienpi e uno dopio com-</p>
 				<p>encando cun lo pede sinistro, andagando pure a l'intorno, e lasen-</p>
 				<p>dose per la man, facendo paso uno senpio, zoè lo homo a la via dr-</p>
 				<p>ita e la dona a la via de drieto facendo pure al cuntrario</p>
@@ -3012,12 +3012,11 @@
 				<p>movimento, l'homo gie risponde cun uno altro, andagandose pure</p>
 				<p>a l'incuntro cun uno dopio suxo el pè sinistro, ritrovandose apre-</p>
 				<p>so e volto cun volto, zoè la dona da lo lato drito de l'homo, facen-</p>
-				<p>do tuti dui in uno instante uno dopio su lo pè sinistro a l'intorno, saltando</p>
+				<p>do tuti dui in uno instante uno dopio su lo pè sinistro a l'intorno<note xml:id="note_f038_0002">Ms. "a l'intorno, add. supralin. de la même main</note>, saltando</p>
 				<p>su lo drito facendo una posada, et è fine, ritrovandosse esser</p>
 				<p>dito homo e dona a lato a lato chome nel principio de la danza.</p>
-				<p/>
-				<p/>
-				<p>Iupiter in canto a sonare</p>
+				<p><lb/></p>
+				<p rend="indent(3)">Iupiter in canto a sonare</p>
 			</div>
 			<div>
 				<p><pb facs="#f039"/></p>
