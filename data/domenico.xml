@@ -1149,7 +1149,7 @@
 			<line>che è in mezo. E la dona de drie comenza cun lo pè si-</line>
 			<line>nistro ditti dupii e va dal canto de la man sinistra de lo homino</line>
 			<line>de mezo, e afermansse tute doe ditte done.</line>
-			<line><add place="margin">//</add>(A)A presso nota che lo primo homo et quello de drieto se move-</line>
+			<line><add place="margin">//</add>A presso nota che lo primo homo et quello de drieto se move-</line>
 			<line>no façando tempi tri de saltarello intorno che hanno apresso</line>
 			<line>ritornando dicti homini a le loro poste, comenzando l'homo de-</line>
 			<line>nanti cum lo pè drito, et andagando da la mano drita de la</line>
@@ -2827,22 +2827,22 @@
 				<p>che è in mezo. E la dona de drie comenza cun lo pè si-</p>
 				<p>nistro ditti dupii e va dal canto de la man sinistra de lo homino</p>
 				<p>de mezo, e afermansse tute doe ditte done.</p>
-				<p>//(A)A presso nota che lo primo homo et quello de drieto se move-</p>
+				<p><metamark place="margin">//</metamark>(A)<note xml:id="note_f032_0001">Ms.Reprise de la main A</note> A presso nota che lo primo homo et quello de drieto se move-<handShift new="mainA"/></p>
 				<p>no façando tempi tri de saltarello intorno che hanno apresso</p>
 				<p>ritornando dicti homini a le loro poste, comenzando l'homo de-</p>
 				<p>nanti cum lo pè drito, et andagando da la mano drita de la</p>
 				<p>dona, et l'homo de drieto comenza cum lo pè drito, andagando</p>
 				<p>dal canto sinistro de la dona, e fermase.</p>
-				<p>//Nota che le done tutte doe tornano a le poste sue scambiate cum</p>
+				<p><metamark place="margin">//</metamark>Nota che le done tutte doe tornano a le poste sue scambiate cum</p>
 				<p>li dupii tri sopra dicti, ma la dona disopra se ha a movere cum lo</p>
 				<p>pede drito, e quella de driedo cum lo sinistro per quello modo e</p>
 				<p>via che se movono l'altra volta como è dicto qui disopra. Afer-</p>
 				<p>mandose dicte done.</p>
-				<p>//Ancora nota che l'homo ch'è in mezo et ha posato, fa tempi tri</p>
+				<p><metamark place="margin">//</metamark>Ancora nota che l'homo ch'è in mezo et ha posato, fa tempi tri</p>
 				<p>de saltarello pigliando uno salteto nel primo comenzando dal</p>
 				<p>pè sinistro, andagando da o lado drito de la dona che lui ha denanti</p>
 				<p>e ritornando ne la posta sua.</p>
-				<p>//Or nota che tutti tri li homini fano uno movimento e le done</p>
+				<p><metamark place="margin">//</metamark>Or nota che tutti tri li homini fano uno movimento e le done</p>
 				<p>ge rispondeno como uno altro. Poi li homini dano una volta tonda</p>
 				<p>tutti tri in mexura de piva comenzando col pè sinistro donde</p>
 				<p>li consiste passi tri sempii fazando dicta volta ne la posta</p>
