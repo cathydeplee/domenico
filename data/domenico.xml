@@ -1405,7 +1405,7 @@
 			<line>a l'homo de drieto, e l'homo a lei per quello modo che feze cun l'altro</line>
 			<line>poi l'homo denanti e dicta dona dano una mezavolta ritornando</line>
 			<line>ne li luogi sui primi et è fine.</line>
-			<line rend="indent(3)">La fia guilmin in canto</line>
+			<line rend="indent(3)">La fia guilmin in canto<handShift new="mainC"/></line>
 			<notatedMusic facs="#f041-zone-1">
 				<graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f42/1274,2707,3330,2098/500,/0/native.jpg"/>
 			</notatedMusic>
@@ -1414,11 +1414,11 @@
 			<notatedMusic facs="#f042-zone-1">
 				<graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f43/542,1103,3026,571/500,/0/native.jpg"/>
 			</notatedMusic>
-			<line rend="indent">(A) Questa è una dança chiamata la fiaguielmina laquale foe</line>
+			<line rend="indent">Questa è una dança chiamata la fiaguielmina laquale foe<handShift new="mainA"/></line>
 			<line rend="indent">facta el canto suo in franza e suzo dicto canto messer domenego</line>
-			<line>gli fece <del>canti</del> <add place="above">balli </add>dui de liquali questo ne uno e va im persone quatro in</line>
+			<line>gli fece <del rend="strikethrough">canti</del> <add place="above">balli </add>dui de liquali questo ne uno e va im persone quatro in</line>
 			<line>chiope due, cioè uno homo et una dona.</line>
-			<line rend="indent">[I]Mprima fanno tempi dui a guisa de saltarello in mexura qua-</line>
+			<line rend="indent">Mprima fanno tempi dui a guisa de saltarello in mexura qua-</line>
 			<line>dernaria cioè l'homo cun la dona per mano, e fanno dicti dui tempi</line>
 			<line>cum passi quatro per tempo començando dal pè sinistro e dagando el</line>
 			<line>boto sul pè drito; poi fano dupii tri sul pè sinsitro e una riverentia.</line>
@@ -1469,7 +1469,7 @@
 			<line>l'altra, et cossi l'homo che è a la man drita de l'altro fano uno mo-</line>
 			<line>vimento et uno tempo di saltarello cioè dicta dona passa de-</line>
 			<line>nanti a l'altra equale a lei, e dicto homo ininstante passa de drieto</line>
-			<line>a l'altro homo, e fermase equale a lui, façendo fine per lui. Ma</line>
+			<line>a l'altro homo, e fermase equale a lui, façendo fine <unclear>per</unclear> lui. Ma</line>
 			<line>dicta dona se aferma tanto che l'altro homo che è de drieto fa uno</line>
 			<line>salto de mezo tempo de piva, e movesse lui et dicta dona</line>
 		</surface>
@@ -1484,7 +1484,7 @@
 			<line>e quilli che sono de drieto façino per quello modo che feno quilli li</line>
 			<line>andeno de drieto, como è descripto qui disopra. Fine.</line>
 			<line rend="indent">L'altra fia guielmina, e va in dui çioè homo uno con la dona.</line>
-			<line rend="indent">[I]Mprima se moveno de compagnia a mano fazando in me-</line>
+			<line rend="indent">Mprima se moveno de compagnia a mano fazando in me-</line>
 			<line>xura quadernaria passi tri sempii e due continentie comen-</line>
 			<line>çando col pè sinistro in lo primo tempo, e in lo segondo tri altri</line>
 			<line>passi sempii e due continentie comenzando dal pè drito lasci-</line>
@@ -1523,8 +1523,8 @@
 			<line>dona li responde como un'altro dopio simele a quello afirman-</line>
 			<line>dose et l'homo ge risponde como uno passo sempio comenzando</line>
 			<line>col pè sinistro retirandose apresso el drito e afermase. La dona</line>
-			<line>li risponde cum quello medemo <add place="above">afir</add>[mandose] poi l'homo se move fazando</line>
-			<line>una volta tonda in lo luogo suo in la quale li consiste passi tri</line>
+			<line>li risponde cum quello medemo<add place="top"> /</add><add place="above">afir</add> poi l'homo se move fazando</line>
+			<line>una volta tonda in lo luogo suo<add place="top">/</add> in la quale li consiste passi tri</line>
 			<line>sempii cum uno salteto començando dal pè sinistro afirmandose.</line>
 			<line>La dona li responde cum tempi tri de piva façando una volta</line>
 			<line>tonda alquanto grande ritornando nel luogo suo e fermase tanto</line>
@@ -1539,11 +1539,11 @@
 			<line>principio de la danza, e è fine.</line>
 		</surface>
 		<surface facs="#f046">
-			<line rend="indent(3)">(C) Mercatia in canto</line>
+			<line rend="indent(3)">Mercatia in canto<handShift new="mainC"/></line>
 			<notatedMusic facs="#f046-zone-1">
 				<graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f47/449,1136,3043,1581/500,/0/native.jpg"/>
 			</notatedMusic>
-			<line rend="indent(2)">Mercantia a ballo, (A) e va in quatro cioè homini tri e dona</line>
+			<line rend="indent(2)">Mercantia a ballo, e va in quatro cioè homini tri e dona<handShift new="mainA"/></line>
 			<line>una uno homo e una dona inanti per mano, e li dui homini ge vanno</line>
 			<line>driedo per mano, largi l'una chiopa da l'altra passi quatro, fazando</line>
 			<line>nel principio tutti inseme tempi XI de saltarello como uno</line>
@@ -3021,7 +3021,7 @@
 			<div>
 				<p><pb facs="#f039"/></p>
 				<p rend="indent(2)">Iupiter a balo, e va in homeni dui e una dona</p>
-				<p>(A)<note xml:id="note_f039_0001">Reprise de la main A pour le début de la danse</note> Imprima va uno de li homini inanti e la dona li va driedo<handShift new="mainA"></handShift></p>
+				<p>(A)<note xml:id="note_f039_0001">Reprise de la main A pour le début de la danse</note> Imprima va uno de li homini inanti e la dona li va driedo<handShift new="mainA"/></p>
 				<p>e l'altro homo va driedo a la dona, andagando largi l'uno da l'altro</p>
 				<p>a drito filo passi tri.</p>
 				<p>//Or nota che tutti inseme a la fila fanno tempi tri de moto (saltarello)<note xml:id="note_f039_0002">Ms. "saltarello" encadré en pointillés.  Il s'agit pour Pd probablement du "moto quadernario" décrit dans la partie théorique correspondant à la description du mouvement dans la suite de la phrase. A noter dans V et Pg: remplacé par saltarello todescho.</note> in</p>
@@ -3095,21 +3095,22 @@
 				<p>poi l'homo denanti e dicta dona dano una mezavolta ritornando</p>
 				<p>ne li luogi sui primi et è fine.</p>
 				<p/>
-				<p rend="indent(3)">La fia guilmin in canto</p>
+				<p rend="indent(3)">(C)<note xml:id="note_f041_0003">La main C reprend pour le titre et la musique</note> La fia guilmin in canto<handShift new="mainC"/></p>
 			</div>
 			<div>
 				<p><pb facs="#f042"/></p>
-				<p>(A) Questa è una dança chiamata la fiaguielmina laquale foe</p>
+				<p>(A)<note xml:id="note_f042_0001">Reprise de la main A pour l'entièreté de la danse et la deuxième version qui suit</note> Questa è una dança chiamata la fiaguielmina laquale foe<handShift new="mainA"/></p>
 				<p>facta el canto suo in Franza, e suzo dicto canto messer Domenego</p>
-				<p>gli fece (canti) balli dui de liquali questo ne uno e va im persone quatro in</p>
+				<p>gli fece balli<note xml:id="note_f042_0002">Ms. précédé de "canti" barré</note> dui de liquali questo ne uno e va im persone quatro in</p>
 				<p>chiope due, cioè uno homo et una dona.</p>
-				<p>[I]Mprima fanno tempi dui a guisa de saltarello in mexura qua-</p>
+				<p><supplied>I</supplied>mprima<note xml:id="note_f042_0003">Initiale d'attente "I" omise</note> fanno tempi dui a guisa de saltarello in mexura qua-</p>
 				<p>dernaria cioè l'homo cun la dona per mano, e fanno dicti dui tempi</p>
-				<p>cum passi quatro per tempo començando dal pè sinistro e dagando el</p>
+				<p>cum passi quatro per tempo<note xml:id="note_f042_0005">Var: V="tempi di quaternaria doppia"
+</note> començando dal pè sinistro e dagando el</p>
 				<p>boto sul pè drito; poi fano dupii tri sul pè sinsitro e una riverentia.</p>
 				<p>E fano questa parte volte due stangando large l'una chiopa da</p>
 				<p>l'altra passi quatro infino al fine de dicta danza.</p>
-				<p>//Or nota che fanno tutti in mexura de bassadanza uno sempio et</p>
+				<p>//<note xml:id="note_f042_0004">Voir note f.8r l.12</note>Or nota che fanno tutti in mexura de bassadanza uno sempio et</p>
 				<p>uno dopio comenzando dal pè sinistro, afirmandose tutti per spatio</p>
 				<p>de mezo tempo.</p>
 				<p>Apresso nota che qui se fano tempi octo de bassadanza cioè tutti</p>
@@ -3155,7 +3156,7 @@
 				<p>l'altra, et cossi l'homo che è a la man drita de l'altro fano uno mo-</p>
 				<p>vimento et uno tempo di saltarello cioè dicta dona passa de-</p>
 				<p>nanti a l'altra equale a lei, e dicto homo ininstante passa de drieto</p>
-				<p>a l'altro homo, e fermase equale a lui, façendo fine per lui. Ma</p>
+				<p>a l'altro homo, e fermase equale a lui, façendo fine per<note xml:id="note_f043_0001">Ms. "p" surmonté d'un trait horizontal, abréviation généralement utilisée pour "per" dans le ms. Procopio: "pur". Le "per" nous semble en outre justifé au niveau du sens:  "pour" l'homme en question (per lui), c'est la fin de la danse</note>. </p>
 				<p>dicta dona se aferma tanto che l'altro homo che è de drieto fa uno</p>
 				<p>salto de mezo tempo de piva, e movesse lui et dicta dona</p>
 			</div>
@@ -3170,8 +3171,8 @@
 				<p>façino per quello modo che feceno quilli che li andono de prima</p>
 				<p>e quilli che sono de drieto façino per quello modo che feno quilli li</p>
 				<p>andeno de drieto, como è descripto qui disopra. Fine.</p>
-				<p>L'altra fia guielmina, e va in dui, çioè homo uno con la dona.</p>
-				<p>[I]Mprima se moveno de compagnia a mano fazando in me-</p>
+				<p rend="indent">L'altra fia guielmina, e va in dui, çioè homo uno con la dona.</p>
+				<p rend="indent"><supplied>I</supplied>mprima<note xml:id="note_f044_0001">Ms. Initiale d'attente "I" omise</note> se moveno de compagnia a mano fazando in me-</p>
 				<p>xura quadernaria passi tri sempii e due continentie comen-</p>
 				<p>çando col pè sinistro in lo primo tempo, e in lo segondo tri altri</p>
 				<p>passi sempii e due continentie, comenzando dal pè drito lasci-</p>
@@ -3211,8 +3212,8 @@
 				<p>dona li responde como un'altro dopio simele a quello afirman-</p>
 				<p>dose et l'homo ge risponde como uno passo sempio comenzando</p>
 				<p>col pè sinistro retirandose apresso el drito e afermase. La dona</p>
-				<p>li risponde cum quello medemo, !afir[mandose]! poi l'homo se move fazando</p>
-				<p>una volta tonda in lo luogo suo in la quale li consiste passi tri</p>
+				<p>li risponde cum quello medemo<note xml:id="note_f045_0001">Ms. Présence d'un signe d'insertion sous forme de petite flèche oblique au dessus du second "m". Il n'est pas clair de savoir ce qu'il faut effectivement insérer. Dans l'expectative nous transcrivons tel quel</note>, afir<supplied>mandose</supplied><note xml:id="note_f045_0002">Ms. "afir." add supralinéaire.</note> poi l'homo se move fazando</p>
+				<p>una volta tonda in lo luogo suo<note xml:id="note_f045_0003">Ms. id. note précédente.</note> in la quale li consiste passi tri</p>
 				<p>sempii cum uno salteto començando dal pè sinistro, afirmandose.</p>
 				<p>La dona li responde cum tempi tri de piva façando una volta</p>
 				<p>tonda alquanto grande ritornando nel luogo suo e fermase tanto</p>
@@ -3226,10 +3227,10 @@
 				<p>drita de l'homo trovandose tutti dui equali a li logi soi como nel</p>
 				<p>principio de la danza, e è fine.</p>
 				<p><pb facs="#f046"/></p>
-				<p>(C) Mercatia in canto</p>
+				<p>(C)<note xml:id="note_f046_0001">Titre possiblement de la main C</note> Mercatia in canto<handShift new="mainC"/></p>
 				<p/>
 				<p/>
-				<p>Mercantia a ballo, (A) e va in quatro cioè homini tri e dona</p>
+				<p>Mercantia a ballo, (A)<note xml:id="note_f046_0002">Reprise de la main A jusqu'au 2/3 du f. suivant</note> e va in quatro cioè homini tri e dona<handShift new="mainA"/></p>
 				<p>una uno homo e una dona inanti per mano, e li dui homini ge vanno</p>
 				<p>driedo per mano, largi l'una chiopa da l'altra passi quatro, fazando</p>
 				<p>nel principio tutti inseme tempi XI de saltarello como uno</p>
