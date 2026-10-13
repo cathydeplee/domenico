@@ -1539,7 +1539,7 @@
 			<line>principio de la danza, e è fine.</line>
 		</surface>
 		<surface facs="#f046">
-			<line rend="indent(3)">Mercatia in canto<handShift new="mainC"/></line>
+			<line rend="indent(3)">Merc<del>a</del>tia in canto<handShift new="mainC"/></line>
 			<notatedMusic facs="#f046-zone-1">
 				<graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f47/449,1136,3043,1581/500,/0/native.jpg"/>
 			</notatedMusic>
@@ -1700,7 +1700,7 @@
 			<line>fuori de li dicti quatro homini cum tempi quatro de piva presti</line>
 			<line>per paura che li dicti quatro homini non lo afermo et è fine.</line>
 			<line><lb/></line>
-			<line rend="indent(2)">(C)Tesara in canto a sonare<handShift new="mainC"/></line>
+			<line rend="indent(2)">Tesara in canto a sonare<handShift new="mainC"/></line>
 			<notatedMusic facs="#f051-zone-1">
 				<graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f52/1407,4324,3009,1007/500,/0/native.jpg"/>
 			</notatedMusic>
@@ -3227,9 +3227,12 @@
 				<p>drita de l'homo trovandose tutti dui equali a li logi soi como nel</p>
 				<p>principio de la danza, e è fine.</p>
 				<p><pb facs="#f046"/></p>
-				<p>(C)<note xml:id="note_f046_0001">Titre possiblement de la main C</note> Mercatia in canto<handShift new="mainC"/></p>
-				<p/>
-				<p/>
+				<p rend="indent(2)">(C)<note xml:id="note_f046_0001">Titre possiblement de la main C</note> Merca<supplied>n</supplied>tia<note xml:id="note_f046_0006">Ms. "Mercatia", point au dessus du 1e "a" signalant une faute. Nous supléons le "n" sur base du titre repris ci-après et dans les autres ms.</note> in canto<handShift new="mainC"/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
 				<p>Mercantia a ballo, (A)<note xml:id="note_f046_0002">Reprise de la main A jusqu'au 2/3 du f. suivant</note> e va in quatro cioè homini tri e dona<handShift new="mainA"/></p>
 				<p>una uno homo e una dona inanti per mano, e li dui homini ge vanno</p>
 				<p>driedo per mano, largi l'una chiopa da l'altra passi quatro, fazando</p>
@@ -3346,12 +3349,12 @@
 				<p>biato posta, e lo terzo tempo se trovino tutti dui drieto a le</p>
 				<p>spale de la dona essendo equali, e uno de loro cioè quello che</p>
 				<p>se ritrova a mano sinistra, cigni cum la mano drita a lo com-</p>
-				<p>pagno che digi coele a la dona, (C) e l'altro cunpagno cigni a lui</p>
+				<p>pagno che digi coele a la dona, (C)<note xml:id="note_f050_0002">Reprise de la main C sur 3 lignes et demi</note> e l'altro cunpagno cigni a lui<handShift new="mainC"/></p>
 				<p>cun la man stanca voiando che el faci quello che non a vo-</p>
 				<p>luto fare lui.</p>
 				<p>Nota che la dona senttandose el movimento de drie de di-</p>
 				<p>tti homeni, dà una meça volta cun una ciera tuta tur-</p>
-				<p>bata , voltandose li diti dui homeni (A) in quello instante che</p>
+				<p>bata , voltandose li diti dui homeni (A)<note xml:id="note_f050_0003">Reprise de la main A jusqu'à la fin de la danse</note> in quello instante che<handShift new="mainA"/></p>
 				<p>se volta la dona, tornando in le poste loro contrarie cum uno salteto</p>
 				<p>e uno tempo de saltarello comenzando dal pè drito cum meza</p>
 				<p>volta et una possa afirmandose. Poi li altri dui homini fanno</p>
