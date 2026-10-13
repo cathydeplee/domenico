@@ -1710,11 +1710,11 @@
 				<graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f53/585,860,3253,3353/500,/0/native.jpg"/>
 			</notatedMusic>
 			<line rend="indent">Tesara a ballo e va in homini siei e done quatro in chopie</line>
-			<line>quatro, çioè uno homo et una dona per man e li altri dui ho-</line>
-			<line>mini ne va uno in anti a dite chopie e l'altro de drie an-</line>
-			<line>dagando large l'una chopia de l'altra pasi tri boni e portan-</line>
-			<line>do chaduna di le dite chopie panexielli dui in mano.</line>
-			<line>[I]Mprima fano tuti in cunpagnia tienpi oto di saltarelo a la</line>
+			<line rend="indent">quatro, çioè uno homo et una dona per man e li altri dui ho-</line>
+			<line rend="indent">mini ne va uno in anti a dite chopie e l'altro de drie an-</line>
+			<line rend="indent">dagando large l'una chopia de l'altra pasi tri boni e portan-</line>
+			<line rend="indent">do chaduna di le dite chopie panexielli dui in mano.</line>
+			<line rend="indent">Mprima fano tuti in cunpagnia tienpi oto di saltarelo a la</line>
 			<line>fila per ordine afirmandose, poi le dite chopie quatro se aslar-</line>
 		</surface>
 		<surface facs="#f053">
@@ -1731,15 +1731,15 @@
 			<line>lo traverso afirmandose, façendo li homini moviminti quatro</line>
 			<line>poi le done ge rispundeno cun uno altro; e fase questa</line>
 			<line>parte soprascrita volte doe.</line>
-			<line>Apreso nota che le tre chopie de prima cun l'homo che è</line>
-			<line>(D)dinanti stano ferme, et l'homo che è de detro piglia la dredana</line>
+			<line>Apreso nota che le tre chopie de prima cun l'homo che è<handShift new="mainD"/></line>
+			<line>dinanti stano ferme, et l'homo che è de detro piglia la dredana</line>
 			<line>copia andaghando in mezo, e pigliando el panexello da cadauna</line>
 			<line>man façando tempi 12 de piva tucti tri in istante per questo modo</line>
 			<line>cioè che dicto homo va per mezo dicte copie, e la dona va disopra</line>
-			<line>da l'altre done, e l'altro homo che è insieme va disopra da gli altrii ho-</line>
+			<line>da l'altre done, e l'altro hom<unclear>o</unclear> che è insieme va disopra da gli altrii ho-</line>
 			<line>mini, ma nota che per questo modo se fa dicta piva, cioè che ad ogni</line>
 			<line>tre tempi gli consiste dopio uno sul pe senestro tirando el dritto apre-</line>
-			<line>so el senestro con una posa et fazando una represa sul pè dritto</line>
+			<line>so el senestro con una posa et fazand<seg><sic>a</sic></seg> una represa sul pè dritto</line>
 			<line>retrovandossi dicti dui homini et dona inanti a le dicte copie</line>
 			<line>per spacio de passi tre, et fermassi lo dicto homo e dona che erano</line>
 			<line>insieme con el dicto homo che gli condusse; e quello homo che gli ha con-</line>
@@ -1748,7 +1748,7 @@
 			<line>piva, remanendo l'homo che ha menata la dicta copia in la posta</line>
 			<line>del compagno suo dinançi, et fermandossi, et lo dicto so compagno</line>
 			<line>fuge per mezo dicte copie con tempi tre de piva arivando in la posta</line>
-			<line>de lo compagno che è remasto in la sua. Ricordandoti che arivato</line>
+			<line>de l<seg><sic>a</sic></seg> compagno che è remasto in la sua. Ricordandoti che arivato</line>
 		</surface>
 		<surface facs="#f054">
 			<line>che sia di detro, piglia la derdrana copia fazando quello medesimo</line>
@@ -1770,13 +1770,13 @@
 			<line>fuge con tempi dui di saltarello per mezo tucti le copie anda-</line>
 			<line>gando ne la posta sua di detro, et fermandosse. Ancora nota</line>
 			<line>che se fano tempi 16 di piva cioè la prima copia et quella</line>
-			<line>di detro (et quella di detto) se moveno in instante pigliando lo</line>
+			<line>di detro <seg><sic>et quella di detto</sic></seg> se moveno in instante pigliando lo</line>
 			<line>panoxello con la mano dritta, et scambiando posta con uno do-</line>
 			<line>pio sul pede dritto con meza volta, et fermandossi dicte due co-</line>
 			<line>pie ne gli loro loghi. Poi l'homo dinançi et quello di detro passa</line>
 			<line>di sotto a gli panexelli con uno dopio suso el pè senestro fazan-</line>
 			<line>do una posa su lo pè dritto, e fermandossi, intendendo che l'ho-</line>
-			<line>mo primo dinanti passa di sotto a la [c]opia che gli è apresso et</line>
+			<line>mo primo dinanti passa di sotto a la <unclear>c</unclear>opia che gli è apresso et</line>
 			<line>quello di detro passa di sotto a quella che gli è apresso, poi le</line>
 			<line>due copie di mezo se scambiano per quello modo che feno l'altre</line>
 			<line>due passando li dicti dui homini di sotto via a gli panexelli</line>
@@ -1800,15 +1800,15 @@
 			<line>tempo di piva. Ora nota che qui se fa tempi 16 di saltarello</line>
 			<line>movandossi in instanti la dredana copia e l'omo dinançi et quello di</line>
 			<line>detro, facendo la dona de la dicta copia tempi quatro di sal-</line>
-			<line>tarello, andaghando a guisa de bissa per mezo l'altre done, e</line>
+			<line>tarello, andaghando a guisa de bissa <unclear>per</unclear> mezo l'altre done, e</line>
 			<line>dagando el primo botto al lato de la man dritta de la dona</line>
 			<line>che gli è inançi, e lo secondo a lo lato de la man stancha de l'altra</line>
 			<line>dona, et lo terço allo lato dritto de l'altra dona, et lo quarto</line>
 			<line>dinanti a le dicte done, affirmandosse; et lo compagno de la</line>
 			<line>dicta dona fa in instante dicti tempi quatro di saltarello per mezo gli</line>
 			<line>homini per lo simile modo ha facto la dona sua fermandosse, et</line>
-			<line>l'homo ch'è detro fa in instanti dicti tempi quatro di saltarello, el</line>
-			<line>primo botto a lo lato de la man senest&lt;r&gt;a della dona che gli è inançi</line>
+			<line>l'homo ch'è detro fa in instanti <del rend="strikethrough">dicti</del> tempi quatro di saltarello, el</line>
+			<line>primo botto a lo lato <unclear>da</unclear> la man senest<add place="top">r</add>a della dona che gli è inançi</line>
 			<line>et lo secondo al lato de la man dritta de l'altra dona, et lo terço</line>
 			<line>a lo lato de la man stancha de l'altra dona, et lo quarto dinan-</line>
 			<line>ti a la prima copia; et l'altro homo dinanti fa dicti tempi qua-</line>
@@ -1822,13 +1822,13 @@
 			<line>dinanti et quello di detro, infino che sono finiti dicti tempi 16</line>
 			<line>di saltarello per lo dicto modo et ordine et cusì lavora l'homo</line>
 			<line>et la dona che si trova de detro per lo dicto modo et ordine che ha</line>
-			<line>facto la dicta copia inanti; et façando cusì troverai che ciascha-</line>
+			<line>facto la dicta copia inanti; et fa<seg><sic>c</sic></seg>ando cusì troverai che ciascha-</line>
 			<line>duna copia se sera movesta la sua volta staghandone sempre</line>
 			<line>ferme tre, et troverassi ciaschaduno a le loro poste in capo de</line>
 			<line>gli dicti tempi 16 di saltarello, facendo tucti gli omini in instanti</line>
 			<line>uno movimento, respondendogli le done con uno altro, poi tucti</line>
-			<line>gli omini dano meza volta sul canto sinestro, et le done</line>
-			<line>gli respondeno con meza altra sul canto senestro, et è fine.</line>
+			<line>gli omini dano <del>una</del><add>meza</add> volta <del rend="strikethrough">tonda</del> sul canto sinestro, et le done</line>
+			<line>gli respondeno con <del>una</del><add>meza</add> altra sul canto senestro, et è fine.</line>
 			<line><lb/></line>
 			<line><lb/></line>
 			<line rend="indent">Damnes in tri, cioè dui homini et una dona in mezo. In pri-</line>
@@ -3396,12 +3396,17 @@
 			</div>
 			<div>
 				<p><pb facs="#f052"/></p>
-				<p rend="indent"><note xml:id="note_f052_0001">Contrairement au reste du texte globalement respectueux de la justification, l'alignement par rapport à la marge de gauche n'est pas respectée sur les quatre lignes ci-après. Nous ne reproduisons pas cette anomalie.</note>Tesara a ballo, e va in homini siei e done quatro in chopie</p>
-				<p>quatro, çioè uno homo et una dona per man e li altri dui ho-</p>
-				<p>mini ne va uno in anti a dite chopie e l'altro de drie an-</p>
-				<p>dagando large l'una chopia de l'altra pasi tri boni e portan-</p>
-				<p>do chaduna di le dite chopie panexielli dui in mano.</p>
-				<p>[I]Mprima fano tuti in cunpagnia tienpi oto di saltarelo a la</p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p rend="indent">Tesara a ballo, e va in homini siei e done quatro in chopie</p>
+				<p rend="insert">quatro, çioè uno homo et una dona per man e li altri dui ho-</p>
+				<p rend="indent">mini ne va uno in anti a dite chopie e l'altro de drie an-</p>
+				<p rend="indent">dagando large l'una chopia de l'altra pasi tri boni e portan-</p>
+				<p rend="indent">do chaduna di le dite chopie panexielli dui in mano.</p>
+				<p rend="indent"><supplied>I</supplied>mprima<note xml:id="note_f052_0001">Initiale d'attente omise</note> fano tuti in cunpagnia tienpi oto di saltarelo a la</p>
 				<p>fila per ordine afirmandose, poi le dite chopie quatro se aslar-</p>
 			</div>
 			<div>
@@ -3419,12 +3424,12 @@
 				<p>lo traverso afirmandose, façendo li homini moviminti quatro</p>
 				<p>poi le done ge rispundeno cun uno altro; e fase questa</p>
 				<p>parte soprascrita volte doe.</p>
-				<p>Apreso nota che le tre chopie de prima cun l'homo che è</p>
-				<p>(D)dinanti stano ferme, et l'homo che è de detro piglia la dredana</p>
+				<p>Apreso nota che le tre chopie de prima cun l'homo (D)<note xml:id="note_f053_0002">Intervention d'une quatrième main (D), qui écrit cette fois en cursive contrairement aux 3 autres qui adoptent une écriture humanistique</note> che è<handShift new="mainD"/></p>
+				<p>dinanti stano ferme, et l'homo che è de detro piglia la dredana</p>
 				<p>copia andaghando in mezo, e pigliando el panexello da cadauna</p>
 				<p>man façando tempi 12 de piva tucti tri in istante per questo modo</p>
 				<p>cioè che dicto homo va per mezo dicte copie, e la dona va disopra</p>
-				<p>da l'altre done, e l'altro homo che è insieme va disopra da gli altrii ho-</p>
+				<p>da l'altre done, e l'altro homo<note xml:id="note_f053_0001">Ms. Terminaison "o" d'une encre plus foncée (chargée). Etant donné le nombre de ces surcharges du "o", surtout dans cette page, il est possible que ce soit la manière de tracer les "o" propre à cette main D, à moins qu'elle omette systématiquement les fins de mots et les écrive ensuite. Dans tous les cas, nous ne marquons pas les suivantes </note> che è insieme va disopra da gli altrii ho-</p>
 				<p>mini, ma nota che per questo modo se fa dicta piva, cioè che ad ogni</p>
 				<p>tre tempi gli consiste dopio uno sul pe senestro tirando el dritto apre-</p>
 				<p>so el senestro con una posa et fazando una represa sul pè dritto</p>
@@ -3436,7 +3441,7 @@
 				<p>piva, remanendo l'homo che ha menata la dicta copia in la posta</p>
 				<p>del compagno suo dinançi, et fermandossi, et lo dicto so compagno</p>
 				<p>fuge per mezo dicte copie con tempi tre de piva arivando in la posta</p>
-				<p>de lo compagno che è remasto in la sua. Ricordandoti che arivato</p>
+				<p>de lo<note xml:id="note_f053_0003">Ms. "la"</note> compagno che è remasto in la sua. Ricordandoti che arivato</p>
 			</div>
 			<div>
 				<p><pb facs="#f054"/></p>
@@ -3459,13 +3464,13 @@
 				<p>fuge con tempi dui di saltarello per mezo tucti le copie anda-</p>
 				<p>gando ne la posta sua di detro, et fermandosse. Ancora nota</p>
 				<p>che se fano tempi 16 di piva cioè la prima copia et quella</p>
-				<p>di detro (et quella di detto) se moveno in instante pigliando lo</p>
+				<p>di detro<note xml:id="note_f054_0001">Ms. "et quella di detro" répété par erreur</note> se moveno in instante pigliando lo</p>
 				<p>panoxello con la mano dritta, et scambiando posta con uno do-</p>
 				<p>pio sul pede dritto con meza volta, et fermandossi dicte due co-</p>
 				<p>pie ne gli loro loghi. Poi l'homo dinançi et quello di detro passa</p>
 				<p>di sotto a gli panexelli con uno dopio suso el pè senestro fazan-</p>
 				<p>do una posa su lo pè dritto, e fermandossi, intendendo che l'ho-</p>
-				<p>mo primo dinanti passa di sotto a la [c]opia che gli è apresso et</p>
+				<p>mo primo dinanti passa di sotto a la copia<note xml:id="note_f054_0002">Ms. La première lettre du mot est recouverte d'une tache d'encre. Nous supposons un "c"</note> che gli è apresso et</p>
 				<p>quello di detro passa di sotto a quella che gli è apresso, poi le</p>
 				<p>due copie di mezo se scambiano per quello modo che feno l'altre</p>
 				<p>due passando li dicti dui homini di sotto via a gli panexelli</p>
@@ -3490,15 +3495,15 @@
 				<p>tempo di piva. Ora nota che qui se fa tempi 16 di saltarello</p>
 				<p>movandossi in instanti la dredana copia e l'omo dinançi et quello di</p>
 				<p>detro, facendo la dona de la dicta copia tempi quatro di sal-</p>
-				<p>tarello, andaghando a guisa de bissa per mezo l'altre done, e</p>
+				<p>tarello, andaghando a guisa de bissa <supplied>per</supplied><note xml:id="note_f055_0004">Ms. Présence d'une tache d'encre</note> mezo l'altre done, e</p>
 				<p>dagando el primo botto al lato de la man dritta de la dona</p>
 				<p>che gli è inançi, e lo secondo a lo lato de la man stancha de l'altra</p>
 				<p>dona, et lo terço allo lato dritto de l'altra dona, et lo quarto</p>
 				<p>dinanti a le dicte done, affirmandosse; et lo compagno de la</p>
 				<p>dicta dona fa in instante dicti tempi quatro di saltarello per mezo gli</p>
 				<p>homini per lo simile modo ha facto la dona sua fermandosse, et</p>
-				<p>l'homo ch'è detro fa in instanti dicti tempi quatro di saltarello, el</p>
-				<p>primo botto a lo lato de la man senest&lt;r&gt;a della dona che gli è inançi</p>
+				<p>l'homo ch'è detro fa in instanti tempi<note xml:id="note_f055_0001">Ms. Précédé de "dicti" barré</note> quatro di saltarello, el</p>
+				<p>primo botto a lo lato <supplied>da</supplied> <note xml:id="note_f055_0003">Ms. Présence d'une tache d'encre</note>la man senestra<note xml:id="note_f055_0002">Ms. "r" add. supralinéaire</note> della dona che gli è inançi</p>
 				<p>et lo secondo al lato de la man dritta de l'altra dona, et lo terço</p>
 				<p>a lo lato de la man stancha de l'altra dona, et lo quarto dinan-</p>
 				<p>ti a la prima copia; et l'altro homo dinanti fa dicti tempi qua-</p>
@@ -3513,16 +3518,16 @@
 				<p>dinanti et quello di detro, infino che sono finiti dicti tempi 16</p>
 				<p>di saltarello per lo dicto modo et ordine et cusì lavora l'homo</p>
 				<p>et la dona che si trova de detro per lo dicto modo et ordine che ha</p>
-				<p>facto la dicta copia inanti; et façando cusì troverai che ciascha-</p>
+				<p>facto la dicta copia inanti; et façando<note xml:id="note_f056_0001">Ms. cédille manquante</note> cusì troverai che ciascha-</p>
 				<p>duna copia se sera movesta la sua volta staghandone sempre</p>
 				<p>ferme tre, et troverassi ciaschaduno a le loro poste in capo de</p>
 				<p>gli dicti tempi 16 di saltarello, facendo tucti gli omini in instanti</p>
 				<p>uno movimento, respondendogli le done con uno altro, poi tucti</p>
-				<p>gli omini dano meza volta sul canto sinestro, et le done</p>
-				<p>gli respondeno con meza altra sul canto senestro, et è fine.</p>
+				<p>gli omini dano meza<note xml:id="note_f056_0002">Ms. add. corrective sur "una" effacé, id. ligne suivante</note> volta<note xml:id="note_f056_0003">Ms. suivi de "tonda" barré</note> sul canto sinestro, et le done</p>
+				<p>gli respondeno con meza<note xml:id="note_f056_0004">Ms. add. en correction sur "una effacé, comme à la ligne précédente</note> altra sul canto senestro, et è fine.</p>
 				<p/>
 				<p>"Poi la dona sola se parte façando dui passi</p>
-				<p>sempi et quatro doppi comançando dal senestro a guisa de S, façando tucti tre in instante due represe, una sul pè senestro, l'altra sul dritto</p>
+				<p>sempi et quatro doppi comançando dal senestro a guisa de S, façando tucti tre in instante due represe, una sul pè senestro, l'altra sul dritto" ??????</p>
 				<p/>
 				<p>Damnes in tri, cioè dui homini et una dona in mezo. In pri-</p>
 				<p>ma fano doe continentie in instanti, cominciando col pè</p>
