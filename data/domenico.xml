@@ -1831,8 +1831,8 @@
 			<line>gli respondeno con <del>una</del><add>meza</add> altra sul canto senestro, et è fine.</line>
 			<line><lb/></line>
 			<line><lb/></line>
-			<line rend="indent">Damnes in tri, cioè dui homini et una dona in mezo. In pri-</line>
-			<line rend="indent">ma fano doe continentie in instanti, cominciando col pè</line>
+			<line rend="indent"><add place="margin">d</add>Amnes in tri, cioè dui homini et una dona in mezo. In pri-</line>
+			<line rend="indent">ma fano doe co<unclear>n</unclear>tinentie in instanti, cominciando col pè</line>
 			<line>senestro. Poi gli dui homini se cambiano di posta con dui pas-</line>
 			<line>si sempi et una represa cominciando col pè senestro, et facen-</line>
 			<line>do fine dal dritto, andagando quello da la man senestra de</line>
@@ -1840,11 +1840,11 @@
 			<line>detro retrovandossi equali, poi retornano alle loro poste con</line>
 			<line>dui passi sempi et una represa començando col pè drito, et fa-</line>
 			<line>çando fine dal senestro, poi in instante la dona insieme con</line>
-			<line>costoro fa una volta tonda onde consiste dui passi sempi</line>
-			<line>et una represa començando col pè dritto, et façando fine dal</line>
-			<line>senestro in la sua posta medesima. Poi in instante fano tucti tri</line>
-			<line>una reverentia sul pè senestro <hi rend="italic">V</hi> poi se partono tucti tre <metamark target="#add-f056-right">&lt;</metamark><add place="margin right" xml:id="add-f056-right">Poi la dona<lb/>sola se parte<lb/> façando dui<lb/>passi sempi et<lb/>quatro doppi com-<lb/>ançando dal senestro<lb/>a guisa de S<lb/>façando tucti tre<lb/>in instante due re<lb/>prese una sul pè se-<lb/>nestro, l'altra sul<lb/>dritto</add></line>
-			<line>in instante cioè façando la dona dui passi sempi et dui doppi co-</line>
+			<line>costoro fa<del rend="strikethrough">n</del> una volta tonda onde <unclear>c</unclear>onsiste dui passi sempi</line>
+			<line>et una represa començando col pè dritto, et faç<seg><sic>a</sic></seg>ndo fine dal</line>
+			<line>senestro in la sua posta medesima <hi rend="italic"><add><del rend="strikethrough">V</del></add></hi>. Poi in instante fano tucti tri</line>
+			<line>una reverentia sul pè senestro <hi rend="italic"><add>V</add></hi> <add>°</add> poi se partono tucti tre <metamark target="#add-f056-right">&lt;</metamark><add place="margin right" xml:id="add-f056-right"><hi rend="italic">°</hi> Poi la dona<lb/>sola se parte<lb/> façando dui<lb/>passi sempi et<lb/>quatro doppi com-<lb/>ançando dal senestro<lb/>a guisa de S<lb/>façando tucti tre<lb/>in instante due re<lb/>prese una sul pè se-<lb/>nestro, l'altra sul<lb/>dritto</add></line>
+			<line>in instante cioè façando la dona dui passi <add place="top">sempi </add>et dui doppi co-</line>
 			<line>menzando col pè senestro, et façando fine dal dritto</line>
 		</surface>
 		<surface facs="#f057">
@@ -1865,13 +1865,13 @@
 			<line>tucti tri doe represe, una sul senestro, et l'altra sul dritto retro-</line>
 			<line>vandossi l'omo disopra di sotto, et l'altro di sotto disopra da la</line>
 			<line>dona. Poi fano due continentie tucti tre in instanti andando l'uno</line>
-			<line>detro a l'altro, et separati con quatro tempi di saltarello comenzan-</line>
+			<line>detro a l'altro, et <unclear>sepati</unclear> con quatro tem<unclear>p</unclear>i di saltarello comenzan-</line>
 			<line>do col senestro et façando fine dal dritto con uno doppio sul</line>
 			<line>pè senestro façando questo, et retornando a le sue poste di prima,</line>
 			<line>poi fano una meza volta sul lato dritto nel vodo de la bassa-</line>
-			<line>dança façando dui passi sempi et uno dopio començando col</line>
+			<line>dança façando dui passi sempi et <del>dui</del><add>uno</add> dopi<add>o</add> comen<del rend="strikethrough">do</del>çando col</line>
 			<line>pede dritto, et façando fine dal dritto. Poi se voltano anco</line>
-			<line>nel vodo sul lato senestro, façando dui sempi et uno doppio</line>
+			<line>nel vodo sul lato senestro, façando dui sempi et <del>dui</del><add>uno</add> doppi<add>o</add></line>
 			<line>comenzando dal senestro et finendo del senestro, poi danno tucti</line>
 			<line>tre in instanti una volta tonda in cui consiste dui passi sempi</line>
 			<line>et una represa començando col pè dritto, et façendo fine dal senestro</line>
@@ -3402,7 +3402,7 @@
 				<p><lb/></p>
 				<p><lb/></p>
 				<p rend="indent">Tesara a ballo, e va in homini siei e done quatro in chopie</p>
-				<p rend="insert">quatro, çioè uno homo et una dona per man e li altri dui ho-</p>
+				<p rend="indent">quatro, çioè uno homo et una dona per man e li altri dui ho-</p>
 				<p rend="indent">mini ne va uno in anti a dite chopie e l'altro de drie an-</p>
 				<p rend="indent">dagando large l'una chopia de l'altra pasi tri boni e portan-</p>
 				<p rend="indent">do chaduna di le dite chopie panexielli dui in mano.</p>
@@ -3525,12 +3525,10 @@
 				<p>uno movimento, respondendogli le done con uno altro, poi tucti</p>
 				<p>gli omini dano meza<note xml:id="note_f056_0002">Ms. add. corrective sur "una" effacé, id. ligne suivante</note> volta<note xml:id="note_f056_0003">Ms. suivi de "tonda" barré</note> sul canto sinestro, et le done</p>
 				<p>gli respondeno con meza<note xml:id="note_f056_0004">Ms. add. en correction sur "una effacé, comme à la ligne précédente</note> altra sul canto senestro, et è fine.</p>
-				<p/>
-				<p>"Poi la dona sola se parte façando dui passi</p>
-				<p>sempi et quatro doppi comançando dal senestro a guisa de S, façando tucti tre in instante due represe, una sul pè senestro, l'altra sul dritto" ??????</p>
-				<p/>
-				<p>Damnes in tri, cioè dui homini et una dona in mezo. In pri-</p>
-				<p>ma fano doe continentie in instanti, cominciando col pè</p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p rend="indent">Damnes<note xml:id="note_f056_0005">Ms. Initiale d'attente contre la marge de gauche, difficile à déchiffrer. Nous supposons un "d", sur base du nom de cette danse dans les autres ms. à savoir "Damnes (V), "Daphnes" (Pg), "Danes" (Pa, S), "Dannes" (NY). </note> in tri, cioè dui homini et una dona in mezo. In pri-</p>
+				<p rend="indent">ma<note xml:id="note_f056_0006">A partir de cette danse, la mise en page rencontrée précédement dans le ms (titre de la musique, notation musicale, titre de la danse, retour à la ligne et description indentée sur une ou deux lignes et débutant par "Imprima" disparaît et se substitue à un unique bloc de texte. Seules restent ici et dans Mignotta, les deux premières lignes en retrait</note> fano doe co<supplied>n</supplied>tinentie<note xml:id="note_f056_0014">Ms. Présence d'une tache d'encre qui recouvre la lettre</note> in instanti, cominciando col pè</p>
 				<p>senestro. Poi gli dui homini se cambiano di posta con dui pas-</p>
 				<p>si sempi et una represa cominciando col pè senestro, et facen-</p>
 				<p>do fine dal dritto, andagando quello da la man senestra de</p>
@@ -3538,21 +3536,12 @@
 				<p>detro retrovandossi equali, poi retornano alle loro poste con</p>
 				<p>dui passi sempi et una represa començando col pè drito, et fa-</p>
 				<p>çando fine dal senestro, poi in instante la dona insieme con</p>
-				<p>costoro fa una volta tonda onde consiste dui passi sempi</p>
-				<p>et una represa començando col pè dritto, et façando fine dal</p>
-				<p>senestro in la sua posta medesima. Poi in instante fano tucti tri</p>
-				<p>una reverentia sul pè senestro (!) poi se partono tucti tre</p>
-				<p>in instante cioè façando la dona dui passi sempi et dui doppi co-</p>
-				<p>menzando col pè senestro, et façando fine dal dritto !"Poi la dona</p>
-				<p>sola se parte façando dui</p>
-				<p>passi sempi et quatro doppi com-</p>
-				<p>ançando dal senestro</p>
-				<p>a guisa de S</p>
-				<p>façando tucti tre</p>
-				<p>in instante due re-</p>
-				<p>prese una sul pè se-</p>
-				<p>nestro, l'altra sul</p>
-				<p>dritto"</p>
+				<p>costoro fa<note xml:id="note_f056_0007">Ms "fan", le "n" est barré</note> una volta tonda onde <supplied>c</supplied>onsiste<note xml:id="note_f056_0013">Ms. Présence d'une tache d'encre qui recouvre la lettre</note> dui passi sempi</p>
+				<p>et una represa començando col pè dritto, et façando<note xml:id="note_f056_0008">Ms. Présence d'un tilde inutile sur le 2e "a"</note> fine dal</p>
+				<p>senestro in la sua posta medesima<note xml:id="note_f056_0009">Ms. suivi d'un signe d'insertion ("V" à l'envers dont les bouts des jambages sont barrés, signalant qu'il est mis à la mauvaise place. Sa place correcte étant une ligne plus bas)</note>. Poi in instante fano tucti tri</p>
+				<p>una reverentia sul pè senestro<note xml:id="note_f056_0010">Ms. Suivi d'un signe d'insertion ("V" à l'envers et un petit rond en exposant) qui renvoient à l'add. en marge de droite, add. mise ici à l'endroit voulu (ci-après).</note>; <ref target="#note_f056_0011">poi la dona sola se parte façando dui passi sempi et quatro doppi comançando dal senestro a guisa de S façando tucti tre in instante due represe una sul pè senestro, l'altra sul dritto</ref><note xml:id="note_f056_0011">Comment: Ms. add. placée en marge de droite, précédée d'un signe de renvoi sous forme d'entonnoir horizontal et d'un petit rond, qui pointe vers le signe d'insertion entre "sinistro" et "poi" où est attendue cette add., (cf note précédente)</note>; poi se partono tucti tre</p>
+				<p>in instante cioè façando la dona dui passi sempi<note xml:id="note_f056_0012">Ms. add. supralinéaire d'une encre très claire</note> et dui doppi co-</p>
+				<p>menzando col pè senestro, et façando fine dal dritto </p>
 			</div>
 			<div>
 				<p><pb facs="#f057"/></p>
@@ -3573,13 +3562,13 @@
 				<p>tucti tri doe represe, una sul senestro, et l'altra sul dritto retro-</p>
 				<p>vandossi l'omo disopra di sotto, et l'altro di sotto disopra da la</p>
 				<p>dona. Poi fano due continentie tucti tre in instanti andando l'uno</p>
-				<p>detro a l'altro, et separati con quatro tempi di saltarello comenzan-</p>
+				<p>detro a l'altro, et<corr> se parti</corr><note xml:id="note_f057_0001">Ms. "sepati"; nous proposons cette transcription. Procopio: "separati", cette interprétation nous semble peu plausible étant donné que l'h. et la d. ne se tenaient pas avant et qu'en outre cette formulation ne se retrouverait qu’ici dans le ms. </note> con quatro tem<supplied>p</supplied>i<note xml:id="note_f057_0002">Ms.Présence d'une tache d'encre qui recouvre la lettre</note> di saltarello comenzan-</p>
 				<p>do col senestro et façando fine dal dritto con uno doppio sul</p>
 				<p>pè senestro façando questo, et retornando a le sue poste di prima,</p>
 				<p>poi fano una meza volta sul lato dritto nel vodo de la bassa-</p>
-				<p>dança façando dui passi sempi et uno dopio començando col</p>
+				<p>dança façando dui passi sempi et uno<note xml:id="note_f057_0003">Ms. corr. de la même encre sur "dui" effacé</note> dopio<note xml:id="note_f057_0006">Ms. terminaison "o" ajoutée de la même encre, correspondant à la correction du "dui" en "uno" (voir note précédente)</note> començando<note xml:id="note_f057_0007">Ms. "comendoçando" corr. barré du 1e "do"</note> col</p>
 				<p>pede dritto, et façando fine dal dritto. Poi se voltano anco</p>
-				<p>nel vodo sul lato senestro, façando dui sempi et uno doppio</p>
+				<p>nel vodo sul lato senestro, façando dui sempi et uno<note xml:id="note_f057_0004">Ms. corr. de la même encre sur "dui" effacé</note> doppio<note xml:id="note_f057_0005">Ms. terminaison "o" ajoutée de la même encre, voir notes précédente</note></p>
 				<p>comenzando dal senestro et finendo del senestro, poi danno tucti</p>
 				<p>tre in instanti una volta tonda in cui consiste dui passi sempi</p>
 				<p>et una represa començando col pè dritto, et façendo fine dal senestro</p>
