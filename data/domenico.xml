@@ -1897,8 +1897,8 @@
 			<line>con una posada col pè senestr, poi 2 continentie comenzando col</line>
 			<line>pè senestro, poi una reverentia sul pè senestro, et finis.</line>
 			<line><lb/></line>
-			<line rend="indent">M ignotta nova pure a la fila. Prima 2 continentie comenzando col</line>
-			<line rend="indent">senestro, poi 2 passi e uno dopio comenzando col senestro</line>
+			<line rend="indent">m Ignotta nova pure a la fila. P<hi rend="sup">a</hi> 2 continentie comenzando col</line>
+			<line rend="indent">senestro, poi 2 p<unclear>a</unclear>ssi e uno dopio comenzando col senestro</line>
 			<line>poi uno passo sempio in detro con una posada col senestro, poi</line>
 			<line>uno altro sempio in detro con una posada col pè dritto apresso</line>
 			<line>del senestro, poi uno dopio inanti col pè dritto, poi 2 continentie</line>
@@ -1906,7 +1906,7 @@
 			<line>poi 2 continentie comenzando col pè senestro, poi una represa in tra-</line>
 			<line>verso sul pè senestro, poi uno dopio tornando in detro col dritto</line>
 			<line>et uno sempio nel vodo col pè senestro con uno dopio sul pè dritto</line>
-			<line>pur per quella via. Apresso uno sempio in detro col pè senestro con</line>
+			<line>pur per quella via. Apresso uno sempio i<unclear>n</unclear> detro col pè senestro con</line>
 			<line>una posa col dritto a pres di quello et un'altro col dritto in detro con</line>
 			<line>una posada col pè senestro a pres del dritto, poi uno passo dopio</line>
 			<line>col senestro et una represa in traverso sul pè dritto. Apresso 2 con-</line>
@@ -1918,29 +1918,29 @@
 			<line>dritto, poi tre dopi sul pe dritto et una reverentia sul senestro</line>
 			<line>et finis.</line>
 			<line><lb/></line>
-			<line><hi><unclear>F</unclear></hi>(B) Corona bassadança che si fa a la fila. Prima dui passi sempi co-</line>
-			<line>mençando col senestro, poi uno cambiamento començando col</line>
+			<line><add place="margin"><unclear>F</unclear></add><add place="margin">C</add>orona bassadança che si fa a la fila. Prima dui passi sempi co-<handShift new="mainB"/></line>
+			<line>mençando <del rend="strikethrough">poi</del> col senestro, poi uno cambiamento començando col</line>
 			<line>senestro con dui doppi sul pè dritto, apresso uno dopio sul</line>
 			<line>pede senestro. Apresso uno cambiamento comenzando col pè</line>
 			<line>dritto con uno dopio sul senestro, con uno sempio sul dritto</line>
-			<line>che è compimento del tempo. Poi (si) dà meza volta sul canto</line>
+			<line>che è compimento del tempo. Poi<del rend="strikethrough">si</del> dà meza volta sul canto</line>
 			<line>senestro con uno passo sempio sul pè senestro nel vodo</line>
 			<line>saltando sul dicto pè, et tornando indetro, et façando uno</line>
 			<line>dopio sul pè dritto dagando meza volta su quello pede</line>
 			<line>medesimo, et façando due represe l'una sul senestro et</line>
-			<line>l'altra <add place="margin">sul drito</add>. Apresso uno cambiamento començando col pè sene-</line>
+			<line>l'altra <add><hi rend="ital">V</hi></add> <add place="margin">sul drito</add>. Apresso uno cambiamento començando col pè sene-</line>
 			<line>stro con dui dopi sul pè dritto, dagando una meza</line>
 			<line>volta sul pè dritto, façando uno dopio sul senestro</line>
 			<line>et uno altro sul dritto. Apresso uno cambiamento co-</line>
 			<line>menzando col pè senestro, gittandossi sul pè dritto</line>
 			<line>dando una meza volta dal canto dritto façando 4</line>
 			<line>motti quadernarii in mesura di bassadança, dagan-</line>
-			<line>do una volta tonda sul lato dritto con una represa in</line>
+			<line>do una <del rend="strikethrough">mez</del> volta tonda sul lato dritto con una represa in</line>
 			<line>treverso sul pede senestro tornando in detro, poi una meza</line>
 			<line>volta sul lato senestro con una represa sul pè dritto in</line>
 			<line>traverso tornando in detro. Apresso doe continentie comen-</line>
 			<line>çando col senestro l'altra sul dritto, saltando sul pè senestro</line>
-			<line>nel vodo con uno dopio sul pè dritto con una represa sul pè</line>
+			<line>nel vodo con uno dopio sul pè dritto con una represa <add><hi rend="ital">V</hi></add> sul pè</line>
 			<line>senestro in traverso inançi, poi uno passo sempio nel vodo</line>
 			<line>col pè dritto gittandossi su quello et façando una represa</line>
 			<line>sul gallone senestro inançi. Apresso una volta tonda</line>
@@ -3581,7 +3581,7 @@
 				<p><pb facs="#f058"/></p>
 				<p>poi dui sempi e dui dopi començando col pè senestro, e façen-</p>
 				<p>do fine dal dritto. Apresso, doe continentie comenzando col</p>
-				<p>senestro, poi dui dopi comenzando col pè senestro. Poi 2</p>
+				<p>senestro, poi dui dopi comenzando col pè senestro. Poi 2<note xml:id="note_f058_0003">Ms. A partir d'ici, c'est le chiffre qui est le plus souvent utilisé, ceci correspondant à la rapidité manifeste de l'écriture, en cursive, sur ces dernières danses</note></p>
 				<p>continentie<note xml:id="note_f058_0001">Ms. "continentie répété deux fois (par erreur), peut-être une trace de la transmission/pratique de la danse basée sur l'oralité. Le danseur, répétant verbalement "continentie, continentie", sur chaque pas (il y en a 2). Nous le supprimons néanmoins ceci étant textuellement inutile</note>  comenzando col pè senestro, poi una</p>
 				<p>represa sul pè senestro in traverso, poi dui passi sempi comenzan-</p>
 				<p>do col pè dritto tornando in detro, poi uno<note xml:id="note_f058_0002">Ms. corr. add. "o" sur un "a" effacé</note> dopio sul pè drit-</p>
@@ -3595,16 +3595,16 @@
 				<p>con una posada col pè senestr, poi 2 continentie comenzando col</p>
 				<p>pè senestro, poi una reverentia sul pè senestro, et finis.</p>
 				<p/>
-				<p>Mignotta nova pure a la fila. Prima 2 continentie comenzando col</p>
-				<p>senestro, poi 2 passi e uno dopio comenzando col senestro</p>
+				<p>Mignotta nova pure a la fila. Prima<note xml:id="note_f058_0006">Ms. Première occurence dans le ms. de l'abréviation pour ce mot ("P" suivi de a en exposant)</note> 2<note xml:id="note_f058_0005">Voir note plus haut, l.3</note> continentie<note xml:id="note_f058_0004">Ms. A partir d’ici les con/cum sont le plus souvent abrégés en « 9 » tironien</note> comenzando col</p>
+				<p>senestro, poi 2 p<supplied>a</supplied>ssi<note xml:id="note_f058_0010">Ms. Présence d'une tache  d'encre</note> e uno dopio comenzando col senestro</p>
 				<p>poi uno passo sempio in detro con una posada col senestro, poi</p>
 				<p>uno altro sempio in detro con una posada col pè dritto apresso</p>
-				<p>del senestro, poi uno dopio inanti col pè dritto, poi 2 continentie</p>
-				<p>col senestro, poi 2 dopi comenzando col senestro et finendo dal dritto,</p>
+				<p>del senestro<note xml:id="note_f058_0007">Chor. var. V: "et tornano sul dritto un passetto in dreto in traverso et un altro sul sinestro pure in traverso".</note>, poi uno dopio inanti col pè dritto, poi 2 continentie</p>
+				<p>col senestro<note xml:id="note_f058_0008">Chor. Est-ce une formulation elliptique, pour 2 continenze comenzando col senestro ? Voir commentaire chorégraphique. Ou sont elles à faire sur le même pied, avec un changement d’appui après chacune, au même titre que les fréquents « 3 doubles sur lo pe… » (contrapassi) ? Remarquer que cette formulation, exceptionnelle ici, se retrouve très fréquemment dans M., qui introduit également les continenze uniques</note>, poi 2 dopi comenzando col senestro et finendo dal dritto,</p>
 				<p>poi 2 continentie comenzando col pè senestro, poi una represa in tra-</p>
 				<p>verso sul pè senestro, poi uno dopio tornando in detro col dritto</p>
 				<p>et uno sempio nel vodo col pè senestro con uno dopio sul pè dritto</p>
-				<p>pur per quella via. Apresso uno sempio in detro col pè senestro con</p>
+				<p>pur per quella via. Apresso uno sempio i<supplied>n</supplied><note xml:id="note_f058_0009">Ms. Présence d'une tache d'encre</note> detro col pè senestro con</p>
 				<p>una posa col dritto a pres di quello et un'altro col dritto in detro con</p>
 				<p>una posada col pè senestro a pres del dritto, poi uno passo dopio</p>
 				<p>col senestro et una represa in traverso sul pè dritto. Apresso 2 con-</p>
@@ -3619,31 +3619,32 @@
 				<p/>
 				<p/>
 				<p/>
-				<p>(B) Corona bassadança che si fa a la fila. Prima dui passi sempi co-</p>
+				<p>(B) Corona<note xml:id="note_f059_0004"> Ms. "C" tracé en capitale débordant en marge de gauche, précédé d’une lettre "F" (?) dont le sens reste obscur, non transcrite ici.</note><note xml:id="note_f059_0001">Ecriture très proche de celle du bas du f.7 r. Cette main (B) pourrait peut-être être celle du ms. V (Antonio Carnazzano lui-même?) d'autant que la description de "Corona" ici est, tant au niveau du vocabulaire, de l'orthographe, de la syntaxe que de la chorégraphie, quasi identique à celle de V qui corrige quelques erreurs de celle-ci (Pd) en enlevant quelques précisions inutiles et améliorant légèrement la formulation dans un but pédagogique.  Remarquer que cette danse ne se trouve dans aucun autre ms que Pd et V.</note> bassadança che si fa a la fila. Prima dui passi sempi co-<handShift new="mainB"/></p>
 				<p>mençando col senestro, poi uno cambiamento començando col</p>
-				<p>senestro con dui doppi sul pè dritto, apresso uno dopio sul</p>
-				<p>pede senestro. Apresso uno cambiamento comenzando col pè</p>
+				<p>senestro con<note xml:id="note_f059_0005">Ms. précédé de "poi" barré</note> dui doppi sul pè dritto, apresso uno dopio sul</p>
+				<p>pede senestro. Apresso uno cambiamento<note xml:id="note_f059_0006">Chor. "Corona" est la seule danse de ce ms. qui mentionne un "cambiamento". Néanmoins, même sans les nommer comme tel, la pratique du changement de pied est courante dans les danses de Pd.</note> comenzando col pè</p>
 				<p>dritto con uno dopio sul senestro, con uno sempio sul dritto</p>
-				<p>che è compimento del tempo. Poi (si) dà meza volta sul canto</p>
-				<p>senestro con uno passo sempio sul pè senestro nel vodo</p>
+				<p>che è compimento del tempo. Poi<note xml:id="note_f059_0003">Ms. suivi de "si" barré</note> dà meza volta sul canto</p>
+				<p>senestro con uno passo sempio sul pè senestro nel vodo<note xml:id="note_f059_0002">Ms. A partir d'ici on remarque l'écriture qui s'accélère pour devenir cursive. Il n'est pas impossible que la main (D des danses précédentes) soit en réalité la B en cursive. Voir également note précédente</note></p>
 				<p>saltando sul dicto pè, et tornando indetro, et façando uno</p>
 				<p>dopio sul pè dritto dagando meza volta su quello pede</p>
 				<p>medesimo, et façando due represe l'una sul senestro et</p>
-				<p>l'altra (!) sul drito. Apresso uno cambiamento començando col pè sene-</p>
+				<p>l'altra <ref target="#note_f059_0007">sul drito</ref><note xml:id="note_f059_0007">Ms. add en marge de gauche</note>. Apresso uno cambiamento començando col pè sene-</p>
 				<p>stro con dui dopi sul pè dritto, dagando una meza</p>
 				<p>volta sul pè dritto, façando uno dopio sul senestro</p>
 				<p>et uno altro sul dritto. Apresso uno cambiamento co-</p>
 				<p>menzando col pè senestro, gittandossi sul pè dritto</p>
 				<p>dando una meza volta dal canto dritto façando 4</p>
 				<p>motti quadernarii in mesura di bassadança, dagan-</p>
-				<p>do una volta tonda sul lato dritto con una represa in</p>
+				<p>do una volta<note xml:id="note_f059_0008">Ms. précédé de "mez" barré</note> tonda sul lato dritto con una represa in</p>
 				<p>treverso sul pede senestro tornando in detro, poi una meza</p>
 				<p>volta sul lato senestro con una represa sul pè dritto in</p>
 				<p>traverso tornando in detro. Apresso doe continentie comen-</p>
 				<p>çando col senestro l'altra sul dritto, saltando sul pè senestro</p>
 				<p>nel vodo con uno dopio sul pè dritto con una represa sul pè</p>
 				<p>senestro in traverso inançi, poi uno passo sempio nel vodo</p>
-				<p>col pè dritto gittandossi su quello et façando una represa</p>
+				<p>col pè dritto gittandossi su quello et façando una represa<note xml:id="note_f059_0009">Ms. signe d'insertion ("1") entre represa et sul, sans add. correspondante. L’endroit correspond à un passage remanié dans V, où l'on a (pour l’ensemble du passage) "duo continentie con due riprese l'una sul sinestro, l'altra sul dritto saltando sul piè sinestro nel vodo con un doppio sul pie dritto con una ripresa sul piè sinestro in traverso inançi poi uno passo sempio nel vodo col pè dritto gittandosi su quello... (il manque donc 2 represe après les 2 continencie dans Pd). 
+</note></p>
 				<p>sul gallone senestro inançi. Apresso una volta tonda</p>
 				<p>con una reverentia et è finita.</p>
 			</div>
