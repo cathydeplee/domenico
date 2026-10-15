@@ -224,8 +224,33 @@ tei-notatedmusic img.inline-image {
   stroke: transparent !important;
 }
 
+/* A note at rest, the same on the EditionCrafter site and in a CETEIcean
+   preview (TEIEdit's): an asterisk, its text hidden. The site opens it on a
+   click; CETEIcean-editioncrafter.css opens it on hover in the preview. */
+/* The note always takes the same small slot in the line, and no height. */
+tei-note {
+  display: inline-block !important;
+  position: relative;
+  box-sizing: border-box;
+  width: 0.6rem;
+  vertical-align: top;
+  margin-bottom: -100rem;
+  font-size: 0;
+  text-indent: 0;
+}
+/* The asterisk is placed against the note's slot, so it never moves. */
+tei-note::before {
+  content: "*";
+  position: absolute;
+  top: -0.1rem;
+  left: 0;
+  font-size: 18pt;
+  line-height: 1;
+  color: red;
+  cursor: help;
+}
 /* Notes on the choreography (`<note type="choreography">`) are told from
    notes on the text by a pink asterisk. */
-.editor-comment[data-type~="choreography"] .editor-comment-asterisk {
+tei-note[type~="choreography"]::before {
   color: #e0559a;
 }

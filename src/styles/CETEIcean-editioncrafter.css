@@ -1134,28 +1134,9 @@ tei-witdetail:is(*, .specificity-bump) {
 /* Below  is the note simulation used to simulate a note on EditionCrafter */
 
 
-/* The note always takes the same small slot in the line, and no height. */
-tei-note {
-  display: inline-block !important;
-  position: relative;
-  box-sizing: border-box;
-  width: 0.6rem;
-  vertical-align: top;
-  margin-bottom: -100rem;
-  font-size: 0;
-  text-indent: 0;
-}
-/* The asterisk is placed against the note's slot, so it never moves. */
-tei-note::before {
-  content: "*";
-  position: absolute;
-  top: -0.1rem;
-  left: 0;
-  font-size: 18pt;
-  line-height: 1;
-  color: red;
-  cursor: help;
-}
+/* The note at rest, its slot and its asterisk, is drawn by custom.css, alike
+   here and on the EditionCrafter site. Only opening it on hover is
+   simulated here: EditionCrafter opens it on a click instead. */
 /* On hover the slot opens into a popup, which still advances the line
    by the same width and covers the lines below instead of pushing them. */
 tei-note:hover {
