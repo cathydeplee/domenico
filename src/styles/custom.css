@@ -223,3 +223,9 @@ tei-notatedmusic img.inline-image {
 .a9s-annotation:not(.hover):not(.selected) > ellipse {
   stroke: transparent !important;
 }
+
+/* Notes on the choreography (`<note type="choreography">`) are told from
+   notes on the text by a pink asterisk. */
+.editor-comment[data-type~="choreography"] .editor-comment-asterisk {
+  color: #e0559a;
+}
