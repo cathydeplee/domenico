@@ -51,6 +51,14 @@
       "meaning": "Editorial note: click the asterisk to read it"
     },
     {
+      "example": "<tei-note n=\"reading-guide-choreography-note\" type=\"choreography\">An example of a note on the choreography.</tei-note>",
+      "meaning": "Note on the choreography: click the pink asterisk to read it"
+    },
+    {
+      "example": "parola<tei-handshift new=\"#mainB\"></tei-handshift>",
+      "meaning": "Change of hand: another scribe writes from here; hover over the hand to read which"
+    },
+    {
       "example": "<span class=\"glossary-term\" tabindex=\"0\">cambiamento</span>",
       "meaning": "Glossary word: hover over it to read its definition"
     },
