@@ -1918,7 +1918,7 @@
 			<line>dritto, poi tre dopi sul pe dritto et una reverentia sul senestro</line>
 			<line>et finis.</line>
 			<line><lb/></line>
-			<line><add place="margin"><unclear>F</unclear></add><add place="margin">C</add>orona bassadança che si fa a la fila. Prima dui passi sempi co-<handShift new="mainB"/></line>
+			<line><add place="margin"><unclear>F</unclear></add><add place="before">C</add>orona bassadança che si fa a la fila. Prima dui passi sempi co-<handShift new="mainB"/></line>
 			<line>mençando <del rend="strikethrough">poi</del> col senestro, poi uno cambiamento començando col</line>
 			<line>senestro con dui doppi sul pè dritto, apresso uno dopio sul</line>
 			<line>pede senestro. Apresso uno cambiamento comenzando col pè</line>
@@ -1947,12 +1947,12 @@
 			<line>con una reverentia et è finita.</line>
 		</surface>
 		<surface facs="#f060">
-			<line rend="indent(4)">(E) Zoglioxa <hi><unclear>F</unclear></hi></line>
+			<line rend="indent(4)">Zoglioxa <hi><unclear>F</unclear></hi><handShift new="mainE"/></line>
 			<line><lb/></line>
-			<line>Prima continanze II comenzando suxo el pede stanco, passi</line>
+			<line>Prima continanze II comenzando suxo el pede stanco passi</line>
 			<line>II sempi passo uno dopio una reprexa drita, passo</line>
 			<line>uno dopio sul pede stanco II passi sempi et dui dopii</line>
-			<line>ne l'ultimo dopio una reverenzia picolla rt tornia</line>
+			<line>ne l'ultimo dopio una reverenzia picolla et torna</line>
 			<line>in dietro uno passo dopio suxo el pede drito et fa</line>
 			<line>II continansi l'una stanca e l'altra drita et</line>
 			<line>torna un altro passo dopio in dietro col piè stanco</line>
@@ -1961,7 +1961,7 @@
 			<line>et tira el pede stanco a presso el drito e piglia uno</line>
 			<line>salto fazando uno tempo di saltarello saltando suxo</line>
 			<line>el pede stanco con uno passo dopio, II sempii et II</line>
-			<line>dopii et finissi el dopio suxo el pede drito. Et fa una</line>
+			<line>dopii et finissi<seg><sic>s</sic></seg> el dopio suxo el pede drito. Et fa una</line>
 			<line>represa stanca cun una volta tonda presta</line>
 			<line>con la ripresa drita ne la mexura de II tempii</line>
 			<line>et faza una reverenzia stanca, é del fine.</line>
@@ -2545,9 +2545,9 @@
 			</div>
 			<div>
 				<p><pb facs="#f023"/></p>
-				<p rend="indent(2)">Lionzello novo sul medesmo<note xml:id="note_f9r_c">Ms. "s" addition supralinéaire d'une encre plus foncée</note> canto vechio, e va humini dui cum una dona</p>
-				<p rend="indent(2)">in mezo.</p>
-				<p rend="indent(2)">Imprima<note>Initiale d'attente "I" en marge</note> dicti dui homini cum la dona in mezo fano tempi</p>
+				<p>Lionzello novo sul medesmo<note xml:id="note_f9r_c">Ms. "s" addition supralinéaire d'une encre plus foncée</note> canto vechio, e va humini dui cum una dona</p>
+				<p rend="indent">in mezo.</p>
+				<p rend="indent">Imprima<note>Initiale d'attente "I" en marge</note> dicti dui homini cum la dona in mezo fano tempi</p>
 				<p>dui de saltarello in mexura quadernaria e afermase li homini; poi</p>
 				<p>la dona se parte de mezo loro cum uno dopio sul pè sinistro, e afer-</p>
 				<p>mase; li dicti dui homini siegueno poi la dona cum<note xml:id="note_f9r_d">Ms. cun</note> uno dopio</p>
@@ -3099,11 +3099,13 @@
 			</div>
 			<div>
 				<p><pb facs="#f042"/></p>
-				<p>(A)<note xml:id="note_f042_0001">Reprise de la main A pour l'entièreté de la danse et la deuxième version qui suit</note> Questa è una dança chiamata la fiaguielmina laquale foe<handShift new="mainA"/></p>
-				<p>facta el canto suo in Franza, e suzo dicto canto messer Domenego</p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p rend="indent">(A)<note xml:id="note_f042_0001">Reprise de la main A pour l'entièreté de la danse et la deuxième version qui suit</note> Questa è una dança chiamata la fiaguielmina laquale foe<handShift new="mainA"/></p>
+				<p rend="indent">facta el canto suo in Franza, e suzo dicto canto messer Domenego</p>
 				<p>gli fece balli<note xml:id="note_f042_0002">Ms. précédé de "canti" barré</note> dui de liquali questo ne uno e va im persone quatro in</p>
 				<p>chiope due, cioè uno homo et una dona.</p>
-				<p><supplied>I</supplied>mprima<note xml:id="note_f042_0003">Initiale d'attente "I" omise</note> fanno tempi dui a guisa de saltarello in mexura qua-</p>
+				<p rend="indent"><supplied>I</supplied>mprima<note xml:id="note_f042_0003">Initiale d'attente "I" omise</note> fanno tempi dui a guisa de saltarello in mexura qua-</p>
 				<p>dernaria cioè l'homo cun la dona per mano, e fanno dicti dui tempi</p>
 				<p>cum passi quatro per tempo<note xml:id="note_f042_0005">Var: V="tempi di quaternaria doppia"
 </note> començando dal pè sinistro e dagando el</p>
@@ -3297,7 +3299,7 @@
 				<p>gno de drie. E voiando che dita dança sia ben fata, è nec-</p>
 				<p>ieso che se faci tuta volte tre, inperò che a cadauno de li</p>
 				<p>tri homini ge toca a menare la soa volta la dona.</p>
-				<p/>
+				<p><lb/></p>
 				<p rend="indent(2)">Sobria in canto a sonare</p>
 			</div>
 			<div>
@@ -3573,7 +3575,7 @@
 				<p>tre in instanti una volta tonda in cui consiste dui passi sempi</p>
 				<p>et una represa començando col pè dritto, et façendo fine dal senestro</p>
 				<p>con una reverentia sul pè senestro tucti tre, et fine.</p>
-				<p/>
+				<p><lb/></p>
 				<p rend="indent">Mignotta<note xml:id="note_f057_0008">Ms. Initiale d'attente "M" dans l'espace de l'alinéa (et non en marge comme plus haut) </note> vechia<note xml:id="note_f057_0009">Ms. add. supralin. d'une encre plus claire, possiblement de la main A </note> è bassadança che si fa a la fila in quanti si vole</p>
 				<p rend="indent">In prima doe continentie comenzando col pè senestro</p>
 			</div>
@@ -3581,44 +3583,43 @@
 				<p><pb facs="#f058"/></p>
 				<p>poi dui sempi e dui dopi començando col pè senestro, e façen-</p>
 				<p>do fine dal dritto. Apresso, doe continentie comenzando col</p>
-				<p>senestro, poi dui dopi comenzando col pè senestro. Poi 2<note xml:id="note_f058_0003">Ms. A partir d'ici, c'est le chiffre qui est le plus souvent utilisé, ceci correspondant à la rapidité manifeste de l'écriture, en cursive, sur ces dernières danses</note></p>
+				<p>senestro, poi dui dopi comenzando col pè senestro. Poi doe<note xml:id="note_f058_0003">Ms. A partir d'ici, c'est le chiffre qui est le plus souvent utilisé, ceci correspondant à la rapidité manifeste de l'écriture, en cursive, sur ces dernières danses. Pour la normalisation en lettres, nous nous basons sur les orthographes précédentes de cette même danse</note></p>
 				<p>continentie<note xml:id="note_f058_0001">Ms. "continentie répété deux fois (par erreur), peut-être une trace de la transmission/pratique de la danse basée sur l'oralité. Le danseur, répétant verbalement "continentie, continentie", sur chaque pas (il y en a 2). Nous le supprimons néanmoins ceci étant textuellement inutile</note>  comenzando col pè senestro, poi una</p>
 				<p>represa sul pè senestro in traverso, poi dui passi sempi comenzan-</p>
 				<p>do col pè dritto tornando in detro, poi uno<note xml:id="note_f058_0002">Ms. corr. add. "o" sur un "a" effacé</note> dopio sul pè drit-</p>
 				<p>to tornando pure in detro con una meza volta sul lato dritto con</p>
-				<p>2 represe, una sul pè senestro et una sul dritto. Poi doe conti-</p>
+				<p>doe represe, una sul pè senestro et una sul dritto. Poi doe conti-</p>
 				<p>nentie comenzando col pè senestro, poi uno dopio all'inanci col</p>
 				<p>pè senestro, poi uno passo sempio sul pè dritto nel vodo con</p>
 				<p>uno dopio inanci sul pè senestro, poi uno passo sempio col pede</p>
 				<p>dritto con una posata col pè senestro apresso el dritto, et poi</p>
 				<p>uno dopio sul pè senestro. Ancora una posada sul pè dritto</p>
-				<p>con una posada col pè senestr, poi 2 continentie comenzando col</p>
+				<p>con una posada col pè senestr, poi doe continentie comenzando col</p>
 				<p>pè senestro, poi una reverentia sul pè senestro, et finis.</p>
-				<p/>
-				<p>Mignotta nova pure a la fila. Prima<note xml:id="note_f058_0006">Ms. Première occurence dans le ms. de l'abréviation pour ce mot ("P" suivi de a en exposant)</note> 2<note xml:id="note_f058_0005">Voir note plus haut, l.3</note> continentie<note xml:id="note_f058_0004">Ms. A partir d’ici les con/cum sont le plus souvent abrégés en « 9 » tironien</note> comenzando col</p>
-				<p>senestro, poi 2 p<supplied>a</supplied>ssi<note xml:id="note_f058_0010">Ms. Présence d'une tache  d'encre</note> e uno dopio comenzando col senestro</p>
+				<p><lb/></p>
+				<p>Mignotta nova pure a la fila. Prima<note xml:id="note_f058_0006">Ms. Première occurence dans le ms. de l'abréviation pour ce mot ("P" suivi de a en exposant)</note> doe<note xml:id="note_f058_0005">Voir note plus haut, l.3</note> continentie<note xml:id="note_f058_0004">Ms. A partir d’ici les con/cum sont le plus souvent abrégés en « 9 » tironien</note> comenzando col</p>
+				<p>senestro, poi dui<supplied>a</supplied> pssi<note xml:id="note_f058_0010">Ms. Présence d'une tache  d'encre</note> e uno dopio comenzando col senestro</p>
 				<p>poi uno passo sempio in detro con una posada col senestro, poi</p>
 				<p>uno altro sempio in detro con una posada col pè dritto apresso</p>
-				<p>del senestro<note xml:id="note_f058_0007">Chor. var. V: "et tornano sul dritto un passetto in dreto in traverso et un altro sul sinestro pure in traverso".</note>, poi uno dopio inanti col pè dritto, poi 2 continentie</p>
-				<p>col senestro<note xml:id="note_f058_0008">Chor. Est-ce une formulation elliptique, pour 2 continenze comenzando col senestro ? Voir commentaire chorégraphique. Ou sont elles à faire sur le même pied, avec un changement d’appui après chacune, au même titre que les fréquents « 3 doubles sur lo pe… » (contrapassi) ? Remarquer que cette formulation, exceptionnelle ici, se retrouve très fréquemment dans M., qui introduit également les continenze uniques</note>, poi 2 dopi comenzando col senestro et finendo dal dritto,</p>
-				<p>poi 2 continentie comenzando col pè senestro, poi una represa in tra-</p>
+				<p>del senestro<note xml:id="note_f058_0007">Chor. var. V: "et tornano sul dritto un passetto in dreto in traverso et un altro sul sinestro pure in traverso".</note>, poi uno dopio inanti col pè dritto, poi doe continentie</p>
+				<p>col senestro<note xml:id="note_f058_0008">Chor. Est-ce une formulation elliptique, pour 2 continenze comenzando col senestro ? Voir commentaire chorégraphique. Ou sont elles à faire sur le même pied, avec un changement d’appui après chacune, au même titre que les fréquents « 3 doubles sur lo pe… » (contrapassi) ? Remarquer que cette formulation, exceptionnelle ici, se retrouve très fréquemment dans M., qui introduit également les continenze uniques</note>, poi doi dopi comenzando col senestro et finendo dal dritto,</p>
+				<p>poi due continentie comenzando col pè senestro, poi una represa in tra-</p>
 				<p>verso sul pè senestro, poi uno dopio tornando in detro col dritto</p>
 				<p>et uno sempio nel vodo col pè senestro con uno dopio sul pè dritto</p>
 				<p>pur per quella via. Apresso uno sempio i<supplied>n</supplied><note xml:id="note_f058_0009">Ms. Présence d'une tache d'encre</note> detro col pè senestro con</p>
 				<p>una posa col dritto a pres di quello et un'altro col dritto in detro con</p>
 				<p>una posada col pè senestro a pres del dritto, poi uno passo dopio</p>
-				<p>col senestro et una represa in traverso sul pè dritto. Apresso 2 con-</p>
-				<p>tinentie comenzando col pè senestro con 2 tempi di saltarello inanti</p>
+				<p>col senestro et una represa in traverso sul pè dritto. Apresso doe con-</p>
+				<p>tinentie comenzando col pè senestro con dui tempi di saltarello inanti</p>
 				<p>comenzando col pè senestro et finendo dal dritto con uno passo do</p>
 			</div>
 			<div>
 				<p><pb facs="#f059"/></p>
-				<p>pio sul pè senestro di mezo tempo, poi 2 sempi comenzando col pè</p>
-				<p>dritto, poi tre dopi sul pe dritto et una reverentia sul senestro</p>
+				<p>pio sul pè senestro di mezo tempo, poi dui sempi comenzando col pè</p>
+				<p>dritto, poi tre<note xml:id="note_f059_0011">Ms. en toutes lettres</note> dopi sul pe dritto et una reverentia sul senestro</p>
 				<p>et finis.</p>
 				<p/>
-				<p/>
-				<p/>
+				<p><lb/></p>
 				<p>(B) Corona<note xml:id="note_f059_0004"> Ms. "C" tracé en capitale débordant en marge de gauche, précédé d’une lettre "F" (?) dont le sens reste obscur, non transcrite ici.</note><note xml:id="note_f059_0001">Ecriture très proche de celle du bas du f.7 r. Cette main (B) pourrait peut-être être celle du ms. V (Antonio Carnazzano lui-même?) d'autant que la description de "Corona" ici est, tant au niveau du vocabulaire, de l'orthographe, de la syntaxe que de la chorégraphie, quasi identique à celle de V qui corrige quelques erreurs de celle-ci (Pd) en enlevant quelques précisions inutiles et améliorant légèrement la formulation dans un but pédagogique.  Remarquer que cette danse ne se trouve dans aucun autre ms que Pd et V.</note> bassadança che si fa a la fila. Prima dui passi sempi co-<handShift new="mainB"/></p>
 				<p>mençando col senestro, poi uno cambiamento començando col</p>
 				<p>senestro con<note xml:id="note_f059_0005">Ms. précédé de "poi" barré</note> dui doppi sul pè dritto, apresso uno dopio sul</p>
@@ -3634,7 +3635,7 @@
 				<p>volta sul pè dritto, façando uno dopio sul senestro</p>
 				<p>et uno altro sul dritto. Apresso uno cambiamento co-</p>
 				<p>menzando col pè senestro, gittandossi sul pè dritto</p>
-				<p>dando una meza volta dal canto dritto façando 4</p>
+				<p>dando una meza volta dal canto dritto façando quatro<note xml:id="note_f059_0010">Ms. "4"</note></p>
 				<p>motti quadernarii in mesura di bassadança, dagan-</p>
 				<p>do una volta<note xml:id="note_f059_0008">Ms. précédé de "mez" barré</note> tonda sul lato dritto con una represa in</p>
 				<p>treverso sul pede senestro tornando in detro, poi una meza</p>
@@ -3643,29 +3644,30 @@
 				<p>çando col senestro l'altra sul dritto, saltando sul pè senestro</p>
 				<p>nel vodo con uno dopio sul pè dritto con una represa sul pè</p>
 				<p>senestro in traverso inançi, poi uno passo sempio nel vodo</p>
-				<p>col pè dritto gittandossi su quello et façando una represa<note xml:id="note_f059_0009">Ms. signe d'insertion ("1") entre represa et sul, sans add. correspondante. L’endroit correspond à un passage remanié dans V, où l'on a (pour l’ensemble du passage) "duo continentie con due riprese l'una sul sinestro, l'altra sul dritto saltando sul piè sinestro nel vodo con un doppio sul pie dritto con una ripresa sul piè sinestro in traverso inançi poi uno passo sempio nel vodo col pè dritto gittandosi su quello... (il manque donc 2 represe après les 2 continencie dans Pd). 
+				<p>col pè dritto gittandossi su quello et façando una represa<note xml:id="note_f059_0009">Ms. signe d'insertion ("V" à l'envers) entre represa et sul, sans add. correspondante. L’endroit correspond à un passage remanié dans V, où l'on a (pour l’ensemble du passage) "duo continentie con due riprese l'una sul sinestro, l'altra sul dritto saltando sul piè sinestro nel vodo con un doppio sul pie dritto con una ripresa sul piè sinestro in traverso inançi poi uno passo sempio nel vodo col pè dritto gittandosi su quello... (il manque donc 2 represe après les 2 continencie dans Pd). 
 </note></p>
 				<p>sul gallone senestro inançi. Apresso una volta tonda</p>
 				<p>con una reverentia et è finita.</p>
 			</div>
 			<div>
 				<p><pb facs="#f060"/></p>
-				<p>(E) Zoglioxa</p>
-				<p>Prima continanze II comenzando suxo el pede stanco, passi</p>
-				<p>II sempi passo uno dopio una reprexa drita, passo</p>
-				<p>uno dopio sul pede stanco II passi sempi et dui dopii</p>
-				<p>ne l'ultimo dopio una reverenzia picolla rt tornia</p>
+				<p rend="indent(3)">(E)<note xml:id="note_f060_0006">Nouvelle et dernière main du ms. (plus tardive?) Ecriture cursive très expressive</note> Zoglioxa<note xml:id="note_f060_0001">Ms. suivi d'une lettre ("F"?) dont la fonction et le sens restent obscurs - (cf "Corona", l.1)</note><handShift new="mainE"></handShift></p>
+				<p><lb/></p>
+				<p>Prima<note xml:id="note_f060_0005">Aucune indication sur la distribution de la danse. On suppose une bassadanza, pour un nombre indéterminé de personnes</note> continanze due<note xml:id="note_f060_0002">Ms. "II" les chiffres romains pour indiquer le nombre de pas sont utilisés exclusivement par cette main. Cette manière de transcrire le "deux", vaut pour le reste de la danse. Pour la normalisation en lettres, étant donné que cette main ne donne pas d'exempe précédent en toute lettre, nous optons pour les formes due (f.) et dui (m.), les plus courantes dans le ms. </note> comenzando suxo el pede stanco, passi</p>
+				<p>dui sempi passo uno dopio una reprexa drita, passo</p>
+				<p>uno dopio sul pede stanco dui passi sempi et dui dopii</p>
+				<p>ne l'ultimo dopio una reverenzia picolla et torna</p>
 				<p>in dietro uno passo dopio suxo el pede drito et fa</p>
-				<p>II continansi l'una stanca e l'altra drita et</p>
+				<p>due continansi l'una stanca e l'altra drita et</p>
 				<p>torna un altro passo dopio in dietro col piè stanco</p>
-				<p>in traverso. Poi fa III continanse, l'una drita et</p>
+				<p>in traverso. Poi fa tre<note xml:id="note_f060_0004">Ms. "III" : les chiffres romains pour indiquer le nombre de pas sont utilisés exclusivement par cette main</note> continanse, l'una drita et</p>
 				<p>l'altra stanca et l'altra drita con una possa drita</p>
 				<p>et tira el pede stanco a presso el drito e piglia uno</p>
 				<p>salto fazando uno tempo di saltarello saltando suxo</p>
-				<p>el pede stanco con uno passo dopio, II sempii et II</p>
-				<p>dopii et finissi el dopio suxo el pede drito. Et fa una</p>
+				<p>el pede stanco con uno passo dopio, dui sempii et dui</p>
+				<p>dopii et finissi<note xml:id="note_f060_0003">Ms. terminaison "s" non justifiée</note> el dopio suxo el pede drito. Et fa una</p>
 				<p>represa stanca cun una volta tonda presta</p>
-				<p>con la ripresa drita ne la mexura de II tempii</p>
+				<p>con la ripresa drita ne la mexura de dui tempii</p>
 				<p>et faza una reverenzia stanca, é del fine.</p>
 			</div>
 			<div>
