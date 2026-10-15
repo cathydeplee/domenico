@@ -12,7 +12,22 @@
 				</availability>
 			</publicationStmt>
 			<sourceDesc>
-				<p/>
+				<msDesc>
+					<msIdentifier>
+						<settlement/>
+						<repository>Bibliothèque nationale de France (BnF)</repository>
+						<idno>BnF. Département des Manuscrits. italien 972</idno>
+					</msIdentifier>
+					<physDesc>
+						<handDesc hands="3">
+							<handNote xml:id="mainA">Main principale</handNote>
+							<handNote xml:id="mainB">Main B</handNote>
+							<handNote xml:id="mainC">Main C</handNote>
+							<handNote xml:id="mainD">Main D</handNote>
+							<handNote xml:id="mainE">Main E</handNote>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 	</teiHeader>
@@ -3651,7 +3666,7 @@
 			</div>
 			<div>
 				<p><pb facs="#f060"/></p>
-				<p rend="indent(3)">(E)<note xml:id="note_f060_0006">Nouvelle et dernière main du ms. (plus tardive?) Ecriture cursive très expressive</note> Zoglioxa<note xml:id="note_f060_0001">Ms. suivi d'une lettre ("F"?) dont la fonction et le sens restent obscurs - (cf "Corona", l.1)</note><handShift new="mainE"></handShift></p>
+				<p rend="indent(3)">(E)<note xml:id="note_f060_0006">Nouvelle et dernière main du ms. (plus tardive?) Ecriture cursive très expressive</note> Zoglioxa<note xml:id="note_f060_0001">Ms. suivi d'une lettre ("F"?) dont la fonction et le sens restent obscurs - (cf "Corona", l.1)</note><handShift new="mainE"/></p>
 				<p><lb/></p>
 				<p>Prima<note xml:id="note_f060_0005">Aucune indication sur la distribution de la danse. On suppose une bassadanza, pour un nombre indéterminé de personnes</note> continanze due<note xml:id="note_f060_0002">Ms. "II" les chiffres romains pour indiquer le nombre de pas sont utilisés exclusivement par cette main. Cette manière de transcrire le "deux", vaut pour le reste de la danse. Pour la normalisation en lettres, étant donné que cette main ne donne pas d'exempe précédent en toute lettre, nous optons pour les formes due (f.) et dui (m.), les plus courantes dans le ms. </note> comenzando suxo el pede stanco, passi</p>
 				<p>dui sempi passo uno dopio una reprexa drita, passo</p>
