@@ -1897,7 +1897,7 @@
 			<line>con una posada col pè senestr, poi 2 continentie comenzando col</line>
 			<line>pè senestro, poi una reverentia sul pè senestro, et finis.</line>
 			<line><lb/></line>
-			<line rend="indent">m Ignotta nova pure a la fila. P<hi rend="sup">a</hi> 2 continentie comenzando col</line>
+			<line rend="indent"><add place="margin">m</add> Ignotta nova pure a la fila. P<hi rend="sup">a</hi> 2 continentie comenzando col</line>
 			<line rend="indent">senestro, poi 2 p<unclear>a</unclear>ssi e uno dopio comenzando col senestro</line>
 			<line>poi uno passo sempio in detro con una posada col senestro, poi</line>
 			<line>uno altro sempio in detro con una posada col pè dritto apresso</line>
@@ -3235,7 +3235,7 @@
 				<p><lb/></p>
 				<p><lb/></p>
 				<p><lb/></p>
-				<p>Mercantia a ballo, (A)<note xml:id="note_f046_0002">Reprise de la main A jusqu'au 2/3 du f. suivant</note> e va in quatro cioè homini tri e dona<handShift new="mainA"/></p>
+				<p rend="indent(2)">Mercantia a ballo, (A)<note xml:id="note_f046_0002">Reprise de la main A jusqu'au 2/3 du f. suivant</note> e va in quatro cioè homini tri e dona<handShift new="mainA"/></p>
 				<p>una uno homo e una dona inanti per mano, e li dui homini ge vanno</p>
 				<p>driedo per mano, largi l'una chiopa da l'altra passi quatro, fazando</p>
 				<p>nel principio tutti inseme tempi XI de saltarello como uno</p>
@@ -3597,7 +3597,7 @@
 				<p>con una posada col pè senestr, poi doe continentie comenzando col</p>
 				<p>pè senestro, poi una reverentia sul pè senestro, et finis.</p>
 				<p><lb/></p>
-				<p>Mignotta nova pure a la fila. Prima<note xml:id="note_f058_0006">Ms. Première occurence dans le ms. de l'abréviation pour ce mot ("P" suivi de a en exposant)</note> doe<note xml:id="note_f058_0005">Voir note plus haut, l.3</note> continentie<note xml:id="note_f058_0004">Ms. A partir d’ici les con/cum sont le plus souvent abrégés en « 9 » tironien</note> comenzando col</p>
+				<p>Mignotta<note xml:id="note_f058_0011">Ms. Initiale d'attente "M" sur le tracé de la marge de gauche</note> nova pure a la fila. Prima<note xml:id="note_f058_0006">Ms. Première occurence dans le ms. de l'abréviation pour ce mot ("P" suivi de a en exposant)</note> doe<note xml:id="note_f058_0005">Voir note plus haut, l.3</note> continentie<note xml:id="note_f058_0004">Ms. A partir d’ici les con/cum sont le plus souvent abrégés en « 9 » tironien</note> comenzando col</p>
 				<p>senestro, poi dui<supplied>a</supplied> pssi<note xml:id="note_f058_0010">Ms. Présence d'une tache  d'encre</note> e uno dopio comenzando col senestro</p>
 				<p>poi uno passo sempio in detro con una posada col senestro, poi</p>
 				<p>uno altro sempio in detro con una posada col pè dritto apresso</p>
