@@ -2442,7 +2442,7 @@
 				<p><lb/></p>
 				<p><lb/></p>
 				<p rend="indent(2)"><seg rend="blue">(A)</seg><note xml:id="note_7v_x">reprise de l'écriture par la 1e main (A) qui écrit seul les premières danses</note>Belreguardo im ballo, cioè uno homo e una dona<handShift new="#mainA"/></p>
-				<p rend="indent"><ref target="note_6e114509483541c58c3902faf5254a5a"><supplied>I</supplied></ref>mprima<note xml:id="note_f7v_a">Ms. Initiale d'attente "I" omise. </note> fano tempi <ref target="note_be133b7c52a14ad3aa5676f45f8fedf2">XI</ref><note xml:id="note_be133b7c52a14ad3aa5676f45f8fedf2">Procopio: transforme en "XV" probablement par comparaison avec Pg, Pa et NY. (Dans V, pas d'indication du nombre de nombre de temps/pas de saltarello). B.Sparti considère les "XI tempi de saltarello" (repris également dans "Belreguardo nuovo" au f.suivant) de Pd corrects mais voit une erreur dans le chiffre de répétition "3" de la partition musicale du ms (à la fin de la 1e mesure) qui devrait être "2". Notons à ce sujet que la répétition "3" apparaît dans V, Pg et Pa et NY. Ces trois derniers changent néanmoins le nombre de pas en 15. Nous gardons XI (en considérant le 3 correct). Pour l'interprétation dansée voir Notes chorégraphiques.</note> de saltarello et afermase; façando</p>
+				<p rend="indent"><ref target="note_6e114509483541c58c3902faf5254a5a"><supplied>I</supplied></ref>mprima<note xml:id="note_f7v_a">Ms. Initiale d'attente "I" omise. </note> fano tempi <ref target="note_be133b7c52a14ad3aa5676f45f8fedf2">XI</ref><note xml:id="note_be133b7c52a14ad3aa5676f45f8fedf2" type="choreography">Procopio: transforme en "XV" probablement par comparaison avec Pg, Pa et NY. (Dans V, pas d'indication du nombre de nombre de temps/pas de saltarello). B.Sparti considère les "XI tempi de saltarello" (repris également dans "Belreguardo nuovo" au f.suivant) de Pd corrects mais voit une erreur dans le chiffre de répétition "3" de la partition musicale du ms (à la fin de la 1e mesure) qui devrait être "2". Notons à ce sujet que la répétition "3" apparaît dans V, Pg et Pa et NY. Ces trois derniers changent néanmoins le nombre de pas en 15. Nous gardons XI (en considérant le 3 correct). Pour l'interprétation dansée voir Notes chorégraphiques.</note> de saltarello et afermase; façando</p>
 				<p rend="indent"/>
 				<p rend="indent"/>
 				<p>dupei quatro de bassadanza inseme, comenzando al pede sinistro</p>
@@ -2466,7 +2466,7 @@
 				<p><pb facs="#f020"/></p>
 				<p rend="indent(2)">Belreguardo novo, e va in homini dui et una dona in mezo e</p>
 				<p rend="indent(2)">balasse sul canto del vechio</p>
-				<p rend="indent">Imprima<note xml:id="note_f8r_b">Initiale d'attente "I" en marge de gauche</note> fano tutti tri de compagnia a mano, tempi <ref target="note_acfdde10d6b74b24b40b48163fdc2f6a">XI</ref><note xml:id="note_acfdde10d6b74b24b40b48163fdc2f6a">Voir Belriguardo (vechio) feuillet précédent, note relative au même chiffre XI, ligne 2.</note></p>
+				<p rend="indent">Imprima<note xml:id="note_f8r_b">Initiale d'attente "I" en marge de gauche</note> fano tutti tri de compagnia a mano, tempi <ref target="note_acfdde10d6b74b24b40b48163fdc2f6a">XI</ref><note xml:id="note_acfdde10d6b74b24b40b48163fdc2f6a" type="choreography">Voir Belriguardo (vechio) feuillet précédent, note relative au même chiffre XI, ligne 2.</note></p>
 				<p>de saltarello, et affermase poi la dona, e nota che tutti dui li homi-</p>
 				<p>ni se parteno ininstante, fazando lo homo denanci dupii dui</p>
 				<p>comenzando cum lo pè sinistro e andagando inanti per mezo la sala</p>
@@ -2554,7 +2554,7 @@
 				<p>e dupii afirmandose.</p>
 				<p><metamark function="paragraph" place="margin left">//</metamark>Ancora nota, che l’homo piglia la dona per mano fazando insieme</p>
 				<p>tempi septe di bassadanza, cio<supplied cert="high" reason="sampling">è</supplied><note>Ms. "e" omis</note> prima<note xml:id="note_f022_0001">Ms. "ri" abrévié par un petit trait vertical add. supralinéaire</note> represe due comenzando col</p>
-				<p>pede sinistro <ref target="note_c929def409db48a5a0f7dcba29924ec2"><supplied>[e sempii dui]</supplied></ref><note xml:id="note_c929def409db48a5a0f7dcba29924ec2">Dans cette séquence chorégraphique tous les autres manuscrits qui contiennent cette première version de Lionzello (pour 2 personnes) mentionnent 2 simples entre les 2 reprises et les deux doubles, ce qui correspond d'ailleurs à la musique. Nous supposons qu'il s'agit d'un oubli du copiste. Voir aussi Procopio p.90</note>e dupii dui e represe due et afermase fazando l’homo</p>
+				<p>pede sinistro <ref target="note_c929def409db48a5a0f7dcba29924ec2"><supplied>[e sempii dui]</supplied></ref><note xml:id="note_c929def409db48a5a0f7dcba29924ec2" type="choreography">Dans cette séquence chorégraphique tous les autres manuscrits qui contiennent cette première version de Lionzello (pour 2 personnes) mentionnent 2 simples entre les 2 reprises et les deux doubles, ce qui correspond d'ailleurs à la musique. Nous supposons qu'il s'agit d'un oubli du copiste. Voir aussi Procopio p.90</note>e dupii dui e represe due et afermase fazando l’homo</p>
 				<p>uno movimento e la dona respondendoge cum un altro, li quali mo-</p>
 				<p>vimenti sono tempi dui in mexura quadernaria. Fine.</p>
 			</div>
@@ -2628,7 +2628,7 @@
 				<p>xura guardando al contrario de li homini, e poi tutti tri in uno instante</p>
 				<p>se moveno fazando tempi quatro di saltarello in sua mexura co-</p>
 				<p>menzando col pè sinistro, intendandose che li homini vadano al contr-</p>
-				<p>ario de la dona cioè loro <ref target="note_bd0f189614ca46a08fba548d88d80180">inanti e la dona indrieto</ref><note xml:id="note_bd0f189614ca46a08fba548d88d80180">Chor. Inanti et indrieto sont à comprendre par rapport au sens de la danse. Il n’en est pas de même dans Pg et Pa, où la dame est dite aller al inanti et les hommes font de même, ce qui sous-entend que l’inanti est ici à comprendre par rapport à chaque danseur</note>.</p>
+				<p>ario de la dona cioè loro <ref target="note_bd0f189614ca46a08fba548d88d80180">inanti e la dona indrieto</ref><note xml:id="note_bd0f189614ca46a08fba548d88d80180" type="choreography">Chor. Inanti et indrieto sont à comprendre par rapport au sens de la danse. Il n’en est pas de même dans Pg et Pa, où la dame est dite aller al inanti et les hommes font de même, ce qui sous-entend que l’inanti est ici à comprendre par rapport à chaque danseur</note>.</p>
 				<p><metamark function="paragraph" place="margin left">//</metamark>Apresso nota che se hanno a fare tempi XVI de bassadanza, cioè li</p>
 				<p>dicti homini e dona seperadi l’uno da l’altro danno una mezavolta sul lado</p>
 				<p>drito cum due ripres, guardandosse nel volto l’uno l’altro.</p>
@@ -2733,7 +2733,7 @@
 				<p>nanti via, cioè l’homo a la dona sua e la dona a lo suo homo.</p>
 				<p><metamark function="paragraph" place="margin left">//</metamark>Or nota che tutti quatro li homini fano una riverentia cum lo pè</p>
 				<p>drito indrieto d’un tempo de bassadanza tocando la man drita dicti</p>
-				<p>homini a la sua dona; e movese li homini fazando tempi <corr evidence="conjecture"><ref target="note_bb9df6beccf34f768d9457dce825a88b">XIV</ref></corr><note xml:id="note_bb9df6beccf34f768d9457dce825a88b">Ms. "XIII"; Nous supposons qu'il s'agit d'une erreur de copie, en regard de la description qui suit: (1 represa+11 dopi+1 ripresa=14)</note> de</p>
+				<p>homini a la sua dona; e movese li homini fazando tempi <corr evidence="conjecture"><ref target="note_bb9df6beccf34f768d9457dce825a88b">XIV</ref></corr><note xml:id="note_bb9df6beccf34f768d9457dce825a88b" type="choreography">Ms. "XIII"; Nous supposons qu'il s'agit d'une erreur de copie, en regard de la description qui suit: (1 represa+11 dopi+1 ripresa=14)</note> de</p>
 				<p>bassadanza cioè una represa sul pè drito cum la dona sua a mano</p>
 				<p>lasandola poi e fazando passi sempii dui e dupii XI comenzando</p>
 			</div>
@@ -3012,7 +3012,7 @@
 				<p>dose per la man drita facendo pasi dui sienpi e uno dopio come-</p>
 				<p>ncando cun lo pede sinistro e finendo cun dito pè andagando d'in-</p>
 				<p>torno, lasendose per dita man, facendo une reprexa su lo pede drito</p>
-				<p><seg change="place"><corr>e pigliandosi per la sinistra</corr></seg><note xml:id="note_f038_0001">Ms. segment de phrase (de "e" à "sinistra") mis entre "/", signalant probablement une position erronée, et devant être inséré à l'endroit de l'autre "/", une ligne plus bas entre "e" et passi". Chor. D'un point de vue chorégraphique cette chorection se justifie, l'homme devant lacher la main de la dame pour pouvoir faire la reprise dans le même sens qu'elle </note>, pasi dui sienpi e uno dopio com-</p>
+				<p><seg change="place"><corr>e pigliandosi per la sinistra</corr></seg><note xml:id="note_f038_0001" type="choreography">Ms. segment de phrase (de "e" à "sinistra") mis entre "/", signalant probablement une position erronée, et devant être inséré à l'endroit de l'autre "/", une ligne plus bas entre "e" et passi". Chor. D'un point de vue chorégraphique cette chorection se justifie, l'homme devant lacher la main de la dame pour pouvoir faire la reprise dans le même sens qu'elle </note>, pasi dui sienpi e uno dopio com-</p>
 				<p>encando cun lo pede sinistro, andagando pure a l'intorno, e lasen-</p>
 				<p>dose per la man, facendo paso uno senpio, zoè lo homo a la via dr-</p>
 				<p>ita e la dona a la via de drieto facendo pure al cuntrario</p>
@@ -3039,7 +3039,7 @@
 				<p>(A)<note xml:id="note_f039_0001">Reprise de la main A pour le début de la danse</note> Imprima va uno de li homini inanti e la dona li va driedo<handShift new="#mainA"/></p>
 				<p>e l'altro homo va driedo a la dona, andagando largi l'uno da l'altro</p>
 				<p>a drito filo passi tri.</p>
-				<p><metamark function="paragraph" place="margin left">//</metamark>Or nota che tutti inseme a la fila fanno tempi tri de moto (saltarello)<note xml:id="note_f039_0002">Ms. "saltarello" encadré en pointillés.  Il s'agit pour Pd probablement du "moto quadernario" décrit dans la partie théorique correspondant à la description du mouvement dans la suite de la phrase. A noter dans V et Pg: remplacé par saltarello todescho.</note> in</p>
+				<p><metamark function="paragraph" place="margin left">//</metamark>Or nota che tutti inseme a la fila fanno tempi tri de moto (saltarello)<note xml:id="note_f039_0002" type="choreography">Ms. "saltarello" encadré en pointillés.  Il s'agit pour Pd probablement du "moto quadernario" décrit dans la partie théorique correspondant à la description du mouvement dans la suite de la phrase. A noter dans V et Pg: remplacé par saltarello todescho.</note> in</p>
 				<p>mexura quadernaria, fazando dicti tri tempi cum passi tri et uno</p>
 				<p>afrapamento uno poco in traverso, comenzando dal pè sinistro, e poi</p>
 				<p>tutti tri inseme dano una volta tonda de bassadanza in lo luogo suo</p>
@@ -3616,8 +3616,8 @@
 				<p>senestro, poi dui<supplied>a</supplied> pssi<note xml:id="note_f058_0010">Ms. Présence d'une tache  d'encre</note> e uno dopio comenzando col senestro</p>
 				<p>poi uno passo sempio in detro con una posada col senestro, poi</p>
 				<p>uno altro sempio in detro con una posada col pè dritto apresso</p>
-				<p>del senestro<note xml:id="note_f058_0007">Chor. var. V: "et tornano sul dritto un passetto in dreto in traverso et un altro sul sinestro pure in traverso".</note>, poi uno dopio inanti col pè dritto, poi doe continentie</p>
-				<p>col senestro<note xml:id="note_f058_0008">Chor. Est-ce une formulation elliptique, pour 2 continenze comenzando col senestro ? Voir commentaire chorégraphique. Ou sont elles à faire sur le même pied, avec un changement d’appui après chacune, au même titre que les fréquents « 3 doubles sur lo pe… » (contrapassi) ? Remarquer que cette formulation, exceptionnelle ici, se retrouve très fréquemment dans M., qui introduit également les continenze uniques</note>, poi doi dopi comenzando col senestro et finendo dal dritto,</p>
+				<p>del senestro<note xml:id="note_f058_0007" type="choreography">Chor. var. V: "et tornano sul dritto un passetto in dreto in traverso et un altro sul sinestro pure in traverso".</note>, poi uno dopio inanti col pè dritto, poi doe continentie</p>
+				<p>col senestro<note xml:id="note_f058_0008" type="choreography">Chor. Est-ce une formulation elliptique, pour 2 continenze comenzando col senestro ? Voir commentaire chorégraphique. Ou sont elles à faire sur le même pied, avec un changement d’appui après chacune, au même titre que les fréquents « 3 doubles sur lo pe… » (contrapassi) ? Remarquer que cette formulation, exceptionnelle ici, se retrouve très fréquemment dans M., qui introduit également les continenze uniques</note>, poi doi dopi comenzando col senestro et finendo dal dritto,</p>
 				<p>poi due continentie comenzando col pè senestro, poi una represa in tra-</p>
 				<p>verso sul pè senestro, poi uno dopio tornando in detro col dritto</p>
 				<p>et uno sempio nel vodo col pè senestro con uno dopio sul pè dritto</p>
@@ -3638,7 +3638,7 @@
 				<p>(B) Corona<note xml:id="note_f059_0004"> Ms. "C" tracé en capitale débordant en marge de gauche, précédé d’une lettre "F" (?) dont le sens reste obscur, non transcrite ici.</note><note xml:id="note_f059_0001">Ecriture très proche de celle du bas du f.7 r. Cette main (B) pourrait peut-être être celle du ms. V (Antonio Carnazzano lui-même?) d'autant que la description de "Corona" ici est, tant au niveau du vocabulaire, de l'orthographe, de la syntaxe que de la chorégraphie, quasi identique à celle de V qui corrige quelques erreurs de celle-ci (Pd) en enlevant quelques précisions inutiles et améliorant légèrement la formulation dans un but pédagogique.  Remarquer que cette danse ne se trouve dans aucun autre ms que Pd et V.</note> bassadança che si fa a la fila. Prima dui passi sempi co-<handShift new="#mainB"/></p>
 				<p>mençando col senestro, poi uno cambiamento començando col</p>
 				<p>senestro con<note xml:id="note_f059_0005">Ms. précédé de "poi" barré</note> dui doppi sul pè dritto, apresso uno dopio sul</p>
-				<p>pede senestro. Apresso uno cambiamento<note xml:id="note_f059_0006">Chor. "Corona" est la seule danse de ce ms. qui mentionne un "cambiamento". Néanmoins, même sans les nommer comme tel, la pratique du changement de pied est courante dans les danses de Pd.</note> comenzando col pè</p>
+				<p>pede senestro. Apresso uno cambiamento<note xml:id="note_f059_0006" type="choreography">Chor. "Corona" est la seule danse de ce ms. qui mentionne un "cambiamento". Néanmoins, même sans les nommer comme tel, la pratique du changement de pied est courante dans les danses de Pd.</note> comenzando col pè</p>
 				<p>dritto con uno dopio sul senestro, con uno sempio sul dritto</p>
 				<p>che è compimento del tempo. Poi<note xml:id="note_f059_0003">Ms. suivi de "si" barré</note> dà meza volta sul canto</p>
 				<p>senestro con uno passo sempio sul pè senestro nel vodo<note xml:id="note_f059_0002">Ms. A partir d'ici on remarque l'écriture qui s'accélère pour devenir cursive. Il n'est pas impossible que la main (D des danses précédentes) soit en réalité la B en cursive. Voir également note précédente</note></p>
@@ -3659,7 +3659,7 @@
 				<p>çando col senestro l'altra sul dritto, saltando sul pè senestro</p>
 				<p>nel vodo con uno dopio sul pè dritto con una represa sul pè</p>
 				<p>senestro in traverso inançi, poi uno passo sempio nel vodo</p>
-				<p>col pè dritto gittandossi su quello et façando una represa<note xml:id="note_f059_0009">Ms. signe d'insertion ("V" à l'envers) entre represa et sul, sans add. correspondante. L’endroit correspond à un passage remanié dans V, où l'on a (pour l’ensemble du passage) "duo continentie con due riprese l'una sul sinestro, l'altra sul dritto saltando sul piè sinestro nel vodo con un doppio sul pie dritto con una ripresa sul piè sinestro in traverso inançi poi uno passo sempio nel vodo col pè dritto gittandosi su quello... (il manque donc 2 represe après les 2 continencie dans Pd). 
+				<p>col pè dritto gittandossi su quello et façando una represa<note xml:id="note_f059_0009" type="choreography">Ms. signe d'insertion ("V" à l'envers) entre represa et sul, sans add. correspondante. L’endroit correspond à un passage remanié dans V, où l'on a (pour l’ensemble du passage) "duo continentie con due riprese l'una sul sinestro, l'altra sul dritto saltando sul piè sinestro nel vodo con un doppio sul pie dritto con una ripresa sul piè sinestro in traverso inançi poi uno passo sempio nel vodo col pè dritto gittandosi su quello... (il manque donc 2 represe après les 2 continencie dans Pd). 
 </note></p>
 				<p>sul gallone senestro inançi. Apresso una volta tonda</p>
 				<p>con una reverentia et è finita.</p>
@@ -3668,7 +3668,7 @@
 				<p><pb facs="#f060"/></p>
 				<p rend="indent(3)">(E)<note xml:id="note_f060_0006">Nouvelle et dernière main du ms. (plus tardive?) Ecriture cursive très expressive</note> Zoglioxa<note xml:id="note_f060_0001">Ms. suivi d'une lettre ("F"?) dont la fonction et le sens restent obscurs - (cf "Corona", l.1)</note><handShift new="#mainE"/></p>
 				<p><lb/></p>
-				<p>Prima<note xml:id="note_f060_0005">Aucune indication sur la distribution de la danse. On suppose une bassadanza, pour un nombre indéterminé de personnes</note> continanze due<note xml:id="note_f060_0002">Ms. "II" les chiffres romains pour indiquer le nombre de pas sont utilisés exclusivement par cette main. Cette manière de transcrire le "deux", vaut pour le reste de la danse. Pour la normalisation en lettres, étant donné que cette main ne donne pas d'exempe précédent en toute lettre, nous optons pour les formes due (f.) et dui (m.), les plus courantes dans le ms. </note> comenzando suxo el pede stanco, passi</p>
+				<p>Prima<note xml:id="note_f060_0005" type="choreography">Aucune indication sur la distribution de la danse. On suppose une bassadanza, pour un nombre indéterminé de personnes</note> continanze due<note xml:id="note_f060_0002">Ms. "II" les chiffres romains pour indiquer le nombre de pas sont utilisés exclusivement par cette main. Cette manière de transcrire le "deux", vaut pour le reste de la danse. Pour la normalisation en lettres, étant donné que cette main ne donne pas d'exempe précédent en toute lettre, nous optons pour les formes due (f.) et dui (m.), les plus courantes dans le ms. </note> comenzando suxo el pede stanco, passi</p>
 				<p>dui sempi passo uno dopio una reprexa drita, passo</p>
 				<p>uno dopio sul pede stanco dui passi sempi et dui dopii</p>
 				<p>ne l'ultimo dopio una reverenzia picolla et torna</p>
