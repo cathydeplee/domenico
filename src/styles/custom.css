@@ -209,3 +209,17 @@ tei-notatedmusic img.inline-image {
   max-width: 450px !important;
   margin: 0 !important;
 }
+
+/* Zones of the facsimile (Annotorious draws each as an `a9s-annotation`
+   group): their outline shows only while the pointer is over the zone, which
+   gives it the `hover` class, or while it is selected. The stroke is made
+   transparent rather than removed, so that the zone still catches the
+   pointer. `!important` takes precedence over Annotorious's own
+   `.a9s-annotation:not(.hover):hover .a9s-inner`. */
+.a9s-annotation:not(.hover):not(.selected) > rect,
+.a9s-annotation:not(.hover):not(.selected) > polygon,
+.a9s-annotation:not(.hover):not(.selected) > path,
+.a9s-annotation:not(.hover):not(.selected) > circle,
+.a9s-annotation:not(.hover):not(.selected) > ellipse {
+  stroke: transparent !important;
+}
