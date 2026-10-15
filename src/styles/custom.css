@@ -198,6 +198,26 @@ tei-metamark {
   color: blue;
 }
 
+/* Paragraph marks (`//`, `<metamark function="paragraph">`): not additions,
+   so in the colour of the text, but placed in the left margin as a
+   left-margin addition is, at the same size so that they sit where they
+   did. */
+tei-metamark[function="paragraph"],
+tei-metamark[data-tei-function="paragraph"] {
+  color: inherit;
+}
+tei-metamark[function="paragraph"][place~="margin"],
+tei-metamark[data-tei-function="paragraph"][data-tei-place~="margin"] {
+  display: inline-block;
+  float: left;
+  clear: left;
+  margin-left: calc(-16em - var(--indent));
+  width: 15em;
+  font-size: 0.8em;
+  line-height: 1em;
+  text-align: right;
+}
+
 /* Notated music image correct size and left-aligned. `!important` takes
    precedence over EditionCrafter's `.editioncrafter .inline-image` without
    naming its class (see the paragraphs above). */
