@@ -130,8 +130,7 @@ tei-supplied {
 
 /* Corrected text (editorial corrections) */
 tei-corr {
-  text-decoration: underline dotted #2b6cb0;
-  text-underline-offset: 3px;
+  color: #4a5568;
 }
 
 /* Unclear text (uncertain readings) */
@@ -198,16 +197,16 @@ tei-metamark {
   color: blue;
 }
 
-/* Paragraph marks (`//`, `<metamark function="paragraph">`): not additions,
-   so in the colour of the text, but placed in the left margin as a
-   left-margin addition is, at the same size so that they sit where they
-   did. */
-tei-metamark[function="paragraph"],
-tei-metamark[data-tei-function="paragraph"] {
+/* Sequence marks (`//`, `<metamark function="sequence">`), which begin a
+   new choreographic sequence: not additions, so in the colour of the text,
+   but placed in the left margin as a left-margin addition is, at the same
+   size so that they sit where they did. */
+tei-metamark[function="sequence"],
+tei-metamark[data-tei-function="sequence"] {
   color: inherit;
 }
-tei-metamark[function="paragraph"][place~="margin"],
-tei-metamark[data-tei-function="paragraph"][data-tei-place~="margin"] {
+tei-metamark[function="sequence"][place~="margin"],
+tei-metamark[data-tei-function="sequence"][data-tei-place~="margin"] {
   display: inline-block;
   float: left;
   clear: left;
