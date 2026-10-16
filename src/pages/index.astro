@@ -19,6 +19,13 @@ const dynamicConfig = {
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Martel:wght@200;300;400;600;700;800;900&display=swap" rel="stylesheet">
+    <!-- Keeps Gallica's images once downloaded and spaces out the requests
+         to Gallica, which blocks bursts (see public/image-cache-sw.js). -->
+    <script is:inline define:vars={{ worker: getUrl('image-cache-sw.js'), scope: getUrl('') }}>
+      if ("serviceWorker" in navigator) {
+        navigator.serviceWorker.register(worker, { scope }).catch(() => {});
+      }
+    </script>
   </head>
   <body>
     <!-- Top Nav Bar -->
