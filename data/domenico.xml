@@ -20,7 +20,7 @@
 					</msIdentifier>
 					<physDesc>
 						<handDesc hands="5">
-							<handNote xml:id="mainA">Main principale</handNote>
+							<handNote xml:id="mainA">Main A (main principale)</handNote>
 							<handNote xml:id="mainB">Main B</handNote>
 							<handNote xml:id="mainC">Main C</handNote>
 							<handNote xml:id="mainD">Main D</handNote>
@@ -1991,7 +1991,7 @@
 				<p><lb/></p>
 				<p><lb/></p>
 				<p><lb/></p>
-				<p rend="indent(3)">1<note xml:id="note-1">Ms. Numéro de § en marge de gauche</note>. <supplied cert="medium" reason="editorial">SEMPRE</supplied><note xml:id="note_f1_02">Ajout ici de "sempre": sur base de la lettre d'attente "s" en marge de gauche, de l'espace laissé avant le premier mot écrit en capitale propisce à recevoir env. 4 ou 5 caractères en capitale, et de la syntaxe qui fait supposer un adverbe.</note> RENGRATIANDO<media url="https://api.nakala.fr/data/10.34847/nkl.bc417050/6ea381d74d6a0e87b0d8360ccdcfcb43c311648c" mimeType="video/mp4"><desc>This is an example video, unrelated to the website</desc></media><handShift new="#mainA"/></p>
+				<p rend="indent(3)">1<note xml:id="note-1">Ms. Numéro de § en marge de gauche</note>. <supplied cert="medium" reason="editorial">SEMPRE</supplied><note xml:id="note_f1_02">Ajout ici de "sempre": sur base de la lettre d'attente "s" en marge de gauche, de l'espace laissé avant le premier mot écrit en capitale propisce à recevoir env. 4 ou 5 caractères en capitale, et de la syntaxe qui fait supposer un adverbe.</note> RENGRATIANDO<media url="https://api.nakala.fr/data/10.34847/nkl.bc417050/6ea381d74d6a0e87b0d8360ccdcfcb43c311648c" mimeType="video/mp4"><desc>This is an example video, unrelated to the website</desc></media><handShift/></p>
 				<p rend="indent(3)">el grande e triumfante Idio de li intelecti che per</p>
 				<p rend="indent(3)">gratia da lui sono imfusi, et a lui solo dato li</p>
 				<p rend="indent(3)">sia honore et gloria de tutte le operatione<note>Ms: suivi de i(n) en fin de ligne redondant avec le début du mot suivant</note></p>
@@ -2208,7 +2208,7 @@
 				<p>el suo tempo in lo vuodo como la bassadanza. E de mazore</p>
 				<p>perfecto, ma li è differentia de distantia, como è dicto disopra, è</p>
 				<p>più strecto uno terzo da la bassadanza, e da la quadernaria uno se-</p>
-				<p>sto. E nota che la piva, ch'è de menore <sic>im</sic>perfecto<note xml:id="note_f4r21">Ms. "im" souligné en pointillé pour signaler une erreur (avec hésitation?). Il est dit plus haut en effet que la piva est mineure parfaite</note>, <corr evidence="conjecture">ha</corr><note xml:id="note_f4r22">Ms. "è" : probable erreur, le verbe avoir correspond mieux à la construction grammaticale de la phrase</note> el suo nasci-</p>
+				<p>sto. E nota che la piva, ch'è de menore <corr>perfecto</corr><note xml:id="note_f4r21">Ms. "imperfecto" avec le "im" souligné en pointillé pour signaler une erreur (avec hésitation?). Il est dit plus haut en effet que la piva est mineure parfaite</note>, <corr evidence="conjecture">ha</corr><note xml:id="note_f4r22">Ms. "è" : probable erreur, le verbe avoir correspond mieux à la construction grammaticale de la phrase</note> el suo nasci-</p>
 				<p>mento de la quadernaria, perché se comenza el suo motto del tempo</p>
 				<p>in lo pieno como la quadernaria; ma li è differentia de distan-</p>
 				<p>tia, che questa mexura dicta piva cala uno terzo da la quadernaria</p>
@@ -2218,8 +2218,7 @@
 				<p>più presto e più largo, e per questo modo se fa differente el motto corporeo.</p>
 			</div>
 			<div>
-				<p><pb facs="#f013"/></p>
-				<p rend="indent(6)">(B)<note xml:id="note_f013_0001">Début de séquence d'une 2e main (B), qui couvre l'entièreté du feuillet.</note><ref target="note_8bf792fe93dc41fe87c147722ae1b82e">Capo</ref><note xml:id="note_8bf792fe93dc41fe87c147722ae1b82e">Le tableau /charte de ce feuillet est repris avec des variantes et sans la règle verticale (avec par conséquent une compréhension des termes parfois très étranges) dans les ms M, S, NY. Dans V, il est (par la même main (B) qu'ici ?) substentiellement tranformé par Cornozzano qui place la piva en haut. La présente transcription ne respecte que partiellement la mise en page, ni les couleurs pour raisons techniques. Les pieds de mouche initiant chaque paragraphe ne sont pas reproduits non plus. Les coupures dans les § opérés par la règle verticale dans l'original sont remplacés dans la transcription diplomatique par des tirets (-).</note></p>
+				<p rend="indent(6)"><pb facs="#f013"/><handShift/><note xml:id="note_f013_0001">Début de séquence d'une 2e main (B), qui couvre l'entièreté du feuillet.</note><ref target="note_8bf792fe93dc41fe87c147722ae1b82e">Capo</ref><note xml:id="note_8bf792fe93dc41fe87c147722ae1b82e">Le tableau /charte de ce feuillet est repris avec des variantes et sans la règle verticale (avec par conséquent une compréhension des termes parfois très étranges) dans les ms M, S, NY. Dans V, il est (par la même main (B) qu'ici ?) substentiellement tranformé par Cornozzano qui place la piva en haut. La présente transcription ne respecte que partiellement la mise en page, ni les couleurs pour raisons techniques. Les pieds de mouche initiant chaque paragraphe ne sont pas reproduits non plus. Les coupures dans les § opérés par la règle verticale dans l'original sont remplacés dans la transcription diplomatique par des tirets (-).</note></p>
 				<p/>
 				<p>Io sono bassadança de le mesure regina, e merito de portare</p>
 				<p>corona. Et in l'operare de mi poche genti hano ragione. E chi</p>
@@ -2426,7 +2425,7 @@
 				<p>de le danze.</p>
 				<p><lb/></p>
 				<p/>
-				<p><seg>(B)</seg><note xml:id="note_f7r_x">Le § qui commence ici et se termine à la fin du feuillet est écrit d'une autre main (B) (la même que celle du tableau, au f. 4v?)</note> Le infrascripte dançe sono composte, cusì il canto come le<handShift new="#mainB"/></p>
+				<p><handShift new="#mainB"/><note xml:id="note_f7r_x">Le § qui commence ici et se termine à la fin du feuillet est écrit d'une autre main (B) (la même que celle du tableau, au f. 4v?)</note> Le infrascripte dançe sono composte, cusì il canto come le</p>
 				<p>parole, per lo spectabile et egregio cavagliero misser</p>
 				<p>Domenico da Piasença, salvo che il canto de la Figlia Guiliel</p>
 				<p>mino che è ballatta francese, et sopra esso canto el dicto</p>
@@ -2441,8 +2440,9 @@
 				<p><lb/></p>
 				<p><lb/></p>
 				<p><lb/></p>
-				<p rend="indent(2)"><seg rend="blue">(A)</seg><note xml:id="note_7v_x">reprise de l'écriture par la 1e main (A) qui écrit seul les premières danses</note>Belreguardo im ballo, cioè uno homo e una dona<handShift new="#mainA"/></p>
-				<p rend="indent"><ref target="note_6e114509483541c58c3902faf5254a5a"><supplied>I</supplied></ref>mprima<note xml:id="note_f7v_a">Ms. Initiale d'attente "I" omise. </note> fano tempi <ref target="note_be133b7c52a14ad3aa5676f45f8fedf2">XI</ref><note xml:id="note_be133b7c52a14ad3aa5676f45f8fedf2" type="choreography">Procopio: transforme en "XV" probablement par comparaison avec Pg, Pa et NY. (Dans V, pas d'indication du nombre de nombre de temps/pas de saltarello). B.Sparti considère les "XI tempi de saltarello" (repris également dans "Belreguardo nuovo" au f.suivant) de Pd corrects mais voit une erreur dans le chiffre de répétition "3" de la partition musicale du ms (à la fin de la 1e mesure) qui devrait être "2". Notons à ce sujet que la répétition "3" apparaît dans V, Pg et Pa et NY. Ces trois derniers changent néanmoins le nombre de pas en 15. Nous gardons XI (en considérant le 3 correct). Pour l'interprétation dansée voir Notes chorégraphiques.</note> de saltarello et afermase; façando</p>
+				<p rend="indent(2)"><handShift new="#mainA"/><note xml:id="note_7v_x">reprise de l'écriture par la 1e main (A) qui écrit seul les premières danses</note>Belreguardo im ballo, cioè uno homo e una dona</p>
+				<p rend="indent"><ref target="note_6e114509483541c58c3902faf5254a5a"><supplied>I</supplied></ref>mprima<note xml:id="note_f7v_a">Ms. Initiale d'attente "I" omise. </note> fano tempi <ref target="note_be133b7c52a14ad3aa5676f45f8fedf2">XI</ref><note xml:id="note_be133b7c52a14ad3aa5676f45f8fedf2">Ed. Procopio: transforme en "XV" probablement par comparaison avec Pg, Pa et NY. (Dans V, pas d'indication du nombre de nombre de temps/pas de saltarello). B.Sparti considère les "XI tempi de saltarello" (repris également dans "Belreguardo nuovo" au f.suivant) de Pd corrects mais voit une erreur dans le chiffre de répétition "3" de la partition musicale du ms (à la fin de la 1e mesure) qui devrait être "2". Notons à ce sujet que la répétition "3" apparaît dans V, Pg et Pa et NY. Ces trois derniers changent néanmoins le nombre de pas en 15. Nous gardons XI (en considérant le 3 correct). Pour l'interprétation dansée voir Notes chorégraphiques.</note><note xml:id="note_f019_0001" type="choreography">Chor. « tempi XI de saltarello » : faire 11 temps de saltarello sur les deux premières séquences musicale (la première étant répétée 3 fois) revient à faire 3 pas de saltarello par séquence (et non pas 4  chez Pg qui indique 15 temps), ce qui correspond d’ailleurs au dessin des notes sur la partition. Dans la danse, sur la musique, cette option moins « carrée » donne une sensation de léger déséquilibre que pourrait rechercher Domenico et être une de ses spécificités. Cela pourrait justifier aussi l'intrata à la fin de la partition de V qui correspond plus ou moins au tiers de la séquence.
+</note> de saltarello et afermase; façando</p>
 				<p rend="indent"/>
 				<p rend="indent"/>
 				<p>dupei quatro de bassadanza inseme, comenzando al pede sinistro</p>
@@ -2662,7 +2662,7 @@
 				<p>fazando tempi dui de piva; nota che li dicti homini e dona</p>
 				<p>se ritrovano ne le poste loro como erano nel principio de la danza,</p>
 				<p>fazando uno movimento, et è fine.</p>
-				<p rend="indent"><seg>(C)</seg><note xml:id="note_f11r_a"> Intervention d'une 3e main (C), probablement moins expérimentée, interrompue au milieu de la danse</note> La Giloxia in canto<handShift new="#mainC"/></p>
+				<p rend="indent"><handShift new="#mainC"/><note xml:id="note_f11r_a"> Intervention d'une 3e main (C), probablement moins expérimentée, interrompue au milieu de la danse</note> La Giloxia in canto</p>
 				<p><lb/></p>
 				<p><lb/></p>
 				<p><lb/></p>
@@ -2688,12 +2688,12 @@
 				<p>so la dona de driedo, e tochandogie la man drita cun una river-</p>
 				<p>enthia, e afermasse.</p>
 				<p>Ora nota che lo homo che havea per man la dita dona de driedo fa</p>
-				<p>tenpo uno de saltarelo in mexura quadernaria chomençando cun lo (A)<note xml:id="note_f11v_a">reprise par la 1e main A</note><handShift new="#mainC"/></p>
-				<p>pè drito et andagando<note xml:id="note_f027_0001">Suivi d'un signe d'insertion renvoyant à l'add. en marge de gauche, de la main A </note> equale a la dona de mezo a la man sua stanca.</p>
-				<p>L’homo che se ritrova apresso la dona de drieto va<note xml:id="note_f027_0002">Ms. fin de la séquence en marge</note> drieto a le spale de la dona de drieto, ritrovan-</p>
-				<p>dose esserge equale a la mane sua stanca (C)<note xml:id="note_f11v_d">nouvelle petite tentative de la main C qui ne durera que 4 mots</note> cun lo saltarelo predito.<handShift new="#mainC"/></p>
-				<p><metamark function="sequence" place="margin left">//</metamark>(A)<note xml:id="note_f11v_c">reprise de la 1e main (A)</note> Ancora nota che tutti homini e done se moveno fazando tempi<handShift new="#mainA"/></p>
-				<p>octo de piva, l’uno chiopa drieto a l’altra per ordine, e ferma<corr>nose</corr><note xml:id="note_f11v_e">Ms. fermaseno, probable inversion des syllabes corrigée ici</note></p>
+				<p>tenpo uno de saltarelo in mexura quadernaria chomençando cun lo<handShift new="#mainC"/><note xml:id="note_f11v_a">reprise par la 1e main A</note></p>
+				<p>pè drito et andagando<note xml:id="note_f027_0001">Ms. Suivi d'un signe d'insertion renvoyant à l'add. en marge de gauche (de la main A). L'add. (ci-après) est ici insérée à la place désignée par le signe </note> <seg rend="italic"><corr>equale a la dona de mezo a la man sua stanca</corr>.</seg></p>
+				<p><seg rend="italic"><corr>L’homo che se ritrova apresso la dona de drieto va</corr></seg>drieto a le spale de la dona de drieto, ritrovan-</p>
+				<p>dose esserge equale a la mane sua stanca<handShift new="#mainC"/><note xml:id="note_f11v_d">nouvelle petite tentative de la main C qui ne durera que 4 mots</note> cun lo saltarelo predito.</p>
+				<p><metamark function="sequence" place="margin left">//</metamark><handShift new="#mainA"/> Ancora nota che tutti homini e done se moveno fazando tempi</p>
+				<p>octo de piva, l’uno chiopa drieto a l’altra per ordine, e ferma<corr>nose</corr><note xml:id="note_f11v_e">Ms. "fermaseno", probable inversion des syllabes corrigée ici</note></p>
 				<p>le due chiope de drieto; fazando el primo homo cum la prima dona</p>
 				<p>mezavolta suso lo lato sinistro in uno tempo de piva, e fermanose;</p>
 				<p>la segonda chiopa gli responde fazando el simele, e poi la terza</p>
@@ -2704,11 +2704,11 @@
 				<p>cum lo pè drito, e scambiando posta. Poi se lassano per la mane</p>
 				<p>drita, pigliandose per la sinistra, fazando passi tri sempii comenzando</p>
 				<p>cum lo pè sinistro, ritrovandose a le poste loro, e dagando li homini</p>
-				<p>una mezavolta suso el pè sinistro, pigliando le done per mano; fineMs. fin (ou fiz).</p>
+				<p>una mezavolta suso el pè sinistro, pigliando le done per mano; fine.</p>
 				<p><metamark function="sequence" place="margin left">//</metamark>Nota che l’homo primo che era denanti nel principio de dicta dan-</p>
 				<p>za se ritrova drieto ne la fine, e quello che era de drieto se</p>
 				<p>ritrova in mezo, e quello de mezo si ritrova denanti: sì che l’è</p>
-				<p>necesso che dicta danza se façi volte tre vogliando che cada<corr>u</corr>no<note>Ms. cadanno</note></p>
+				<p>necesso che dicta danza se façi volte tre vogliando che cada<corr>u</corr>no<note>Ms. "cadanno"</note></p>
 				<p>de li homini habino el dover suo.</p>
 				<p><lb/></p>
 				<p rend="indent(3)">Pizochara in canto da sonare</p>
@@ -2773,7 +2773,7 @@
 			</div>
 			<div>
 				<p><pb facs="#f030"/></p>
-				<p rend="indent(3)">(C)<note xml:id="note_f030_0001">Reprise de la main C</note> Verçepe in canto a sonare<handShift new="#mainC"/></p>
+				<p rend="indent(3)"><handShift new="#mainC"/> Verçepe in canto a sonare</p>
 				<p><lb/></p>
 				<p><lb/></p>
 				<p><lb/></p>
@@ -2842,7 +2842,7 @@
 				<p>che è in mezo. E la dona de drie comenza cun lo pè si-</p>
 				<p>nistro ditti dupii e va dal canto de la man sinistra de lo homino</p>
 				<p>de mezo, e afermansse tute doe ditte done.</p>
-				<p><metamark function="sequence" place="margin left">//</metamark>(A)<note xml:id="note_f032_0001">Ms.Reprise de la main A</note> A presso nota che lo primo homo et quello de drieto se move-<handShift new="#mainA"/></p>
+				<p><metamark function="sequence" place="margin left">//</metamark> <handShift new="#mainA"/>A presso nota che lo primo homo et quello de drieto se move-</p>
 				<p>no façando tempi tri de saltarello intorno che hanno apresso</p>
 				<p>ritornando dicti homini a le loro poste, comenzando l'homo de-</p>
 				<p>nanti cum lo pè drito, et andagando da la mano drita de la</p>
@@ -2956,13 +2956,17 @@
 			</div>
 			<div>
 				<p><pb facs="#f036"/></p>
-				<p rend="indent(2)">(C)<note xml:id="note_f036_0001">Ms. reprise de la main C pour un paragraphe</note>Anello a balo, e va homini dui e done doe<handShift new="#mainC"/></p>
-				<p><supplied>I</supplied>mprima<note xml:id="note_f036_0002">Ms. Initiale d'attente omise</note> fano diti homeni e done moti oto di saltarelo</p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p><lb/></p>
+				<p rend="indent(2)"><handShift new="#mainC"/>Anello a balo, e va homini dui e done doe</p>
+				<p rend="indent"><supplied>I</supplied>mprima<note xml:id="note_f036_0002">Ms. Initiale d'attente omise</note> fano diti homeni e done moti oto di saltarelo</p>
 				<p>in mexura de piva, andagando in ciope doe large l'una da l'altra</p>
 				<p>per spacio de pasi quatro, e in c[ap]o de diti tienpi li homeni lasa le</p>
 				<p>done rimanendo in quadro, zoè che cascaduno de loro se guardi</p>
 				<p>ne lo volto, e cosi le done afirmandose.</p>
-				<p><metamark function="sequence" place="margin left"><supplied>//</supplied></metamark>(A)<note xml:id="note_f036_0003">Ms. reprise de la main A; le signe // indiquant une nouvelle séquence, propre à A est omis</note>Nota che tutti dui li homini in instante fano uno movimento<handShift new="#mainA"/></p>
+				<p><metamark function="sequence" place="margin left"><supplied>//</supplied></metamark><note xml:id="note_f036_0003">Ms. Le signe // indiquant une nouvelle séquence, propre à A est omis</note><handShift new="#mainA"/>Nota che tutti dui li homini in instante fano uno movimento</p>
 				<p>e le done ge rispondeno como uno altro poi li homini vano l'uno</p>
 				<p>contra di l'altro fazando tempi dui de saltarello comenzando col</p>
 				<p>pè sinistro finiendo cum lo drito cum mezavolta suso dicto pè ri-</p>
@@ -2989,7 +2993,7 @@
 				<p>una ripresa sul canto drito , pigliando le lor done per mano</p>
 				<p>como de prima, et è finito.</p>
 				<p/>
-				<p rend="indent(3)">(C)<note xml:id="note_f037_0002">Ms. reprise de la main C pour l'entièreté de la danse. La notation musicale ci-après étant d'une autre main que celle des notations précédentes (A?), peut-être est-elle de C aussi</note> Marchexana<note xml:id="note_f037_0001">Ms. suivi de "a ballo" souligné en pointillé</note> in canto<handShift new="#mainC"/></p>
+				<p rend="indent(3)"><handShift new="#mainC"/><note xml:id="note_f037_0002">Ms. reprise de la main C pour l'entièreté de la danse. La notation musicale ci-après étant d'une autre main que celle des notations précédentes (A?), peut-être est-elle de C aussi</note> Marchexana<note xml:id="note_f037_0001">Ms. suivi de "a ballo" souligné en pointillé</note> in canto</p>
 				<p><lb/></p>
 				<p><lb/></p>
 				<p><lb/></p>
@@ -3036,10 +3040,10 @@
 			<div>
 				<p><pb facs="#f039"/></p>
 				<p rend="indent(2)">Iupiter a balo, e va in homeni dui e una dona</p>
-				<p>(A)<note xml:id="note_f039_0001">Reprise de la main A pour le début de la danse</note> Imprima va uno de li homini inanti e la dona li va driedo<handShift new="#mainA"/></p>
+				<p><handShift new="#mainA"/> Imprima va uno de li homini inanti e la dona li va driedo</p>
 				<p>e l'altro homo va driedo a la dona, andagando largi l'uno da l'altro</p>
 				<p>a drito filo passi tri.</p>
-				<p><metamark function="sequence" place="margin left">//</metamark>Or nota che tutti inseme a la fila fanno tempi tri de moto (saltarello)<note xml:id="note_f039_0002" type="choreography">Ms. "saltarello" encadré en pointillés.  Il s'agit pour Pd probablement du "moto quadernario" décrit dans la partie théorique correspondant à la description du mouvement dans la suite de la phrase. A noter dans V et Pg: remplacé par saltarello todescho.</note> in</p>
+				<p><metamark function="sequence" place="margin left">//</metamark>Or nota che tutti inseme a la fila fanno tempi tri de moto<unclear>(saltarello)</unclear><note xml:id="note_f039_0002">Ms. "saltarello" encadré en pointillés. Si l'on supprime le terme, le "motto" en question (sur la mesure de quadernaria) reste indéterminé, d'où le choix de le laisser ici entre (). Dans V et Pg: "saltarello todescho". Pour Pd peut-être il s'agit du "moto quadernario" (décrit dans la partie théorique f.5v)  correspondant à la description du mouvement dans la suite de la phrase.</note> in</p>
 				<p>mexura quadernaria, fazando dicti tri tempi cum passi tri et uno</p>
 				<p>afrapamento uno poco in traverso, comenzando dal pè sinistro, e poi</p>
 				<p>tutti tri inseme dano una volta tonda de bassadanza in lo luogo suo</p>
@@ -3083,7 +3087,7 @@
 				<p>dà una meza volta su lo lato stanco, butandose su lo pè drito</p>
 				<p>e tornando in drie cun dupii dui su lo pede sinistro per mezo dito</p>
 				<p>homo e dita dona dagando una meza volta su lo lato sinistro</p>
-				<p>afirmanose ne lo luogo so de drie. (A)<note xml:id="note_f040_0001">Reprise de la main A, à partir de "E", qui fait dans les lignes suivantes une synthèse du paragraphe précédent que la main C a décrit de manière un peu confuse voire erronée. Cette main A poursuit ensuite jusqu'à la fin de la danse</note> E nota che tutta questa<handShift new="#mainA"/></p>
+				<p>afirmanose ne lo luogo so de drie.<handShift new="#mainA"/><note xml:id="note_f040_0001">Reprise de la main A, qui fait dans les lignes suivantes une synthèse du paragraphe précédent que la main C a décrit de manière un peu confuse voire erronée. Cette main A poursuit ensuite jusqu'à la fin de la danse</note> E nota che tutta questa</p>
 				<p>parte sopradicta se fa per questo modo cioè l'homo denanti fa dupii dui</p>
 				<p>indrieto e quatro inanti e la dona ne fa dui inanti e dui indreto</p>
 				<p>e dui inanti e l'homo de drieto ne fa quatro inanti e dui indrieto</p>
@@ -3110,13 +3114,13 @@
 				<p>poi l'homo denanti e dicta dona dano una mezavolta ritornando</p>
 				<p>ne li luogi sui primi et è fine.</p>
 				<p/>
-				<p rend="indent(3)">(C)<note xml:id="note_f041_0003">La main C reprend pour le titre et la musique</note> La fia guilmin in canto<handShift new="#mainC"/></p>
+				<p rend="indent(3)"><handShift new="#mainC"/><note xml:id="note_f041_0003">La main C reprend pour le titre et la musique</note> La fia guilmin in canto</p>
 			</div>
 			<div>
 				<p><pb facs="#f042"/></p>
 				<p><lb/></p>
 				<p><lb/></p>
-				<p rend="indent">(A)<note xml:id="note_f042_0001">Reprise de la main A pour l'entièreté de la danse et la deuxième version qui suit</note> Questa è una dança chiamata la fiaguielmina laquale foe<handShift new="#mainA"/></p>
+				<p rend="indent"><handShift new="#mainA"/><note xml:id="note_f042_0001">Reprise de la main A pour l'entièreté de la danse et la deuxième version qui suit</note> Questa è una dança chiamata la fiaguielmina laquale foe</p>
 				<p rend="indent">facta el canto suo in Franza, e suzo dicto canto messer Domenego</p>
 				<p>gli fece balli<note xml:id="note_f042_0002">Ms. précédé de "canti" barré</note> dui de liquali questo ne uno e va im persone quatro in</p>
 				<p>chiope due, cioè uno homo et una dona.</p>
@@ -3244,13 +3248,13 @@
 				<p>drita de l'homo trovandose tutti dui equali a li logi soi como nel</p>
 				<p>principio de la danza, e è fine.</p>
 				<p><pb facs="#f046"/></p>
-				<p rend="indent(2)">(C)<note xml:id="note_f046_0001">Titre possiblement de la main C</note> Merca<supplied>n</supplied>tia<note xml:id="note_f046_0006">Ms. "Mercatia", point au dessus du 1e "a" signalant une faute. Nous supléons le "n" sur base du titre repris ci-après et dans les autres ms.</note> in canto<handShift new="#mainC"/></p>
+				<p rend="indent(2)"><handShift new="#mainC"/>Merca<supplied>n</supplied>tia<note xml:id="note_f046_0006">Ms. "Mercatia", point au dessus du 1e "a" signalant une faute. Nous supléons le "n" sur base du titre repris ci-après et dans les autres ms.</note> in canto</p>
 				<p><lb/></p>
 				<p><lb/></p>
 				<p><lb/></p>
 				<p><lb/></p>
 				<p><lb/></p>
-				<p rend="indent(2)">Mercantia a ballo, (A)<note xml:id="note_f046_0002">Reprise de la main A jusqu'au 2/3 du f. suivant</note> e va in quatro cioè homini tri e dona<handShift new="#mainA"/></p>
+				<p rend="indent(2)">Mercantia a ballo, e <handShift new="#mainA"/>va in quatro cioè homini tri e dona</p>
 				<p>una uno homo e una dona inanti per mano, e li dui homini ge vanno</p>
 				<p>driedo per mano, largi l'una chiopa da l'altra passi quatro, fazando</p>
 				<p>nel principio tutti inseme tempi XI de saltarello como uno</p>
@@ -3281,7 +3285,7 @@
 				<p>che fece el compagno, e la dona fa el simele che la fece a lo</p>
 				<p>altro, afirmandose poi l'homo et dona ne le lor poste.</p>
 				<p>Apresso nota che l'homo che denanti dà una mezavolta nel luogo</p>
-				<p>suo guardando in le spale a la dona, e fermase. (C)<note xml:id="note_f047_0001">Reprise de la main C, jusqu'à la fin de la danse</note><handShift new="#mainC"/></p>
+				<p>suo guardando in le spale a la dona, e fermase.<handShift new="#mainC"/></p>
 				<p>Ora nota che li dui humini de drie si se vano a l'incuntro</p>
 				<p>cun tienpi dui di saltarello començando dal pè sinistro e piglia-</p>
 				<p>ndose per la man drita andagando quelo disopra di sota e quello</p>
@@ -3322,7 +3326,7 @@
 				<p><lb/></p>
 				<p><lb/></p>
 				<p><lb/></p>
-				<p rend="indent">(A)<note xml:id="note_f049_0002">Reprise de la main A jusqu'à la moitié du f. suivant</note> Sobria a ballo, e va in homini cinque et una dona<handShift new="#mainA"/></p>
+				<p rend="indent"><handShift new="#mainA"/>Sobria a ballo, e va in homini cinque et una dona</p>
 				<p rend="indent"><supplied>I</supplied>mprima<note xml:id="note_f049_0001">Ms. Initiale d'attente omise, comme dans le reste du ms.</note> vano in chiope tre cioè uno homo et una dona a</p>
 				<p>mano inanti et li homini li vano drieto a mano in chiope due</p>
 				<p>andagando dicte chiope large l'una da l'altra passi quatro e per or-</p>
@@ -3366,12 +3370,12 @@
 				<p>biato posta, e lo terzo tempo se trovino tutti dui drieto a le</p>
 				<p>spale de la dona essendo equali, e uno de loro cioè quello che</p>
 				<p>se ritrova a mano sinistra, cigni cum la mano drita a lo com-</p>
-				<p>pagno che digi coele a la dona, (C)<note xml:id="note_f050_0002">Reprise de la main C sur 3 lignes et demi</note> e l'altro cunpagno cigni a lui<handShift new="#mainC"/></p>
+				<p>pagno che digi coele a la dona,<handShift new="#mainC"/>e l'altro cunpagno cigni a lui</p>
 				<p>cun la man stanca voiando che el faci quello che non a vo-</p>
 				<p>luto fare lui.</p>
 				<p>Nota che la dona senttandose el movimento de drie de di-</p>
 				<p>tti homeni, dà una meça volta cun una ciera tuta tur-</p>
-				<p>bata , voltandose li diti dui homeni (A)<note xml:id="note_f050_0003">Reprise de la main A jusqu'à la fin de la danse</note> in quello instante che<handShift new="#mainA"/></p>
+				<p>bata , voltandose li diti dui homeni<handShift new="#mainA"/>in quello instante che</p>
 				<p>se volta la dona, tornando in le poste loro contrarie cum uno salteto</p>
 				<p>e uno tempo de saltarello comenzando dal pè drito cum meza</p>
 				<p>volta et una possa afirmandose. Poi li altri dui homini fanno</p>
@@ -3409,7 +3413,7 @@
 				<p>fuori de li dicti quatro homini cum tempi quatro de piva presti</p>
 				<p>per paura che li dicti quatro homini non lo afermo, et è fine.</p>
 				<p><lb/></p>
-				<p rend="indent(2)">(C)<note xml:id="note_f051_0003">Reprise de la main C jusqu'à la moitié du f. 24v</note>Tesara in canto a sonare<handShift new="#mainC"/></p>
+				<p rend="indent(2)"><handShift new="#mainC"/>Tesara in canto a sonare</p>
 			</div>
 			<div>
 				<p><pb facs="#f052"/></p>
@@ -3441,7 +3445,7 @@
 				<p>lo traverso afirmandose, façendo li homini moviminti quatro</p>
 				<p>poi le done ge rispundeno cun uno altro; e fase questa</p>
 				<p>parte soprascrita volte doe.</p>
-				<p>Apreso nota che le tre chopie de prima cun l'homo (D)<note xml:id="note_f053_0002">Intervention d'une quatrième main (D), qui écrit cette fois en cursive contrairement aux 3 autres qui adoptent une écriture humanistique</note> che è<handShift new="#mainD"/></p>
+				<p>Apreso nota che le tre chopie de prima cun l'homo<handShift new="#mainD"/><note xml:id="note_f053_0002">Intervention d'une quatrième main (D), qui écrit cette fois en cursive contrairement aux 3 autres qui adoptent une écriture humanistique</note> che è</p>
 				<p>dinanti stano ferme, et l'homo che è de detro piglia la dredana</p>
 				<p>copia andaghando in mezo, e pigliando el panexello da cadauna</p>
 				<p>man façando tempi 12 de piva tucti tri in istante per questo modo</p>
@@ -3635,7 +3639,7 @@
 				<p>et finis.</p>
 				<p/>
 				<p><lb/></p>
-				<p>(B) Corona<note xml:id="note_f059_0004"> Ms. "C" tracé en capitale débordant en marge de gauche, précédé d’une lettre "F" (?) dont le sens reste obscur, non transcrite ici.</note><note xml:id="note_f059_0001">Ecriture très proche de celle du bas du f.7 r. Cette main (B) pourrait peut-être être celle du ms. V (Antonio Carnazzano lui-même?) d'autant que la description de "Corona" ici est, tant au niveau du vocabulaire, de l'orthographe, de la syntaxe que de la chorégraphie, quasi identique à celle de V qui corrige quelques erreurs de celle-ci (Pd) en enlevant quelques précisions inutiles et améliorant légèrement la formulation dans un but pédagogique.  Remarquer que cette danse ne se trouve dans aucun autre ms que Pd et V.</note> bassadança che si fa a la fila. Prima dui passi sempi co-<handShift new="#mainB"/></p>
+				<p> <handShift new="#mainB"/>Corona<note xml:id="note_f059_0004"> Ms. "C" tracé en capitale débordant en marge de gauche, précédé d’une lettre "F" (?) dont le sens reste obscur, non transcrite ici.</note><note xml:id="note_f059_0001">L'écriture de cette danse se rapproche par la l'appui et l'encre de celle du bas du f.7 r. (main B), bien qu'ici elle soit plus cursive.  Cette main (B) pourrait peut-être être celle du ms. V (Antonio Carnazzano lui-même?) d'autant que la description de "Corona" ici est, tant au niveau du vocabulaire, de l'orthographe, de la syntaxe que de la chorégraphie, quasi identique à celle de V qui corrige quelques erreurs de celle-ci (Pd) en enlevant quelques précisions inutiles et améliorant légèrement la formulation dans un but pédagogique.  Remarquer que cette danse ne se trouve dans aucun autre ms que Pd et V.</note> bassadança che si fa a la fila. Prima dui passi sempi co-</p>
 				<p>mençando col senestro, poi uno cambiamento començando col</p>
 				<p>senestro con<note xml:id="note_f059_0005">Ms. précédé de "poi" barré</note> dui doppi sul pè dritto, apresso uno dopio sul</p>
 				<p>pede senestro. Apresso uno cambiamento<note xml:id="note_f059_0006" type="choreography">Chor. "Corona" est la seule danse de ce ms. qui mentionne un "cambiamento". Néanmoins, même sans les nommer comme tel, la pratique du changement de pied est courante dans les danses de Pd.</note> comenzando col pè</p>
@@ -3645,7 +3649,7 @@
 				<p>saltando sul dicto pè, et tornando indetro, et façando uno</p>
 				<p>dopio sul pè dritto dagando meza volta su quello pede</p>
 				<p>medesimo, et façando due represe l'una sul senestro et</p>
-				<p>l'altra <ref target="#note_f059_0007">sul drito</ref><note xml:id="note_f059_0007">Ms. add en marge de gauche</note>. Apresso uno cambiamento començando col pè sene-</p>
+				<p>l'altra <seg><corr>sul drito</corr></seg><note xml:id="note_f059_0007">Ms. add en marge de gauche</note>. Apresso uno cambiamento començando col pè sene-</p>
 				<p>stro con dui dopi sul pè dritto, dagando una meza</p>
 				<p>volta sul pè dritto, façando uno dopio sul senestro</p>
 				<p>et uno altro sul dritto. Apresso uno cambiamento co-</p>
@@ -3666,7 +3670,7 @@
 			</div>
 			<div>
 				<p><pb facs="#f060"/></p>
-				<p rend="indent(3)">(E)<note xml:id="note_f060_0006">Nouvelle et dernière main du ms. (plus tardive?) Ecriture cursive très expressive</note> Zoglioxa<note xml:id="note_f060_0001">Ms. suivi d'une lettre ("F"?) dont la fonction et le sens restent obscurs - (cf "Corona", l.1)</note><handShift new="#mainE"/></p>
+				<p rend="indent(3)"><handShift new="#mainE"/><note xml:id="note_f060_0006">Nouvelle et dernière main (E) du ms. (plus tardive?) Ecriture cursive très expressive</note> Zoglioxa<note xml:id="note_f060_0001">Ms. suivi d'une lettre ("F"?) dont la fonction et le sens restent obscurs - (cf "Corona", l.1)</note></p>
 				<p><lb/></p>
 				<p>Prima<note xml:id="note_f060_0005" type="choreography">Aucune indication sur la distribution de la danse. On suppose une bassadanza, pour un nombre indéterminé de personnes</note> continanze due<note xml:id="note_f060_0002">Ms. "II" les chiffres romains pour indiquer le nombre de pas sont utilisés exclusivement par cette main. Cette manière de transcrire le "deux", vaut pour le reste de la danse. Pour la normalisation en lettres, étant donné que cette main ne donne pas d'exempe précédent en toute lettre, nous optons pour les formes due (f.) et dui (m.), les plus courantes dans le ms. </note> comenzando suxo el pede stanco, passi</p>
 				<p>dui sempi passo uno dopio una reprexa drita, passo</p>
