@@ -654,7 +654,7 @@
 			<line>questo non se pò negare, lo segondo ordine per motto si è la mexura</line>
 			<line>de menor perfecto, la quale è la piva. E nota, como dico disopra in lo</line>
 			<line>capitolo <unclear>XII</unclear>°, che la mexura de la piva cala sesti tri da la bassadanza</line>
-			<line>per mitade. <del rend="strikethrough"><hi>merttando ti</hi></del> Se tu spartirai la mexura de la bassadanza</line>
+			<line>per mitade. <del rend="strikethrough">merttando ti</del> Se tu spartirai la mexura de la bassadanza</line>
 			<line>per mitade, mettando ti dui tempi de piva in uno de bassadanza,</line>
 			<line>tu ritroverai el tuo ordine per motto, e sì tel provo : che uno tempo de</line>
 			<line>piva si è uno dopio, metti adonque dui de quilli dopii in uno de</line>
@@ -664,7 +664,7 @@
 			<line>suo ordine: el primo, chiamato motto quadernario, posse danzare</line>
 			<line>su la bassadanza, el quale motto quadernario ge consiste in suo</line>
 			<line>compimento uno dopio cum uno frapamento in uno tempo y</line>
-			<line>E ti <q rend="sic">galante</q> poi mettere questo motto in uno tempo de bassadanza,</line>
+			<line>E ti <seg><sic>galante</sic></seg> poi mettere questo motto in uno tempo de bassadanza,</line>
 			<line>ma serà alquanto un poco largo : como dico disopra in lo capitollo</line>
 			<line>XI°, esser più strecta uno sexto la quadernaria de la bassadanza. M-</line>
 			<line>a per cavare fuora tutte le dubitatione, nota che questo motto q-</line>
@@ -1022,7 +1022,7 @@
 			<line>enthia, e afermasse.</line>
 			<line>Ora nota che lo homo che havea per man la dita dona de driedo fa</line>
 			<line>tenpo uno de saltarelo in mexura quadernaria chomençando cun lo<handShift new="#mainA"/></line>
-			<line>pè drito et andagando <metamark target="#add-f027-1">V</metamark> <add place="margin" xml:id="add-f027-1"><handShift/>equale a la dona de<lb/>mezo a la man sua stanca<lb/>L’homo che se ritrova<lb/>apresso la dona de dr<lb/>ieto va</add>drieto a le spale de la dona de drieto, ritrovan-</line>
+			<line>pè drito et andagando <metamark target="#add-f027-1b" function="insertion">V</metamark> <add place="margin" xml:id="add-f027-1"><handShift/><add xml:id="add-f027-1b">equale a la dona de<lb/>mezo a la man sua stanca<lb/>L’homo che se ritrova<lb/>apresso la dona de dr<lb/>ieto va</add></add>drieto a le spale de la dona de drieto, ritrovan-</line>
 			<line>dose esserge equale a la mane sua stanca <handShift new="#mainC"/>cun lo saltarelo predito.</line>
 			<line><metamark function="sequence" place="margin left">//</metamark><handShift new="#mainA"/>Ancora nota che tutti homini e done se moveno fazando tempi</line>
 			<line>octo de piva l’uno chiopa drieto a l’altra per ordine e fermanose</line>
@@ -1538,8 +1538,8 @@
 			<line>dona li responde como un'altro dopio simele a quello afirman-</line>
 			<line>dose et l'homo ge risponde como uno passo sempio comenzando</line>
 			<line>col pè sinistro retirandose apresso el drito e afermase. La dona</line>
-			<line>li risponde cum quello medemo<add place="top"> /</add><add place="above">afir</add> poi l'homo se move fazando</line>
-			<line>una volta tonda in lo luogo suo<add place="top">/</add> in la quale li consiste passi tri</line>
+			<line>li risponde cum quello medemo <metamark>/</metamark><add place="above">afir</add> poi l'homo se move fazando</line>
+			<line>una volta tonda in lo luogo suo<metamark>/</metamark> in la quale li consiste passi tri</line>
 			<line>sempii cum uno salteto començando dal pè sinistro afirmandose.</line>
 			<line>La dona li responde cum tempi tri de piva façando una volta</line>
 			<line>tonda alquanto grande ritornando nel luogo suo e fermase tanto</line>
@@ -1857,8 +1857,8 @@
 			<line>çando fine dal senestro, poi in instante la dona insieme con</line>
 			<line>costoro fa<del rend="strikethrough">n</del> una volta tonda onde <unclear>c</unclear>onsiste dui passi sempi</line>
 			<line>et una represa començando col pè dritto, et faç<seg><sic>a</sic></seg>ndo fine dal</line>
-			<line>senestro in la sua posta medesima <hi rend="italic"><add><del rend="strikethrough">V</del></add></hi>. Poi in instante fano tucti tri</line>
-			<line>una reverentia sul pè senestro <hi rend="italic"><add>V</add></hi> <add>°</add> poi se partono tucti tre <metamark target="#add-f056-right">&lt;</metamark><add place="margin right" xml:id="add-f056-right"><hi rend="italic">°</hi> Poi la dona<lb/>sola se parte<lb/> façando dui<lb/>passi sempi et<lb/>quatro doppi com-<lb/>ançando dal senestro<lb/>a guisa de S<lb/>façando tucti tre<lb/>in instante due re<lb/>prese una sul pè se-<lb/>nestro, l'altra sul<lb/>dritto</add></line>
+			<line>senestro in la sua posta medesima <del rend="strikethrough">V</del>. Poi in instante fano tucti tri</line>
+			<line>una reverentia sul pè senestro <metamark target="#add-f056-right" function="insertion" place="below">V°</metamark>  poi se partono tucti tre &lt;<add place="margin right" xml:id="add-f056-right">&lt;° Poi la dona<lb/>sola se parte<lb/> façando dui<lb/>passi sempi et<lb/>quatro doppi com-<lb/>ançando dal senestro<lb/>a guisa de S<lb/>façando tucti tre<lb/>in instante due re<lb/>prese una sul pè se-<lb/>nestro, l'altra sul<lb/>dritto</add></line>
 			<line>in instante cioè façando la dona dui passi <add place="top">sempi </add>et dui doppi co-</line>
 			<line>menzando col pè senestro, et façando fine dal dritto</line>
 		</surface>
@@ -1943,7 +1943,7 @@
 			<line>saltando sul dicto pè, et tornando indetro, et façando uno</line>
 			<line>dopio sul pè dritto dagando meza volta su quello pede</line>
 			<line>medesimo, et façando due represe l'una sul senestro et</line>
-			<line>l'altra <add><hi rend="ital">V</hi></add> <add place="margin">sul drito</add>. Apresso uno cambiamento començando col pè sene-</line>
+			<line>l'altra <metamark target="#add_sul_drito_f27v" function="insertion">V</metamark> <add place="margin" xml:id="add_sul_drito_f27v">sul drito</add>. Apresso uno cambiamento començando col pè sene-</line>
 			<line>stro con dui dopi sul pè dritto, dagando una meza</line>
 			<line>volta sul pè dritto, façando uno dopio sul senestro</line>
 			<line>et uno altro sul dritto. Apresso uno cambiamento co-</line>
@@ -1955,7 +1955,7 @@
 			<line>volta sul lato senestro con una represa sul pè dritto in</line>
 			<line>traverso tornando in detro. Apresso doe continentie comen-</line>
 			<line>çando col senestro l'altra sul dritto, saltando sul pè senestro</line>
-			<line>nel vodo con uno dopio sul pè dritto con una represa <add><hi rend="ital">V</hi></add> sul pè</line>
+			<line>nel vodo con uno dopio sul pè dritto con una represa <metamark function="insertion">V </metamark>sul pè</line>
 			<line>senestro in traverso inançi, poi uno passo sempio nel vodo</line>
 			<line>col pè dritto gittandossi su quello et façando una represa</line>
 			<line>sul gallone senestro inançi. Apresso una volta tonda</line>
@@ -1997,11 +1997,11 @@
 				<p rend="indent(3)">sia honore et gloria de tutte le operatione<note>Ms: suivi de i(n) en fin de ligne redondant avec le début du mot suivant</note></p>
 				<p rend="indent(3)">intelectuale e moralle. E vogliando el</p>
 				<p>spectable e nobele cavaliero messer Domenigino piacentino tra-</p>
-				<p>ctare <ref target="note_0e136f54f0d64a489e7bbfa06e39e84e">del moto corporeo</ref><note xml:id="note_0e136f54f0d64a489e7bbfa06e39e84e">Ms. add. en marge de gauche d'une encre plus foncée, avec signe d'insertion dans le texte après 'tractare'</note> cum grande reverentia, impetra a Quello che sempre per sua sancta</p>
+				<p>ctare <ref target="note_0e136f54f0d64a489e7bbfa06e39e84e">del moto corporeo</ref><note xml:id="note_0e136f54f0d64a489e7bbfa06e39e84e">Ms. add. en marge de gauche d'une encre plus foncée. Nous l'insérons ici à la place voulue par le signe d'insertion "V"</note> cum grande reverentia, impetra a Quello che sempre per sua sancta</p>
 				<p>humanitade s’è dignato de soccorere el dicto operante e tractante de</p>
 				<p>questa materia a bon fine. E pur volendo molti opponere a questo m-</p>
 				<p>oto azele e pelegrino opera<corr evidence="internal">do</corr><note xml:id="note_c49cc2d15a0545f9b7dd7df8e7f3d17c">Ms: "n" gratté entre "a" et "d", à comprendre par conséquent comme un participe passé (operato) plus plausible syntaxiquement qu'un gérondif (operando).</note> cum grande subtilitade e fatica che sia</p>
-				<p>venerea e de perditione de tempo, l’operante argumenta <ref target="note_4533c62045894b12bdb381602da9af59">in lo 2° de l’Heticha</ref><note xml:id="note_4533c62045894b12bdb381602da9af59">Ms. add. manchette de référence en marge de droite de la même main. Pour l'Ethique à Nicomaque de Aristote</note></p>
+				<p>venerea e de perditione de tempo, l’operante argumenta <ref target="note_4533c62045894b12bdb381602da9af59">in lo 2° de l’Heticha</ref><note xml:id="note_4533c62045894b12bdb381602da9af59">Ms. add. manchette d'autorité en marge de droite de la même main. Pour l'"Ethique" à Nicomaque de Aristote</note></p>
 				<p>contra di questo, dicendo lui che tutte le cosse se corompono e guasta[n]se se</p>
 				<p>le sono conducte e menate <unclear cert="medium">indivise</unclear><note target="#note_f1_05" xml:id="note_f1_05">Ms. tilde ondulé de forme inhabituelle sur le 2e "i" pour signaler une abréviation ou une omission peu claires. Première hypothèse, retenue ici: abréviation inhabituelle pour "indivisamente". Autre hypothèse : abbréviation hâtive pour "in diverse vie" cf : Procopio: "in diverse"; Neville: "ind(i)verse" (p.112 n.60)</note>, cioè per le operatione extreme,</p>
 				<p>e la mezanitade conserva. E bene ch’el savio <ref target="note_463adc62d23446cd9fe8ba6473ce1a89">Aristotele</ref><note target="#note_f1_z" xml:id="note_f1_z">Ms. Manchette d'autorité en marge de droite: Aristote</note> tractasse del motto</p>
@@ -2312,7 +2312,7 @@
 				<p>suo ordine. El primo, chiamato motto quadernario, posse danzare</p>
 				<p>su la bassadanza, el quale motto quadernario ge consiste in suo</p>
 				<p>compimento uno dopio cum uno frapamento in uno tempo.</p>
-				<p>E ti <sic>galante</sic><note xml:id="note_f5v_d">Ms. "galante" laissé ici (par négligence?), contrairement aux § plus hauts où il est effacé</note> poi mettere questo motto in uno tempo de bassadanza,</p>
+				<p>E ti <orig>galante</orig><note xml:id="note_f5v_d">Ms. "galante" laissé ici (par négligence?), contrairement aux § plus hauts où il est effacé</note> poi mettere questo motto in uno tempo de bassadanza,</p>
 				<p>ma serà alquanto un poco largo : como dico disopra in lo capitollo</p>
 				<p>XI°, esser più strecta uno sexto la quadernaria de la bassadanza. <corr evidence="internal">Ma</corr><note xml:id="note_f5v_b">Correction de coupure de mot peu conforme</note></p>
 				<p>per cavare fuora tutte le dubitatione, nota che questo motto</p>
@@ -2441,7 +2441,7 @@
 				<p><lb/></p>
 				<p><lb/></p>
 				<p rend="indent(2)"><handShift new="#mainA"/><note xml:id="note_7v_x">reprise de l'écriture par la 1e main (A) qui écrit seul les premières danses</note>Belreguardo im ballo, cioè uno homo e una dona</p>
-				<p rend="indent"><ref target="note_6e114509483541c58c3902faf5254a5a"><supplied>I</supplied></ref>mprima<note xml:id="note_f7v_a">Ms. Initiale d'attente "I" omise. </note> fano tempi <ref target="note_be133b7c52a14ad3aa5676f45f8fedf2">XI</ref><note xml:id="note_be133b7c52a14ad3aa5676f45f8fedf2">Ed. Procopio: transforme en "XV" probablement par comparaison avec Pg, Pa et NY. (Dans V, pas d'indication du nombre de nombre de temps/pas de saltarello). B.Sparti considère les "XI tempi de saltarello" (repris également dans "Belreguardo nuovo" au f.suivant) de Pd corrects mais voit une erreur dans le chiffre de répétition "3" de la partition musicale du ms (à la fin de la 1e mesure) qui devrait être "2". Notons à ce sujet que la répétition "3" apparaît dans V, Pg et Pa et NY. Ces trois derniers changent néanmoins le nombre de pas en 15. Nous gardons XI (en considérant le 3 correct). Pour l'interprétation dansée voir Notes chorégraphiques.</note><note xml:id="note_f019_0001" type="choreography">Chor. « tempi XI de saltarello » : faire 11 temps de saltarello sur les deux premières séquences musicale (la première étant répétée 3 fois) revient à faire 3 pas de saltarello par séquence (et non pas 4  chez Pg qui indique 15 temps), ce qui correspond d’ailleurs au dessin des notes sur la partition. Dans la danse, sur la musique, cette option moins « carrée » donne une sensation de léger déséquilibre que pourrait rechercher Domenico et être une de ses spécificités. Cela pourrait justifier aussi l'intrata à la fin de la partition de V qui correspond plus ou moins au tiers de la séquence.
+				<p rend="indent"><ref target="note_6e114509483541c58c3902faf5254a5a"><supplied>I</supplied></ref>mprima<note xml:id="note_f7v_a">Ms. Initiale d'attente "I" omise. </note> fano tempi <ref target="note_be133b7c52a14ad3aa5676f45f8fedf2">XI</ref><note xml:id="note_be133b7c52a14ad3aa5676f45f8fedf2">Ed. Procopio: transforme en "XV" probablement par comparaison avec Pg, Pa et NY. (Dans V, pas d'indication du nombre de nombre de temps/pas de saltarello). B.Sparti considère les "XI tempi de saltarello" (repris également dans "Belreguardo nuovo" au f.suivant) de Pd corrects mais voit une erreur dans le chiffre de répétition "3" de la partition musicale du ms (à la fin de la 1e mesure) qui devrait être "2". Notons à ce sujet que la répétition "3" apparaît dans V, Pg et Pa et NY. Ces trois derniers changent néanmoins le nombre de pas en 15. Nous gardons XI (en considérant le 3 correct). Pour l'interprétation dansée voir note ci-après.</note><note xml:id="note_f019_0001" type="choreography">Chor. « tempi XI de saltarello » : faire 11 temps de saltarello sur les deux premières séquences musicale (la première étant répétée 3 fois) revient à faire 3 pas de saltarello par séquence (et non pas 4  chez Pg qui indique 15 temps), ce qui correspond d’ailleurs au dessin des notes sur la partition. Dans la danse, sur la musique, cette option moins « carrée » donne une sensation de léger déséquilibre que pourrait rechercher Domenico et être une de ses spécificités. Cela pourrait justifier aussi l'intrata à la fin de la partition de V qui correspond plus ou moins au tiers de la séquence.
 </note> de saltarello et afermase; façando</p>
 				<p rend="indent"/>
 				<p rend="indent"/>
@@ -2554,7 +2554,7 @@
 				<p>e dupii afirmandose.</p>
 				<p><metamark function="sequence" place="margin left">//</metamark>Ancora nota, che l’homo piglia la dona per mano fazando insieme</p>
 				<p>tempi septe di bassadanza, cio<supplied cert="high" reason="sampling">è</supplied><note>Ms. "e" omis</note> prima<note xml:id="note_f022_0001">Ms. "ri" abrévié par un petit trait vertical add. supralinéaire</note> represe due comenzando col</p>
-				<p>pede sinistro <ref target="note_c929def409db48a5a0f7dcba29924ec2"><supplied>[e sempii dui]</supplied></ref><note xml:id="note_c929def409db48a5a0f7dcba29924ec2" type="choreography">Dans cette séquence chorégraphique tous les autres manuscrits qui contiennent cette première version de Lionzello (pour 2 personnes) mentionnent 2 simples entre les 2 reprises et les deux doubles, ce qui correspond d'ailleurs à la musique. Nous supposons qu'il s'agit d'un oubli du copiste. Voir aussi Procopio p.90</note>e dupii dui e represe due et afermase fazando l’homo</p>
+				<p>pede sinistro <ref target="note_c929def409db48a5a0f7dcba29924ec2"><supplied>[e sempii dui]</supplied></ref><note xml:id="note_c929def409db48a5a0f7dcba29924ec2">Var. ms.  Dans cette séquence chorégraphique tous les autres manuscrits qui contiennent cette première version de Lionzello (pour 2 personnes) mentionnent 2 simples entre les 2 reprises et les deux doubles, ce qui correspond d'ailleurs à la musique. Nous supposons qu'il s'agit d'un oubli du copiste. Voir aussi Procopio p.90</note>e dupii dui e represe due et afermase fazando l’homo</p>
 				<p>uno movimento e la dona respondendoge cum un altro, li quali mo-</p>
 				<p>vimenti sono tempi dui in mexura quadernaria. Fine.</p>
 			</div>
@@ -2628,7 +2628,7 @@
 				<p>xura guardando al contrario de li homini, e poi tutti tri in uno instante</p>
 				<p>se moveno fazando tempi quatro di saltarello in sua mexura co-</p>
 				<p>menzando col pè sinistro, intendandose che li homini vadano al contr-</p>
-				<p>ario de la dona cioè loro <ref target="note_bd0f189614ca46a08fba548d88d80180">inanti e la dona indrieto</ref><note xml:id="note_bd0f189614ca46a08fba548d88d80180" type="choreography">Chor. Inanti et indrieto sont à comprendre par rapport au sens de la danse. Il n’en est pas de même dans Pg et Pa, où la dame est dite aller al inanti et les hommes font de même, ce qui sous-entend que l’inanti est ici à comprendre par rapport à chaque danseur</note>.</p>
+				<p>ario de la dona cioè loro <ref target="note_bd0f189614ca46a08fba548d88d80180">inanti e la dona indrieto</ref><note xml:id="note_bd0f189614ca46a08fba548d88d80180" type="choreography">Chr. et Var. ms. "Inanti et indrieto" sont à comprendre par rapport au sens de la danse. Il n’en est pas de même dans Pg et Pa, où la dame est dite aller "al inanti" et les hommes font de même, ce qui sous-entend que l’inanti est ici à comprendre par rapport à chaque danseur</note>.</p>
 				<p><metamark function="sequence" place="margin left">//</metamark>Apresso nota che se hanno a fare tempi XVI de bassadanza, cioè li</p>
 				<p>dicti homini e dona seperadi l’uno da l’altro danno una mezavolta sul lado</p>
 				<p>drito cum due ripres, guardandosse nel volto l’uno l’altro.</p>
@@ -3016,7 +3016,7 @@
 				<p>dose per la man drita facendo pasi dui sienpi e uno dopio come-</p>
 				<p>ncando cun lo pede sinistro e finendo cun dito pè andagando d'in-</p>
 				<p>torno, lasendose per dita man, facendo une reprexa su lo pede drito</p>
-				<p><seg change="place"><corr>e pigliandosi per la sinistra</corr></seg><note xml:id="note_f038_0001" type="choreography">Ms. segment de phrase (de "e" à "sinistra") mis entre "/", signalant probablement une position erronée, et devant être inséré à l'endroit de l'autre "/", une ligne plus bas entre "e" et passi". Chor. D'un point de vue chorégraphique cette chorection se justifie, l'homme devant lacher la main de la dame pour pouvoir faire la reprise dans le même sens qu'elle </note>, pasi dui sienpi e uno dopio com-</p>
+				<p><seg change="place"><corr>e pigliandosi per la sinistra</corr></seg><note xml:id="note_f038_0001">Ms. segment de phrase (de "e" à "sinistra") mis entre "/", signalant probablement une position erronée, et devant être inséré à l'endroit de l'autre "/", une ligne plus bas entre "e" et passi". Chor. D'un point de vue chorégraphique cette correction se justifie, l'homme devant lacher la main de la dame pour pouvoir faire la reprise dans le même sens qu'elle </note>, pasi dui sienpi e uno dopio com-</p>
 				<p>encando cun lo pede sinistro, andagando pure a l'intorno, e lasen-</p>
 				<p>dose per la man, facendo paso uno senpio, zoè lo homo a la via dr-</p>
 				<p>ita e la dona a la via de drieto facendo pure al cuntrario</p>
@@ -3620,7 +3620,7 @@
 				<p>senestro, poi dui<supplied>a</supplied> pssi<note xml:id="note_f058_0010">Ms. Présence d'une tache  d'encre</note> e uno dopio comenzando col senestro</p>
 				<p>poi uno passo sempio in detro con una posada col senestro, poi</p>
 				<p>uno altro sempio in detro con una posada col pè dritto apresso</p>
-				<p>del senestro<note xml:id="note_f058_0007" type="choreography">Chor. var. V: "et tornano sul dritto un passetto in dreto in traverso et un altro sul sinestro pure in traverso".</note>, poi uno dopio inanti col pè dritto, poi doe continentie</p>
+				<p>del senestro<note xml:id="note_f058_0007">Var. chor. ms. V: "et tornano sul dritto un passetto in dreto in traverso et un altro sul sinestro pure in traverso".</note>, poi uno dopio inanti col pè dritto, poi doe continentie</p>
 				<p>col senestro<note xml:id="note_f058_0008" type="choreography">Chor. Est-ce une formulation elliptique, pour 2 continenze comenzando col senestro ? Voir commentaire chorégraphique. Ou sont elles à faire sur le même pied, avec un changement d’appui après chacune, au même titre que les fréquents « 3 doubles sur lo pe… » (contrapassi) ? Remarquer que cette formulation, exceptionnelle ici, se retrouve très fréquemment dans M., qui introduit également les continenze uniques</note>, poi doi dopi comenzando col senestro et finendo dal dritto,</p>
 				<p>poi due continentie comenzando col pè senestro, poi una represa in tra-</p>
 				<p>verso sul pè senestro, poi uno dopio tornando in detro col dritto</p>
@@ -3663,7 +3663,7 @@
 				<p>çando col senestro l'altra sul dritto, saltando sul pè senestro</p>
 				<p>nel vodo con uno dopio sul pè dritto con una represa sul pè</p>
 				<p>senestro in traverso inançi, poi uno passo sempio nel vodo</p>
-				<p>col pè dritto gittandossi su quello et façando una represa<note xml:id="note_f059_0009" type="choreography">Ms. signe d'insertion ("V" à l'envers) entre represa et sul, sans add. correspondante. L’endroit correspond à un passage remanié dans V, où l'on a (pour l’ensemble du passage) "duo continentie con due riprese l'una sul sinestro, l'altra sul dritto saltando sul piè sinestro nel vodo con un doppio sul pie dritto con una ripresa sul piè sinestro in traverso inançi poi uno passo sempio nel vodo col pè dritto gittandosi su quello... (il manque donc 2 represe après les 2 continencie dans Pd). 
+				<p>col pè dritto gittandossi su quello et façando una represa<note xml:id="note_f059_0009">Ms. signe d'insertion ("V" à l'envers) entre represa et sul, sans add. correspondante. L’endroit correspond à un passage remanié dans V, où l'on a (pour l’ensemble du passage) "duo continentie con due riprese l'una sul sinestro, l'altra sul dritto saltando sul piè sinestro nel vodo con un doppio sul pie dritto con una ripresa sul piè sinestro in traverso inançi poi uno passo sempio nel vodo col pè dritto gittandosi su quello... (il manque donc 2 represe après les 2 continencie dans Pd). 
 </note></p>
 				<p>sul gallone senestro inançi. Apresso una volta tonda</p>
 				<p>con una reverentia et è finita.</p>
