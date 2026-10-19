@@ -353,7 +353,7 @@
 			<line><lb/></line>
 			<line><lb/></line>
 			<line><add place="margin left">s</add></line>
-			<line rend="indent(8)"><add place="margin left">1</add> RENGRATIANDO<handShift new="#mainA"/></line>
+			<line rend="indent(8)"><add place="margin left">1</add> <handShift new="#mainA"/>RENGRATIANDO</line>
 			<line rend="indent(4)">el grande e triumfante Idio de li intelecti che per</line>
 			<line rend="indent(4)">gratia da lui sono imfusi, et a lui solo dato li</line>
 			<line rend="indent(4)">sia honore et gloria de tutte le operatione <del>in</del></line>
@@ -571,7 +571,7 @@
 			<line>poreo</line>
 		</surface>
 		<surface facs="#f013">
-			<line rend="indent(6)">Ca - po<handShift new="#mainB"/></line>
+			<line rend="indent(6)"><handShift new="#mainB"/>Ca - po</line>
 			<line>Io sono bassadança de le me - sure regina, e merito de portare</line>
 			<line>corona; et in l'operare de mi - poche genti hano ragione; e chi</line>
 			<line>in dançare <del>l</del>o in sonare ben - di me s'adopra, força che da li cieli</line>
@@ -615,7 +615,7 @@
 			<line rend="indent(6)">Bassa - dança</line>
 		</surface>
 		<surface facs="#f014">
-			<line rend="indent"><add place="margin left">12°</add> Ota e intendi a fine che de ingnorantia non me increpi. Ad-<handShift new="#mainA"/></line>
+			<line rend="indent"><add place="margin left">12°</add><handShift new="#mainA"/> Ota e intendi a fine che de ingnorantia non me increpi. Ad-</line>
 			<line>visandote che questa a lo intendere è subtilissima, vogliando lui che</line>
 			<line>tu sapi e revolvi tutte le mexure a tuo modo cum ragione per natu<add place="top">r</add>a on</line>
 			<line>per accidentia. Nota per natura dare el suo ordine a ciascaduna</line>
@@ -770,7 +770,7 @@
 			<line>nendo fine a le dicte mexure e fazandote noto le fabricatione</line>
 			<line>de le danze.</line>
 			<line><lb/></line>
-			<line>Le infrascripte dançe sono composte, cusì il canto come le<handShift new="#mainB"/></line>
+			<line><handShift new="#mainB"/>Le infrascripte dançe sono composte, cusì il canto come le</line>
 			<line>parole, per lo spectabile et egregio cavagliero Misser</line>
 			<line>Domenico da Piasença, salvo che il canto de la figliaguiliel-</line>
 			<line>mino che è ballatta francese, et sopra esso canto el dicto</line>
@@ -782,7 +782,7 @@
 					<graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f20/1210,793,3264,1828/500,/0/native.jpg"/>
 				</notatedMusic>
 			</line>
-			<line rend="indent(4)">Belreguardo im ballo, cioè uno homo e una dona.<handShift new="#mainA"/></line>
+			<line rend="indent(4)"><handShift new="#mainA"/>Belreguardo im ballo, cioè uno homo e una dona.</line>
 			<line rend="indent">Mprima fano tempi XI de saltarello et afermase, façando</line>
 			<line>dupei quatro de bassadanza inseme, comenzando al pede sinistro</line>
 			<line>e fazando fine al drito, e poi fano dupii tri suso el pede sinistro</line>
@@ -996,7 +996,7 @@
 			<line>fazando tempi dui de piva; e nota che li dicti homini e dona</line>
 			<line>se ritrovano ne le poste loro como erano nel principio de la danza</line>
 			<line>fazando uno movimento et è fine.</line>
-			<line rend="indent(3)">La Giloxia in canto.<handShift new="#mainC"/></line>
+			<line rend="indent(3)"><handShift new="#mainC"/>La Giloxia in canto.</line>
 			<notatedMusic facs="#f026-zone-1">
 				<graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f27/726,1879,3224,1721/500,/0/native.jpg"/>
 			</notatedMusic>
@@ -1021,10 +1021,10 @@
 			<line>so la dona de driedo, e tochandogie la man drita cun una river-</line>
 			<line>enthia, e afermasse.</line>
 			<line>Ora nota che lo homo che havea per man la dita dona de driedo fa</line>
-			<line>tenpo uno de saltarelo in mexura quadernaria chomençando cun lo</line>
-			<line>pè drito et andagando <metamark target="#add-f027-1">V</metamark> <add place="margin" xml:id="add-f027-1">equale a la dona de<lb/>mezo a la man sua stanca<lb/>L’homo che se ritrova<lb/>apresso la dona de dr<lb/>ieto va</add>drieto a le spale de la dona de drieto, ritrovan-<handShift new="#mainA"/></line>
-			<line>dose esserge equale a la mane sua stanca cun lo saltarelo predito.<handShift new="#mainC"/></line>
-			<line><metamark function="sequence" place="margin left">//</metamark>Ancora nota che tutti homini e done se moveno fazando tempi<handShift new="#mainA"/></line>
+			<line>tenpo uno de saltarelo in mexura quadernaria chomençando cun lo<handShift new="#mainA"/></line>
+			<line>pè drito et andagando <metamark target="#add-f027-1">V</metamark> <add place="margin" xml:id="add-f027-1"><handShift/>equale a la dona de<lb/>mezo a la man sua stanca<lb/>L’homo che se ritrova<lb/>apresso la dona de dr<lb/>ieto va</add>drieto a le spale de la dona de drieto, ritrovan-</line>
+			<line>dose esserge equale a la mane sua stanca <handShift new="#mainC"/>cun lo saltarelo predito.</line>
+			<line><metamark function="sequence" place="margin left">//</metamark><handShift new="#mainA"/>Ancora nota che tutti homini e done se moveno fazando tempi</line>
 			<line>octo de piva l’uno chiopa drieto a l’altra per ordine e fermanose</line>
 			<line>le due chiope de drieto fazando el primo homo cum la prima dona</line>
 			<line>mezavolta suso lo lato sinistro in uno tempo de piva e <seg>ferma<sic>seno</sic></seg>.</line>
@@ -1103,7 +1103,7 @@
 			<line>rimane apresso quella de drieto.</line>
 		</surface>
 		<surface facs="#f030">
-			<line rend="indent(3)">Verçepe in canto a sonare<handShift new="#mainC"/></line>
+			<line rend="indent(3)"><handShift new="#mainC"/>Verçepe in canto a sonare</line>
 			<notatedMusic facs="#f030-zone-1">
 				<graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f31/646,1006,3281,2520/500,/0/native.jpg"/>
 			</notatedMusic>
@@ -1164,7 +1164,7 @@
 			<line>che è in mezo. E la dona de drie comenza cun lo pè si-</line>
 			<line>nistro ditti dupii e va dal canto de la man sinistra de lo homino</line>
 			<line>de mezo, e afermansse tute doe ditte done.</line>
-			<line><metamark function="sequence" place="margin left">//</metamark>A presso nota che lo primo homo et quello de drieto se move-<handShift new="#mainA"/></line>
+			<line><metamark function="sequence" place="margin left">//</metamark><handShift new="#mainA"/>A presso nota che lo primo homo et quello de drieto se move-</line>
 			<line>no façando tempi tri de saltarello intorno che hanno apresso</line>
 			<line>ritornando dicti homini a le loro poste, comenzando l'homo de-</line>
 			<line>nanti cum lo pè drito, et andagando da la mano drita de la</line>
@@ -1271,13 +1271,13 @@
 			<notatedMusic facs="#f036-zone-1">
 				<graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f37/621,949,3227,1749/500,/0/native.jpg"/>
 			</notatedMusic>
-			<line rend="indent(2)">Anello a balo, e va homini dui e done doe<handShift new="#mainC"/></line>
+			<line rend="indent(2)"><handShift new="#mainC"/>Anello a balo, e va homini dui e done doe</line>
 			<line rend="indent">Mprima fano diti homeni e done moti oto di saltarelo</line>
 			<line>in mexura de piva, andagando in ciope doe large l'una da l'altra</line>
 			<line>per spacio de pasi quatro, e in c[ap]o de diti tienpi li homeni lasa le</line>
 			<line>done rimanendo in quadro, zoè che cascaduno de loro se guardi</line>
 			<line>ne lo volto, e cosi le done afirmandose.</line>
-			<line>Nota che tutti dui li homini in instante fano uno movimento<handShift new="#mainA"/></line>
+			<line><handShift new="#mainA"/>Nota che tutti dui li homini in instante fano uno movimento</line>
 			<line>e le done ge rispondeno como uno altro poi li homini vano l'uno</line>
 			<line>contra di l'altro fazando tempi dui de saltarello comenzando col</line>
 			<line>pè sinistro finiendo cum lo drito cum mezavolta suso dicto pè ri-</line>
@@ -1302,7 +1302,7 @@
 			<line>rispondandoge le done como uno altro, facendo dicti homini</line>
 			<line>una ripresa sul canto drito , pigliando le lor done per mano</line>
 			<line>como de prima et è finito.</line>
-			<line rend="indent(3)">Marchexana <del rend="underlined">a ballo</del> in canto<handShift new="#mainC"/></line>
+			<line rend="indent(3)"><handShift new="#mainC"/>Marchexana <del rend="underlined">a ballo</del> in canto</line>
 			<notatedMusic facs="#f037-zone-1">
 				<graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f38/1320,2570,3113,1393/500,/0/native.jpg"/>
 			</notatedMusic>
@@ -1349,7 +1349,7 @@
 				<graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f40/1368,765,3019,941/500,/0/native.jpg"/>
 			</notatedMusic>
 			<line rend="indent(2)">Iupiter a balo, e va in homeni dui e una dona</line>
-			<line rend="indent">Mprima va uno de li homini inanti e la dona li va driedo<handShift new="#mainA"/></line>
+			<line rend="indent"><handShift new="#mainA"/>Mprima va uno de li homini inanti e la dona li va driedo</line>
 			<line>e l'altro homo va driedo a la dona, andagando largi l'uno da l'altro</line>
 			<line>a drito filo passi tri.</line>
 			<line><metamark function="sequence" place="margin left">//</metamark>Or nota che tutti inseme a la fila fanno tempi tri de <add place="above">moto</add> <del>saltarello</del> in</line>
@@ -1358,7 +1358,7 @@
 			<line>tutti tri inseme dano una volta tonda de bassadanza in lo luogo suo</line>
 			<line>mede<add place="above"><sic>m</sic></add>mo donde li consiste passi dui sempii et una represa de tempi</line>
 			<line>dui, e tutta questa parte sopradicta se <add place="top">fa</add> due volte in compagnia.</line>
-			<line><metamark function="sequence" place="margin left">//</metamark>Apresso nota che l'homo che inanti si retorna indriedo cun uno<handShift new="#mainC"/></line>
+			<line><metamark function="sequence" place="margin left">//</metamark>Apresso nota che l'homo che inanti<handShift new="#mainC"/> si retorna indriedo cun uno</line>
 			<line>dopio comenzando dal pè drito, piando la man drita de la dona e</line>
 			<line>andagando ne la posta soa, et in quelo instante, la dita dona va</line>
 			<line>ne la posta de lo dito homo cun uno dopio su lo pè drito afi-</line>
@@ -1395,7 +1395,7 @@
 			<line>dà una meza volta su lo lato stanco, butandose su lo pè drito</line>
 			<line>e tornando in drie cun dupii dui su lo pede sinistro per mezo dito</line>
 			<line>homo e dita dona dagando una meza volta su lo lato sinistro</line>
-			<line>afirmanose ne lo luogo so de drie. E nota che tutta questa<handShift new="#mainA"/></line>
+			<line>afirmanose ne lo luogo so de drie.<handShift new="#mainA"/> E nota che tutta questa</line>
 			<line>parte sopradicta se fa per questo modo cioè l'homo denanti fa dupii dui</line>
 			<line>indrieto e quatro inanti e la dona ne fa dui inanti e dui indreto</line>
 			<line>e dui inanti e l'homo de drieto ne fa quatro inanti e dui indrieto</line>
@@ -1420,7 +1420,7 @@
 			<line>a l'homo de drieto, e l'homo a lei per quello modo che feze cun l'altro</line>
 			<line>poi l'homo denanti e dicta dona dano una mezavolta ritornando</line>
 			<line>ne li luogi sui primi et è fine.</line>
-			<line rend="indent(3)">La fia guilmin in canto<handShift new="#mainC"/></line>
+			<line rend="indent(3)"><handShift new="#mainC"/>La fia guilmin in canto</line>
 			<notatedMusic facs="#f041-zone-1">
 				<graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f42/1274,2707,3330,2098/500,/0/native.jpg"/>
 			</notatedMusic>
@@ -1429,7 +1429,7 @@
 			<notatedMusic facs="#f042-zone-1">
 				<graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f43/542,1103,3026,571/500,/0/native.jpg"/>
 			</notatedMusic>
-			<line rend="indent">Questa è una dança chiamata la fiaguielmina laquale foe<handShift new="#mainA"/></line>
+			<line rend="indent"><handShift new="#mainA"/>Questa è una dança chiamata la fiaguielmina laquale foe</line>
 			<line rend="indent">facta el canto suo in franza e suzo dicto canto messer domenego</line>
 			<line>gli fece <del rend="strikethrough">canti</del> <add place="above">balli </add>dui de liquali questo ne uno e va im persone quatro in</line>
 			<line>chiope due, cioè uno homo et una dona.</line>
@@ -1554,11 +1554,11 @@
 			<line>principio de la danza, e è fine.</line>
 		</surface>
 		<surface facs="#f046">
-			<line rend="indent(3)">Merc<del>a</del>tia in canto<handShift new="#mainC"/></line>
+			<line rend="indent(3)"><handShift new="#mainC"/>Merc<del>a</del>tia in canto</line>
 			<notatedMusic facs="#f046-zone-1">
 				<graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f47/449,1136,3043,1581/500,/0/native.jpg"/>
 			</notatedMusic>
-			<line rend="indent(2)">Mercantia a ballo, e va in quatro cioè homini tri e dona<handShift new="#mainA"/></line>
+			<line rend="indent(2)">Mercantia a ballo, e<handShift new="#mainA"/> va in quatro cioè homini tri e dona</line>
 			<line>una uno homo e una dona inanti per mano, e li dui homini ge vanno</line>
 			<line>driedo per mano, largi l'una chiopa da l'altra passi quatro, fazando</line>
 			<line>nel principio tutti inseme tempi XI de saltarello como uno</line>
@@ -1630,7 +1630,7 @@
 			<notatedMusic facs="#f049-zone-1">
 				<graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f50/1397,929,3063,754/500,/0/native.jpg"/>
 			</notatedMusic>
-			<line rend="indent">Sobria a ballo e va in homini cinque et una dona<handShift new="#mainA"/></line>
+			<line rend="indent"><handShift new="#mainA"/>Sobria a ballo e va in homini cinque et una dona</line>
 			<line rend="indent">Mprima vano in chiope tre cioè uno homo et una dona a</line>
 			<line>mano inanti et li homini li vano drieto a mano in chiope due</line>
 			<line>andagando dicte chiope large l'una da l'altra passi quatro e per or-</line>
@@ -1673,12 +1673,12 @@
 			<line>biato posta, e lo terzo tempo se trovino tutti dui drieto a le</line>
 			<line>spale de la dona essendo equali, e uno de loro cioè quello che</line>
 			<line>se ritrova a mano sinistra, cigni cum la mano drita a lo com-</line>
-			<line>pagno che digi coele a la dona, e l'altro cunpagno cigni a lui<handShift new="#mainC"/></line>
+			<line>pagno che digi coele a la dona,<handShift new="#mainC"/> e l'altro cunpagno cigni a lui</line>
 			<line>cun la man stanca voiando che el faci quello che non a vo-</line>
 			<line>luto fare lui.</line>
 			<line>Nota che la dona senttandose el movimento de drie de di-</line>
 			<line>tti homeni, dà una meça volta cun una ciera tuta tur-</line>
-			<line>bata, voltandose li diti dui homeni in quello instante che<handShift new="#mainA"/></line>
+			<line>bata, voltandose li diti dui homeni <handShift new="#mainA"/>in quello instante che</line>
 			<line>se volta la dona, tornando in le poste loro contrarie cum uno salteto</line>
 			<line>e uno tempo de saltarello comenzando dal pè drito cum meza</line>
 			<line>volta et una possa afirmandose. Poi li altri dui homini fanno</line>
@@ -1715,7 +1715,7 @@
 			<line>fuori de li dicti quatro homini cum tempi quatro de piva presti</line>
 			<line>per paura che li dicti quatro homini non lo afermo et è fine.</line>
 			<line><lb/></line>
-			<line rend="indent(2)">Tesara in canto a sonare<handShift new="#mainC"/></line>
+			<line rend="indent(2)"><handShift new="#mainC"/>Tesara in canto a sonare</line>
 			<notatedMusic facs="#f051-zone-1">
 				<graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f52/1407,4324,3009,1007/500,/0/native.jpg"/>
 			</notatedMusic>
@@ -1746,7 +1746,7 @@
 			<line>lo traverso afirmandose, façendo li homini moviminti quatro</line>
 			<line>poi le done ge rispundeno cun uno altro; e fase questa</line>
 			<line>parte soprascrita volte doe.</line>
-			<line>Apreso nota che le tre chopie de prima cun l'homo che è<handShift new="#mainD"/></line>
+			<line>Apreso nota che le tre chopie de prima cun l'homo <handShift new="#mainD"/>che è</line>
 			<line>dinanti stano ferme, et l'homo che è de detro piglia la dredana</line>
 			<line>copia andaghando in mezo, e pigliando el panexello da cadauna</line>
 			<line>man façando tempi 12 de piva tucti tri in istante per questo modo</line>
@@ -1933,7 +1933,7 @@
 			<line>dritto, poi tre dopi sul pe dritto et una reverentia sul senestro</line>
 			<line>et finis.</line>
 			<line><lb/></line>
-			<line><add place="margin"><unclear>F</unclear></add><add place="before">C</add>orona bassadança che si fa a la fila. Prima dui passi sempi co-<handShift new="#mainB"/></line>
+			<line><add place="margin"><unclear>F</unclear></add><handShift new="#mainB"/><add place="before">C</add>orona bassadança che si fa a la fila. Prima dui passi sempi co-</line>
 			<line>mençando <del rend="strikethrough">poi</del> col senestro, poi uno cambiamento començando col</line>
 			<line>senestro con dui doppi sul pè dritto, apresso uno dopio sul</line>
 			<line>pede senestro. Apresso uno cambiamento comenzando col pè</line>
@@ -1962,7 +1962,7 @@
 			<line>con una reverentia et è finita.</line>
 		</surface>
 		<surface facs="#f060">
-			<line rend="indent(4)">Zoglioxa <hi><unclear>F</unclear></hi><handShift new="#mainE"/></line>
+			<line rend="indent(4)"><handShift new="#mainE"/>Zoglioxa <hi><unclear>F</unclear></hi></line>
 			<line><lb/></line>
 			<line>Prima continanze II comenzando suxo el pede stanco passi</line>
 			<line>II sempi passo uno dopio una reprexa drita, passo</line>
@@ -1991,7 +1991,7 @@
 				<p><lb/></p>
 				<p><lb/></p>
 				<p><lb/></p>
-				<p rend="indent(3)">1<note xml:id="note-1">Ms. Numéro de § en marge de gauche</note>. <supplied cert="medium" reason="editorial">SEMPRE</supplied><note xml:id="note_f1_02">Ajout ici de "sempre": sur base de la lettre d'attente "s" en marge de gauche, de l'espace laissé avant le premier mot écrit en capitale propisce à recevoir env. 4 ou 5 caractères en capitale, et de la syntaxe qui fait supposer un adverbe.</note> RENGRATIANDO<media url="https://api.nakala.fr/data/10.34847/nkl.bc417050/6ea381d74d6a0e87b0d8360ccdcfcb43c311648c" mimeType="video/mp4"><desc>This is an example video, unrelated to the website</desc></media><handShift/></p>
+				<p rend="indent(3)">1<note xml:id="note-1">Ms. Numéro de § en marge de gauche</note>. <supplied cert="medium" reason="editorial">SEMPRE</supplied><note xml:id="note_f1_02">Ajout ici de "sempre": sur base de la lettre d'attente "s" en marge de gauche, de l'espace laissé avant le premier mot écrit en capitale propisce à recevoir env. 4 ou 5 caractères en capitale, et de la syntaxe qui fait supposer un adverbe.</note> <handShift/>RENGRATIANDO<media url="https://api.nakala.fr/data/10.34847/nkl.bc417050/6ea381d74d6a0e87b0d8360ccdcfcb43c311648c" mimeType="video/mp4"><desc>This is an example video, unrelated to the website</desc></media></p>
 				<p rend="indent(3)">el grande e triumfante Idio de li intelecti che per</p>
 				<p rend="indent(3)">gratia da lui sono imfusi, et a lui solo dato li</p>
 				<p rend="indent(3)">sia honore et gloria de tutte le operatione<note>Ms: suivi de i(n) en fin de ligne redondant avec le début du mot suivant</note></p>
@@ -2218,7 +2218,7 @@
 				<p>più presto e più largo, e per questo modo se fa differente el motto corporeo.</p>
 			</div>
 			<div>
-				<p rend="indent(6)"><pb facs="#f013"/><handShift/><note xml:id="note_f013_0001">Début de séquence d'une 2e main (B), qui couvre l'entièreté du feuillet.</note><ref target="note_8bf792fe93dc41fe87c147722ae1b82e">Capo</ref><note xml:id="note_8bf792fe93dc41fe87c147722ae1b82e">Le tableau /charte de ce feuillet est repris avec des variantes et sans la règle verticale (avec par conséquent une compréhension des termes parfois très étranges) dans les ms M, S, NY. Dans V, il est (par la même main (B) qu'ici ?) substentiellement tranformé par Cornozzano qui place la piva en haut. La présente transcription ne respecte que partiellement la mise en page, ni les couleurs pour raisons techniques. Les pieds de mouche initiant chaque paragraphe ne sont pas reproduits non plus. Les coupures dans les § opérés par la règle verticale dans l'original sont remplacés dans la transcription diplomatique par des tirets (-).</note></p>
+				<p rend="indent(6)"><pb facs="#f013"/><handShift new="#mainB"/><note xml:id="note_f013_0001">L'entièreté du feuillet est d'une autre main (B)</note><ref target="note_8bf792fe93dc41fe87c147722ae1b82e">Capo</ref><note xml:id="note_8bf792fe93dc41fe87c147722ae1b82e">Le tableau /charte de ce feuillet est repris avec des variantes et sans la règle verticale (avec par conséquent une compréhension des termes parfois très étranges) dans les ms M, S, NY. Dans V, il est (par la même main (B) qu'ici ?) substentiellement tranformé par Cornozzano qui place la piva en haut. La présente transcription ne respecte que partiellement la mise en page, ni les couleurs pour raisons techniques. Les pieds de mouche initiant chaque paragraphe ne sont pas reproduits non plus. Les coupures dans les § opérés par la règle verticale dans l'original sont remplacés dans la transcription diplomatique par des tirets (-).</note></p>
 				<p/>
 				<p>Io sono bassadança de le mesure regina, e merito de portare</p>
 				<p>corona. Et in l'operare de mi poche genti hano ragione. E chi</p>
@@ -2261,7 +2261,7 @@
 			</div>
 			<div>
 				<p><pb facs="#f014"/></p>
-				<p rend="indent(2)"><hi rend="bold">(A)</hi><note xml:id="note_f5r_x">reprise de la 1e main (A)</note> <ref target="note_551ed62a4dca406883bd75255194ee39">12°</ref><note xml:id="note_551ed62a4dca406883bd75255194ee39">Numéro de § en marge de gauche.</note> <ref target="note_286d1d1628d04ab2b8d02b430b40f12c"><supplied>N</supplied>ota</ref><note xml:id="note_286d1d1628d04ab2b8d02b430b40f12c">Ms. Initiale d'attente "N" omise mais espace laissé</note> e intendi, a fine che de ingnorantia non me increpi. Ad-</p>
+				<p rend="indent(2)"><ref target="note_551ed62a4dca406883bd75255194ee39">12°</ref><note xml:id="note_551ed62a4dca406883bd75255194ee39">Numéro de § en marge de gauche.</note> <handShift/><ref target="note_286d1d1628d04ab2b8d02b430b40f12c"><supplied>N</supplied>ota</ref><note xml:id="note_286d1d1628d04ab2b8d02b430b40f12c">Ms. Initiale d'attente "N" omise mais espace laissé</note> e intendi, a fine che de ingnorantia non me increpi. Ad-</p>
 				<p>visandote che questa a lo intendere è subtilissima, vogliando lui che</p>
 				<p>tu sapi e revolvi tutte le mexure a tuo modo, cum ragione, per natura<note xml:id="note-5r_1">Ms.  "r" omis, indiqué par un tilde ondulé supralinéaire</note> on</p>
 				<p>per accidentia. Nota per natura dare el suo ordine a ciascaduna</p>
