@@ -218,16 +218,20 @@ tei-metamark[data-tei-function="sequence"][data-tei-place~="margin"] {
 }
 
 /* The translation (the #traduction text resource) in a narrower column,
-   for a comfortable line length; the transcriptions keep their full width.
+   centred, for a comfortable line length; the transcriptions keep their
+   full width.
    On the site, EditionCrafter names the resource a panel shows in its
    `data-resource-id`; in a CETEIcean rendering such as TEIEdit's
    preview, the resource is the `tei-text` of that id. */
 [data-resource-id="traduction"] .surface {
   max-width: 550px;
+  /* `!important` over EditionCrafter's `.surface { margin: 0 }`. */
+  margin-inline: auto !important;
 }
 tei-text#traduction {
   display: block;
   max-width: 550px;
+  margin-inline: auto;
 }
 
 /* Notated music image correct size and left-aligned. `!important` takes
