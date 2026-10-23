@@ -7,7 +7,9 @@
  * worker, for every IIIF image and info.json requested from Gallica:
  *
  * - serves it from its cache when it has already been downloaded once;
- * - otherwise lets only a few requests run at a time, spaced out;
+ * - otherwise lets only a few requests run at a time, spaced out, the most
+ *   recent first: the page being looked at goes before the pages left,
+ *   whose requests are dropped when the browser has given them up;
  * - when a request is blocked, pauses all of them for a while and retries.
  *
  * Changing CACHE (gallica-images-v2, ...) drops the images kept so far.
@@ -56,7 +58,7 @@ async function cachedOrFetched(request, isInfo) {
   const cached = await cache.match(request.url);
   if (cached) return cached;
   for (let attempt = 0; ; attempt++) {
-    const response = await throttled(() => fetchOnce(request, isInfo));
+    const response = await throttled(request, () => fetchOnce(request, isInfo));
     if (response && !isBlocked(response)) {
       if (response.ok || response.type === "opaque") {
         keep(cache, request.url, response.clone());
@@ -115,20 +117,26 @@ function isBlocked(response) {
 }
 
 let active = 0;
+/** The requests waiting for their turn, the most recent last. */
 const waiting = [];
 let nextStart = 0;
 
-async function throttled(task) {
+/**
+ * Runs `task` when a place is free, the most recent request first. A
+ * request given up by the page meanwhile (its signal aborted) is dropped.
+ */
+async function throttled(request, task) {
   if (active < MAX_ACTIVE) active++;
   else await new Promise((resolve) => waiting.push(resolve));
   try {
     for (let wait; (wait = nextStart - Date.now()) > 0;) {
       await new Promise((resolve) => setTimeout(resolve, wait));
     }
+    if (request.signal?.aborted) return Response.error();
     nextStart = Date.now() + MIN_GAP;
     return await task();
   } finally {
-    const next = waiting.shift();
+    const next = waiting.pop();
     if (next) next();
     else active--;
   }
