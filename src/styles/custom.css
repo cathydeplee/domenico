@@ -217,6 +217,19 @@ tei-metamark[data-tei-function="sequence"][data-tei-place~="margin"] {
   text-align: right;
 }
 
+/* The translation (the #traduction text resource) in a narrower column,
+   for a comfortable line length; the transcriptions keep their full width.
+   On the site, EditionCrafter names the resource a panel shows in its
+   `data-resource-id`; in a CETEIcean rendering such as TEIEdit's
+   preview, the resource is the `tei-text` of that id. */
+[data-resource-id="traduction"] .surface {
+  max-width: 550px;
+}
+tei-text#traduction {
+  display: block;
+  max-width: 550px;
+}
+
 /* Notated music image correct size and left-aligned. `!important` takes
    precedence over EditionCrafter's `.editioncrafter .inline-image` without
    naming its class (see the paragraphs above). */
