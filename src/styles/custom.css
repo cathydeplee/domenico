@@ -233,6 +233,12 @@ tei-text#traduction {
   max-width: 550px;
   margin-inline: auto;
 }
+/* Its paragraphs spaced by 1em below, instead of none as elsewhere (see
+   `tei-p` above). */
+[data-resource-id="traduction"] tei-p,
+tei-text#traduction tei-p {
+  margin-bottom: 1em !important;
+}
 
 /* Notated music image correct size and left-aligned. `!important` takes
    precedence over EditionCrafter's `.editioncrafter .inline-image` without
