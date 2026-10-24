@@ -66,6 +66,21 @@
          "antonym": "",
          "synonym": "tempo di bassadanza",
          "seeAlso": ""
+      },
+      "bassadanza": {
+         "headWord": "bassadanza",
+         "alternateSpellings": "bassedanza, bassadanze, bassedanze",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(f)",
+               "meaning": "à compléter",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
       }
    }
 }
