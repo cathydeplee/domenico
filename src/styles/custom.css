@@ -275,6 +275,14 @@ tei-div[type="bibliography"] tei-listbibl > tei-bibl {
   display: block !important;
   margin: 0 0 1em !important;
 }
+/* The commas between the parts of a work are the stylesheet's, not the
+   text's: after the surname when a forename follows, after the author and
+   after the publisher, unless the work ends there. */
+tei-bibl tei-surname + tei-forename::before,
+tei-bibl > tei-author:not(:last-child)::after,
+tei-bibl > tei-publisher:not(:last-child)::after {
+  content: ", ";
+}
 tei-bibl tei-title[level="m"],
 tei-bibl tei-title[level="j"],
 tei-bibl tei-title[level="s"] {

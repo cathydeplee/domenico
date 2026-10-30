@@ -4017,9 +4017,9 @@
 			<div type="bibliography">
 				<head>Liste bibliographique</head>
 				<listBibl>
-					<bibl xml:id="Nom2000" type="book"><author><surname>NOM</surname>, <forename>Prénom</forename></author>, <title level="m">Titre du livre</title>, <publisher>Editeur</publisher>, <date when="2000">2000</date>.</bibl>
-					<bibl xml:id="Nom2000a" type="bookSection"><author><surname>NOM</surname>, <forename>Prénom</forename></author>, <title level="a">Titre de l'article</title>, In <title level="m">Titre du livre</title>, <publisher>Editeur</publisher>, <date when="2000">2000</date>, <biblScope unit="page" from="14" to="21">p.14-21</biblScope>.</bibl>
-					<bibl xml:id="Nom2025" type="webPage"><author><surname>NOM</surname>, <forename>Prénom</forename></author>, <date when="2025-12-17">2025, 17 décembre</date>, <title level="a">Titre de l'article</title>, In <title level="m">Nom du site Internet</title>. En ligne &lt;<ref target="http://adresse_du_site">http://adresse_du_site</ref>&gt;. Consulté le <date type="access" when="2026-10-23">23 octobre 2026</date>.</bibl>
+					<bibl xml:id="Nom2000" type="book"><author><surname>NOM</surname><forename>Prénom</forename></author><title level="m">Titre du livre</title>, <publisher>Editeur</publisher><date when="2000">2000</date>.</bibl>
+					<bibl xml:id="Nom2000a" type="bookSection"><author><surname>NOM</surname><forename>Prénom</forename></author><title level="a">Titre de l'article</title>, In <title level="m">Titre du livre</title>, <publisher>Editeur</publisher><date when="2000">2000</date>, <biblScope unit="page" from="14" to="21">p.14-21</biblScope>.</bibl>
+					<bibl xml:id="Nom2025" type="webPage"><author><surname>NOM</surname><forename>Prénom</forename></author><date when="2025-12-17">2025, 17 décembre</date>, <title level="a">Titre de l'article</title>, In <title level="m">Nom du site Internet</title>. En ligne &lt;<ref target="http://adresse_du_site">http://adresse_du_site</ref>&gt;. Consulté le <date type="access" when="2026-10-23">23 octobre 2026</date>.</bibl>
 				</listBibl>
 			</div>
 		</body>
