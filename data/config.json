@@ -5,7 +5,8 @@
   "transcriptionTypes": {
     "traduction": "Traduction",
     "transcription_diplomatique": "Transcription diplomatique",
-    "transcription_annotee": "Transcription annotée"
+    "transcription_annotee": "Transcription annotée",
+    "bibliography": "Bibliographie"
   },
   "viewerUrl": "/domenico",
   "glossaryURL": "https://cathydeplee.github.io/domenico/glossary.json",

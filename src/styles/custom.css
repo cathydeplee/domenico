@@ -253,6 +253,41 @@ tei-text#traduction tei-p {
   margin-bottom: 1em !important;
 }
 
+/* The bibliography (the #bibliography text resource), after the model given
+   for it: a title in bold, at the size of the text, then each work as a
+   paragraph of its own, a blank line between them; the titles of books and
+   sites in italics, those of articles in quotation marks. `!important`
+   takes precedence over EditionCrafter's headings and lists of works
+   (`.editioncrafter tei-head`, `.editioncrafter tei-listbibl > tei-bibl`),
+   as for the paragraphs above. */
+tei-div[type="bibliography"] > tei-head {
+  margin: 0 0 1em !important;
+  font-family: inherit !important;
+  font-size: 1em !important;
+  font-weight: bold !important;
+  line-height: inherit !important;
+  text-indent: 0 !important;
+}
+tei-div[type="bibliography"] tei-listbibl {
+  margin: 0 !important;
+}
+tei-div[type="bibliography"] tei-listbibl > tei-bibl {
+  display: block !important;
+  margin: 0 0 1em !important;
+}
+tei-bibl tei-title[level="m"],
+tei-bibl tei-title[level="j"],
+tei-bibl tei-title[level="s"] {
+  font-style: italic;
+}
+/* Straight quotation marks, as in the model, everywhere: the CETEIcean
+   stylesheet gives curly ones inside a whole TEI document only, so in
+   TEIEdit's preview but not in EditionCrafter's panels. */
+tei-bibl tei-title[level="a"]::before,
+tei-bibl tei-title[level="a"]::after {
+  content: '"' !important;
+}
+
 /* Notated music image correct size and left-aligned. `!important` takes
    precedence over EditionCrafter's `.editioncrafter .inline-image` without
    naming its class (see the paragraphs above). */
