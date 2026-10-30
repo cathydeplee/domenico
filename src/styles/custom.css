@@ -169,11 +169,17 @@ tei-add:not([place~="margin"]):not([data-tei-place~="margin"]) {
   line-height: 0;
 }
 
-/* Marginal additions (generic margin, defaults to left). A left float sits
-   against its line's content box, which an indent moves right, so the note
-   takes the line's indent off its offset to stay in the margin. */
+/* Text in the margin (generic margin, defaults to left): an addition there
+   (`<add place="margin">`), or text of the manuscript itself written there,
+   not added (`<seg rend="margin">`). Both are placed alike; only additions
+   take the additions' colour, the manuscript's own text keeping the text's.
+   A left float sits against its line's content box, which an indent moves
+   right, so the note takes the line's indent off its offset to stay in the
+   margin. */
 tei-add[place~="margin"],
-tei-add[data-tei-place~="margin"] {
+tei-add[data-tei-place~="margin"],
+tei-seg[rend~="margin"],
+tei-seg[data-tei-rend~="margin"] {
   display: inline-block;
   float: left;
   clear: left;
@@ -181,13 +187,18 @@ tei-add[data-tei-place~="margin"] {
   width: 15em;
   font-size: 0.8em;
   line-height: 1em;
-  color: #718096;
   text-align: right;
 }
+tei-add[place~="margin"],
+tei-add[data-tei-place~="margin"] {
+  color: #718096;
+}
 
-/* Left-margin additions */
+/* Left margin */
 tei-add[place="margin left"],
-tei-add[data-tei-place="margin left"] {
+tei-add[data-tei-place="margin left"],
+tei-seg[rend~="margin"][rend~="left"],
+tei-seg[data-tei-rend~="margin"][data-tei-rend~="left"] {
   float: left;
   clear: left;
   margin-left: calc(-16em - var(--indent));
@@ -195,9 +206,11 @@ tei-add[data-tei-place="margin left"] {
   text-align: right;
 }
 
-/* Right-margin additions (explicit) */
+/* Right margin (explicit) */
 tei-add[place="margin right"],
-tei-add[data-tei-place="margin right"] {
+tei-add[data-tei-place="margin right"],
+tei-seg[rend~="margin"][rend~="right"],
+tei-seg[data-tei-rend~="margin"][data-tei-rend~="right"] {
   float: right;
   clear: right;
   margin-right: 10em;
