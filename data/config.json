@@ -59,10 +59,6 @@
       "meaning": "Change of hand: another scribe writes from here; hover over the hand to read which"
     },
     {
-      "example": "<span class=\"glossary-term\" tabindex=\"0\">cambiamento</span>",
-      "meaning": "Glossary word: hover over it to read its definition"
-    },
-    {
       "example": "<tei-media url=\"https://api.nakala.fr/data/10.34847/nkl.bc417050/6ea381d74d6a0e87b0d8360ccdcfcb43c311648c\" mimetype=\"video/mp4\"><tei-desc>An example video</tei-desc></tei-media>",
       "meaning": "Video: click the button to show it below the text"
     }

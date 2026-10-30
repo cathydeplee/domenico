@@ -149,6 +149,19 @@ tei-sic {
   text-decoration-color: red;
 }
 
+/* Words in another language (foreign) */
+tei-foreign {
+  font-style: italic;
+}
+
+/* Glossary words: not marked in the text, their definition still shown on
+   hover or focus. `!important` takes precedence over EditionCrafter's
+   dotted underline in `.editioncrafter .glossary-term` (see the paragraphs
+   above). */
+.glossary-term {
+  border-bottom: none !important;
+}
+
 /* Raised additions (EditionCrafter draws every addition as a superscript)
    keep the line at its normal height. Margin additions are left out: they
    are blocks of their own, which may run over several lines. */
