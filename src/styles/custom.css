@@ -335,28 +335,41 @@ tei-notatedmusic img.inline-image {
   stroke: transparent !important;
 }
 
+/* The edition's text in Open Sans, loaded from Google Fonts in index.astro.
+   EditionCrafter asks for "OpenSans", which no page loads: each computer
+   drew the text in its own sans-serif font, the lines broken elsewhere. */
+#diplomatic.editioncrafter,
+#diplomatic.editioncrafter :is(h1, h2, h3, h4, tei-head) {
+  font-family: "Open Sans", sans-serif !important;
+}
+
 /* A note at rest, the same on the EditionCrafter site and in a CETEIcean
    preview (TEIEdit's): an asterisk, its text hidden. The site opens it on a
    click; CETEIcean-editioncrafter.css opens it on hover in the preview. */
-/* The note always takes the same small slot in the line, and no height. */
+/* The note is an inline element, its text hidden, so that its asterisk stays
+   on the line of the word before it: an inline-block may be put on the next
+   line, which left an asterisk alone there when the word ended a line. */
 tei-note {
-  display: inline-block !important;
+  display: inline !important;
   position: relative;
-  box-sizing: border-box;
-  width: 0.6rem;
-  vertical-align: top;
-  margin-bottom: -100rem;
   font-size: 0;
+  line-height: 0;
   text-indent: 0;
 }
-/* The asterisk is placed against the note's slot, so it never moves. */
+/* Nothing the note holds is drawn at rest: a paragraph in it (in the
+   preview, which keeps the note's text) would otherwise cut the line. */
+tei-note:not(:hover) * {
+  display: none !important;
+}
+/* The asterisk is a character of the line, raised to the top of it, and
+   advances it by 0.6rem whatever its own width. It never takes height. */
 tei-note::before {
   content: "*";
-  position: absolute;
-  top: -0.1rem;
-  left: 0;
+  position: relative;
+  top: 0.3rem;
+  margin-right: calc(0.6rem - 0.55em);
   font-size: 18pt;
-  line-height: 1;
+  line-height: 0;
   color: red;
   cursor: help;
 }

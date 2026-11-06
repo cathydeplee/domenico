@@ -1140,7 +1140,11 @@ tei-witdetail:is(*, .specificity-bump) {
 /* On hover the slot opens into a popup, which still advances the line
    by the same width and covers the lines below instead of pushing them. */
 tei-note:hover {
+  display: inline-block !important;
   z-index: 10;
+  box-sizing: border-box;
+  vertical-align: top;
+  margin-bottom: -100rem;
   width: 20rem;
   margin-right: -19.4rem;
   padding: 0.3rem 0.6rem 0.4rem 1.1rem;
@@ -1149,6 +1153,14 @@ tei-note:hover {
   background: #fffbe6;
   box-shadow: 0 0 0 1px #ccc, 0 2px 6px rgb(0 0 0 / 0.2);
   border-radius: 0.3em;
+}
+/* In the popup the asterisk keeps its place, in the padding at its left. */
+tei-note:hover::before {
+  position: absolute;
+  top: -0.1rem;
+  left: 0;
+  margin: 0;
+  line-height: 1;
 }
 
 
