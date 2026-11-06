@@ -148,6 +148,11 @@ tei-sic {
   text-decoration-color: red;
 }
 
+/* Words in another language (foreign) */
+tei-foreign {
+  font-style: italic;
+}
+
 /* Titles of works (dances, music), and terms */
 tei-title[type="work"],
 tei-term {
