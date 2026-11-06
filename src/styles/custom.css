@@ -337,9 +337,12 @@ tei-notatedmusic img.inline-image {
 
 /* The edition's text in Open Sans, loaded from Google Fonts in index.astro.
    EditionCrafter asks for "OpenSans", which no page loads: each computer
-   drew the text in its own sans-serif font, the lines broken elsewhere. */
+   drew the text in its own sans-serif font, the lines broken elsewhere.
+   The popups of the glossary words and the change of hand, which ask for
+   sans-serif, are in Open Sans too. */
 #diplomatic.editioncrafter,
-#diplomatic.editioncrafter :is(h1, h2, h3, h4, tei-head) {
+#diplomatic.editioncrafter :is(h1, h2, h3, h4, tei-head),
+.glossary-tooltip {
   font-family: "Open Sans", sans-serif !important;
 }
 
