@@ -374,9 +374,9 @@ tei-note:not(:hover) * {
 tei-note::before {
   content: "*";
   position: relative;
-  top: 0.3rem;
+  top: 0;
   margin-right: calc(0.6rem - 0.55em);
-  font-size: 18pt;
+  font-size: 14pt;
   line-height: 0;
   color: red;
   cursor: help;
