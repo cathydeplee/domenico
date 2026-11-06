@@ -56,7 +56,7 @@
       "meaning": "Note on the choreography: click the pink asterisk to read it"
     },
     {
-      "example": "parola<tei-handshift new=\"#mainB\"></tei-handshift>",
+      "example": "<tei-handshift new=\"#mainB\"></tei-handshift>",
       "meaning": "Change of hand: another scribe writes from here; hover over the hand to read which"
     },
     {

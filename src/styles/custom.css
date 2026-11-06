@@ -125,7 +125,6 @@ tei-supplied::after {
 }
 tei-supplied {
   color: #4a5568;
-  font-style: italic;
 }
 
 /* Corrected text (editorial corrections) */
@@ -151,6 +150,12 @@ tei-sic {
 
 /* Words in another language (foreign) */
 tei-foreign {
+  font-style: italic;
+}
+
+/* Titles of works (dances, music), and terms */
+tei-title[type="work"],
+tei-term {
   font-style: italic;
 }
 
