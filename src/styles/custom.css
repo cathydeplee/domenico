@@ -148,6 +148,11 @@ tei-sic {
   text-decoration-color: red;
 }
 
+/* Words in another language (foreign) */
+tei-foreign {
+  font-style: italic;
+}
+
 /* Titles of works (dances, music), and terms */
 tei-title[type="work"],
 tei-term {
@@ -364,14 +369,20 @@ tei-note {
 tei-note:not(:hover) * {
   display: none !important;
 }
+/* Nor do the spaces of its text, invisible as they are, take part in the
+   justification of the line: each would be widened, opening a gap after the
+   asterisk that the site, whose notes hold no text, does not have. */
+tei-note:not(:hover) {
+  text-justify: none;
+}
 /* The asterisk is a character of the line, raised to the top of it, and
    advances it by 0.6rem whatever its own width. It never takes height. */
 tei-note::before {
   content: "*";
   position: relative;
-  top: 0.3rem;
+  top: 0;
   margin-right: calc(0.6rem - 0.55em);
-  font-size: 18pt;
+  font-size: 14pt;
   line-height: 0;
   color: red;
   cursor: help;
