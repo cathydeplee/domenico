@@ -967,7 +967,7 @@
 			<line>drito cum due riprese guardandosse nel volto l’uno l’altro.</line>
 			<line><metamark function="sequence" place="margin left">//</metamark>Or nota che dicti dui homini e dona se parteno in uno instante, cioè</line>
 			<line>li homini a paro a paro e veneno contra la dona, e la dona contra</line>
-			<line>di loro: cum passi dui sempii et uno dopio comenzando como lo pè</line>
+			<line>di loro: cum passi dui sempii et uno dopio comenzando comolo pè</line>
 			<line>sinistro e dagando una volta tonda de bassadanza ne le loro poste donde</line>
 			<line>li consiste pasi dui sempii et una represa comenzando cum lo pè</line>
 			<line>drito : Ancora se vano a lo incontro cum quilli medemi sempii</line>
@@ -1554,7 +1554,7 @@
 			<line>principio de la danza, e è fine.</line>
 		</surface>
 		<surface facs="#f046">
-			<line rend="indent(3)"><handShift new="#mainC"/>Merc<del>a</del>tia in canto</line>
+			<line rend="indent(3)"><handShift new="#mainC"/>Merc<seg><corr>a</corr></seg>tia in canto</line>
 			<notatedMusic facs="#f046-zone-1">
 				<graphic url="https://gallica.bnf.fr/iiif/ark:/12148/btv1b7200356s/f47/449,1136,3043,1581/500,/0/native.jpg"/>
 			</notatedMusic>
@@ -2634,7 +2634,7 @@
 				<p>drito cum due ripres, guardandosse nel volto l’uno l’altro.</p>
 				<p>Or nota che dicti dui homini e dona se parteno in uno instante, cioè</p>
 				<p>li homini a paroa paro, e veneno contra la dona e la dona contra</p>
-				<p>di loro cum passi dui sempii et uno dopio comenzando como lo pè</p>
+				<p>di loro cum passi dui sempii et uno dopio comenzando <sic>como lo</sic><note xml:id="note_f025_0005">NEd. probablement pour "cum lo", par proximité phonétique. Plus bas, on a bien "cum lo pè drito".</note> pè</p>
 				<p>sinistro, e dagando una volta tonda de bassadanza ne le loro poste donde</p>
 				<p>li consiste pasi dui sempii, et una represa comenzando cum lo pè</p>
 				<p>drito; ancora se vano a lo incontro cum quilli medemi sempii</p>
@@ -2858,7 +2858,7 @@
 				<p>pè sinistro, andagando da o lado drito de la dona che lui ha denanti</p>
 				<p>e ritornando ne la posta sua.</p>
 				<p>Or nota che tutti tri li homini fano uno movimento e le done</p>
-				<p>ge rispondeno como uno altro. Poi li homini dano una volta tonda</p>
+				<p>ge rispondeno <sic>como </sic><note xml:id="note_f032_0002">NEd. probablement pour "cum", par proximité phonétique</note>uno altro. Poi li homini dano una volta tonda</p>
 				<p>tutti tri in mexura de piva comenzando col pè sinistro donde</p>
 				<p>li consiste passi tri sempii fazando dicta volta ne la posta</p>
 				<p>sua medema. E poi le done fano uno movimento, e tutti</p>
@@ -2903,7 +2903,7 @@
 				<p>Ancora nota che tutti dui inseme fano tempi octo de piva<note xml:id="note_f034_0001">Ms. Suivi de "a la" biffé</note></p>
 				<p>firmandose; poi l'homo fa movimento uno e la dona li responde cum</p>
 				<p>uno altro, tirandose largi l'uno da l'altro per traverso passiti quatro, poi</p>
-				<p>la dona fa uno movimento, e l'homo li responde como uno altro, fazando</p>
+				<p>la dona fa uno movimento, e l'homo li responde <sic>como</sic><note xml:id="note_f032_0002-copy">NEd. probablement pour "cum", par proximité phonétique</note> uno altro, fazando</p>
 				<p>altri quatro passiti tutti dui sul traverso. E poi dicto homo cum dicta</p>
 				<p>dona se moveno in uno instante cum uno movimento e tempi</p>
 				<p>quatro di saltarello comenzando col pè sinistro andandose al incontro,</p>
@@ -2927,7 +2927,7 @@
 				<p>poi l'altro homo, rimasto de driedo, fa uno dopio sul sinistro seguando la</p>
 				<p>dona, e fermasi; intendandosi che vadino sempre a drito filo l'uno drieto l'altro</p>
 				<p>in dicta parte, ricordandote che dicta parte se fa in mexura quadernaria.</p>
-				<p><note xml:id="note_f035_0004">Ms. Précédé de la marque // en marge de gauche, comme en début des § suivants. Voir note f.8r, l.12</note>Nota che l'homo ch'è denanti fa uno movimento, poi la dona li responde como</p>
+				<p><note xml:id="note_f035_0004">Ms. Précédé de la marque // en marge de gauche, comme en début des § suivants. Voir note f.8r, l.12</note>Nota che l'homo ch'è denanti fa uno movimento, poi la dona li responde <sic>como</sic><note xml:id="note_f032_0002-copy-2">NEd. probablement pour "cum", par proximité phonétique</note></p>
 				<p>uno altro, e l'homo de driedo risponde a la dona como uno altro.</p>
 				<p>Apresso nota, el primo homo fa una volta tonda donde li consiste pasi</p>
 				<p>quatro sempii picoli comenzando col pè sinistro et voltandose suso dicto,<note xml:id="note_f035_0001">Procopio ajoute "pè"(p.103)</note></p>
@@ -3241,22 +3241,22 @@
 				<p>drita de l'homo, trovandose tutti dui equali a li logi soi como nel</p>
 				<p>principio de la danza, e è fine.</p>
 				<p><pb facs="#f046"/></p>
-				<p rend="indent(2)"><handShift new="#mainC"/>Merca<supplied>n</supplied>tia<note xml:id="note_f046_0006">Ms. "Mercatia", point au dessus du 1e "a" signalant une faute. Nous supléons le "n" sur base du titre repris ci-après et dans les autres ms.</note> in canto</p>
+				<p rend="indent(2)"><handShift new="#mainC"/>Merca<corr>n</corr>tia<note xml:id="note_f046_0006">Ms. "Mercatia", point d'une encre plus foncée au dessus du 1e "a" signalant une faute. Nous supléons le "n" sur base du titre repris ci-après et dans les autres ms.</note> in canto</p>
 				<p><lb/></p>
 				<p><lb/></p>
 				<p><lb/></p>
 				<p><lb/></p>
 				<p><lb/></p>
 				<p rend="indent(2)">Mercantia a ballo, e <handShift new="#mainA"/>va in quatro cioè homini tri e dona</p>
-				<p>una uno homo e una dona inanti per mano, e li dui homini ge vanno</p>
-				<p>driedo per mano, largi l'una chiopa da l'altra passi quatro, fazando</p>
+				<p>una, uno homo e una dona inanti per mano, e li dui homini ge vanno</p>
+				<p>driedo per mano, largi l'una chiopa da l'altra passi quatro; fazando</p>
 				<p>nel principio tutti inseme tempi XI de saltarello como uno</p>
-				<p>movimento nel principio, poi se aferma l'homo e la dona denanti.</p>
-				<p>E li dui homini de drieto se alargano cum riprese sei suso uno</p>
-				<p>pè in traverso cadauno di loro al contrario l'uno di l'altro cioè l'homo</p>
-				<p>disopra sul pè drito e quello da la mano stanca sul pè sinistro, e</p>
+				<p>movimento nel principio, poi se aferma l'homo e la dona denanti;</p>
+				<p>e li dui homini de drieto se alargano cum riprese sei suso uno</p>
+				<p>pè in traverso, cadauno di loro al contrario l'uno di l'altro cioè l'homo</p>
+				<p>disopra sul pè drito e quello da la mano stanca sul pè sinistro<note xml:id="note_f046_0002" type="choreography">Voir N. Chor. et Ndtr dans la Traduction</note>, e</p>
 				<p>fano dicte represe in mexura quadernaria afirmandose.</p>
-				<p><metamark function="sequence" place="margin left">//<note xml:id="note_f046_0005">Voir note f.8r l.12</note></metamark>Or nota che l'homo e la dona denanti fano tempi quatro de ba-</p>
+				<p><note xml:id="note_f046_0005">Précédé de la marque // en marge de gauche. Voir note f.8r l.12</note>Or nota che l'homo e la dona denanti fano tempi quatro de ba-</p>
 				<p>ssadanza, cioè la dona se move sola dagando una mezavolta</p>
 				<p>in lo luogo suo de uno tempo e riguardando verso li homini</p>
 				<p>di driedo, e ferman<supplied>do</supplied>se<note xml:id="note_f046_0003">Ms. "fermanse", forme peu courante dans le ms. S'agissant d'un singulier, nous supposons qu'il s'agit d'une forme d'abréviation du gérondif</note>, poi<note xml:id="note_f046_0004">Ms. "pooi", 2e "o" superflu</note> l'homo che li è a lato se parte e va</p>
@@ -3269,8 +3269,8 @@
 			<div>
 				<p><pb facs="#f047"/></p>
 				<p>dopio comenzando dal pè sinistro, tornando al luogo suo cum dui</p>
-				<p>altri passi sempii et uno dopio comenzando al pè drito e dagan-</p>
-				<p>do una mezavolta sul lato drito in tempo vuodo afirmandose</p>
+				<p>altri passi sempii et uno dopio comenzando al pè drito, e dagan-</p>
+				<p>do una mezavolta sul lato drito in tempo vuodo afirmandose;</p>
 				<p>et in questo instante che dicto homo torna in drieto, la dona dà</p>
 				<p>una volta tonda cum passi dui sempii et una represa, comen-</p>
 				<p>çando dal pè drito, afirmandose nel luogo suo. L'altro ho-</p>
@@ -3303,7 +3303,7 @@
 			<div>
 				<p><pb facs="#f048"/></p>
 				<p>reservando che l'homo che va de drie dà una meça volta su</p>
-				<p>lo lato drito et in instanti la dona e l'altro homo dano una</p>
+				<p>lo lato drito, et in instanti la dona e l'altro homo dano una</p>
 				<p>volta tunda ne li luogi suoi, dunde ge cunsiste pasi dui</p>
 				<p>sienpi et una reprexa chomençando dal pè drito, fine.</p>
 				<p>Ma nota che lo cunpagno che se retrova ne la fin de dita</p>
@@ -3875,25 +3875,18 @@ La deuxième question concerne la position à la fin / à l’arrêt du saltarel
 				<p>L'autre <title type="work">Fille de Guillem</title>, et va à deux à savoir un homme avec une dame.<lb/>D'abord ils se mettent en mouvement en compagnie à la main, faisant en mesure de <term>quadernaria</term> trois pas simples et deux <term>continenze </term>en commençant du pied gauche durant le premier temps, et durant l'autre, trois autres pas simples et deux <term>continenze </term>en commençant du pied droit<note xml:id="note_f044_0002" type="choreography">Chor. Chaque mesure de quadernaria est composée ici d'une combinaison inhabituelle de pas: 3 simples + 2 reprises, à savoir 5 appuis (au lieu de 4: un double + un frappamento). Les deux continenze doivent donc être rapides. V. : « uno doppio sul sinestro et fan due continentie preste che non hanno un tempo compito »</note> ; se lâchant la main et allant, l'homme, vers l'avant avec deux pas simples et une <term>represa </term>sur l'épaule sur le côté gauche et en commençant lesdits pas sur le pied gauche, et instantanément la dame retourne en arrière avec les mêmes que fit l'homme; puis ledit homme et la dame retournent à leur place avec trois pas simples en commençant du pied droit, si ce n'est que l'homme fait une <term>mezzavolta </term>sur le côté droit<note xml:id="note_f044_0004" type="choreography">Chor. On peut supposer que la mezavolta (qui se fait sur le pied droit) se fait à la place du troisième pas de la dame, ainsi l’homme a également le pied gauche libre. De même plus bas, la volta tonda, à la place de cette mezavolta.</note>; prenant la dame par la main pour faire une autre fois tout ce qui précède, ensemble avec la dame; et à la fin de cette partie ledit homme fait une <term>volta tonda</term> sur le côté droit pour faire face à la dame; et toute la partie suscrite est en mesure de <term>quadernaria</term>.<lb/>Note maintenant qu'ils font deux temps de <term>bassadanza </term>en se prenant par la main droite et faisant deux pas simples en commençant du pied gauche, avec une révérence sur ledit pied, passant chacun d'eux du côté de l'autre, l'homme regardant vers l'arrière et la dame vers l'avant.<lb/>Note ensuite qu'ils font huit temps de bassadanza en même temps tous les deux, l'homme allant vers l'arrière et la dame vers l'avant avec deux simples</p>
 			</div>
 			<div>
-				<p><pb facs="#f045"/>et deux doubles en commençant du pied gauche, tournant tous les deux sur le côté droit comme<note xml:id="note_f045_0005">Ndtr. "como" et non "cum" comme souvent. Pour cette nuance, voir notes chorégrachiques ci-après</note> une <term>mezzavolta</term> et une <term>represa</term><note xml:id="note_f045_0007" type="choreography">Chor. Il s’agit d’une figure particulière de reprise en tournant, où le tour ("comme une mezzavolta") se fait sur le pied qui termine le pas précédent, et c’est la pas suivant (la represa) qui prend l’appui. V. « si voltano in una ripresa sul sinestro voltandossi in quella » (f.24v) et « un altra meçavolta sul dritto in ripresa ». M. « represa in volta » (f .29r).  destro »).</note> sur le pied gauche se regardant face à face, puis ils se retournent sur le côté gauche comme une <term>mezzavolta </term>et une <term>represa </term><note xml:id="note_f045_0009" type="choreography">Chor. Voir note précédente</note>sur le pied droit, allant tous deux avec deux doubles à savoir l'homme vers l'arrière et la dame vers l'avant) en les commençant du pied gauche, et se retournant ensuite sur le côté droit avec une <term>mezzavolta</term><note xml:id="note_f045_0008" type="choreography">Chor. Pour cette troisième ("vraie") mezavolta, elle se fait sur le pied droit, terminant le dopio, et s’inclut au temps de la révérence qui se fait sur le gauche</note> faisant une révérence sur le pied gauche et se regardant face à face.<lb/>Note ensuite que toute la partie souscrite se fait en mesure de <term>quadernaria</term>, à savoir</p>
+				<p><pb facs="#f045"/>et deux doubles en commençant du pied gauche, tournant tous les deux sur le côté droit comme<note xml:id="note_f045_0005">Ndtr. "como" et  "cum" sont souvent confondus dans le ms. Ici les deux traductions peuvent fonctionner. Nous utilisons cette fois "comme", pour montrer qu'il s'agit d'une figure particulière; voir N. Chor ci-après.</note> une <term>mezzavolta</term> et une <term>represa</term><note xml:id="note_f045_0007" type="choreography">Chor. Il s’agit d’une figure particulière de "reprise en tournant" ou de mezavolta qui se fait sur le pied du dernier pas, enchaîné d'une reprise qui termine le tour et marque l'apui. V. « si voltano in una ripresa sul sinestro voltandossi in quella » (f.24v) et « un altra meçavolta sul dritto in ripresa ». M. « represa in volta » (f .29r).</note> sur le pied gauche se regardant face à face, puis ils se retournent sur le côté gauche comme une <term>mezzavolta </term>et une <term>represa </term><note xml:id="note_f045_0009" type="choreography">Chor. Voir note précédente</note>sur le pied droit, allant tous deux avec deux doubles à savoir l'homme vers l'arrière et la dame vers l'avant) en les commençant du pied gauche, et se retournant ensuite sur le côté droit avec une <term>mezzavolta</term><note xml:id="note_f045_0008" type="choreography">Chor. Pour cette troisième ("vraie") mezavolta, elle se fait sur le pied droit, terminant le dopio, et s’inclut au temps de la révérence qui se fait sur le gauche</note> faisant une révérence sur le pied gauche et se regardant face à face.<lb/>Note ensuite que toute la partie souscrite se fait en mesure de <term>quadernaria</term>, à savoir</p>
 				<p>la dame se met en mouvement et l'homme reste à l'arrêt, faisant ladite dame un double avec un peu de <term>movimento </term>en commençant du pied gauche et en allant à la rencontre de l'homme, et elle s'arrête; l'homme lui répond avec le même, et s'arrête; puis la dame lui répond avec un autre double semblable au précédent, s'arrêtant. Et l'homme lui répond avec un pas simple commençant avec le pied gauche rapprochant le droit<note xml:id="note_f045_0010">Ndtr. et Chor. "retirandose apresso el drito". Nous supposons qu'il s'agit de fermer le pas. Ici la précision (qui invite à laisser le gauche libre) est surtout utile pour préparer le mouvement suivant, la volta tonda qui commence du pied gauche</note>, et s'arrête; la dame lui répond avec le même, s'arrêtant. Puis l'homme se met en mouvement en faisant une <term>volta tonda</term> à sa place laquelle consiste en trois pas simples avec un petit saut en commençant du pied gauche, s'arrêtant; la dame lui répond avec trois <term>temps de piva</term> en faisant une <term>volta tonda</term> assez grande et en retournant à sa place, et elle s'arrête le temps que l'homme fasse le petit saut. Puis ils se mettent en mouvement tous les deux instantanément, venant l'un vers l'autre, avec un <term>temps de piva</term> en commençant du pied droit, et un pas simple avec le pied gauche et en rapprochant le droit<note xml:id="note_f045_0006">Ndtr. voir plus haut. Chor. Ici la précision de la fermeture est davantage dans un souci d'élégance - ne pas laisser le pied ballant; le pas suivant étant sur le pied droit.</note>. Puis l'homme s'arrête le temps que la dame fasse un <term>movimento</term>, se mettant ensuite tous les deux instantanément en mouvement avec deux <term>temps de piva</term> en commençant du pied droit et un pas simple en se contournant, l'homme, par la main droite de la dame et la dame par la main droite de l'homme, se retrouvant tous les deux au même niveau à leur place comme au début de la danse. Et c'est la fin.</p>
 			</div>
 			<div>
-				<p><pb facs="#f046"/>Mercantia en chant*.</p>
-				<p>Mercantia en ballo*, et va à quatre, à savoir trois hommes et une dame, - un homme et une dame devant*, par la main, et les deux hommes qui vont derrière* eux, par la main, - les couples espacés l'un de l'autre de quatre pas ; faisant au début tous ensemble XI temps* de saltarello* avec un movimento* au début, puis l'homme et la dame de devant s'arrêtent.</p>
-				<p>Et les deux hommes de derrière s'élargissent avec six represe* sur* un pied sur le côté*, chacun d'eux au contraire de l'autre, à savoir l'homme du dessus* sur le pied droit et celui à la main* gauche sur le pied gauche , et ils font lesdites reprises en mesure de quadernaria, s'arrêtant.</p>
-				<p>Note maintenant que l'homme et la dame devant font quatre temps de bassadanza*, à savoir la dame se met en mouvement seule en faisant une mezzavolta* à sa place d'un temps, et regardant vers les hommes de derrière, et elle s'arrête. Puis l'homme qui est à côté d'elle se sépare et va en avant* avec trois doubles en commençant du pied gauche, s'arrêtant.</p>
-				<p>Note ensuite qu'on fait huit temps de bassadanza, à savoir l'homme de derrière qui est à la main gauche de son compagnon va toucher la main droite de la dame avec deux pas simples et un</p>
+				<p><pb facs="#f046"/>Mercantia en musique.</p>
+				<p>Mercantia à danser, et va à quatre, à savoir trois hommes et une dame; un homme et une dame devant à la main, et les deux hommes qui vont derrière à la main, les couples espacés l'un de l'autre de quatre pas ; faisant au début tous ensemble onze <term>temps de saltarello</term> avec un <term>movimento </term>au début, puis l'homme et la dame de devant s'arrêtent. <lb/>Et les deux hommes de derrière s'élargissent avec six <term>represe </term>sur un pied sur le côté, chacun d'eux au contraire de l'autre, à savoir <sic>l'homme du dessus sur le pied droit et celui à la main gauche sur le pied gauche</sic><note xml:id="note_f046_0001">Ndtr. Pour les sens de "dessus" voir Glossaire. Ici à comprendre comme celui qui mène (par la main droite), en effet, le sens "devant" (en haut de la danse), ne convient pas ici. On peut donc se demander s'il n'y a pas une erreur dans ce passage. Voir note Chor. si après</note><note xml:id="note_f046_0001-copy" type="choreography">Chor. Possible erreur dans cette phrase: la mention "di sopra" ("du dessus" : à gauche , cf note précédente), ne fonctionne pas avec la represe sur le pied droit , et celle "à la main gauche" sur le droit. Le "disopra" devrait être remplacé par "di sopto", ou alors inverser les pieds des reprises. L'hypothèse que les hommes se croisent (pour respecter les pieds écrits) nous semble peu probable, il y aurait d'une par eu une précision à ce sujet, et d'autre part, cela ne "colle" pas avec les positions respectives des hommes dans le reste de la danse. Les autres ms, en donnant moins de précisions sont pour le coup plus clairs: V : « Appresso gli homini che son detro a la donna se allargano con sei riprese in traverso, l'uno a mano sinestra, l'altro a man dritta »; Pg : « Apresso gli huomini che sono drieto si acolgano con sei riprese in traverso l'uno se alargha a man sinestra e l'altro alo mancho (sic.) »</note>, et ils font lesdites <term>represe </term>en mesure de <term>quadernaria</term>, s'arrêtant.<lb/>Note maintenant que l'homme et la dame devant font quatre temps de <term>bassadanza</term>, à savoir la dame se met en mouvement seule en faisant une <term>mezzavolta </term>à sa place d'un temps, et regardant vers les hommes de derrière, et elle s'arrête; puis l'homme qui est à côté d'elle se sépare et va en avant avec trois doubles en commençant du pied gauche, s'arrêtant.<lb/>Note ensuite qu'on fait huit temps de <term>bassadanza</term>, à savoir l'homme de derrière qui est à la main gauche de son compagnon va toucher la main droite de la dame avec deux pas simples et un</p>
 			</div>
 			<div>
-				<p><pb facs="#f047"/>double en commençant du pied gauche, retournant à sa place avec deux autres pas simples et un double en commençant du pied droit et faisant une mezzavolta sur le côté* droit dans le temps vide*, s'arrêtant ; et à l'instant* même où ledit homme retourne en arrière, la dame fait une volta tonda avec deux pas simples et une reprise, en commençant du pied droit, s'arrêtant à sa place. L'autre homme de derrière va toucher la main de la dame de la même manière que fit le compagnon, et la dame fait la même chose qu'elle fit avec l'autre, l'homme et la dame s'arrêtant alors à leur place.</p>
-				<p>Note ensuite que l'homme qui est devant fait une mezzavolta à sa place, regardant dans le dos* de la dame, et s'arrête.</p>
-				<p>Note maintenant que les deux hommes de derrière vont à la rencontre l'un de l'autre avec deux temps de saltarello en commençant du pied gauche, et se prenant par la main droite, allant, celui dessus* dessous* et celui dessous dessus, s'arrêtant tous les deux au même niveau* .</p>
-				<p>Note ensuite que lorsque lesdits deux hommes s'arrêtent, l'homme qui se trouve devant pique un saut au deuxième battement* de saltarello, faisant deux temps de saltarello en se retrouvant dans le dos de la dame du côté gauche et faisant mine de la regarder avec dédain. Ceci fait, la dame fait une mezzavolta sur le côté droit, regardant l'homme, et en même temps l'homme se présente devant elle avec une represa sur la traverse* sur le pied droit.</p>
-				<p>Note encore qu'on fait quatre temps de bassadanza, l'homme touchant la main de la dame et faisant tous les deux ensemble une révérence sur le pied gauche, laquelle consiste en un temps de bassadanza. Ceci fait, tous les quatre font deux continenze à leur place en commençant du pied droit. Alors, l'homme qui est auprès de la dame va à la place de l'homme de derrière qui est au milieu , et lui vient à la sienne auprès* de la dame, ces deux hommes faisant deux pas simples et un double en commençant du pied droit</p>
+				<p><pb facs="#f047"/>double en commençant du pied gauche, retournant à sa place avec deux autres pas simples et un double en commençant du pied droit et faisant une <term>mezzavolta </term>sur le côté droit dans le temps vide, s'arrêtant ; et au même moment que ledit homme retourne en arrière, la dame fait une <term>volta tonda</term> avec deux pas simples et une <term>represa </term>en commençant du pied droit, s'arrêtant à sa place; l'autre homme de derrière va toucher la main de la dame de la même manière que fit le compagnon, et la dame fait la même chose qu'elle fit avec l'autre, l'homme et la dame s'arrêtant alors à leur place.<lb/>Note ensuite que l'homme qui est devant fait une <term>mezzavolta </term>à sa place, regardant dans le dos de la dame, et s'arrête.<lb/>Note maintenant que les deux hommes de derrière vont à la rencontre l'un de l'autre avec deux <term>temps de saltarello</term> en commençant du pied gauche, et se prenant par la main droite, allant, celui de dessus dessous et celui de dessous dessus, s'arrêtant tous les deux au même niveau.<lb/>Note ensuite que lorsque lesdits deux hommes s'arrêtent, l'homme qui se trouve devant pique un saut à la deuxième <term>battue </term>de <term>saltarello</term>, faisant deux <term>temps de saltarello</term>, se retrouvant dans le dos de la dame du côté gauche et faisant mine de la regarder avec dédain. Ceci fait, la dame fait une <term>mezzavolta </term>sur le côté droit, regardant l'homme, et en même temps l'homme se présente devant elle avec une <term>represa </term>sur la traverse sur le pied droit.<lb/>Note encore qu'on fait quatre temps de <term>bassadanza</term>, l'homme touchant la main de la dame et faisant tous les deux ensemble une révérence sur le pied gauche, laquelle consiste en un temps de <term>bassadanza</term>; ceci fait, tous les quatre font deux <term>continenze </term>à leur place en commençant du pied droit; alors, l'homme qui est auprès de la dame va à la place de l'homme de derrière qui est au milieu<note xml:id="note_f047_0001">Ndtr. "meço lui" peu clair. On suppose celui qui est derrière la dame, et donc plutôt en face de lui</note>, et lui vient à la sienne auprès de la dame, ces deux hommes faisant deux pas simples et un double en commençant du pied droit</p>
 			</div>
 			<div>
-				<p><pb facs="#f048"/>si ce n'est que l'homme qui arrive derrière fait une mezzavolta sur le côté droit, et en même temps la dame et l'autre homme font une volta tonda à leur place, laquelle consiste en deux pas simples et une reprise en commençant du pied droit. Fin. Mais note que le compagnon qui se retrouve à la fin de ladite danse auprès de la dame, est celui qui tenait par la main le compagnon de derrière, et voulant que cette danse soit bien faite, il est nécessaire de la faire trois fois de telle sorte que les trois hommes aient chacun leur tour à guider la dame.</p>
+				<p><pb facs="#f048"/>si ce n'est que l'homme qui arrive derrière fait une <term>mezzavolta </term>sur le côté droit, et en même temps la dame et l'autre homme font une <term>volta tonda</term> à leur place, laquelle consiste en deux pas simples et une <term>represa</term> en commençant du pied droit. Fin. Mais note que le compagnon qui se retrouve à la fin de ladite danse auprès de la dame, est celui qui tenait par la main le compagnon de derrière, et voulant que cette danse soit bien faite, il est nécessaire de la faire trois fois de telle sorte que les trois hommes aient chacun leur tour à guider la dame.</p>
 				<p>Sobria en chant à sonner</p>
 			</div>
 			<div>
