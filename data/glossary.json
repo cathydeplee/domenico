@@ -43,8 +43,8 @@
             },
             {
                "partOfSpeech": "n.(m)",
-               "meaning": "chant, air, musique",
-               "references": ""
+               "meaning": "mélodie, musique (au sens de ligne musicale)\n",
+               "references": "Cornazano, transl, p.46 et Sparti, Glossaire, p219"
             }
          ],
          "modernSpelling": "",
@@ -74,6 +74,141 @@
             {
                "partOfSpeech": "n.(f)",
                "meaning": "à compléter",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "mexura de terreno": {
+         "headWord": "mexura de terreno",
+         "alternateSpellings": "",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(f)",
+               "meaning": "Mesure de terre: \"terre\" à à comprendre  ici, selon nous, au sens de \"qui appartient à la terre\", \"terrestre\", par opposition à ce qui est céleste, aérien.  Il est parfois question dans Pd de \"mesure de terre et d'air. Cette mesure consisterait ainsi en un dosage, une modération (du mouvement) en hauteur (plutôt qu'en superficie) entre terre et d'air. Acone traduit par: \"mesure de l'espace\"",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "distantia": {
+         "headWord": "distantia",
+         "alternateSpellings": "",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(f)",
+               "meaning": "souvent dans l'expression \"distantia de tempo\": trad. litt. \"distance de temps\". Probablement syn. du plus récent terme (d'origine grecque) intervalle. Sert à distingueur les différentes mesures musicales en fonction de leur durée, visualisée en distance (longueur de temps)",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "soprano": {
+         "headWord": "soprano",
+         "alternateSpellings": "",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "voix supérieure, dessus, mélodie",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "traverso": {
+         "headWord": "traverso",
+         "alternateSpellings": "traverse",
+         "meanings": [
+            {
+               "partOfSpeech": "prep.",
+               "meaning": "Dans les locutions prépositives \"in traverso\", \"sul traverso\", \"per traverso\" (et dont le premier mot ne semble pas avoir d'incidence sur le sens) utilisées pour qualifier le plus souvent certaines represe (Pizochara, Mercantia, Sobria, Tesara, Mignota, Corona, Zogliosa) ou plus rarement des passiti (Prexonera, Tesara) ou un frappamento (Iupiter). Le sens spatial n'est pas clair: il pourrait être: \"en diagonale\" ( \"de travers\"); mais plus probablement sur le côté (\"sur la traverse\"). Dans l'acception de ce 2e sens, et qualifiant les represe, l'expression servirait à les distinguer de celles où rien n'est précisé et qui se font (a priori, car nulle part cela soit explicité) en diagonale arrière.  Dans l'expectative nous traduisons litt. \"en travers\"",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "sopra": {
+         "headWord": "sopra",
+         "alternateSpellings": "desopra, disopra, dessus, devant",
+         "meanings": [
+            {
+               "partOfSpeech": "prep.",
+               "meaning": "Dans la locution prépositive \"de/di sopra (da)\": indique la position spatiale d'un passage textuel signifiant \"(ci) dessus, en haut, (ci) avant\"; ou d'un danseur et signifiant alors \"dessus\" par rapport au sens de la danse et donc \"devant\" (par rapport à un autre danseur). Se rencontre dans Pd in Vercepe, Fia Guiglielma1, Sobria, Tesara, et dans V (ref...)",
+               "references": ""
+            },
+            {
+               "partOfSpeech": "prep.",
+               "meaning": "Dans la locution prépositive \"de/di sopra (da)\": indique la position spatiale d'un danseur et signifiant à (la main) gauche de. Qualifie généralement position de l'homme (qui guide - et a donc le \"dessus\", avec la main droite) par rapport à la dame (qui se fait guider en donnant sa main gauche). Se rencontre dans Pd in Mercantia (main C, et A par contamination), et généralement dans Pg, Pa.",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "sotto, sopto, disotto, disopto",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "sopto": {
+         "headWord": "sopto",
+         "alternateSpellings": "sotto, disotto, disoto, dessous",
+         "meanings": [
+            {
+               "partOfSpeech": "prep.",
+               "meaning": "Dans la locution prépositive \"de/di sopto (da/a)\": indique la position spatiale d'un passage textuel signifiant \"(ci-)dessous, en bas, (ci-) après\"; ou d'un danseur et signifiant alors \"dessous\" par rapport au sens de la danse et donc par rapport à un autre danseur, \"derrière\". Se rencontre dans Pd in Vercepe, Fia Guiglielma1, Sobria, Tesara, et dans V (ref...)",
+               "references": ""
+            },
+            {
+               "partOfSpeech": "prep.",
+               "meaning": "Dans la locution prépositive \"de/di sopto (da)\": indique la position spatiale d'un danseur et signifiant à (la main) droite de. Qualifie généralement position de la dame (qui est guidée/menée  en donnant sa main gauche) par rapport à l'homme (qui guide par la main droite - et a donc le \"dessus\" cf 1e sens). Se rencontre dans Pd in Mercantia (main C et A par contemination), Belfiore, et dans Pg",
+               "references": ""
+            },
+            {
+               "partOfSpeech": "prep.",
+               "meaning": "Dans la locution prépositive \"di sotto a\": spécifiquement dans le ballo Tesara, indique la position spatiale \"en dessous\", entendue dans le sens littéral: les danseurs passent \"en dessous\" du/des foulard(s) que tiennent à bout de bras, d'autres danseurs",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "sopra",
+         "synonym": "drieto",
+         "seeAlso": ""
+      },
+      "boto": {
+         "headWord": "boto",
+         "alternateSpellings": "botto, battue, battu",
+         "meanings": [
+            {
+               "partOfSpeech": "",
+               "meaning": "",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "\"aguisa de\"": {
+         "headWord": "\"aguisa de\"",
+         "alternateSpellings": "\"en guise de\", \"a guisa de\"",
+         "meanings": [
+            {
+               "partOfSpeech": "",
+               "meaning": "",
                "references": ""
             }
          ],
