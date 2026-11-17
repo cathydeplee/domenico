@@ -2,28 +2,13 @@
    "title": "",
    "citation": "",
    "entries": {
-      "Belriguardo": {
-         "headWord": "Belriguardo",
-         "alternateSpellings": "",
-         "meanings": [
-            {
-               "partOfSpeech": "",
-               "meaning": "nom d'une composition musicale et de deux balli de Domenico, en référence à l'une des demeures de plaisance, éponyme, des Este, dans la campagne ferraraise, où Lionel mourut en 1450, et qui connut des rénovations importantes dans les années 1440.",
-               "references": ""
-            }
-         ],
-         "modernSpelling": "",
-         "antonym": "",
-         "synonym": "",
-         "seeAlso": ""
-      },
       "cambiamento": {
          "headWord": "cambiamento",
          "alternateSpellings": "scambiamento, cambiamenti, scambiamenti",
          "meanings": [
             {
                "partOfSpeech": "n.(m)",
-               "meaning": "changement (de pied): un des trois mouvements accidentels relevés par Domenico qui se fait sur ¼ de temps (à raison de maximum un par temps) et donne de la variété aux mouvements naturels. Il consiste à changer rapidement d'apui, à la fin ou au début d'un double ou d'un simple, pour repartir du même pied. Le cambiamento n’est à employer que dans la mesure bassadanza probablement en raison de son rythme lent. \nNéanmoins, bien que non nommés comme tels, d'autres combinaisons de mouvements révèlent des pratiques de changements de pieds danse le manuscrit.",
+               "meaning": "changement (de pied/d'appui): un des trois \"mouvements accidentels\" définis par Domenico da Piacenza. Il se fait sur ¼ de temps et donne de la variété aux mouvements naturels, et consiste à changer rapidement d'appui, à la fin ou au début d'un double ou d'un simple, pour repartir du même pied. Dans les compostions chorégraphiques du ms, il n'est que très rarement écrit (ce qui laisse supposer une pratique improvisée).",
                "references": ""
             }
          ],
@@ -73,7 +58,7 @@
          "meanings": [
             {
                "partOfSpeech": "n.(f)",
-               "meaning": "à compléter",
+               "meaning": "Désigne à la fois 1°/une des quatre mesures musicales répertoriées par Domenico da Piacenza, la  plus lente, répondant à la structure rythmique de \"majeur imparfait\" (brèves ternaires et semi brèves binaires) et dont l'unité rythmique est un \"tempo de bassadanza\"; 2°/ un des deux types de danses dont le maître compose les pas, dont la musique est caractérisée par un seul type de mesure, celle de bassadanza. Il est possible que ce type de danse découle et propose une \"version italienne\", très raffinée, des basses danses bourguignones, 3°/ à la croisée de l'acceptions musicale et chorégraphique, le \"mouvement /motto de bassadanza\" est l'unité chorégraphique (actuel \" \"pas\") typique de la mesure de bassadanza, qui consiste en un double exécuté sur une mesure de bassadanza.  ",
                "references": ""
             }
          ],
@@ -148,7 +133,7 @@
          "meanings": [
             {
                "partOfSpeech": "prep.",
-               "meaning": "Dans la locution prépositive \"de/di sopra (da)\": indique la position spatiale d'un passage textuel signifiant \"(ci) dessus, en haut, (ci) avant\"; ou d'un danseur et signifiant alors \"dessus\" par rapport au sens de la danse et donc \"devant\" (par rapport à un autre danseur). Se rencontre dans Pd in Vercepe, Fia Guiglielma1, Sobria, Tesara, et dans V (ref...)",
+               "meaning": "Dans la locution prépositive \"de/di sopra (da)\": indique la position spatiale d'un danseur (par analogie avec la référence à un passage textuel) signifiant \"dessus\" par rapport au sens de la danse et donc \"devant\" (par rapport à un autre danseur). Se rencontre dans Pd in Vercepe, Fia Guiglielma1, Sobria, Tesara, et dans V (ref...)\n",
                "references": ""
             },
             {
@@ -168,7 +153,7 @@
          "meanings": [
             {
                "partOfSpeech": "prep.",
-               "meaning": "Dans la locution prépositive \"de/di sopto (da/a)\": indique la position spatiale d'un passage textuel signifiant \"(ci-)dessous, en bas, (ci-) après\"; ou d'un danseur et signifiant alors \"dessous\" par rapport au sens de la danse et donc par rapport à un autre danseur, \"derrière\". Se rencontre dans Pd in Vercepe, Fia Guiglielma1, Sobria, Tesara, et dans V (ref...)",
+               "meaning": "Dans la locution prépositive \"de/di sopto (da/a)\": indique la position spatiale d'un danseur (par analogie à la référence d'un passage textuel signifiant \"ci-dessous\") signifiant  \"dessous\" par rapport au sens de la danse et donc par rapport à un autre danseur, \"derrière\". Se rencontre dans Pd in Vercepe, Fia Guiglielma1, Sobria, Tesara, et dans V (ref...)",
                "references": ""
             },
             {
@@ -190,21 +175,6 @@
       "boto": {
          "headWord": "boto",
          "alternateSpellings": "botto, battue, battu",
-         "meanings": [
-            {
-               "partOfSpeech": "",
-               "meaning": "",
-               "references": ""
-            }
-         ],
-         "modernSpelling": "",
-         "antonym": "",
-         "synonym": "",
-         "seeAlso": ""
-      },
-      "\"aguisa de\"": {
-         "headWord": "\"aguisa de\"",
-         "alternateSpellings": "\"en guise de\", \"a guisa de\"",
          "meanings": [
             {
                "partOfSpeech": "",
