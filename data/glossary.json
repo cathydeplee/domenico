@@ -23,13 +23,13 @@
          "meanings": [
             {
                "partOfSpeech": "n.(m)",
-               "meaning": "côté: utilisé pour signifier de quel côté un danseur effectue un mouvement soit par rapport à lui même (ex: tourner sur le côté droit) soit par rapport aux autres (passer sur le côté droit de x.). Syn.: lato",
-               "references": ""
+               "meaning": "mélodie, musique (au sens de ligne musicale)\n",
+               "references": "Cornazano, transl, p.46 et Sparti, Glossaire, p219"
             },
             {
                "partOfSpeech": "n.(m)",
-               "meaning": "mélodie, musique (au sens de ligne musicale)\n",
-               "references": "Cornazano, transl, p.46 et Sparti, Glossaire, p219"
+               "meaning": "côté: utilisé pour signifier de quel côté un danseur effectue un mouvement soit par rapport à lui- même (ex: tourner sur le côté droit) soit par rapport aux autres (passer sur le côté droit de x.). Syn.: lato",
+               "references": ""
             }
          ],
          "modernSpelling": "",
@@ -39,11 +39,11 @@
       },
       "dopio": {
          "headWord": "dopio",
-         "alternateSpellings": "doppio, dopi, doppi, dopedo",
+         "alternateSpellings": "doppio, dopi, doppi, dopedo, double",
          "meanings": [
             {
                "partOfSpeech": "n.(m)",
-               "meaning": "double: un des neuf mouvements naturels définis par Domenico. Consiste en l'enchainement de deux simples sur le même pied (=redoublement d'un simple) avec donc un changement d'appui entre les deux, ce qui fait trois pas, le second étant plus court (en temps et en espace). En général il est précisé de quel pied commence le doppio (un doppio sul/cum/commenzando con lo pede sinistro/dretto). Peut se faire sur toutes les mesures. \nIl prend une unité de temps. Syn: parfois on parle de \"tempo di bassadanza\" pour signifier le mouvement (et nom le temps) du double sur la mesure de bassadanza.",
+               "meaning": "double: un des neuf mouvements naturels définis par Domenico. Consiste en l'enchainement de deux simples sur le même pied (=redoublement d'un simple) avec donc un changement d'appui entre les deux (fait par un petit pas, plus court - en temps et en espace - que les deux autres). Il peut se faire sur toutes les mesures et prend une unité de temps, ce qui le rend parfois synonyme de \"temps de\" (uno tempo di bassadanza=uno dopio de bassadanza)",
                "references": ""
             }
          ],
@@ -84,7 +84,7 @@
       },
       "distantia": {
          "headWord": "distantia",
-         "alternateSpellings": "",
+         "alternateSpellings": "distance",
          "meanings": [
             {
                "partOfSpeech": "n.(f)",
@@ -172,13 +172,43 @@
          "synonym": "drieto",
          "seeAlso": ""
       },
-      "boto": {
-         "headWord": "boto",
-         "alternateSpellings": "botto, battue, battu",
+      "bota": {
+         "headWord": "bota",
+         "alternateSpellings": "bote, botte, coup",
          "meanings": [
             {
-               "partOfSpeech": "",
-               "meaning": "",
+               "partOfSpeech": "n.(m)",
+               "meaning": "battement, coup, au sens de pulsation rythmique",
+               "references": "Lo Monaco, 2024, pp 47-57"
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "boto": {
+         "headWord": "boto",
+         "alternateSpellings": "botto, battu",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "terme chorégraphique désignant le marquage dans le sol à l'issue d'un mouvement/temps de saltarello qui consiste en un double suivi d'un petit saut",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "doppi sul": {
+         "headWord": "doppi sul",
+         "alternateSpellings": "doubles sur, dopi sul, dupii suso, dupii sul",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "Enchaînement de plusieurs doubles sur le même pied, avec donc un rapide changement de pied entre chaque double. Leur durée/longueur est moindre que les doubles habituels: 3 sur deux temps, ou 2 sur  un temps et demi. Seront appelés \"contrapassi\" dans V et Pg/Pa.",
                "references": ""
             }
          ],
