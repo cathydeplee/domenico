@@ -223,7 +223,7 @@
          "meanings": [
             {
                "partOfSpeech": "n.(m)",
-               "meaning": "Mouvement au sens général, et sous entendu corporel dans le ms. V et Pg/a utilisent plus volontiers \"movimento\" (voir aussi ce terme dans le Glossaire)",
+               "meaning": "Mouvement au sens général, sous entendu corporel dans le ms.\n(V et Pg/a utilisent plus volontiers \"movimento\"- voir aussi ce terme dans le Glossaire)",
                "references": "Procopio, p. 57"
             },
             {
@@ -254,6 +254,21 @@
             {
                "partOfSpeech": "n.(m)",
                "meaning": "Un des mouvements naturels répertorié dans le ms. (§8, f.2v) qui consiste en un ébranlement du haut du corps (d'une durée d'un demi temps). Selon Cornazano il est une sorte d'appel à un autre danseur (\"in publico da l'homo alla donna uno honestissimo richiamo\", V, f. 7v), et ne s'utilise que dans les balli. Dans ceux-ci en effet, on constate qu'il se fait souvent par paire, en écho entre danseurs (sous forme d'appel-réponse). Il n'apparaît dans Pg/a que dans les transcriptions des balli de Domenico. ",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "motto de bassadanza": {
+         "headWord": "motto de bassadanza",
+         "alternateSpellings": "mouvement de bassadanza, motti de bassadanza",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "Unité de mouvement corporel mesuré se faisant sur une mesure (musicale et complète) de bassadanza, consistant en un doppio (accompli suivant une certaine métrique et manière Pd f.1v)",
                "references": ""
             }
          ],
