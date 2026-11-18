@@ -69,11 +69,11 @@
       },
       "mexura de terreno": {
          "headWord": "mexura de terreno",
-         "alternateSpellings": "",
+         "alternateSpellings": "mesure de terre",
          "meanings": [
             {
                "partOfSpeech": "n.(f)",
-               "meaning": "Mesure de terre: \"terre\" à à comprendre  ici, selon nous, au sens de \"qui appartient à la terre\", \"terrestre\", par opposition à ce qui est céleste, aérien.  Il est parfois question dans Pd de \"mesure de terre et d'air. Cette mesure consisterait ainsi en un dosage, une modération (du mouvement) en hauteur (plutôt qu'en superficie) entre terre et d'air. Acone traduit par: \"mesure de l'espace\"",
+               "meaning": "Mesure de terre: \"terre\" à à comprendre  ici, selon nous, au sens de \"qui appartient à la terre\", \"terrestre\", par opposition à ce qui est céleste, aérien.  Il est parfois question dans Pd de \"mesure de terre et d'air. Cette mesure consisterait ainsi en un dosage, une modération (du mouvement) en hauteur (plutôt qu'en superficie) entre terre et d'air. Acone traduit par: \"mesure de l'espace\". On remarque un glissement de sens dans Pg/a qui ne parle plus de \"mexura de t.\" mais de \"partir(e) di terreno\": il s'agit d'évaluation de l'espace (par rapport à la salle ou le lieu où l'on danse), qui se rapporte davantage à la \"concordantia de terreno\" de Pd, bien que celle-ci englobe en outre une dimension morale",
                "references": ""
             }
          ],
@@ -103,7 +103,7 @@
          "meanings": [
             {
                "partOfSpeech": "n.(m)",
-               "meaning": "voix supérieure, dessus, mélodie",
+               "meaning": "voix supérieure, dessus",
                "references": ""
             }
          ],
@@ -118,7 +118,7 @@
          "meanings": [
             {
                "partOfSpeech": "prep.",
-               "meaning": "Dans les locutions prépositives \"in traverso\", \"sul traverso\", \"per traverso\" (et dont le premier mot ne semble pas avoir d'incidence sur le sens) utilisées pour qualifier le plus souvent certaines represe (Pizochara, Mercantia, Sobria, Tesara, Mignota, Corona, Zogliosa) ou plus rarement des passiti (Prexonera, Tesara) ou un frappamento (Iupiter). Le sens spatial n'est pas clair: il pourrait être: \"en diagonale\" ( \"de travers\"); mais plus probablement sur le côté (\"sur la traverse\"). Dans l'acception de ce 2e sens, et qualifiant les represe, l'expression servirait à les distinguer de celles où rien n'est précisé et qui se font (a priori, car nulle part cela soit explicité) en diagonale arrière.  Dans l'expectative nous traduisons litt. \"en travers\"",
+               "meaning": "Dans les locutions prépositives \"in traverso\", \"sul traverso\", \"per traverso\" (et dont le premier mot ne semble pas avoir d'incidence sur le sens) utilisées pour qualifier le plus souvent certaines \"represe\" (Pizochara, Mercantia, Sobria, Tesara, Mignota, Corona, Zogliosa) ou plus rarement des \"passiti\" (Prexonera, Tesara) ou un \"frappamento\" (Iupiter). Le sens spatial n'est pas clair: il pourrait être: \"en diagonale\" ( \"de travers\"); mais plus probablement sur le côté (\"sur la traverse\"). Dans l'acception de ce 2e sens, et qualifiant les represe, l'expression servirait à les distinguer de celles où rien n'est précisé et qui se font (a priori, car nulle part cela soit explicité) en diagonale arrière.  Dans l'expectative nous traduisons litt. \"en travers\"",
                "references": ""
             }
          ],
@@ -209,6 +209,51 @@
             {
                "partOfSpeech": "n.(m)",
                "meaning": "Enchaînement de plusieurs doubles sur le même pied, avec donc un rapide changement de pied entre chaque double. Leur durée/longueur est moindre que les doubles habituels: 3 sur deux temps, ou 2 sur  un temps et demi. Seront appelés \"contrapassi\" dans V et Pg/Pa.",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "motto": {
+         "headWord": "motto",
+         "alternateSpellings": "moto, motti, mouvement",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "Mouvement au sens général, et sous entendu corporel dans le ms. V et Pg/a utilisent plus volontiers \"movimento\" (voir aussi ce terme dans le Glossaire)",
+               "references": "Procopio, p. 57"
+            },
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "Unité chorégraphique minimale, mouvement unitaire. Ils sont au nombre de 9 naturels et 3 accidentels dans le ms (Pd f. 2v, §8). ",
+               "references": ""
+            },
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "Mouvement spécifique lié à une mesure musicale. La \"mexura de motto\" (la manière dont son composés les mouvements sur les mesures) est à proprement parler proprement le concept innovant de Domenico da Piacenza, qu'il sefforce d'expliquer surtout §11 (f.2v et suiv.). ",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": "motto de bassadanza, motto quadernario, motto de saltarello, motto de piva, movimento"
+      },
+      "movimento": {
+         "headWord": "movimento",
+         "alternateSpellings": "movimenti, mouvement",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "Mouvement au sens général, sous entendu corporel dans le ms. Syn. du plus fréquent \"motto\" dans Pd. C'est ce terme qu'utiliseront plus volontiers V et Pg/a.",
+               "references": "Sparti, p223"
+            },
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "Un des mouvements naturels répertorié dans le ms. (§8, f.2v) qui consiste en un ébranlement du haut du corps (d'une durée d'un demi temps). Selon Cornazano il est une sorte d'appel à un autre danseur (\"in publico da l'homo alla donna uno honestissimo richiamo\", V, f. 7v), et ne s'utilise que dans les balli. Dans ceux-ci en effet, on constate qu'il se fait souvent par paire, en écho entre danseurs (sous forme d'appel-réponse). Il n'apparaît dans Pg/a que dans les transcriptions des balli de Domenico. ",
                "references": ""
             }
          ],
