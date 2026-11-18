@@ -58,7 +58,12 @@
          "meanings": [
             {
                "partOfSpeech": "n.(f)",
-               "meaning": "Désigne à la fois 1°/une des quatre mesures musicales répertoriées par Domenico da Piacenza, la  plus lente, répondant à la structure rythmique de \"majeur imparfait\" (brèves ternaires et semi brèves binaires) et dont l'unité rythmique est un \"tempo de bassadanza\"; 2°/ un des deux types de danses dont le maître compose les pas, dont la musique est caractérisée par un seul type de mesure, celle de bassadanza. Il est possible que ce type de danse découle et propose une \"version italienne\", très raffinée, des basses danses bourguignones, 3°/ à la croisée de l'acceptions musicale et chorégraphique, le \"mouvement /motto de bassadanza\" est l'unité chorégraphique (actuel \" \"pas\") typique de la mesure de bassadanza, qui consiste en un double exécuté sur une mesure de bassadanza.  ",
+               "meaning": "Désigne l'une des quatre mesures musicales répertoriées par Domenico da Piacenza (mexura de bassadanza), la  plus lente, et ayant un pendant kinétique (-->motto de bassadanza); en notation mensurale elle répond à la structure rythmique de tempus imparfait (division de la brève en deux semi-brèves ou brèves binaires) et prolation majeure (division de la semi brève en trois minimes)",
+               "references": ""
+            },
+            {
+               "partOfSpeech": "n.(f)",
+               "meaning": "Un des deux types de danses composées et chorégraphiées par Domenico dont la musique est caractérisée par un seul type de mesure, celle de bassadanza (à la différence des --> balli consistant en différentes mesures). Il est possible que ces bassadanze découlent et proposent une \"version italienne\", très raffinée, des basses danses bourguignones",
                "references": ""
             }
          ],
@@ -268,8 +273,103 @@
          "meanings": [
             {
                "partOfSpeech": "n.(m)",
-               "meaning": "Unité de mouvement corporel mesuré se faisant sur une mesure (musicale et complète) de bassadanza, consistant en un doppio (accompli suivant une certaine métrique et manière Pd f.1v)",
+               "meaning": "Unité de mouvement corporel mesuré se faisant sur une mesure musicale complète (ou temps/tempo) de bassadanza, consistant en un double accompli suivant une certaine métrique et manière (Pd f.1v). D'où l'occurence régulière de \"doppio de bassadanza\". Souvent remplacé par métonymie, par \"tempo de bassadanza\" pour désigner l'unité de mouvement.",
                "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "doppio de bassadanza, tempo de bassadanza",
+         "seeAlso": ""
+      },
+      "motto de saltarello": {
+         "headWord": "motto de saltarello",
+         "alternateSpellings": "motti de saltarello, mouvement de saltarello",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "Unité de mouvement corporel mesuré se faisant sur une mesure musicale complète (ou temps/tempo) de saltarello, consistant en un double suivi d'un petit saut. Souvent remplacé par métonymie, par \"tempo de saltarello\" pour désigner l'unité de mouvement.",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "tempo de saltarello, temps de saltarello",
+         "seeAlso": ""
+      },
+      "motto quadernario": {
+         "headWord": "motto quadernario",
+         "alternateSpellings": "mouvement quadernario",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "Unité de mouvement corporel mesuré se faisant sur une mesure musicale complète (ou temps) de quadernaria, consistant en un double suivi d'un frappamento, l'exécution de ce frappamento n'étant pas décrite génériquement. (Dans Pd et V ce motto q. est appelé \"saltarello todescho\"). Dans Iupiter (Pd f.17 v) ce mouvement est décrit comme: trois pas + un frappamento sur la traverse (dans Pg/a et V: un double + une reprise sur le côté et est appelé \"saltarello Todesco), mais sans que l'on puisse savoir si le frappamento se fait toujours de cette manière. ",
+               "references": "Lo Monaco, p 424; Sparti p. 225"
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "tempo de piva": {
+         "headWord": "tempo de piva",
+         "alternateSpellings": "tempi de piva, temps de piva",
+         "meanings": [
+            {
+               "partOfSpeech": "",
+               "meaning": "Unité de mouvement corporel mesuré se faisant sur une mesure musicale de piva, consistant en un double rapide. ",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "saltarello": {
+         "headWord": "saltarello",
+         "alternateSpellings": "",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "Une des quatre mesures musicales définies par Domenico da Piacenza (mexura de saltarello) et ayant un pendant kinétique (motto saltarello). Elle est caractérisée (en terme de \"musique mensurale\") par un tempus parfait (division de la brève en trois semi-brèves ou brèves ternaires) et une prolation majeure (division de la semi-brève en trois minimes). Elle est dite 2/6e plus rapide que la bassadanza.",
+               "references": "Lo Monaco, 2024, p 87-11 "
+            },
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "Désigne, par habitude, la séquence d'entrée d'un ballo, assez vive. Les balli composés pas Messer Domenico commençant très souvent par un nombre variable de mesures de saltarello, dansées en leur mouvement ou en un autre, où les danseurs se donnent le plus souvent la main. ",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "quadernaria": {
+         "headWord": "quadernaria",
+         "alternateSpellings": "",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(f)",
+               "meaning": "Une des quatre mesures musicales répertoriées par Domenico da Piacenza (mexura quadernaria),  et ayant un pendant kinétique (--> motto quadernario); en notation mensurale elle répond à la structure rythmique de tempus imparfait (division de la brève en deux semi-brèves ou brèves binaires) et prolation mineure (division de la semi brève en deux minimes). Elle est dite dans le ms. être plus lente d'1/6e que la bassadanza. ",
+               "references": "Lo Monaco, 2024, p215"
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "piva": {
+         "headWord": "piva",
+         "alternateSpellings": "",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(f)",
+               "meaning": "Une des quatre mesures musicales répertoriées par Domenico da Piacenza (mexura de piva),  et ayant un pendant kinétique (--> tempo/i de piva); en notation mensurale elle répond à la structure rythmique de tempus parfait (division de la brève en trois semi-brèves ou brèves ternaires) et prolation mineure (division de la semi brève en deux minimes). Elle est dite dans le ms. être deux fois plus rapide que la bassadanza. ",
+               "references": "Lo Monaco 2024, p.115"
             }
          ],
          "modernSpelling": "",
