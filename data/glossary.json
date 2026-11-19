@@ -194,11 +194,11 @@
       },
       "boto": {
          "headWord": "boto",
-         "alternateSpellings": "botto, battu",
+         "alternateSpellings": "botto, battu, batue",
          "meanings": [
             {
                "partOfSpeech": "n.(m)",
-               "meaning": "terme chorégraphique désignant le marquage dans le sol à l'issue d'un mouvement/temps de saltarello qui consiste en un double suivi d'un petit saut",
+               "meaning": "Terme chorégraphique (non défini dans les différents ms) désignant probablement soit l'élan (battue) du saut soit le marquage dans le sol (battu) à l'issue d'un --> mouvement /temps de saltarello ",
                "references": ""
             }
          ],
@@ -238,7 +238,7 @@
             },
             {
                "partOfSpeech": "n.(m)",
-               "meaning": "Mouvement spécifique lié à une mesure musicale. La \"mexura de motto\" (la manière dont son composés les mouvements sur les mesures) est à proprement parler proprement le concept innovant de Domenico da Piacenza, qu'il sefforce d'expliquer surtout §11 (f.2v et suiv.). ",
+               "meaning": "Mouvement spécifique lié à une mesure musicale. La \"mexura de motto\" (la manière dont les mouvements sont accomplis sur les temps des mesures musicales) est à proprement parler le concept innovant de Domenico da Piacenza (cf §11 f.2v et suiv.). Dans cette acception, le terme est souvent remplacé par métonymie par \"tempo de\" (--> tempo; motto de bassadanza; motto quadernario)",
                "references": ""
             }
          ],
@@ -258,7 +258,7 @@
             },
             {
                "partOfSpeech": "n.(m)",
-               "meaning": "Un des mouvements naturels répertorié dans le ms. (§8, f.2v) qui consiste en un ébranlement du haut du corps (d'une durée d'un demi temps). Selon Cornazano il est une sorte d'appel à un autre danseur (\"in publico da l'homo alla donna uno honestissimo richiamo\", V, f. 7v), et ne s'utilise que dans les balli. Dans ceux-ci en effet, on constate qu'il se fait souvent par paire, en écho entre danseurs (sous forme d'appel-réponse). Il n'apparaît dans Pg/a que dans les transcriptions des balli de Domenico. ",
+               "meaning": "Un des neuf mouvements naturels  énumérés par Domenico (§8, f.2v) qui consiste en un ébranlement du haut du corps (d'une durée d'un demi temps) et n'implique aucun déplacement/changement d'appui. Selon Cornazano il est une sorte d'appel à un autre danseur (\"in publico da l'homo alla donna uno honestissimo richiamo\", V, f. 7v), et ne s'utilise que dans les balli. Dans ceux-ci en effet, il se fait en général par paire, en écho entre danseurs (sous forme d'appel-réponse). Il n'apparaît dans Pg/a que dans les transcriptions des balli de Domenico. ",
                "references": ""
             }
          ],
@@ -333,7 +333,7 @@
          "meanings": [
             {
                "partOfSpeech": "n.(m)",
-               "meaning": "Une des quatre mesures musicales définies par Domenico da Piacenza (mexura de saltarello) et ayant un pendant kinétique (motto saltarello). Elle est caractérisée (en terme de \"musique mensurale\") par un tempus parfait (division de la brève en trois semi-brèves ou brèves ternaires) et une prolation majeure (division de la semi-brève en trois minimes). Elle est dite 2/6e plus rapide que la bassadanza.",
+               "meaning": "Une des quatre mesures musicales définies par Domenico da Piacenza (mexura de saltarello) et ayant un pendant kinétique (--> motto saltarello). Elle est caractérisée (en terme de \"musique mensurale\") par un tempus parfait (division de la brève en trois semi-brèves ou brèves ternaires) et une prolation majeure (division de la semi-brève en trois minimes). Elle est dite 2/6e plus rapide que la bassadanza.",
                "references": "Lo Monaco, 2024, p 87-11 "
             },
             {
@@ -370,6 +370,221 @@
                "partOfSpeech": "n.(f)",
                "meaning": "Une des quatre mesures musicales répertoriées par Domenico da Piacenza (mexura de piva),  et ayant un pendant kinétique (--> tempo/i de piva); en notation mensurale elle répond à la structure rythmique de tempus parfait (division de la brève en trois semi-brèves ou brèves ternaires) et prolation mineure (division de la semi brève en deux minimes). Elle est dite dans le ms. être deux fois plus rapide que la bassadanza. ",
                "references": "Lo Monaco 2024, p.115"
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "tempo": {
+         "headWord": "tempo",
+         "alternateSpellings": "temps",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "Dans la théorie de la musique mensurale, synonyme de \"mesure\" (musicale), équivalent en général à une brève (et pouvant donc contenir plusieurs notes dans un canto). ",
+               "references": " Pour aller plus loin: Lo Monaco 2024, p424"
+            },
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "Dans la théorie chorégraphique de Domenico (et par métonymie) sinonyme de --> \"motto\" (mouvement unitaire mesuré) accompli sur un temps (ou mesure). Le concept étant neuf, la dénomination de cette unité chorégraphique mesurée se cherche au cours du ms : motto per tempo, tempo per motto, tempo de motto, motto del tempo",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "mexura": {
+         "headWord": "mexura",
+         "alternateSpellings": "misura, mesure",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(f)",
+               "meaning": "Mesure au sens général de mensuration, découlant du fait de mesurer (le vide avec le plein, le lent avec le vite...)",
+               "references": ""
+            },
+            {
+               "partOfSpeech": "n.(f)",
+               "meaning": "Mesure au sens moral de modération, juste milieu",
+               "references": ""
+            },
+            {
+               "partOfSpeech": "n.(f)",
+               "meaning": "Par rapport à la musique: mesure au sens de mensuration spécifique (schéma rythmique). Le ms en définit quatre: --> la bassadanza, la quadernaria, salterello, piva. A chacune  correspond une mesure de mouvement (mexura de motto)",
+               "references": ""
+            },
+            {
+               "partOfSpeech": "n.(f)",
+               "meaning": "Par rapport au mouvement corporel (mexura de motto): mesure au sens d'organisation et mensuration spécifique du mouvement liée à la mesure musicale a laquelle il se rapporte. ",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "simpio": {
+         "headWord": "simpio",
+         "alternateSpellings": "sempio, simpii, sempi, simple",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "Un des neuf mouvements \"naturels\" énumérés par Domenico: consiste en un pas marché, par défaut en avant (avec changement d'appui). Dans les chorégraphies est mentionné en général de quel pied il \"commence\" (c.a.d. le pied qui s'écarte et se pose au sol). Il dure un demi temps.  ",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "mezavolta": {
+         "headWord": "mezavolta",
+         "alternateSpellings": "mezzavolta",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(f)",
+               "meaning": "Un des neuf mouvements naturels définis par Domenico, consistant en un demi tour sur un pied. Elle peut se faire sur un demi temps ou \"dans le vide\" (sur la fin du temps du mouvement précédent). Dans les chorégraphie, est en général mentionné de quel côté elle est faite (de quel côté on tourne/sur quelle épaule). Elle peut inclure un changement d'appui à l'issue du demi tour, ou pas, dans ce dernier cas, c'est le pas suivant qui fait les appuis. ",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "volta tonda": {
+         "headWord": "volta tonda",
+         "alternateSpellings": "voltatonda, volta",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(f)",
+               "meaning": "Un des neuf mouvements naturels définis par Domenico, consiste en un tour complet réalisé en plusieurs pas et dure 2 temps. Dans la mesure de bassadanza elle se fait avec 2 pas simples et une reprise. Dans la mesure de piva, elle se fait avec trois pas simples. V précise que dans les autres mesures que la bassadanza, elle commence (et tourne) sur le pied gauche. (f. 18r)",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "represa": {
+         "headWord": "represa",
+         "alternateSpellings": "ripresa, represe",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(f)",
+               "meaning": "Un des neuf mouvements \"naturels\" énumérés par Domenico. Il consiste (d'après les différentes reconstructions) à tirer un des deux pieds vers l'arrière en diagonale (ce qui permet de \"reprendre\" du terrain) ou sur le côté (\"in traverso\"), avec un transfert de poids, le danseur restant de face. Il dure 1 temps (2x plus qu'un pas simple donc). ",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "continenza": {
+         "headWord": "continenza",
+         "alternateSpellings": "continenze",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(f)",
+               "meaning": "Un des neuf mouvements \"naturels\" énumérés par Domenico, consistant en un tranfert de poids d'un pieds sur l'autre sur place. Elle dure 1/2 temps. Se fait toujours par paire dans Pd (2 c.=1 temps). Dans les ms un peu postérieurs (M, S) on trouve la variante de \"meza continenza\". Ce mouvement permet de retrouver son axe, son centre (d'où le terme).",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "frappamento": {
+         "headWord": "frappamento",
+         "alternateSpellings": "",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "Un des trois mouvements \"accidentels\" énumérés par Domenico, (le plus souvent utilisé d'après le ms). Son exécution/interprétation dansée est sujette à caution. Il peut s'agir d'un battu d'un pied dans le sol, en guise d'ornementation. Dans Pd, il constitue une des marques de la --> quadernaria. (bien que V décrit le mouvement de quadernaria comme deux pas + une petite reprise sur le côté, nous ne pouvons en conclure que cette petite reprise équivaut au frappamento)",
+               "references": "Sparti, p221; Lo Monaco, p421; Procopio, p165"
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "scorsa": {
+         "headWord": "scorsa",
+         "alternateSpellings": "",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(f)",
+               "meaning": "Un des trois mouvements \"accidentels\" énumérés par Domenico, pour lequel nous n'avons aucune précision quant à l'exécution. Il n'est pas repris dans les autres ms. ",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "in instante": {
+         "headWord": "in instante",
+         "alternateSpellings": "",
+         "meanings": [
+            {
+               "partOfSpeech": "prep.",
+               "meaning": "A l'instant, en même temps. Désigne à la fois l'immédiateté et la simultanéité d'une action par rapport à la précédente et à celle des autres danseurs.  ",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "accidentia": {
+         "headWord": "accidentia",
+         "alternateSpellings": "azidenzia",
+         "meanings": [
+            {
+               "partOfSpeech": "n.n. ",
+               "meaning": "\"Accident\". Terme dérivé d'un neutre pluriel latin, utilisé pour un sg dans le ms, le plus souvent dans l'expression \"per accidentia\", \"par accident\". Emprunt au vocabulaire aristotélitien cher à Domenico. L'expression s'oppose à \"per natura\" (\"par nature\") et signifie \"de manière accidentelle\", à savoir ni naturellement ni fortuitement mais  par art, par apprentissage, par travail de l'intelligence.  ",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "posada": {
+         "headWord": "posada",
+         "alternateSpellings": "",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(f)",
+               "meaning": "Pausé d'un pied (à côté de l'autre). Par défaut, sans transfert de poids",
+               "references": "Procopio, p166"
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "fantasmata": {
+         "headWord": "fantasmata",
+         "alternateSpellings": "fantaxmate",
+         "meanings": [
+            {
+               "partOfSpeech": "n.n.",
+               "meaning": "Dérivé du grec \"phantasma\". Ce concept de fantasmata est un des plus débattus dans la littérature sur le traité et sa signification reste délicate. Tous les auteurs le transcrivent tel quel, sans traduction. Le débat porte à la fois sur son origine, sa forme et son interprétation. D'un point de vue strictement chorégraphique, il serait à la fois une habilité corporelle (l'aptitude à passer très rapidement de l'immobilité à l'envol) et une technique de visualisation favorisant l'incorporation de cette habilité. Il est ainsi une composante stylistique importante du mouvement corporel tel que conçu par Domenico. Premier successeur de Domenico, Antonio Cornazzano parle lui d'\"ombra phantasmatica\" dans son chapitre consacré à la description de la mesure de Bassadanza, attribuant explicitement cette expression à son maître Domenico et précisant qu'elle recouvre beaucoup de choses qu'il ne saurait dire (nella qualle similitudine ad explicarla se intendono molte cose che non si sanno dire, f. 5r). Il (Cornazzano) la décrit comme un ensemble de procédés de variations permettant l'enrichissement de cette mesure lente consistant en la juxtaposition d'arrêts suivis de moments aériens évoquant le passage de la mort à la vie. (f.5r). ",
+               "references": "Procopio 2019 pp.136-137 & 164; Neville, 2004, p.86-87"
             }
          ],
          "modernSpelling": "",
