@@ -584,7 +584,62 @@
             {
                "partOfSpeech": "n.n.",
                "meaning": "Dérivé du grec \"phantasma\". Ce concept de fantasmata est un des plus débattus dans la littérature sur le traité et sa signification reste délicate. Tous les auteurs le transcrivent tel quel, sans traduction. Le débat porte à la fois sur son origine, sa forme et son interprétation. D'un point de vue strictement chorégraphique, il serait à la fois une habilité corporelle (l'aptitude à passer très rapidement de l'immobilité à l'envol) et une technique de visualisation favorisant l'incorporation de cette habilité. Il est ainsi une composante stylistique importante du mouvement corporel tel que conçu par Domenico. Premier successeur de Domenico, Antonio Cornazzano parle lui d'\"ombra phantasmatica\" dans son chapitre consacré à la description de la mesure de Bassadanza, attribuant explicitement cette expression à son maître Domenico et précisant qu'elle recouvre beaucoup de choses qu'il ne saurait dire (nella qualle similitudine ad explicarla se intendono molte cose che non si sanno dire, f. 5r). Il (Cornazzano) la décrit comme un ensemble de procédés de variations permettant l'enrichissement de cette mesure lente consistant en la juxtaposition d'arrêts suivis de moments aériens évoquant le passage de la mort à la vie. (f.5r). ",
-               "references": "Procopio 2019 pp.136-137 & 164; Neville, 2004, p.86-87"
+               "references": "Procopio 2019 pp.136-137 & 164; Neville 2004, p.86-87"
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "ordine": {
+         "headWord": "ordine",
+         "alternateSpellings": "ordre",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": " Ordre: mus. relatif à la mesure musicale (cf en architecture les différentes \"ordres\"). Utilisé dans l'expression \"avoir son ordre\" (havere suo ordine) c'est à dire, parlant d'une mesure, quand elle répond à la signature rythmique qui constitue son \"être\" (qui en fait sa nature propre).\n\n",
+               "references": ""
+            },
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "Ordre (de mouvement): regardant le mouvement corporel: signature rythmique et stylistique d'un mouvement. Utilisé dans l'expression \"avoir son ordre\", signifie que le mouvement correspond et se calle sur la structure rythmique musicale correspondante. Si le danseur effectue un mouvement mesuré sur une mesure musicale de différente signature, ce mouvement est dit \"hors de son ordre\"",
+               "references": ""
+            },
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "Ordre: au sens plus général de séquence (dans l'ordre)",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "mainera": {
+         "headWord": "mainera",
+         "alternateSpellings": "manière",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "Manière: une des \"parties\" (caractéristiques) de l'art du mouvement corporel tel que défini par Domenico. Elle se base sur le principe de modération et de juste milieu (tel que défini par Aristote dans l'Ethique à Nicomaque) qui modère l'amplitude du mouvement (spatialement et rythmiquement) et lui son caractère mesuré et suave. Alors que dans Pg/a la \"maniera\" prendra un caractère plus formel, dans Pd, elle laisse en réalité la liberté à chaque interprète de trouver lui même le \"milieu\" de son propre mouvement.  ",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "eutrapelia": {
+         "headWord": "eutrapelia",
+         "alternateSpellings": "eutrapelie",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(f)",
+               "meaning": "Eutrapelie. Terme d'origine grecque. Concept développé par Aristote au livre IV de l’Ethique à Nicomaque, à l’endroit de la vertu liée au jeu et au divertissement, dont elle constitue le juste milieu; ensuite repris par Thomas d’Aquin dans sa leçon X au commentaire à l’Ethique et dans la Somme théologique, livre II, question 168, qui traite de la “Modestie dans les mouvements extérieurs du corps”, art. 2, “Peut-il y avoir une vertu dans les activités de jeu?” ",
+               "references": ""
             }
          ],
          "modernSpelling": "",
