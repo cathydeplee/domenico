@@ -23,7 +23,7 @@
          "meanings": [
             {
                "partOfSpeech": "n.(m)",
-               "meaning": "mélodie, musique (au sens de ligne musicale)\n",
+               "meaning": "mélodie, musique (au sens de ligne musicale). Parfois précisé \"à sonnare\". Etant donné que le terme \"canto\" recouvre dans le ms une réalité qui nous échappe (la mélodie était-elle chantée?), nous le gardons tel quel.\n",
                "references": "Cornazano, transl, p.46 et Sparti, Glossaire, p219"
             },
             {
@@ -640,6 +640,26 @@
                "partOfSpeech": "n.(f)",
                "meaning": "Eutrapelie. Terme d'origine grecque. Concept développé par Aristote au livre IV de l’Ethique à Nicomaque, à l’endroit de la vertu liée au jeu et au divertissement, dont elle constitue le juste milieu; ensuite repris par Thomas d’Aquin dans sa leçon X au commentaire à l’Ethique et dans la Somme théologique, livre II, question 168, qui traite de la “Modestie dans les mouvements extérieurs du corps”, art. 2, “Peut-il y avoir une vertu dans les activités de jeu?” ",
                "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "ballo": {
+         "headWord": "ballo",
+         "alternateSpellings": "balli",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "Ballo. Un des deux types de danses composées (en musique et en mouvement) par Domenico da Piacenza et dont il est peut-être l'inventeur. Contrairement à la --> bassadanza, le ballo est caractérisé par une mixité de mesures (rythmes) et contient une dimension narrative ou thématique. ",
+               "references": ""
+            },
+            {
+               "partOfSpeech": "n.(m)",
+               "meaning": "Dans l'expression \"titre d'oeuvre\" + \"a ballo\" ou \"in ballo\": dans le ms les balli créés par Domenico sont répertoriées par titre et déclinées en musique \"in canto\" et en description chorégraphique \"in\" ou \"a ballo\". Cette dernière expression (spécifique à Pd) fait penser à celle “canzone a ballo” que l’on retrouve au Moyen Âge et à la Renaissance pour qualifier une chanson à danser. Etant donné qu'elle recouvre une réalité dont toutes les dimensions nous échappent, nous gardons l'expression comme telle. Dans Pd la dialectique “titre + in canto” et “titre + a ballo” peut laisser entrevoir les descriptions des danses comme des formes particulières de ”partitions”, pour la danse. Ceci a peut-être pour corollaire l’émergence, d’une conception abstraite d'œuvre performative ayant un titre et qui se décline et s’actualise à la fois en musique et en danse.  On remarque ensuite une progression dans la dénomination. Dans V : on a toujours le couple “titre + in canto” suivi cette fois du “titre + è ballo”, le “è”  laissant  entendre que la nature même de l'œuvre est chorégraphique. Dans Pg/Pa, l’enchaînement des descriptions affiche en titre \"ballo chiamato + titre\"  et relègue les musiques à la fin du recueil.    ",
+               "references": "https://www.treccani.it/vocabolario/ricerca/canzone-a-ballo/"
             }
          ],
          "modernSpelling": "",
