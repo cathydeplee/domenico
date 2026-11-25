@@ -78,22 +78,7 @@
          "meanings": [
             {
                "partOfSpeech": "n.(f)",
-               "meaning": "",
-               "references": ""
-            }
-         ],
-         "modernSpelling": "",
-         "antonym": "",
-         "synonym": "",
-         "seeAlso": ""
-      },
-      "distantia": {
-         "headWord": "distantia",
-         "alternateSpellings": "distance",
-         "meanings": [
-            {
-               "partOfSpeech": "n.(f)",
-               "meaning": "souvent dans l'expression \"distantia de tempo\": trad. litt. \"distance de temps\". Probablement syn. du plus récent terme (d'origine grecque) intervalle. Sert à distingueur les différentes mesures musicales en fonction de leur durée, visualisée en distance (longueur de temps)",
+               "meaning": "Mesure de terre (mexura de terreno): \"terre/terreno\" à à comprendre  ici, selon nous, au sens de \"qui appartient à la terre\", \"terrestre\", par opposition à ce qui est céleste, et appartient à l'\"air/aere\".  Cette mesure consisterait ainsi en un dosage, une modération (du mouvement) en hauteur (plutôt qu'en superficie) entre terre et d'air. On remarque un glissement de sens dans Pg/a qui ne parle plus de \"mexura de t.\" mais de \"partir(e) di terreno\". Voir --> concordanza de terreno : il s'agit d'évaluation de l'espace (par rapport à la salle ou le lieu où l'on danse), qui se rapporte davantage à la \"concordantia de terreno\" de Pd, bien que celle-ci englobe en outre une dimension morale",
                "references": ""
             }
          ],
@@ -104,7 +89,7 @@
       },
       "soprano": {
          "headWord": "soprano",
-         "alternateSpellings": "",
+         "alternateSpellings": "sovrano",
          "meanings": [
             {
                "partOfSpeech": "n.(m)",
@@ -138,7 +123,7 @@
          "meanings": [
             {
                "partOfSpeech": "prep.",
-               "meaning": "Dans la locution prépositive \"de/di sopra (da)\": indique la position spatiale d'un danseur (par analogie avec la référence à un passage textuel) signifiant \"dessus\" par rapport au sens de la danse et donc \"devant\" (par rapport à un autre danseur). Se rencontre dans Pd in Vercepe, Fia Guiglielma1, Sobria, Tesara, et dans V (ref...)\n",
+               "meaning": "Dans la locution prépositive \"de/di sopra (da)\": dessus. 1° Relatif à un passage textuel (ci-dessus). 2°/Relatif à la position spatiale d'un danseur : \"dessus\" par rapport au sens de la danse et donc \"devant\" (par rapport à un autre danseur). Se rencontre dans Pd in Vercepe, Fia Guiglielma1, Sobria, Tesara, et dans V (ref...)\n",
                "references": ""
             },
             {
@@ -194,7 +179,7 @@
       },
       "boto": {
          "headWord": "boto",
-         "alternateSpellings": "botto, battu, batue",
+         "alternateSpellings": "botto, battue",
          "meanings": [
             {
                "partOfSpeech": "n.(m)",
@@ -228,17 +213,17 @@
          "meanings": [
             {
                "partOfSpeech": "n.(m)",
-               "meaning": "Mouvement au sens général, sous entendu corporel dans le ms.\n(V et Pg/a utilisent plus volontiers \"movimento\"- voir aussi ce terme dans le Glossaire)",
+               "meaning": "Mouvement au sens général, sous entendu corporel.\n(V et Pg/a utilisent plus volontiers --> \"movimento\")",
                "references": "Procopio, p. 57"
             },
             {
                "partOfSpeech": "n.(m)",
-               "meaning": "Unité chorégraphique minimale, mouvement unitaire. Ils sont au nombre de 9 naturels et 3 accidentels dans le ms (Pd f. 2v, §8). ",
+               "meaning": "Unité chorégraphique minimale, mouvement unitaire. Domenico en dénombre neuf naturels et 3 accidentels. (Pd f. 2v, §8). ",
                "references": ""
             },
             {
                "partOfSpeech": "n.(m)",
-               "meaning": "Mouvement spécifique lié à une mesure musicale. La \"mexura de motto\" (la manière dont les mouvements sont accomplis sur les temps des mesures musicales) est à proprement parler le concept innovant de Domenico da Piacenza (cf §11 f.2v et suiv.). Dans cette acception, le terme est souvent remplacé par métonymie par \"tempo de\" (--> tempo; motto de bassadanza; motto quadernario)",
+               "meaning": "Mouvement spécifique lié à une mesure musicale. La \"mexura de motto\" (la manière dont les mouvements sont accomplis sur les temps des mesures musicales) est à proprement parler le concept innovant de Domenico da Piacenza (Pd §11 f.2v et suiv.). Dans cette acception, le terme est souvent remplacé par métonymie par \"tempo de\" (--> tempo; motto de bassadanza; motto quadernario)",
                "references": ""
             }
          ],
@@ -335,11 +320,6 @@
                "partOfSpeech": "n.(m)",
                "meaning": "Une des quatre mesures musicales définies par Domenico da Piacenza (mexura de saltarello) et ayant un pendant kinétique (--> motto saltarello). Elle est caractérisée (en terme de \"musique mensurale\") par un tempus parfait (division de la brève en trois semi-brèves ou brèves ternaires) et une prolation majeure (division de la semi-brève en trois minimes). Elle est dite 2/6e plus rapide que la bassadanza.",
                "references": "Lo Monaco, 2024, p 87-11 "
-            },
-            {
-               "partOfSpeech": "n.(m)",
-               "meaning": "Désigne, par habitude, la séquence d'entrée d'un ballo, assez vive. Les balli composés pas Messer Domenico commençant très souvent par un nombre variable de mesures de saltarello, dansées en leur mouvement ou en un autre, où les danseurs se donnent le plus souvent la main. ",
-               "references": ""
             }
          ],
          "modernSpelling": "",
@@ -423,7 +403,7 @@
             },
             {
                "partOfSpeech": "n.(f)",
-               "meaning": "Mesure de terre (mexura de terreno): \"terre/terreno\" à à comprendre  ici, selon nous, au sens de \"qui appartient à la terre\", \"terrestre\", par opposition à ce qui est céleste, et appartient à l'\"air/aere\".  Cette mesure consisterait ainsi en un dosage, une modération (du mouvement) en hauteur (plutôt qu'en superficie) entre terre et d'air. On remarque un glissement de sens dans Pg/a qui ne parle plus de \"mexura de t.\" mais de \"partir(e) di terreno\". Voir --> concordanza de terreno : il s'agit d'évaluation de l'espace (par rapport à la salle ou le lieu où l'on danse), qui se rapporte davantage à la \"concordantia de terreno\" de Pd, bien que celle-ci englobe en outre une dimension morale",
+               "meaning": "",
                "references": ""
             }
          ],
@@ -453,7 +433,7 @@
          "meanings": [
             {
                "partOfSpeech": "n.(f)",
-               "meaning": "Un des neuf mouvements naturels définis par Domenico, consistant en un demi tour sur un pied. Elle peut se faire sur un demi temps ou \"dans le vide\" (sur la fin du temps du mouvement précédent). Dans les chorégraphie, est en général mentionné de quel côté elle est faite (de quel côté on tourne/sur quelle épaule). Elle peut inclure un changement d'appui à l'issue du demi tour, ou pas, dans ce dernier cas, c'est le pas suivant qui fait les appuis. ",
+               "meaning": "Un des neuf mouvements naturels définis par Domenico consistant en un demi tour sur un pied. Elle peut se faire sur un demi temps ou \"dans le vide\" (sur la fin du temps du mouvement précédent). Dans les chorégraphies, est en général mentionné de quel côté elle est faite (de quel côté on tourne/sur quelle épaule). Elle peut inclure un changement d'appui à l'issue du demi tour ou pas; dans ce dernier cas, c'est le pas suivant qui fait l'appui. ",
                "references": ""
             }
          ],
@@ -524,7 +504,7 @@
       },
       "accidentia": {
          "headWord": "accidentia",
-         "alternateSpellings": "azidenzia, accident",
+         "alternateSpellings": "azidenzia, accident, accidents",
          "meanings": [
             {
                "partOfSpeech": "n.n. ",
@@ -644,11 +624,11 @@
       },
       "concordanza de terreno": {
          "headWord": "concordanza de terreno",
-         "alternateSpellings": "",
+         "alternateSpellings": "concordance de terre",
          "meanings": [
             {
                "partOfSpeech": "n.(f)",
-               "meaning": "Concept lié à la notion physique de gestion de l'espace (au sol), mais non exempte ici d'une dimension éthique liée à l'organisation des déplacements et des rapports entre danseurs dans l'espace de danse. Il s'agit de danser ensemble et pour y parvenir de s'entraider et de respecter la composition de la danse. L'utilisation du terme concordanza (concordia + danza) n'est peut-être pas un hasard. Il s'agit de trouver une harmonie commune dans l'espace de danse qui n'est pas sans rappeler les idéaux politiques de gouvernement d'une cité auxquels les princes de la Renaissance, dont les Este à Ferrare, n'étaient pas indifférents. Les ms postérieurs restreindront et limiteront le sens à la dimension spatiale en transformant l'expression: compartimento de terreno (V, f.3bis r) et (com)partire de terreno (Pg, f.7r et 7v).",
+               "meaning": "Concept lié à la notion physique de gestion de l'espace (au sol), mais probablement non exempte ici d'une dimension éthique liée à l'organisation des déplacements et des rapports entre danseurs dans l'espace de danse. Il s'agit de danser ensemble et pour y parvenir de s'entraider et de respecter la composition de la danse. L'utilisation du terme \"concordanza\" (concordia + danza) n'est peut-être pas un hasard. Il s'agit de trouver une harmonie commune dans l'espace de danse qui n'est pas sans rappeler les idéaux politiques de gouvernement d'une cité auxquels les princes de la Renaissance, dont les Este à Ferrare, n'étaient pas indifférents. Les ms postérieurs restreindront et limiteront le sens à la dimension spatiale en transformant l'expression: compartimento de terreno (V, f.3bis r) et (com)partire de terreno (Pg, f.7r et 7v).",
                "references": ""
             }
          ],
@@ -679,6 +659,116 @@
             {
                "partOfSpeech": "n.(f)",
                "meaning": "Un des neuf mouvements \"naturels\" énumérés par Domenico, consistant en un tranfert de poids d'un pieds sur l'autre sur place. Elle dure 1/2 temps. Se fait toujours par paire dans Pd (2 c.=1 temps). Dans les ms un peu postérieurs (M, S) on trouve la variante de \"meza continenza\". Ce mouvement permet de retrouver son axe, son centre (d'où le terme).",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "largo, larga": {
+         "headWord": "largo, larga",
+         "alternateSpellings": "",
+         "meanings": [
+            {
+               "partOfSpeech": "adj.",
+               "meaning": "",
+               "references": ""
+            },
+            {
+               "partOfSpeech": "",
+               "meaning": "",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "distantia de tempo": {
+         "headWord": "distantia de tempo",
+         "alternateSpellings": "distance de temps, distantia, distance",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(f)",
+               "meaning": "Littéralement \"distance de temps\". Concept important dans la théorie de Domenico, signifiant tantôt l'espace entre les temps (ou bote/pulsations), en ce sens il est proche de la notion d'\"intervalle\" (terme d'origine grecque, que nous évitons pour rester dans l'esprit latiniste du traité); tantôt la longueur du temps, c'est à dire sa durée mais aussi, visuellement sur papier sa longueur mathématique/géométrique (cf le f.4v, la tableau). Avec la question de savoir si cette grandeur mathématique a un impact sur la longueur/grandeur des pas du danseur, ce qui n'est pas impossible. ",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "galante": {
+         "headWord": "galante",
+         "alternateSpellings": "",
+         "meanings": [
+            {
+               "partOfSpeech": "",
+               "meaning": "",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "strecto": {
+         "headWord": "strecto",
+         "alternateSpellings": "strecta, court, courte",
+         "meanings": [
+            {
+               "partOfSpeech": "",
+               "meaning": "",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "tempo de bassadanza": {
+         "headWord": "tempo de bassadanza",
+         "alternateSpellings": "",
+         "meanings": [
+            {
+               "partOfSpeech": "",
+               "meaning": "",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "double de bassadanza": {
+         "headWord": "double de bassadanza",
+         "alternateSpellings": "",
+         "meanings": [
+            {
+               "partOfSpeech": "",
+               "meaning": "",
+               "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "tempo de saltarello": {
+         "headWord": "tempo de saltarello",
+         "alternateSpellings": "temps de saltarello, tempi de saltarello",
+         "meanings": [
+            {
+               "partOfSpeech": "",
+               "meaning": "",
                "references": ""
             }
          ],
