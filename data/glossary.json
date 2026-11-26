@@ -8,7 +8,7 @@
          "meanings": [
             {
                "partOfSpeech": "n.(m)",
-               "meaning": "changement (de pied/d'appui): un des trois \"mouvements accidentels\" définis par Domenico da Piacenza. Il se fait sur ¼ de temps et donne de la variété aux mouvements naturels, et consiste à changer rapidement d'appui, à la fin ou au début d'un double ou d'un simple, pour repartir du même pied. Dans les compostions chorégraphiques du ms, il n'est que très rarement écrit (ce qui laisse supposer une pratique improvisée).",
+               "meaning": "changement (de pied/d'appui): un des trois \"mouvements accidentels\" (ornementaux) définis par Domenico da Piacenza. Il se fait sur ¼ de temps et consiste à changer rapidement de pied à la fin ou au début d'un double ou d'un simple avant de repartir du pied initial. ",
                "references": ""
             }
          ],
@@ -108,7 +108,7 @@
          "meanings": [
             {
                "partOfSpeech": "prep.",
-               "meaning": "Dans les locutions prépositives \"in traverso\", \"sul traverso\", \"per traverso\" (et dont le premier mot ne semble pas avoir d'incidence sur le sens) utilisées pour qualifier le plus souvent certaines \"represe\" (Pizochara, Mercantia, Sobria, Tesara, Mignota, Corona, Zogliosa) ou plus rarement des \"passiti\" (Prexonera, Tesara) ou un \"frappamento\" (Iupiter). Le sens spatial n'est pas clair: il pourrait être: \"en diagonale\" ( \"de travers\"); mais plus probablement sur le côté (\"sur la traverse\"). Dans l'acception de ce 2e sens, et qualifiant les represe, l'expression servirait à les distinguer de celles où rien n'est précisé et qui se font (a priori, car nulle part cela soit explicité) en diagonale arrière.  Dans l'expectative nous traduisons litt. \"en travers\"",
+               "meaning": "dans les locutions prépositives \"in traverso\", \"sul traverso\", \"per traverso\" (et dont le premier mot ne semble pas avoir d'incidence sur le sens) : pour qualifier certaines \"represe\" (Pizochara, Mercantia, Sobria, Tesara, Mignota, Corona, Zogliosa) ou plus rarement des \"passiti\" (Prexonera, Tesara) ou un \"frappamento\" (Iupiter). Le sens spatial n'est pas clair mais le plus probable serait \"sur le côté (\"sur la traverse\"). Dans cette acception, et qualifiant les \"represe\", l'expression servirait à les distinguer de celles où rien n'est précisé et qui se font (a priori, car nulle part explicité) en diagonale arrière.  Dans l'expectative nous traduisons litt. \"en travers\"",
                "references": ""
             }
          ],
@@ -123,12 +123,17 @@
          "meanings": [
             {
                "partOfSpeech": "prep.",
-               "meaning": "Dans la locution prépositive \"de/di sopra (da)\": dessus. 1° Relatif à un passage textuel (ci-dessus). 2°/Relatif à la position spatiale d'un danseur : \"dessus\" par rapport au sens de la danse et donc \"devant\" (par rapport à un autre danseur). Se rencontre dans Pd in Vercepe, Fia Guiglielma1, Sobria, Tesara, et dans V (ref...)\n",
+               "meaning": "relatif à un passage textuel: ci-dessus. \n",
                "references": ""
             },
             {
                "partOfSpeech": "prep.",
-               "meaning": "Dans la locution prépositive \"de/di sopra (da)\": indique la position spatiale d'un danseur et signifiant à (la main) gauche de. Qualifie généralement position de l'homme (qui guide - et a donc le \"dessus\", avec la main droite) par rapport à la dame (qui se fait guider en donnant sa main gauche). Se rencontre dans Pd in Mercantia (main C, et A par contamination), et généralement dans Pg, Pa.",
+               "meaning": "relatif à la position spatiale d'un danseur : \"dessus\" par rapport au sens de la danse et donc \"devant\" (par rapport aux autres danseurs). Se rencontre dans Pd in Vercepe, Fia Guiglielma1, Sobria, Tesara, et dans V (ref...)",
+               "references": ""
+            },
+            {
+               "partOfSpeech": "prep.",
+               "meaning": "relatif à la position spatiale d'un danseur : à (la main) gauche de. Qualifie généralement position de l'homme (qui guide - et a donc le \"dessus\", avec la main droite) par rapport à la dame (qui se fait guider en donnant sa main gauche). Se rencontre dans Pd in Mercantia (main C, et A par contamination), et généralement dans Pg, Pa.",
                "references": ""
             }
          ],
@@ -143,23 +148,28 @@
          "meanings": [
             {
                "partOfSpeech": "prep.",
-               "meaning": "Dans la locution prépositive \"de/di sopto (da/a)\": indique la position spatiale d'un danseur (par analogie à la référence d'un passage textuel signifiant \"ci-dessous\") signifiant  \"dessous\" par rapport au sens de la danse et donc par rapport à un autre danseur, \"derrière\". Se rencontre dans Pd in Vercepe, Fia Guiglielma1, Sobria, Tesara, et dans V (ref...)",
+               "meaning": "relatif au texte: ci-dessous",
                "references": ""
             },
             {
                "partOfSpeech": "prep.",
-               "meaning": "Dans la locution prépositive \"de/di sopto (da)\": indique la position spatiale d'un danseur et signifiant à (la main) droite de. Qualifie généralement position de la dame (qui est guidée/menée  en donnant sa main gauche) par rapport à l'homme (qui guide par la main droite - et a donc le \"dessus\" cf 1e sens). Se rencontre dans Pd in Mercantia (main C et A par contemination), Belfiore, et dans Pg",
+               "meaning": "relatif à la position spatiale d'un danseur: \"dessous\" par rapport au sens de la danse et donc \"derrière\" les autres danseurs. Se rencontre dans Pd in \"Vercepe\", \"Fia Guiglielma1\", \"Sobria\", \"Tesara\"",
                "references": ""
             },
             {
                "partOfSpeech": "prep.",
-               "meaning": "Dans la locution prépositive \"di sotto a\": spécifiquement dans le ballo Tesara, indique la position spatiale \"en dessous\", entendue dans le sens littéral: les danseurs passent \"en dessous\" du/des foulard(s) que tiennent à bout de bras, d'autres danseurs",
+               "meaning": "relatif à la position spatiale d'un danseur: \"à (la main) droite de\". Qualifie généralement position de la dame (qui est guidée/menée  en donnant sa main gauche et a donc le \"dessous\") par rapport à l'homme (qui guide par la main droite - et a donc le \"dessus\"). Se rencontre dans Pd in \"Mercantia\", \"Belfiore\", et dans Pg",
+               "references": ""
+            },
+            {
+               "partOfSpeech": "prep.",
+               "meaning": "spécifiquement dans le ballo \"Tesara\", indique la position spatiale \"en dessous\", entendue dans le sens littéral: les danseurs passent \"en dessous\" du/des foulard(s) que tiennent à bout de bras, d'autres danseurs",
                "references": ""
             }
          ],
          "modernSpelling": "",
          "antonym": "sopra",
-         "synonym": "drieto",
+         "synonym": "",
          "seeAlso": ""
       },
       "bota": {
@@ -218,7 +228,7 @@
             },
             {
                "partOfSpeech": "n.(m)",
-               "meaning": "chor., gén.: unité chorégraphique minimale. Domenico en dénombre 9 naturels et 3 accidentels. (Pd f. 2v, §8). ",
+               "meaning": "chor., gén.: unité de mouvement minimale. Domenico en dénombre 9 naturels et 3 accidentels. (Pd f. 2v, §8). ",
                "references": ""
             },
             {
@@ -302,8 +312,8 @@
          "alternateSpellings": "tempi de piva, temps de piva",
          "meanings": [
             {
-               "partOfSpeech": "",
-               "meaning": "Unité de mouvement corporel mesuré se faisant sur une mesure musicale de piva, consistant en un double rapide. ",
+               "partOfSpeech": "n.(m)",
+               "meaning": "chor.spec.: désigne l'unité de mesure de la piva  et l'unité de mouvement la plus caractéristique accomplie sur cette mesure (un double rapide) ",
                "references": ""
             }
          ],
@@ -318,8 +328,8 @@
          "meanings": [
             {
                "partOfSpeech": "n.(m)",
-               "meaning": "Une des quatre mesures musicales définies par Domenico da Piacenza (mexura de saltarello) et ayant un pendant kinétique (--> motto saltarello). Elle est caractérisée (en terme de \"musique mensurale\") par un tempus parfait (division de la brève en trois semi-brèves ou brèves ternaires) et une prolation majeure (division de la semi-brève en trois minimes). Elle est dite 2/6e plus rapide que la bassadanza.",
-               "references": "Lo Monaco, 2024, p 87-11 "
+               "meaning": "une des quatre mesures musicales définies par Domenico, ayant un pendant kinétique (--> \"motto saltarello\"). Elle est caractérisée en musique mensurale par la structure rythmique de  \"tempus perfectus\"  (division de la brève en trois semi-brèves) et une \"prolation majeure\" (division de la semi-brève en trois minimes). Elle 2/6e plus rapide que la bassadanza.",
+               "references": "voir aussi: Lo Monaco, 2024, p 87-11 "
             }
          ],
          "modernSpelling": "",
@@ -333,8 +343,8 @@
          "meanings": [
             {
                "partOfSpeech": "n.(f)",
-               "meaning": "Une des quatre mesures musicales répertoriées par Domenico da Piacenza (mexura quadernaria),  et ayant un pendant kinétique (--> motto quadernario); en notation mensurale elle répond à la structure rythmique de tempus imparfait (division de la brève en deux semi-brèves ou brèves binaires) et prolation mineure (division de la semi brève en deux minimes). Elle est dite dans le ms. être plus lente d'1/6e que la bassadanza. ",
-               "references": "Lo Monaco, 2024, p215"
+               "meaning": "Une des quatre mesures musicales répertoriées par Domenico, ayant un pendant kinétique (--> motto quadernario); en musique mensurale elle répond à la structure rythmique de \"tempus imperfectus\" (division de la brève en deux semi-brèves ) et de \"prolation mineure\" (division de la semi brève en deux minimes). Elle est plus lente d'1/6e que la bassadanza. ",
+               "references": "voir aussi: Lo Monaco, 2024, p215"
             }
          ],
          "modernSpelling": "",
@@ -363,12 +373,12 @@
          "meanings": [
             {
                "partOfSpeech": "n.(m)",
-               "meaning": "Dans la théorie de la musique mensurale, synonyme de \"mesure\" (musicale), équivalent en général à une brève (et pouvant donc contenir plusieurs notes dans un canto). ",
+               "meaning": "mus.: synonyme de \"mesure\" (équivalent en général à une brève, dans la théorie de la musique mensurale)",
                "references": " Pour aller plus loin: Lo Monaco 2024, p424"
             },
             {
                "partOfSpeech": "n.(m)",
-               "meaning": "Dans la théorie chorégraphique de Domenico (et par métonymie) sinonyme de --> \"motto\" (mouvement unitaire mesuré) accompli sur un temps (ou mesure). Le concept étant neuf, la dénomination de cette unité chorégraphique mesurée se cherche au cours du ms : motto per tempo, tempo per motto, tempo de motto, motto del tempo",
+               "meaning": "chor.: par métonymie avec la mus. désigne (dans la théorie de Domenico) le mouvement (--> \"motto\") unitaire (le plus souvent un \"double\") accompli sur un temps musical. La dénomination de cette unité de mouvement mesurée se cherche et varie au cours du traité: \"motto per tempo\", \"tempo per motto\", \"tempo de motto\", \"motto del tempo\"",
                "references": ""
             }
          ],
@@ -383,22 +393,17 @@
          "meanings": [
             {
                "partOfSpeech": "n.(f)",
-               "meaning": "en mus. au sens général de mesurer (le vide avec le plein, le lent avec le vite...) et de nombrer.",
+               "meaning": "en mus. au sens général de grandeur nombréee qui permet de distinguer le vide du plein, le lent du vite...).",
                "references": ""
             },
             {
                "partOfSpeech": "n.(f)",
-               "meaning": "au sens moral de modération, juste milieu",
+               "meaning": "gen.: au sens moral de modération, juste milieu",
                "references": ""
             },
             {
                "partOfSpeech": "n.(f)",
-               "meaning": "en mus. au sens spécifique de mensuration ou schéma rythmique particulier. Au nombre de 4 dans le ms: --> la bassadanza, la quadernaria, salterello, piva. ",
-               "references": ""
-            },
-            {
-               "partOfSpeech": "n.(f)",
-               "meaning": "en danse, au sens spécifique d'organisation et mensuration précise du mouvement liées à la mesure musicale correspondante. ",
+               "meaning": "mus.  spéc. : mensuration ou schéma rythmique particulier, a laquelle correspond une \"mesure de mouvement\" (--> \"mexura de motto\") bien définie. Domenico en dénombre quatre: --> la bassadanza, la quadernaria, le salterello, la piva. ",
                "references": ""
             }
          ],
@@ -413,7 +418,7 @@
          "meanings": [
             {
                "partOfSpeech": "n.(m)",
-               "meaning": "Un des neuf mouvements \"naturels\" énumérés par Domenico: consiste en un pas marché, par défaut en avant (avec changement d'appui). Dans les chorégraphies est mentionné en général de quel pied il \"commence\" (c.a.d. le pied qui s'écarte et se pose au sol). Il dure un demi temps.  ",
+               "meaning": "un des neuf mouvements \"naturels\" énumérés par Domenico: consiste en un pas marché, par défaut en avant (avec changement d'appui). Dans les chorégraphies est mentionné en général de quel pied il \"commence\" (c.a.d. le pied qui s'écarte et se pose au sol). Il dure un demi temps.  ",
                "references": ""
             }
          ],
@@ -443,7 +448,7 @@
          "meanings": [
             {
                "partOfSpeech": "n.(f)",
-               "meaning": "Un des neuf mouvements naturels définis par Domenico, consiste en un tour complet réalisé en plusieurs pas et dure 2 temps. Dans la mesure de bassadanza elle se fait avec 2 pas simples et une reprise. Dans la mesure de piva, elle se fait avec trois pas simples. V précise que dans les autres mesures que la bassadanza, elle commence (et tourne) sur le pied gauche. (f. 18r)",
+               "meaning": "un des neuf mouvements naturels définis par Domenico: consiste en un tour complet réalisé en plusieurs pas. (sur 2 temps). Dans la mesure de bassadanza la \"volta\" se fait avec deux simples et une reprise. Dans la mesure de piva, elle se fait avec trois simples. V précise que dans les autres mesures que la bassadanza, la \"v.tonda\" commence (et tourne) sur le pied gauche. (V. f. 18r)",
                "references": ""
             }
          ],
@@ -458,7 +463,7 @@
          "meanings": [
             {
                "partOfSpeech": "n.(f)",
-               "meaning": "Un des neuf mouvements \"naturels\" énumérés par Domenico. Il consiste (d'après les différentes reconstructions) à tirer un des deux pieds vers l'arrière en diagonale (ce qui permet de \"reprendre\" du terrain) ou sur le côté (\"in traverso\"), avec un transfert de poids, le danseur restant de face. Il dure 1 temps (2x plus qu'un pas simple donc). ",
+               "meaning": "un des neuf mouvements \"naturels\" énumérés par Domenico. Il consiste (d'après les différentes reconstructions) à tirer un des deux pieds vers l'arrière en diagonale (avec transfert de poids), et se fait généralement par paire (gauche/droite; ou l'inverse). Ce mouvement de recul permet de \"reprendre\" du terrain, d'où le nom. Une variante consiste à la faire sur le côté (\"in --> traverso\"). Dans les deux cas le danseur reste de face.",
                "references": ""
             }
          ],
@@ -473,7 +478,7 @@
          "meanings": [
             {
                "partOfSpeech": "n.(f)",
-               "meaning": "Un des trois mouvements \"accidentels\" énumérés par Domenico, pour lequel nous n'avons aucune précision quant à l'exécution. Il n'est pas repris dans les autres ms. ",
+               "meaning": "un des trois mouvements \"accidentels\" (ornementaux) énumérés par Domenico, pour lequel nous n'avons aucune précision quant à l'exécution. Il n'est pas repris dans les autres ms. ",
                "references": ""
             }
          ],
@@ -503,7 +508,7 @@
          "meanings": [
             {
                "partOfSpeech": "n.n. ",
-               "meaning": "\"Accident\". Terme dérivé d'un neutre pluriel latin, utilisé le plus souvent (pour un singulier) dans l'expression \"per accidentia\", \"par accident\". Emprunt au vocabulaire aristotélitien cher à Domenico. L'expression s'oppose à \"per natura\" (\"par nature\") et signifie \"de manière accidentelle\", à savoir ni naturellement ni fortuitement mais  par art, par apprentissage, par travail de l'intelligence.  ",
+               "meaning": "terme dérivé d'un neutre pluriel latin, utilisé le plus souvent (pour un singulier) dans l'expression \"per accidentia\", \"par accident\". Emprunt au vocabulaire aristotélitien cher à Domenico. Gen: L'expression s'oppose à \"per natura\" (\"par nature\") et signifie \"de manière accidentelle\", à savoir ni naturellement ni fortuitement mais  par art, par apprentissage, par travail de l'intelligence.  Chor. spec.: les \"motti accidentali\" (\"mouvements accidentels\"), désignent  une catégorie de mouvements improvisés, rapides, qui donnent de la variété et servent à orner les \"motti naturali\" (mouvements naturels).  --> scorsa, cambiamento, frapamento",
                "references": ""
             }
          ],
@@ -518,8 +523,8 @@
          "meanings": [
             {
                "partOfSpeech": "n.(f)",
-               "meaning": "Pausé d'un pied (à côté de l'autre). Par défaut, sans transfert de poids",
-               "references": "Procopio, p166"
+               "meaning": "élément chorégraphique consistant probablement en la pause d'un pied à côté de l'autre, sans transfert de poids",
+               "references": "voir aussi: Procopio, p166"
             }
          ],
          "modernSpelling": "",
@@ -633,7 +638,7 @@
          "meanings": [
             {
                "partOfSpeech": "n.(m)",
-               "meaning": "un des trois mouvements \"accidentels\" énumérés par Domenico. Son exécution/interprétation dansée est sujette à caution. Il peut s'agir d'un battu d'un pied dans le sol, en guise d'ornementation. Dans Pd, il constitue une des marques de la --> quadernaria. Bien que V décrit le mouvement de quadernaria comme deux pas + une petite reprise sur le côté, nous ne pouvons en conclure que cette petite reprise équivaut au frappamento.",
+               "meaning": "un des trois mouvements \"accidentels\" (ornementaux) énumérés par Domenico. Son exécution dansée n'est pas explicitée. Il peut s'agir d'un battu d'un pied dans le sol, en guise d'ornementation. Dans Pd, il constitue une des marques de la --> quadernaria. Bien que V décrit le mouvement de quadernaria comme deux pas + une petite reprise sur le côté, nous ne pouvons en conclure que cette petite reprise équivaut au frappamento.",
                "references": "voir aussi: Sparti, p221; Lo Monaco, p421; Procopio, p165"
             }
          ],
@@ -712,23 +717,23 @@
          "alternateSpellings": "strecta, court, courte",
          "meanings": [
             {
-               "partOfSpeech": "",
-               "meaning": "",
+               "partOfSpeech": "adj.",
+               "meaning": "serré, court (en durée et en grandeur) se rapportant aux mesures musicales et à la --> \"distantia de tempo\" qui les sépare",
                "references": ""
             }
          ],
          "modernSpelling": "",
-         "antonym": "",
+         "antonym": "largo",
          "synonym": "",
          "seeAlso": ""
       },
       "tempo de bassadanza": {
          "headWord": "tempo de bassadanza",
-         "alternateSpellings": "",
+         "alternateSpellings": "temps de bassadanza",
          "meanings": [
             {
-               "partOfSpeech": "",
-               "meaning": "",
+               "partOfSpeech": "n.(f)",
+               "meaning": "chor.spec.: désigne l'unité de mesure de la bassadanza et l'unité de mouvement la plus caractéristique accomplie sur cette mesure (le double, fait en mesure et en manière) (--> motto de bassadanza)",
                "references": ""
             }
          ],
@@ -742,9 +747,24 @@
          "alternateSpellings": "temps de saltarello, tempi de saltarello",
          "meanings": [
             {
-               "partOfSpeech": "",
-               "meaning": "",
+               "partOfSpeech": "n.(m)",
+               "meaning": "chor.spec.: désigne l'unité de mesure du saltarello et l'unité de mouvement le plus caractéristique accomplie sur cette mesure (un double + un saltetto) --> motto de saltarello",
                "references": ""
+            }
+         ],
+         "modernSpelling": "",
+         "antonym": "",
+         "synonym": "",
+         "seeAlso": ""
+      },
+      "mexura de motto": {
+         "headWord": "mexura de motto",
+         "alternateSpellings": "mesure de mouvement",
+         "meanings": [
+            {
+               "partOfSpeech": "n.(f)",
+               "meaning": "chor.: concept crée par Domenico; désigne l'organisation et la mensuration précise du mouvement en lien avec la --> mesure (\"mexura\") musicale sur laquelle il s'accomplit et à laquelle il correspond (son être). ",
+               "references": "voir aussi: Lo Monaco, 2024"
             }
          ],
          "modernSpelling": "",
