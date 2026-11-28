@@ -343,7 +343,7 @@
 	</facsimile>
 	<sourceDoc xml:id="transcription_diplomatique">
 		<surface facs="#f006">
-			<line rend="indent(3)"><add><hi>De arte saltandi &amp; choreas ducendi</hi>.</add></line>
+			<line rend="indent(3)"><add><hi>De arte saltandj &amp; choreas ducendj</hi>.</add></line>
 			<line><lb/></line>
 			<line rend="indent(3)"><add><hi>De la arte di ballare et danzare</hi></add>.</line>
 			<line><lb/></line>
@@ -354,16 +354,16 @@
 			<line><lb/></line>
 			<line><add place="margin left">s</add></line>
 			<line rend="indent(8)"><add place="margin left">1</add> <handShift new="#mainA"/>RENGRATIANDO</line>
-			<line rend="indent(4)">el grande e triumfante Idio de li intelecti che per</line>
-			<line rend="indent(4)">gratia da lui sono imfusi, et a lui solo dato li</line>
-			<line rend="indent(4)">sia honore et gloria de tutte le operatione <del>in</del></line>
-			<line rend="indent(4)">intelectuale e moralle. E vogliando el</line>
-			<line>spectable e nobele cavaliero messer Domenigino piacentino tra-</line>
-			<line>ctare <metamark function="insertion" place="below" target="#add_del_moto_corporeo">‸</metamark><add place="margin left" xml:id="add_del_moto_corporeo">del moto<lb/>corporeo</add> cum grande reverentia, impetra a Quello che sempre per sua sancta</line>
-			<line>humanitade s’è dignato de soccorere el dicto operante e tractante de</line>
-			<line>questa materia a bon fine. E pur volendo molti opponere a questo m-</line>
-			<line>oto azele e pelegrino opera<del>n</del>do cum grande subtilitade e fatica che sia</line>
-			<line>venerea e de perditione de tempo, l’operante argumenta in lo 2° del heticha <metamark target="#add_delhetica" function="insertion">}</metamark><add place="margin right" xml:id="add_delhetica"> in 2° delhetica</add></line>
+			<line rend="indent(4)">elgrande e triumfante idio de liintelecti che p{er}</line>
+			<line rend="indent(4)">gratia da lui sono imfusi, et alui solo dato li</line>
+			<line rend="indent(4)">sia honore et gloria de tutte le operatione <seg><sic>i{n}</sic></seg></line>
+			<line rend="indent(4)">intelectuale e moralle. E uogliando el</line>
+			<line>Spectable e nobele caualiero mess{er} Domenigino piacentino tra</line>
+			<line>ctar{e} <metamark function="insertion" place="below" target="#add_del_moto_corporeo">‸</metamark><add place="margin left" xml:id="add_del_moto_corporeo">del moto<lb/>corporeo</add> cum grande reuerentia: impetra a quello che semp{re} p{er} sua sancta</line>
+			<line>humanitade se dignato de soccorer{e} el dicto op<seg><expan>er</expan></seg>ante e tractante de</line>
+			<line>questa materia abonfine: E pur uolendo molti opponer{e} a questo m</line>
+			<line>oto azele e pelegrino opera<del>n</del>do c{u}m grande subtilitade e fatica che sia</line>
+			<line>uenerea ede p<seg><expan>er</expan></seg>ditione de tempo/. Lop{er}ante argumenta in lo 2° del heticha <metamark target="#add_delhetica" function="insertion">}</metamark><add place="margin right" xml:id="add_delhetica"> in 2° delhetica</add></line>
 			<line>contra di questo, dicendo lui che tutte le cosse se corompono e guastase se</line>
 			<line>le sono conducte e menate in<unclear cert="low">divi</unclear>se cioè per le operatione extreme,</line>
 			<line>e la mezanitade conserva. E bene ch’el savio Aristotele tractasse del motto <metamark target="#add_aristotele" function="insertion">}</metamark> <add place="margin right" xml:id="add_aristotele">Aristotele</add></line>
@@ -381,8 +381,8 @@
 			<line><lb/></line>
 			<line rend="indent"><add place="margin left" rend="small">2</add> Ota che niuna creatura creata che habia in sé de <add>n</add>atur<add>a</add> man-</line>
 			<line>camento, de questo motto zentille capace sia, digando lui che</line>
-			<line>zopi, gobi, guerci de tutti li ministerii aprensivi sono, salvo che de</line>
-			<line>questo <del>che</del> operandose seria frusta. Adomque li bisogna prosperità</line>
+			<line>zopi, gobi, guerci de tutti li ministerii aprensivi sono, saluo che de</line>
+			<line>questo <gap quantity="3" unit="letter"/> operandose seria frusta. Adomque li bisogna prosperità</line>
 			<line>de fortuna che è beleza, imperò dice el proverbio : chi Idio fece</line>
 			<line>bello non fece tutto povero. Adomque bisogna che la natura</line>
 			<line>habia adoptado e scolpido lo operante de questo mestiero da li</line>
@@ -2020,8 +2020,8 @@
 				<p><lb/></p>
 				<p rend="indent(2)">2.<note xml:id="note_f01v_a">Ms. Numéro de paragraphe original en marge de gauche</note> <supplied cert="high" reason="editorial">N</supplied>ota<note xml:id="note_26a145b309864ce886cd7a684cbd51b8">Ms. Initiale d'attente (assurément un "N") omise comme dans le reste du ms, mais place laissée; Ms. Au-dessus du "O" première moitié d'un autre "O", le copiste ayant probablement oublié le saut de ligne.</note> che niuna creatura creata che habia in sé de natura man-</p>
 				<p>camento, de questo motto zentille capace sia. Digando lui che</p>
-				<p>zopi, gobi, guerci de tutti li ministerii aprensivi sono, salvo <ref target="note_d80b305461dc463cbb8c998c2a6877d3"><supplied>che</supplied></ref><note xml:id="note_d80b305461dc463cbb8c998c2a6877d3">Ms. che effacé à tort (mais lisible) ; rétabli ici; id. Procopio.</note> de</p>
-				<p>questo che operandose seria frusta. Adomque li bisogna prosperità</p>
+				<p>zopi, gobi, guerci de tutti li ministerii aprensivi sono, salvo che de</p>
+				<p>questo <supplied>che</supplied><note xml:id="note_d80b305461dc463cbb8c998c2a6877d3-copy">Ms. che effacé à tort (mais lisible) ; rétabli ici; id. Procopio.</note> operandose seria frusta. Adomque li bisogna prosperità</p>
 				<p>de fortuna che è beleza, imperò dice el proverbio : chi Idio fece</p>
 				<p>bello non fece tutto povero. Adomque bisogna che la natura</p>
 				<p>habia adoptado e scolpido lo operante de questo mestiero da li</p>
@@ -3939,9 +3939,22 @@ La deuxième question concerne la position à la fin / à l’arrêt du saltarel
 			<div type="bibliography">
 				<head>Liste bibliographique</head>
 				<listBibl>
-					<bibl xml:id="Procopio2014" type="book"><author><surname>Procopio</surname><forename>Patrizia</forename></author><title level="m">Il «De arte saltandi et choreas ducendi» di Domenico da Piacenza. Edizione e commento</title>, <publisher>Longo Angelo</publisher><date when="2014">2014</date>.</bibl>
-					<bibl xml:id="Nom2000a" type="bookSection"><author><surname>NOM</surname><forename>Prénom</forename></author><title level="a">Titre de l'article</title>, In <title level="m">Titre du livre</title>, <publisher>Editeur</publisher><date when="2000">2000</date>, <biblScope unit="page" from="14" to="21">p.14-21</biblScope>.</bibl>
+					<bibl xml:id="Procopio2014-copy" type="book"><author><surname>Acone</surname><forename>Ludmilla</forename></author><title level="m">Danser entre ciel et terre. Le maître à danser du Quattrocento, sa technique, son art.</title>, <publisher>Paris, Classique Garnier</publisher><date when="2014">2019</date>.</bibl>
+					<bibl xml:id="Nom2000a" type="bookSection"><author><surname>Garnero</surname><forename>Sylvie</forename></author><title level="a">Les premiers traités de danse au XVe siècle en Italie</title>, In <title level="m">Techniques &amp; Culture, n°54-55</title>, <publisher>Editeur</publisher><date when="2014">2010</date>, <biblScope unit="page" from="14" to="21">p.567-585.</biblScope>.</bibl>
+					<bibl xml:id="Procopio2014-copy-2" type="book"><author><surname>Inglehearn</surname><forename>Madeleine</forename></author><title level="m">Antonio Cornazzano, "Libro dell'arte del danzare - the book on the art of dancing translated by Madeleine Inglehearn and Peggy Forsyth"</title>,<publisher>Binsted: Noverre</publisher><date when="2014">2011</date>.</bibl>
+					<bibl xml:id="Procopio2014-copy-2-copy" type="book"><author><surname>Lo Monaco</surname><forename>Mauro</forename></author><title level="m">Danzare con misura. Indicazioni per un'esecuzione consapevole di musiche e coreografie dei balli di Domenico da Piacenza</title>,<publisher>Piretti Editore</publisher><date when="2014">2024</date>.</bibl>
+					<bibl xml:id="Procopio2014" type="book"><author><surname>Neville</surname><forename>Jennifer</forename></author><title level="m">The Eloquent Body, Dance and Humanist culture in Fifteenth-Century Italy</title>, <publisher>Bloomington: Indiana University Press</publisher><date when="2014">2004</date>. </bibl>
+					<bibl xml:id="Procopio2014-copy-3" type="book"><author><surname>Procopio</surname><forename>Patrizia</forename></author><title level="m">Il «De arte saltandi et choreas ducendi» di Domenico da Piacenza. Edizione e commento</title>, <publisher>Ravenna: Longo Angelo</publisher><date when="2014">2014</date>.</bibl>
+					<bibl xml:id="Sparti1993" type="book"><author><surname>Sparti</surname><forename>Patrizia</forename></author><title level="m">Il «De arte saltandi et choreas ducendi» di Domenico da Piacenza. Edizione e commento</title>, <publisher>Longo Angelo</publisher><date when="2014">2014</date>.</bibl>
 					<bibl xml:id="Nom2025" type="webPage"><author><surname>NOM</surname><forename>Prénom</forename></author><date when="2025-12-17">2025, 17 décembre</date>, <title level="a">Titre de l'article</title>, In <title level="m">Nom du site Internet</title>. En ligne &lt;<ref target="http://adresse_du_site">http://adresse_du_site</ref>&gt;. Consulté le <date type="access" when="2026-10-23">23 octobre 2026</date>.</bibl>
+					<bibl xml:id="Nom2000a-copy-copy" type="bookSection"><author><surname>Nocilli</surname><forename>Cecilia</forename></author><title level="a">De arte saltandi et choreas ducendi/De la arte di ballare et danzare (1454-1455) di Domenico da Piacenza: composizione e recezione</title>, In <title level="m">Le Verger</title>, <publisher>bouquet XVI</publisher><date when="2014">2019</date>, <biblScope unit="page" from="14" to="21">p.1-18</biblScope>.</bibl>
+					<bibl xml:id="Nom2000a-copy-copy-2" type="bookSection"><author><surname>Nordera</surname><forename>Marina</forename></author><title level="a">La réduction de la danse en art</title>, In <title level="m">Dubourg Glatiny Pascal et Vérin Hélène (dir.), Réduire en art, la technologie de la Renaissance aux Lumières Verger</title>, <publisher>Maison des Sciences de l’Homme,</publisher><date when="2014">2008</date>, <biblScope unit="page" from="14" to="21">p.269-291</biblScope>.</bibl>
+					<bibl xml:id="Nom2000a-copy" type="bookSection"><author><surname>Pontremoli</surname><forename>Alessandro</forename></author><title level="a">La danza di Domenico da Piacenza tra Medioevo e Rinascimento</title>, In <title level="m">Il castello di Elsinore</title>, <publisher>XIX, 53</publisher><date when="2014">2006</date>, <biblScope unit="page" from="14" to="21">p.5-16</biblScope>.</bibl>
+					<bibl xml:id="Sparti1993-copy-copy" type="book"><author><surname>Smith</surname><forename>William A.</forename></author><title level="m">Fifteenth-century dance and Music. Twelve Transcribed Italian Treatises and Collection in the Tradition of Domenico da Piacenza, translated and annotated by A.William Smith Domenico da Piacenza. Edizione e commento</title>, <publisher>New York : Pendragon Press, Stuyvesant.</publisher><date when="2014">1995</date>.</bibl>
+					<bibl xml:id="Sparti1993-copy-copy-copy" type="book"><author><surname>Smith</surname><forename>William A.</forename></author><title level="m">Fifteenth-century dance and Music. Twelve Transcribed Italian Treatises and Collection in the Tradition of Domenico da Piacenza, translated and annotated by A.William Smith Domenico da Piacenza. Edizione e commento</title>, <publisher>New York : Pendragon Press, Stuyvesant.</publisher><date when="2014">1995</date>.</bibl>
+					<bibl xml:id="Sparti1993-copy-copy-copy-2" type="book"><author><surname>Smith</surname><forename>William A.</forename></author><title level="m">Fifteenth-century dance and Music. Twelve Transcribed Italian Treatises and Collection in the Tradition of Domenico da Piacenza, translated and annotated by A.William Smith Domenico da Piacenza. Edizione e commento</title>, <publisher>New York : Pendragon Press, Stuyvesant.</publisher><date when="2014">1995</date>.</bibl>
+					<bibl xml:id="Sparti1993-copy-copy-2" type="book"><author><surname>Sparti</surname><forename>Barbara</forename></author><title level="m">Guglielmo Ebreo of Pesaro, De practica seu Arte Tripudii. On the practice or Art of Dancing. Edited by Barbara Sparti</title>, <publisher>New York: Oxford University Press</publisher></bibl>
+					<bibl xml:id="Sparti1993-copy" type="book"><author><surname>Wilson</surname><forename>David R.</forename></author><title level="m">Guglielmo Ebreo of Pesaro, De practica seu Arte Tripudii. On the practice or Art of Dancing. Edited by Barbara Sparti</title>, <publisher>New York: Oxford University Press</publisher><date>1</date>2003.</bibl>
 				</listBibl>
 			</div>
 		</body>
